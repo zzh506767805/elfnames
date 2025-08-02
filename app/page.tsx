@@ -33,14 +33,14 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://elfnamegenerator.pro"),
+  metadataBase: new URL("https://elfname.pro"),
   alternates: {
     canonical: "/",
   },
   openGraph: {
     title: "Ultimate Elf Name Generator - Create Magical Names",
     description: "Generate authentic fantasy elf names instantly. Perfect for wood elves, dark elves, half elves, and DND characters.",
-    url: "https://elfnamegenerator.pro",
+    url: "https://elfname.pro",
     siteName: "Ultimate Elf Name Generator",
     locale: "en_US",
     type: "website",
@@ -96,13 +96,13 @@ export default function ElfNameGeneratorPage() {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://elfnamegenerator.pro"
+                "item": "https://elfname.pro"
               },
               {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Elf Name Generator",
-                "item": "https://elfnamegenerator.pro"
+                "item": "https://elfname.pro"
               }
             ]
           }

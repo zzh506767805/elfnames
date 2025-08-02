@@ -6,7 +6,7 @@ import { Toaster } from 'sonner'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  metadataBase: new URL('https://elfnamegenerator.pro'),
+  metadataBase: new URL('https://elfname.pro'),
   title: 'Ultimate Elf Name Generator - Create Magical Names',
   description: 'Generate authentic fantasy elf names instantly. Perfect for wood elves, dark elves, half elves, and DND characters. Free tool for fantasy creators.',
   keywords: 'elf name generator, ultimate elf name generator, wood elf name generator, dark elf name generator, half elf name generator, elf names generator, elf name generator dnd, fantasy names, magical elf names',
@@ -15,7 +15,7 @@ export const metadata = {
     title: 'Ultimate Elf Name Generator - Create Magical Names',
     description: 'Generate authentic fantasy elf names instantly. Perfect for wood elves, dark elves, half elves, and DND characters.',
     type: 'website',
-    url: 'https://elfnamegenerator.pro/',
+    url: 'https://elfname.pro/',
     locale: 'en_US',
   },
   icons: {
@@ -41,7 +41,7 @@ export default function RootLayout({
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#3b82f6" />
-        <link rel="canonical" href="https://elfnamegenerator.pro" />
+        <link rel="canonical" href="https://elfname.pro" />
       </head>
       <body className={inter.className}>
         <main role="main">

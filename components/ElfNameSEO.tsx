@@ -801,7 +801,7 @@ export default function ElfNameSEO() {
             "@type": "WebApplication",
             "name": "Ultimate Elf Name Generator",
             "description": "Generate authentic fantasy elf names instantly. Perfect for wood elves, dark elves, half elves, and DND characters with our ultimate elf name generator.",
-            "url": "https://elfnamegenerator.pro",
+            "url": "https://elfname.pro",
             "applicationCategory": "EntertainmentApplication",
             "operatingSystem": "Any",
             "browserRequirements": "Any modern web browser",

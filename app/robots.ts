@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
       },
     ],
-    sitemap: 'https://elfnamegenerator.pro/sitemap.xml',
+    sitemap: 'https://elfname.pro/sitemap.xml',
   }
 }

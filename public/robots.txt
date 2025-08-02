@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://elfnamegenerator.pro/sitemap.xml
+Sitemap: https://elfname.pro/sitemap.xml
