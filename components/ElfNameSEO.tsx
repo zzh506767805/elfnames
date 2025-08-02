@@ -789,6 +789,67 @@ export default function ElfNameSEO() {
               </Link>
             </div>
           </section>
+
+          {/* Related Sites Section */}
+          <section className="text-center py-12 mt-12 border-t border-gray-200">
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">
+              More Creative Tools
+            </h2>
+            <p className="text-gray-600 mb-8 max-w-3xl mx-auto">
+              Explore our collection of AI-powered creative tools for character creation, style transformation, and design inspiration.
+            </p>
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 max-w-4xl mx-auto">
+              <Link
+                href="https://chinesenamegenerate.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="p-4 rounded-lg border border-gray-200 hover:border-blue-300 hover:bg-blue-50 transition-all duration-200 text-center group"
+              >
+                <div className="text-lg font-semibold text-gray-800 group-hover:text-blue-600">Chinese Name Generator</div>
+                <div className="text-sm text-gray-500 mt-1">Create authentic Chinese names</div>
+              </Link>
+              
+              <Link
+                href="https://dressmeai.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="p-4 rounded-lg border border-gray-200 hover:border-purple-300 hover:bg-purple-50 transition-all duration-200 text-center group"
+              >
+                <div className="text-lg font-semibold text-gray-800 group-hover:text-purple-600">DressMeAI</div>
+                <div className="text-sm text-gray-500 mt-1">AI fashion styling</div>
+              </Link>
+              
+              <Link
+                href="https://dreamfinityx.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="p-4 rounded-lg border border-gray-200 hover:border-indigo-300 hover:bg-indigo-50 transition-all duration-200 text-center group"
+              >
+                <div className="text-lg font-semibold text-gray-800 group-hover:text-indigo-600">DreamfinityX</div>
+                <div className="text-sm text-gray-500 mt-1">Creative AI platform</div>
+              </Link>
+              
+              <Link
+                href="https://ainails.pro"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="p-4 rounded-lg border border-gray-200 hover:border-pink-300 hover:bg-pink-50 transition-all duration-200 text-center group"
+              >
+                <div className="text-lg font-semibold text-gray-800 group-hover:text-pink-600">AI Nails Pro</div>
+                <div className="text-sm text-gray-500 mt-1">AI nail art designs</div>
+              </Link>
+              
+              <Link
+                href="https://charactereadcanon.pro"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="p-4 rounded-lg border border-gray-200 hover:border-green-300 hover:bg-green-50 transition-all duration-200 text-center group"
+              >
+                <div className="text-lg font-semibold text-gray-800 group-hover:text-green-600">Character Read Canon</div>
+                <div className="text-sm text-gray-500 mt-1">Character analysis tool</div>
+              </Link>
+            </div>
+          </section>
         </div>
       </div>
 
