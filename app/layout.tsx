@@ -2,6 +2,7 @@ import './globals.css'
 import React from 'react'
 import { Inter } from 'next/font/google'
 import { Toaster } from 'sonner'
+import GoogleAnalytics from '../components/GoogleAnalytics'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -44,6 +45,7 @@ export default function RootLayout({
         <link rel="canonical" href="https://elfname.pro" />
       </head>
       <body className={inter.className}>
+        <GoogleAnalytics />
         <main role="main">
           {children}
         </main>
