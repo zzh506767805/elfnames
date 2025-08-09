@@ -1,0 +1,497 @@
+{
+  "common": {
+    "siteName": "궁극의 엘프 이름 생성기",
+    "generateButton": "엘프 이름 생성",
+    "generating": "생성 중...",
+    "copyToClipboard": "클립보드에 복사",
+    "copiedToClipboard": "클립보드에 복사됨",
+    "speakName": "이름 발음",
+    "browserNotSupported": "브라우저가 음성 합성을 지원하지 않습니다",
+    "networkError": "네트워크 오류, 나중에 다시 시도하세요",
+    "generationFailed": "생성 실패",
+    "generationSuccess": "생성 성공했지만 형식 분석 실패, 원본 결과를 확인하세요"
+  },
+  "metadata": {
+    "title": "궁극의 엘프 이름 생성기 - 마법적인 이름 만들기",
+    "description": "진정한 판타지 엘프 이름을 즉시 생성하세요. 우드엘프, 다크엘프, 하프엘프, D&D 캐릭터에 완벽합니다. 판타지 창작자를 위한 무료 도구.",
+    "keywords": "엘프 이름 생성기, 궁극의 엘프 이름 생성기, 우드엘프 이름 생성기, 다크엘프 이름 생성기, 하프엘프 이름 생성기, 엘프 이름 생성기, 엘프 이름 생성기 dnd, 판타지 이름, 마법적 엘프 이름",
+    "openGraphTitle": "궁극의 엘프 이름 생성기 - 마법적인 이름 만들기",
+    "openGraphDescription": "진정한 판타지 엘프 이름을 즉시 생성하세요. 우드엘프, 다크엘프, 하프엘프, D&D 캐릭터에 완벽합니다.",
+    "twitterTitle": "궁극의 엘프 이름 생성기 - 마법적인 이름 만들기",
+    "twitterDescription": "진정한 판타지 엘프 이름을 즉시 생성하세요. 우드엘프, 다크엘프, 하프엘프, D&D 캐릭터에 완벽합니다."
+  },
+  "header": {
+    "title": "엘프 이름 생성기 | 판타지 이름 생성 도구",
+    "description": "우리의 완전한 엘프 이름 생성기 모음에는 우드엘프 이름 생성기, 다크엘프 이름 생성기, 하프엘프 이름 생성기, 블러드엘프 이름 생성기, 엘프 이름 생성기 D&D 도구가 포함되어 있어 당신의 판타지 스토리, D&D 캐릭터, RPG 게임에 사용할 수 있습니다. 온라인에서 사용할 수 있는 최고의 엘프 이름 생성기!"
+  },
+  "generator": {
+    "settingsTitle": "이름 생성기 설정",
+    "settingsDescription": "생성하고자 하는 엘프 이름의 유형과 스타일을 구성하세요",
+    "resultsTitle": "생성된 엘프 이름",
+    "resultsDescription": "복사 버튼을 클릭하여 이름을 클립보드에 복사하세요",
+    "noResults": "구성을 입력하고 \"엘프 이름 생성\"을 클릭하여 만들기를 시작하세요"
+  },
+  "form": {
+    "elfType": "엘프 유형",
+    "elfTypePlaceholder": "엘프 유형 선택",
+    "gender": "성별",
+    "genderPlaceholder": "성별 선택",
+    "nameStyle": "이름 스타일",
+    "nameStylePlaceholder": "이름 스타일 선택",
+    "nameCount": "이름 개수",
+    "nameCountPlaceholder": "이름 개수 선택",
+    "includeBackground": "배경 스토리 포함",
+    "customRequirements": "사용자 정의 요구사항 (선택사항)",
+    "customRequirementsPlaceholder": "예: 이름을 더 신비롭게 만들기, 특정 의미 포함하기 등..."
+  },
+  "elfTypes": {
+    "any": "모든 엘프 유형",
+    "woodElf": "우드엘프",
+    "darkElf": "다크엘프 / 드로우",
+    "halfElf": "하프엘프",
+    "highElf": "하이엘프",
+    "moonElf": "문엘프",
+    "sunElf": "선엘프",
+    "wildElf": "와일드엘프",
+    "seaElf": "시엘프",
+    "snowElf": "스노우엘프",
+    "shadowElf": "섀도우엘프"
+  },
+  "genders": {
+    "any": "모든 성별",
+    "male": "남성",
+    "female": "여성",
+    "nonBinary": "논바이너리"
+  },
+  "nameStyles": {
+    "traditional": "전통적",
+    "modern": "현대적",
+    "melodic": "선율적",
+    "mystical": "신비로운",
+    "noble": "고귀한",
+    "natureInspired": "자연에서 영감을 받은"
+  },
+  "nameCounts": {
+    "3": "3개 이름",
+    "5": "5개 이름",
+    "8": "8개 이름",
+    "10": "10개 이름"
+  },
+  "nameCard": {
+    "pronunciation": "발음:",
+    "meaning": "의미:",
+    "background": "배경:"
+  },
+  "languageSwitcher": {
+    "title": "언어",
+    "selectLanguage": "언어 선택"
+  },
+  "seo": {
+    "structuredDataName": "궁극의 엘프 이름 생성기",
+    "structuredDataDescription": "우드엘프, 다크엘프, 하프엘프, D&D 캐릭터를 위한 진정한 판타지 엘프 이름을 궁극의 엘프 이름 생성기로 생성하세요.",
+    "breadcrumbHome": "홈",
+    "breadcrumbGenerator": "엘프 이름 생성기",
+    "noScriptTitle": "궁극의 엘프 이름 생성기 - 마법적인 이름 만들기",
+    "noScriptDescription": "진정한 판타지 엘프 이름을 즉시 생성하세요. 우드엘프, 다크엘프, 하프엘프, D&D 캐릭터에 완벽합니다. 우리의 엘프 이름 생성기는 우드엘프, 다크엘프, 하프엘프 및 더 많은 판타지 RPG 캐릭터를 위한 이름을 만듭니다.",
+    "toolLabel": "엘프 이름 생성기 도구",
+    "infoLabel": "엘프 이름 생성기 정보",
+    "introduction": {
+      "title": "궁극의 엘프 이름 생성기 - 진정한 판타지 이름 만들기",
+      "paragraph1": "진정한 판타지 이름을 만들기 위한 포괄적인 소스인 궁극의 엘프 이름 생성기에 오신 것을 환영합니다. 우드엘프 이름 생성기, 다크엘프 이름 생성기, 하프엘프 이름 생성기 또는 기타 엘프 네이밍 솔루션이 필요하든, 우리의 고급 AI 기반 도구는 캐릭터에 생명을 불어넣는 결과를 제공합니다.",
+      "paragraph2": "우리의 엘프 이름 생성기는 전통적인 엘프 언어학과 현대 판타지 관습을 결합하여 진정성과 신선함을 모두 느낄 수 있는 이름을 만들어냅니다. D&D 캠페인, 판타지 소설, 게임, 창작 프로젝트에 완벽합니다."
+    },
+    "whatIs": {
+      "title": "엘프 이름 생성기란 무엇인가요?",
+      "paragraph1": "엘프 이름 생성기는 엘프 언어학적 패턴과 문화적 전통을 기반으로 진정한 판타지 이름을 만드는 전문 도구입니다. 이러한 생성기는 톨킨의 언어, D&D 전설, 확립된 판타지 명명 규칙 등 다양한 소스에서 영감을 얻습니다.",
+      "paragraph2": "우리의 궁극의 엘프 이름 생성기는 단순한 무작위 조합을 넘어서, 의미 있는 요소, 발음 가이드, 문화적 배경을 통합하여 진정으로 판타지 경험을 향상시키는 이름을 만듭니다."
+    },
+    "types": {
+      "title": "엘프 이름 생성기의 유형",
+      "description": "우리의 포괄적인 모음은 모든 엘프 문화 유형과 판타지 설정을 위한 전문 생성기를 포함합니다.",
+      "classic": {
+        "title": "클래식 엘프 이름",
+        "description": "톨킨의 신다린과 퀘냐 언어에서 영감을 받은 전통적인 엘프 이름으로, 흐르는 듯한 소리와 자연 기반의 의미를 특징으로 합니다."
+      },
+      "halfElf": {
+        "title": "하프엘프 이름",
+        "description": "인간과 엘프의 전통을 혼합한 이름으로, 혼혈 유산과 복잡한 배경을 가진 캐릭터에 완벽합니다."
+      },
+      "woodElf": {
+        "title": "우드엘프 이름",
+        "description": "자연과 강한 연결을 가진 숲에 거주하는 엘프 이름으로, 레인저, 드루이드, 숲의 캐릭터에 완벽합니다."
+      },
+      "darkElf": {
+        "title": "다크엘프 / 드로우 이름",
+        "description": "언더다크에서 온 신비롭고 강력한 이름으로, 어두운 테마와 지하 문화의 영향을 특징으로 합니다."
+      },
+      "dnd": {
+        "title": "D&D 엘프 이름",
+        "description": "던전 앤 드래곤 캠페인을 위해 특별히 제작된 이름으로, 공식 전설과 명명 규칙을 따릅니다."
+      },
+      "gender": {
+        "title": "성별별 이름",
+        "description": "모든 엘프 유형과 문화에 걸쳐 남성, 여성, 논바이너리 캐릭터를 위한 맞춤형 네이밍 옵션입니다."
+      }
+    },
+    "howToUse": {
+      "title": "엘프 이름 생성기 사용 방법",
+      "description": "직관적인 3단계 과정으로 완벽한 엘프 이름을 만드는 것은 간단합니다.",
+      "step1": {
+        "title": "설정 선택하기",
+        "description": "포괄적인 옵션 메뉴에서 선호하는 엘프 유형, 성별, 네이밍 스타일을 선택하세요."
+      },
+      "step2": {
+        "title": "이름 생성하기",
+        "description": "생성 버튼을 클릭하여 발음 가이드와 의미가 포함된 진정한 엘프 이름을 만드세요."
+      },
+      "step3": {
+        "title": "선택하고 사용하기",
+        "description": "좋아하는 이름을 복사하여 캠페인, 스토리 또는 창작 프로젝트에 사용하세요."
+      }
+    },
+    "whyEssential": {
+      "title": "엘프 이름 생성기를 사용하는 이유는?",
+      "saveTime": {
+        "title": "창작 시간 절약",
+        "description": "몇 시간의 브레인스토밍과 연구를 건너뛰세요. 우리의 생성기는 문화적 깊이를 가진 진정한 소리의 이름을 즉시 제공합니다."
+      },
+      "creativity": {
+        "title": "창의성 향상",
+        "description": "혼자서는 결코 생각해내지 못했을 독특한 네이밍 패턴과 조합을 발견하세요."
+      },
+      "consistency": {
+        "title": "일관성 유지",
+        "description": "확립된 언어학적 및 문화적 패턴을 따르는 이름으로 판타지 세계를 일관되게 유지하세요."
+      },
+      "accessible": {
+        "title": "모든 이에게 접근 가능",
+        "description": "숙련된 DM이든 판타지 초보자든, 우리의 도구는 전문적 품질의 이름 생성을 모든 사람이 접근할 수 있게 만듭니다."
+      }
+    },
+    "topFeatures": {
+      "title": "엘프 이름 생성기에서 찾아야 할 주요 기능",
+      "description": "모든 엘프 이름 생성기가 동일하게 만들어지지는 않습니다. 우리의 도구가 다른 도구들과 차별화되는 점은 다음과 같습니다.",
+      "diverse": {
+        "title": "다양한 엘프 유형",
+        "description": "우드엘프, 다크엘프, 하이엘프 등을 포함한 모든 주요 엘프 아종을 지원하며, 각각 진정한 문화적 네이밍 패턴을 가지고 있습니다."
+      },
+      "gender": {
+        "title": "성별 옵션",
+        "description": "포용적인 캐릭터 생성을 위해 남성, 여성, 논바이너리 네이밍 관습을 포함한 포괄적인 성별 선택."
+      },
+      "customizable": {
+        "title": "사용자 정의 가능한 설정",
+        "description": "네이밍 스타일, 문화적 영향, 특별 요구사항을 조정하여 당신의 비전에 완벽하게 맞는 이름을 만드세요."
+      },
+      "free": {
+        "title": "무료 사용",
+        "description": "등록이나 결제 없이 모든 기능에 액세스하세요. 모든 창작 프로젝트를 위한 무제한 이름을 생성하세요."
+      }
+    },
+    "popularUses": {
+      "title": "엘프 이름 생성기의 인기 있는 용도",
+      "description": "다양한 매체의 창작자들이 우리의 엘프 이름 생성기를 사용하여 프로젝트를 향상시키는 방법을 알아보세요.",
+      "tabletop": {
+        "title": "테이블탑 RPG 캠페인",
+        "description": "D&D, 패스파인더 및 기타 판타지 RPG에 완벽합니다. 진정한 소리의 이름으로 기억에 남는 NPC와 플레이어 캐릭터를 만드세요."
+      },
+      "novels": {
+        "title": "판타지 소설 & 스토리",
+        "description": "작가들은 우리의 생성기를 사용하여 판타지 세계 구축을 향상시키는 일관되고 믿을 만한 캐릭터 이름을 만듭니다."
+      },
+      "onlineGames": {
+        "title": "온라인 게이밍",
+        "description": "선택한 종족과 배경을 반영하는 독특한 캐릭터 이름으로 MMORPG와 판타지 게임에서 돋보이세요."
+      },
+      "creativeWriting": {
+        "title": "창작 프로젝트",
+        "description": "팬픽션부터 오리지널 판타지 작품까지, 우리의 생성기는 모든 창작 노력을 위한 완벽한 이름을 제공합니다."
+      }
+    },
+    "supportedTypes": {
+      "title": "우리 생성기에서 지원하는 엘프 유형",
+      "woodElf": {
+        "title": "우드엘프 이름",
+        "description": "숲의 수호자와 숲 거주자를 위한 자연과 연결된 이름."
+      },
+      "darkElf": {
+        "title": "다크엘프 / 드로우 이름",
+        "description": "그림자 같은 뉘앙스를 가진 언더다크의 신비로운 이름."
+      },
+      "halfElf": {
+        "title": "하프엘프 이름",
+        "description": "인간과 엘프 전통을 결합한 혼합 유산 이름."
+      },
+      "highElf": {
+        "title": "하이엘프 이름",
+        "description": "엘프 귀족을 위한 고귀하고 세련된 이름."
+      },
+      "moonElf": {
+        "title": "문엘프 이름",
+        "description": "달과 야행성 테마를 가진 천체에서 영감을 받은 이름."
+      },
+      "sunElf": {
+        "title": "선엘프 이름",
+        "description": "빛과 태양의 힘을 기념하는 빛나는 이름."
+      },
+      "wildElf": {
+        "title": "와일드엘프 이름",
+        "description": "길들여지지 않고 야성적인 엘프 캐릭터를 위한 원시적 이름."
+      },
+      "seaElf": {
+        "title": "시엘프 이름",
+        "description": "바다 깊이와 해양 생물에서 영감을 받은 수중 이름."
+      },
+      "snowElf": {
+        "title": "스노우엘프 이름",
+        "description": "얼음, 눈, 겨울 테마를 반영하는 북극 이름."
+      }
+    },
+    "gallery": {
+      "title": "엘프 캐릭터 예시",
+      "description": "시각적 갤러리를 통해 다양한 엘프 유형과 그들의 특징적인 이름을 탐험하세요.",
+      "woodElf": {
+        "alt": "우드엘프 레인저 캐릭터",
+        "title": "우드엘프 레인저",
+        "description": "자연의 조화를 반영하는 이름을 가진 숙련된 숲의 수호자."
+      },
+      "darkElf": {
+        "alt": "다크엘프 마법사 캐릭터",
+        "title": "다크엘프 마법사",
+        "description": "그림자 같은 언더다크에서 온 신비로운 주문술사."
+      },
+      "highElf": {
+        "alt": "하이엘프 귀족 캐릭터",
+        "title": "하이엘프 귀족",
+        "description": "왕족 혈통에 어울리는 이름을 가진 귀족적인 엘프."
+      }
+    },
+    "categories": {
+      "title": "엘프 이름 생성기 카테고리와 의미",
+      "natureInspired": {
+        "title": "자연에서 영감을 받은 이름",
+        "description": "자연 요소와 숲 생활을 반영하는 이름",
+        "examples": {
+          "silverleaf": {
+            "name": "실버리프",
+            "meaning": "나무 수호자"
+          },
+          "moonwhisper": {
+            "name": "문위스퍼",
+            "meaning": "밤 방랑자"
+          },
+          "starweaver": {
+            "name": "스타위버",
+            "meaning": "우주 마법사"
+          },
+          "windrunner": {
+            "name": "윈드러너",
+            "meaning": "빠른 여행자"
+          }
+        }
+      },
+      "nobleTitles": {
+        "title": "귀족 칭호",
+        "description": "엘프 귀족과 귀족의 이름",
+        "examples": {
+          "goldenbrow": {
+            "name": "골든브로우",
+            "meaning": "왕족 혈통"
+          },
+          "crystalborn": {
+            "name": "크리스탈본",
+            "meaning": "순수한 혈통"
+          },
+          "thornheart": {
+            "name": "쏜하트",
+            "meaning": "전사 군주"
+          },
+          "stormcrown": {
+            "name": "스톰크라운",
+            "meaning": "날씨 지배자"
+          }
+        }
+      },
+      "magicalNames": {
+        "title": "마법의 이름",
+        "description": "마법적 의미와 힘을 가진 이름",
+        "examples": {
+          "spellsong": {
+            "name": "스펠송",
+            "meaning": "마법사 여성"
+          },
+          "runekeeper": {
+            "name": "룬키퍼",
+            "meaning": "마법 학자"
+          },
+          "dreamweaver": {
+            "name": "드림위버",
+            "meaning": "정신 마법사"
+          },
+          "lightbringer": {
+            "name": "라이트브링거",
+            "meaning": "신성한 술사"
+          }
+        }
+      }
+    },
+    "linguisticFeatures": {
+      "title": "엘프 이름 생성기 언어학적 특징",
+      "elvishLanguagePatterns": {
+        "title": "엘프어 언어 패턴",
+        "description": "엘프 이름의 구조 이해하기",
+        "sindarin": {
+          "title": "신다린 영향",
+          "description": "톨킨의 신다린 언어에서 영감을 받은 이름으로, 흐르는 모음 소리와 자연 기반의 의미를 특징으로 합니다. 일반적인 접두사로는 \"Gal-\"(빛), \"Cel-\"(개울), \"Mith-\"(회색)가 있습니다.",
+          "feature1": "부드러운 자음 집합",
+          "feature2": "멜로디언 모음 조합",
+          "feature3": "자연에서 영감을 받은 요소"
+        },
+        "quenya": {
+          "title": "퀘냐 패턴",
+          "description": "공식적이고 고귀한 소리를 가진 하이엘프 명명 규칙. 종종 \"Eru-\"(하나), \"Tar-\"(높은), \"Gil-\"(별)을 의미 있는 구성 요소로 특징으로 합니다.",
+          "feature1": "공식적 언어 구조",
+          "feature2": "고귀하게 들리는 조합",
+          "feature3": "우주적이고 신성한 테마"
+        },
+        "dndElvish": {
+          "title": "D&D 엘프어",
+          "description": "D&D 전설과 규칙을 따르는 이름으로, 다양한 엘프 아종에 맞게 조정되었습니다. 우드엘프, 하이엘프, 드로우 문화의 고유한 패턴을 특징으로 합니다.",
+          "feature1": "아종별 고유 패턴",
+          "feature2": "문화적 명명 전통",
+          "feature3": "성향 기반 영향"
+        }
+      },
+      "pronunciationGuide": {
+        "title": "발음 가이드",
+        "description": "엘프 이름을 올바르게 발음하는 방법",
+        "vowelSounds": {
+          "title": "모음 소리",
+          "sounds": {
+            "a": "\"아\"처럼",
+            "e": "\"에\"처럼",
+            "i": "\"이\"처럼",
+            "o": "\"오\"처럼",
+            "u": "\"우\"처럼"
+          }
+        },
+        "consonantCombinations": {
+          "title": "자음 조합",
+          "combinations": {
+            "th": "부드러운 \"th\" 소리",
+            "dh": "유성의 \"th\"",
+            "ng": "\"sing\"처럼",
+            "ch": "\"loch\"처럼",
+            "r": "굴린 \"r\""
+          }
+        }
+      }
+    },
+    "collection": {
+      "title": "엘프 이름 생성기 컴렉션",
+      "woodElfGenerator": {
+        "title": "우드엘프 이름 생성기",
+        "description": "우리의 우드엘프 이름 생성기는 숲에 거주하는 엘프를 위한 진정한 이름을 만듭니다. 레인저, 드루이드, 자연과 연결된 캐릭터에 완벽합니다. 우드엘프 이름 생성기는 자연 요소와 숲의 영향을 가진 이름을 만듭니다.",
+        "feature1": "자연 테마 명명 패턴",
+        "feature2": "숲 문화 통합",
+        "feature3": "D&D용 우드엘프 이름 생성기"
+      },
+      "darkElfGenerator": {
+        "title": "다크엘프 이름 생성기",
+        "description": "우리의 다크엘프 이름 생성기로 진정한 드로우 이름을 생성하세요. 지하 캠페인과 그림자 테마 캐릭터에 완벽합니다. 다크엘프 이름 생성기는 신비롭고 때로는 불길한 의미를 가진 이름을 만듭니다.",
+        "feature1": "지하세계 문화 명명 패턴",
+        "feature2": "드로우 사회 통합",
+        "feature3": "롤플레이용 다크엘프 이름 생성기"
+      },
+      "halfElfGenerator": {
+        "title": "하프엘프 이름 생성기",
+        "description": "우리의 하프엘프 이름 생성기는 인간과 엘프의 명명 전통을 혼합합니다. 혼혈 유산과 독특한 배경을 가진 캐릭터에 완벽합니다. 하프엘프 이름 생성기는 다양한 설정에 맞는 다재다능한 이름을 만듭니다.",
+        "feature1": "문화 융합 명명 패턴",
+        "feature2": "다양한 캠페인에 적응 가능",
+        "feature3": "다양한 이야기를 위한 하프엘프 이름 생성기"
+      },
+      "bloodElfGenerator": {
+        "title": "블러드엘프 이름 생성기",
+        "description": "우리의 블러드엘프 이름 생성기로 웅장하고 강력한 이름을 만드세요. 하이 판타지 설정과 비법의 영향을 받은 캐릭터에 완벽합니다. 블러드엘프 이름 생성기는 우아하면서도 강력한 특성을 가진 이름을 만듭니다.",
+        "feature1": "비법의 영향을 받은 명명 패턴",
+        "feature2": "마법적 유산 통합",
+        "feature3": "판타지 게이밍용 블러드엘프 이름 생성기"
+      },
+      "elfNamesGenerator": {
+        "title": "엘프 이름 생성기",
+        "description": "우리의 포괄적인 엘프 이름 생성기는 모든 유형의 엘프 문화를 커버합니다. 이 엘프 이름 생성기는 모든 설정이나 이야기에 맞는 진정한 판타지 이름을 만듭니다. 즉석 캐릭터 생성을 위해 우리의 엘프 이름 생성기를 사용하세요.",
+        "feature1": "범용 엘프 명명 패턴",
+        "feature2": "다문화 엘프 통합",
+        "feature3": "모든 캐릭터 유형용 엘프 이름 생성기"
+      },
+      "elfNameGeneratorDnd": {
+        "title": "엘프 이름 생성기 DnD",
+        "description": "우리의 전문 엘프 이름 생성기 DnD는 던전 앤 드래곤 전설과 완벽하게 맞는 이름을 만듭니다. 이 엘프 이름 생성기 DnD는 플레이어 핸드북의 공식 종족 설명과 명명 규칙과 통합합니다.",
+        "feature1": "D&D 룰북 준수 이름",
+        "feature2": "캠페인 설정에 적합",
+        "feature3": "진정한 게임플레이를 위한 엘프 이름 생성기 DnD"
+      }
+    },
+    "relatedSites": {
+      "title": "더 많은 창작 도구",
+      "description": "캐릭터 생성, 스타일 변환, 디자인 영감을 위한 AI 기반 창작 도구 컴렉션을 탐색하세요.",
+      "chineseNameGenerator": {
+        "title": "중국 이름 생성기",
+        "description": "진정한 중국 이름 만들기",
+        "url": "https://chinesenamegenerate.com"
+      },
+      "dressMeAI": {
+        "title": "DressMeAI",
+        "description": "AI 패션 스타일링",
+        "url": "https://dressmeai.com"
+      },
+      "dreamfinityX": {
+        "title": "DreamfinityX",
+        "description": "창작 AI 플랫폼",
+        "url": "https://dreamfinityx.com"
+      },
+      "aiNailsPro": {
+        "title": "AI Nails Pro",
+        "description": "AI 네일 아트 디자인",
+        "url": "https://ainails.pro"
+      },
+      "characterReadCanon": {
+        "title": "Character Read Canon",
+        "description": "캐릭터 분석 도구",
+        "url": "https://charactereadcanon.pro"
+      }
+    },
+    "structuredData": {
+      "appName": "궁극의 엘프 이름 생성기",
+      "appDescription": "진정한 판타지 엘프 이름을 즉시 생성하세요. 우드엘프, 다크엘프, 하프엘프, D&D 캐릭터에 완벽하며, 우리의 궁극의 엘프 이름 생성기를 사용하세요.",
+      "keywords": "엘프 이름 생성기, 궁극의 엘프 이름 생성기, 우드엘프 이름 생성기, 다크엘프 이름 생성기, 하프엘프 이름 생성기, 엘프 이름 생성기, 엘프 이름 생성기 dnd, 판타지 이름, 마법적 엘프 이름",
+      "audienceType1": "판타지 작가",
+      "audienceType2": "RPG 게이머",
+      "audienceType3": "D&D 플레이어",
+      "audienceType4": "창작 작가",
+      "feature1": "우드엘프 이름 생성",
+      "feature2": "다크엘프 이름 생성",
+      "feature3": "하프엘프 이름 생성",
+      "feature4": "DND 캐릭터 이름",
+      "feature5": "AI 기반 생성",
+      "feature6": "문화적 배경 이야기",
+      "feature7": "발음 가이드",
+      "feature8": "무료 사용",
+      "faq1Question": "가장 인기 있는 엘프 이름 생성기는 무엇인가요?",
+      "faq1Answer": "많은 사용자들이 우드엘프와 다크엘프 이름 생성기를 포함한 사용의 용이성과 다양한 옵션으로 우리의 엘프 이름 생성기를 좋아합니다. 우리의 도구는 문화적 배경과 발음 가이드가 포함된 진정한 이름을 제공합니다.",
+      "faq2Question": "여성 엘프 이름을 구체적으로 생성할 수 있나요?",
+      "faq2Answer": "네, 대부분의 엘프 이름 생성기 도구를 사용하면 더 맞춤화된 결과를 위해 성별별 이름을 선택할 수 있습니다. 우리의 생성기는 모든 엘프 유형에 대해 남성과 여성 명명 규칙을 모두 포함합니다.",
+      "faq3Question": "엘프 이름 생성기는 DND 캐릭터에 적합한가요?",
+      "faq3Answer": "물론입니다! 전설에 정확한 이름을 가진 전문 엘프 이름 생성기 DND 도구가 있습니다. 우리의 생성기는 D&D 명명 규칙을 따르며 모든 공식 엘프 아종에 대한 이름을 포함합니다.",
+      "faq4Question": "비판타지 상황에서 엘프 이름을 사용할 수 있나요?",
+      "faq4Answer": "물론입니다! 엘프 이름 생성기는 사용자명, 화면 이름, 또는 마법적이고 독특한 것을 원할 때 언제나 완벽합니다."
+    },
+    "conclusion": {
+      "title": "오늘부터 놀라운 엘프 이름 만들기를 시작하세요",
+      "paragraph1": "우드엘프 레인저를 만들든, 신비로운 다크엘프 로그를 만들든, 고귀한 하이엘프 마법사를 만들든, 우리의 궁극의 엘프 이름 생성기는 캐릭터 생성 여정을 위한 완벽한 시작점을 제공합니다.",
+      "paragraph2": "진정하고 기억에 남는 캐릭터 이름을 위해 우리의 도구에 의존하는 수천 명의 판타지 창작자들과 함께하세요. D&D 캠페인부터 서사적인 판타지 소설까지, 우리의 생성기가 당신의 엘프 캐릭터들에게 진정으로 그들의 본질을 포착하는 이름으로 생명을 불어넣도록 하세요.",
+      "generateButton": "지금 엘프 이름 생성하기",
+      "exploreButton": "엘프 유형 탐험하기"
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "common": {
+    "siteName": "Ultimativer Elfennamen Generator",
+    "generateButton": "Elfennamen Generieren",
+    "generating": "Generiere...",
+    "copyToClipboard": "In Zwischenablage kopieren",
+    "copiedToClipboard": "In Zwischenablage kopiert",
+    "speakName": "Namen aussprechen",
+    "browserNotSupported": "Ihr Browser unterstützt keine Sprachsynthese",
+    "networkError": "Netzwerkfehler, bitte versuchen Sie es später erneut",
+    "generationFailed": "Generierung fehlgeschlagen",
+    "generationSuccess": "Generierung erfolgreich, aber Format-Parsing fehlgeschlagen, bitte prüfen Sie das ursprüngliche Ergebnis"
+  },
+  "metadata": {
+    "title": "Ultimativer Elfennamen Generator - Erstelle Magische Namen",
+    "description": "Generiere authentische Fantasy-Elfennamen sofort. Perfekt für Waldelfen, Dunkelelfen, Halbelfen und D&D-Charaktere. Kostenloses Tool für Fantasy-Ersteller.",
+    "keywords": "Elfennamen Generator, ultimativer Elfennamen Generator, Waldelfen Namengenerator, Dunkelelfen Namengenerator, Halbelfen Namengenerator, Elfennamen Generator, Elfennamen Generator dnd, Fantasy-Namen, magische Elfennamen",
+    "openGraphTitle": "Ultimativer Elfennamen Generator - Erstelle Magische Namen",
+    "openGraphDescription": "Generiere authentische Fantasy-Elfennamen sofort. Perfekt für Waldelfen, Dunkelelfen, Halbelfen und D&D-Charaktere.",
+    "twitterTitle": "Ultimativer Elfennamen Generator - Erstelle Magische Namen",
+    "twitterDescription": "Generiere authentische Fantasy-Elfennamen sofort. Perfekt für Waldelfen, Dunkelelfen, Halbelfen und D&D-Charaktere."
+  },
+  "header": {
+    "title": "Elfennamen Generator | Fantasy Namen Erstellungstool",
+    "description": "Unsere komplette Elfennamen Generator Suite enthält Waldelfen Namengenerator, Dunkelelfen Namengenerator, Halbelfen Namengenerator, Blutelfen Namengenerator und Elfennamen Generator D&D Tools für Ihre Fantasy-Geschichten, D&D-Charaktere und Rollenspiele. Der beste Elfennamen Generator online verfügbar!"
+  },
+  "generator": {
+    "settingsTitle": "Namengenerator Einstellungen",
+    "settingsDescription": "Konfigurieren Sie den Typ und Stil der Elfennamen, die Sie generieren möchten",
+    "resultsTitle": "Generierte Elfennamen",
+    "resultsDescription": "Klicken Sie auf den Kopieren-Button, um Namen in die Zwischenablage zu kopieren",
+    "noResults": "Füllen Sie die Konfiguration aus und klicken Sie auf \"Elfennamen Generieren\", um mit der Erstellung zu beginnen"
+  },
+  "form": {
+    "elfType": "Elfentyp",
+    "elfTypePlaceholder": "Elfentyp auswählen",
+    "gender": "Geschlecht",
+    "genderPlaceholder": "Geschlecht auswählen",
+    "nameStyle": "Namenstil",
+    "nameStylePlaceholder": "Namenstil auswählen",
+    "nameCount": "Anzahl der Namen",
+    "nameCountPlaceholder": "Anzahl der Namen auswählen",
+    "includeBackground": "Hintergrundgeschichten Einschließen",
+    "customRequirements": "Benutzerdefinierte Anforderungen (Optional)",
+    "customRequirementsPlaceholder": "z.B. Namen mystischer klingen lassen, spezifische Bedeutungen einschließen, usw..."
+  },
+  "elfTypes": {
+    "any": "Jeder Elfentyp",
+    "woodElf": "Waldelf",
+    "darkElf": "Dunkelelf / Drow",
+    "halfElf": "Halbelf",
+    "highElf": "Hochelf",
+    "moonElf": "Mondelf",
+    "sunElf": "Sonnenelf",
+    "wildElf": "Wildelf",
+    "seaElf": "Seeelf",
+    "snowElf": "Schneeelf",
+    "shadowElf": "Schattenelf"
+  },
+  "genders": {
+    "any": "Jedes Geschlecht",
+    "male": "Männlich",
+    "female": "Weiblich",
+    "nonBinary": "Nicht-binär"
+  },
+  "nameStyles": {
+    "traditional": "Traditionell",
+    "modern": "Modern",
+    "melodic": "Melodisch",
+    "mystical": "Mystisch",
+    "noble": "Adelig",
+    "natureInspired": "Naturinspiriert"
+  },
+  "nameCounts": {
+    "3": "3 Namen",
+    "5": "5 Namen",
+    "8": "8 Namen",
+    "10": "10 Namen"
+  },
+  "nameCard": {
+    "pronunciation": "Aussprache:",
+    "meaning": "Bedeutung:",
+    "background": "Hintergrund:"
+  },
+  "languageSwitcher": {
+    "title": "Sprache",
+    "selectLanguage": "Sprache Auswählen"
+  },
+  "seo": {
+    "structuredDataName": "Ultimativer Elfennamen Generator",
+    "structuredDataDescription": "Generiere authentische Fantasy-Elfennamen für Waldelfen, Dunkelelfen, Halbelfen und D&D-Charaktere mit unserem ultimativen Elfennamen Generator.",
+    "breadcrumbHome": "Startseite",
+    "breadcrumbGenerator": "Elfennamen Generator",
+    "noScriptTitle": "Ultimativer Elfennamen Generator - Erstelle Magische Namen",
+    "noScriptDescription": "Generiere authentische Fantasy-Elfennamen sofort. Perfekt für Waldelfen, Dunkelelfen, Halbelfen und D&D-Charaktere. Unser Elfennamen Generator erstellt Namen für Waldelfen, Dunkelelfen, Halbelfen und weitere Fantasy-RPG-Charaktere.",
+    "toolLabel": "Elfennamen Generator Tool",
+    "infoLabel": "Elfennamen Generator Informationen",
+    "introduction": {
+      "title": "Ultimativer Elfennamen Generator - Erstelle Authentische Fantasy-Namen",
+      "paragraph1": "Willkommen beim ultimativen Elfennamen Generator, Ihrer umfassenden Quelle für die Erstellung authentischer Fantasy-Namen. Ob Sie einen Waldelfen Namengenerator, Dunkelelfen Namengenerator, Halbelfen Namengenerator oder eine andere elfische Namenslösung benötigen, unser fortschrittliches KI-gestütztes Tool liefert Ergebnisse, die Ihre Charaktere zum Leben erwecken.",
+      "paragraph2": "Unser Elfennamen Generator kombiniert traditionelle elfische Sprachwissenschaft mit modernen Fantasy-Konventionen, um Namen zu erzeugen, die sowohl authentisch als auch frisch wirken. Perfekt für D&D-Kampagnen, Fantasy-Romane, Spiele und kreative Schreibprojekte."
+    },
+    "whatIs": {
+      "title": "Was ist ein Elfennamen Generator?",
+      "paragraph1": "Ein Elfennamen Generator ist ein spezialisiertes Werkzeug, das authentische Fantasy-Namen basierend auf elfischen Sprachmustern und kulturellen Traditionen erstellt. Diese Generatoren schöpfen Inspiration aus verschiedenen Quellen, einschließlich Tolkiens Sprachen, D&D-Überlieferung und etablierten Fantasy-Namenskonventionen.",
+      "paragraph2": "Unser ultimativer Elfennamen Generator geht über einfache zufällige Kombinationen hinaus und integriert bedeutungsvolle Elemente, Ausspracheführer und kulturelle Hintergründe, um Namen zu schaffen, die Ihr Fantasy-Erlebnis wirklich bereichern."
+    },
+    "types": {
+      "title": "Arten von Elfennamen Generatoren",
+      "description": "Unsere umfassende Suite umfasst spezialisierte Generatoren für jeden Typ von Elfenkultur und Fantasy-Setting.",
+      "classic": {
+        "title": "Klassische Elfennamen",
+        "description": "Traditionelle elfische Namen inspiriert von Tolkiens Sindarin und Quenya Sprachen, mit fließenden Klängen und naturbasierten Bedeutungen."
+      },
+      "halfElf": {
+        "title": "Halbelfen Namen",
+        "description": "Namen, die menschliche und elfische Traditionen vermischen, perfekt für Charaktere mit gemischtem Erbe und komplexen Hintergründen."
+      },
+      "woodElf": {
+        "title": "Waldelfen Namen",
+        "description": "Waldbewohnende Elfennamen mit starken Verbindungen zur Natur, perfekt für Ranger, Druiden und waldähnliche Charaktere."
+      },
+      "darkElf": {
+        "title": "Dunkelelfen / Drow Namen",
+        "description": "Mysteriöse und mächtige Namen aus der Unterwelt, mit dunkleren Themen und Einflüssen der Untergrundkultur."
+      },
+      "dnd": {
+        "title": "D&D Elfennamen",
+        "description": "Namen speziell für Dungeons & Dragons Kampagnen entwickelt, die offizieller Überlieferung und Namenskonventionen folgen."
+      },
+      "gender": {
+        "title": "Geschlechtsspezifische Namen",
+        "description": "Maßgeschneiderte Namensoptionen für männliche, weibliche und nicht-binäre Charaktere aller Elfentypen und Kulturen."
+      }
+    },
+    "howToUse": {
+      "title": "So verwenden Sie unseren Elfennamen Generator",
+      "description": "Den perfekten Elfennamen zu erstellen ist einfach mit unserem intuitiven dreistufigen Prozess.",
+      "step1": {
+        "title": "Wählen Sie Ihre Einstellungen",
+        "description": "Wählen Sie Ihren bevorzugten Elfentyp, Geschlecht und Namenstil aus unserem umfassenden Optionsmenü."
+      },
+      "step2": {
+        "title": "Namen Generieren",
+        "description": "Klicken Sie auf den Generieren-Button, um authentische Elfennamen mit Ausspracheführern und Bedeutungen zu erstellen."
+      },
+      "step3": {
+        "title": "Auswählen und Verwenden",
+        "description": "Kopieren Sie Ihre Lieblingsnamen und verwenden Sie sie in Ihren Kampagnen, Geschichten oder kreativen Projekten."
+      }
+    },
+    "whyEssential": {
+      "title": "Warum einen Elfennamen Generator verwenden?",
+      "saveTime": {
+        "title": "Kreative Zeit sparen",
+        "description": "Überspringen Sie stundenlange Brainstorming-Sessions und Recherche. Unser Generator liefert sofort authentisch klingende Namen mit kultureller Tiefe."
+      },
+      "creativity": {
+        "title": "Kreativität steigern",
+        "description": "Entdecken Sie einzigartige Namensmuster und Kombinationen, die Sie allein vielleicht nie in Betracht gezogen hätten."
+      },
+      "consistency": {
+        "title": "Konsistenz bewahren",
+        "description": "Halten Sie Ihre Fantasy-Welt kohärent mit Namen, die etablierten sprachlichen und kulturellen Mustern folgen."
+      },
+      "accessible": {
+        "title": "Für alle zugänglich",
+        "description": "Ob Sie ein erfahrener Spielleiter oder neu in der Fantasy-Welt sind, unser Tool macht professionelle Namenskreation für jeden zugänglich."
+      }
+    },
+    "topFeatures": {
+      "title": "Top-Funktionen eines Elfennamen Generators",
+      "description": "Nicht alle Elfennamen Generatoren sind gleich geschaffen. Hier ist, was unser Tool von den anderen unterscheidet.",
+      "diverse": {
+        "title": "Vielfältige Elfentypen",
+        "description": "Unterstützung für alle wichtigen Elfenunterarten einschließlich Waldelfen, Dunkelelfen, Hochelfen und mehr, jeweils mit authentischen kulturellen Namensmustern."
+      },
+      "gender": {
+        "title": "Geschlechtsoptionen",
+        "description": "Umfassende Geschlechtsauswahl einschließlich männlicher, weiblicher und nicht-binärer Namenskonventionen für inklusive Charaktererstellung."
+      },
+      "customizable": {
+        "title": "Anpassbare Einstellungen",
+        "description": "Passen Sie Namensstile, kulturelle Einflüsse und spezielle Anforderungen an, um Namen zu erstellen, die perfekt zu Ihrer Vision passen."
+      },
+      "free": {
+        "title": "Kostenlos zu verwenden",
+        "description": "Zugang zu allen Funktionen ohne Registrierung oder Bezahlung. Erstellen Sie unbegrenzte Namen für alle Ihre kreativen Projekte."
+      }
+    },
+    "popularUses": {
+      "title": "Beliebte Verwendungen für Elfennamen Generatoren",
+      "description": "Entdecken Sie, wie Ersteller verschiedener Medien unseren Elfennamen Generator nutzen, um ihre Projekte zu verbessern.",
+      "tabletop": {
+        "title": "Tabletop-RPG-Kampagnen",
+        "description": "Perfekt für D&D, Pathfinder und andere Fantasy-RPGs. Erstellen Sie unvergessliche NSCs und Spielercharaktere mit authentisch klingenden Namen."
+      },
+      "novels": {
+        "title": "Fantasy-Romane & Geschichten",
+        "description": "Autoren nutzen unseren Generator, um konsistente, glaubwürdige Charakternamen zu erstellen, die ihr Fantasy-Worldbuilding verbessern."
+      },
+      "onlineGames": {
+        "title": "Online-Gaming",
+        "description": "Stechen Sie in MMORPGs und Fantasy-Spielen mit einzigartigen Charakternamen hervor, die Ihre gewählte Rasse und Ihren Hintergrund widerspiegeln."
+      },
+      "creativeWriting": {
+        "title": "Kreative Schreibprojekte",
+        "description": "Von Fanfiction bis zu originalen Fantasy-Werken bietet unser Generator die perfekten Namen für jedes kreative Unterfangen."
+      }
+    },
+    "supportedTypes": {
+      "title": "Unterstützte Elfentypen in unserem Generator",
+      "woodElf": {
+        "title": "Waldelfen Namen",
+        "description": "Naturverbundene Namen für Waldhüter und sylvanische Bewohner."
+      },
+      "darkElf": {
+        "title": "Dunkelelfen / Drow Namen",
+        "description": "Mysteriöse Namen aus der Unterwelt mit schattenhaften Untertönen."
+      },
+      "halfElf": {
+        "title": "Halbelfen Namen",
+        "description": "Gemischte Erbe-Namen, die menschliche und elfische Traditionen kombinieren."
+      },
+      "highElf": {
+        "title": "Hochelfen Namen",
+        "description": "Edle und raffinierte Namen für die elfische Aristokratie."
+      },
+      "moonElf": {
+        "title": "Mondelfen Namen",
+        "description": "Himmlisch inspirierte Namen mit lunaren und nächtlichen Themen."
+      },
+      "sunElf": {
+        "title": "Sonnenelfen Namen",
+        "description": "Strahlende Namen, die Licht und Sonnenkraft feiern."
+      },
+      "wildElf": {
+        "title": "Wildelfen Namen",
+        "description": "Ursprüngliche Namen für ungezähmte und wilde Elfencharaktere."
+      },
+      "seaElf": {
+        "title": "Seeelfen Namen",
+        "description": "Aquatische Namen inspiriert von Ozeantiefen und Meereslebewesen."
+      },
+      "snowElf": {
+        "title": "Schneeelfen Namen",
+        "description": "Arktische Namen, die Eis, Schnee und Winterthemen reflektieren."
+      }
+    },
+    "gallery": {
+      "title": "Elfencharakter Beispiele",
+      "description": "Erkunden Sie verschiedene Elfentypen und ihre charakteristischen Namen durch unsere visuelle Galerie.",
+      "woodElf": {
+        "alt": "Waldelf Waldläufer Charakter",
+        "title": "Waldelf Waldläufer",
+        "description": "Ein geschickter Waldhüter mit Namen, die die Harmonie der Natur widerspiegeln."
+      },
+      "darkElf": {
+        "alt": "Dunkelelf Magier Charakter", 
+        "title": "Dunkelelf Magier",
+        "description": "Ein mysteriöser Zauberkundiger aus der schattigen Unterwelt."
+      },
+      "highElf": {
+        "alt": "Hochelf Adliger Charakter",
+        "title": "Hochelf Adliger",
+        "description": "Ein aristokratischer Elf mit Namen, die königlicher Abstammung würdig sind."
+      }
+    },
+    "categories": {
+      "title": "Elfennamen Generator Kategorien und Bedeutungen",
+      "natureInspired": {
+        "title": "Von der Natur Inspirierte Namen",
+        "description": "Namen, die natürliche Elemente und das Waldleben widerspiegeln",
+        "examples": {
+          "silverleaf": {
+            "name": "Silberblatt",
+            "meaning": "Baumhüter"
+          },
+          "moonwhisper": {
+            "name": "Mondflüstern",
+            "meaning": "Nachtwanderer"
+          },
+          "starweaver": {
+            "name": "Sternweber",
+            "meaning": "Kosmischer Magier"
+          },
+          "windrunner": {
+            "name": "Windläufer",
+            "meaning": "Schneller Reisender"
+          }
+        }
+      },
+      "nobleTitles": {
+        "title": "Adelige Titel",
+        "description": "Namen des elfischen Adels und der Aristokratie",
+        "examples": {
+          "goldenbrow": {
+            "name": "Goldbraue",
+            "meaning": "Königliche Abstammung"
+          },
+          "crystalborn": {
+            "name": "Kristallgeboren",
+            "meaning": "Reine Blutlinie"
+          },
+          "thornheart": {
+            "name": "Dornenherz",
+            "meaning": "Kriegerherr"
+          },
+          "stormcrown": {
+            "name": "Sturmkrone",
+            "meaning": "Wettermeister"
+          }
+        }
+      },
+      "magicalNames": {
+        "title": "Magische Namen",
+        "description": "Namen mit magischer Bedeutung und Kraft",
+        "examples": {
+          "spellsong": {
+            "name": "Zaubergesang",
+            "meaning": "Zauberin"
+          },
+          "runekeeper": {
+            "name": "Runenhüter",
+            "meaning": "Magiegelehrter"
+          },
+          "dreamweaver": {
+            "name": "Traumweber",
+            "meaning": "Gedankenmagier"
+          },
+          "lightbringer": {
+            "name": "Lichtbringer",
+            "meaning": "Göttlicher Zauberer"
+          }
+        }
+      }
+    },
+    "linguisticFeatures": {
+      "title": "Elfennamen Generator Sprachliche Merkmale",
+      "elvishLanguagePatterns": {
+        "title": "Elfische Sprachmuster",
+        "description": "Die Struktur von Elfennamen verstehen",
+        "sindarin": {
+          "title": "Sindarin-Einflüsse",
+          "description": "Namen inspiriert von Tolkiens Sindarin-Sprache, mit fließenden Vokalklängen und naturbasierten Bedeutungen. Häufige Präfixe sind \"Gal-\" (Licht), \"Cel-\" (Bach) und \"Mith-\" (grau).",
+          "feature1": "Weiche Konsonantengruppen",
+          "feature2": "Melodische Vokalkombinationen",
+          "feature3": "Von der Natur inspirierte Elemente"
+        },
+        "quenya": {
+          "title": "Quenya-Muster",
+          "description": "Hochelfische Namenskonventionen mit formellen, edlen Klängen. Enthalten oft \"Eru-\" (eins), \"Tar-\" (hoch) und \"Gil-\" (Stern) als bedeutungsvolle Komponenten.",
+          "feature1": "Formelle sprachliche Struktur",
+          "feature2": "Edel klingende Kombinationen",
+          "feature3": "Kosmische und göttliche Themen"
+        },
+        "dndElvish": {
+          "title": "D&D-Elfisch",
+          "description": "Namen nach D&D-Überlieferung und -Konventionen, angepasst für verschiedene Elfenunterarten. Zeigt einzigartige Muster für Waldelfen, Hochelfen und Drow-Kulturen.",
+          "feature1": "Unterrassen-spezifische Muster",
+          "feature2": "Kulturelle Namensführungstraditionen",
+          "feature3": "Gesinnung-basierte Einflüsse"
+        }
+      },
+      "pronunciationGuide": {
+        "title": "Ausspracheführer",
+        "description": "Wie man Elfennamen korrekt ausspricht",
+        "vowelSounds": {
+          "title": "Vokalklänge",
+          "sounds": {
+            "a": "wie in \"Vater\"",
+            "e": "wie in \"Bett\"",
+            "i": "wie in \"Maschine\"",
+            "o": "wie in \"mehr\"",
+            "u": "wie in \"Mond\""
+          }
+        },
+        "consonantCombinations": {
+          "title": "Konsonantenkombinationen",
+          "combinations": {
+            "th": "weicher \"th\"-Laut",
+            "dh": "stimmhaftes \"th\"",
+            "ng": "wie in \"singen\"",
+            "ch": "wie in \"ach\"",
+            "r": "gerolltes \"r\""
+          }
+        }
+      }
+    },
+    "collection": {
+      "title": "Elfennamen Generator Sammlung",
+      "woodElfGenerator": {
+        "title": "Waldelfen Namengenerator",
+        "description": "Unser Waldelfen Namengenerator erstellt authentische Namen für waldbewohnende Elfen. Perfekt für Waldläufer, Druiden und naturverbundene Charaktere. Der Waldelfen Namengenerator produziert Namen mit natürlichen Elementen und Waldeinflüssen.",
+        "feature1": "Naturbezogene Namensmuster",
+        "feature2": "Waldkultur-Integration",
+        "feature3": "Waldelfen Namengenerator für D&D"
+      },
+      "darkElfGenerator": {
+        "title": "Dunkelelfen Namengenerator",
+        "description": "Generiere authentische Drow-Namen mit unserem Dunkelelfen Namengenerator. Perfekt für Untergrund-Kampagnen und schattenthematische Charaktere. Der Dunkelelfen Namengenerator erstellt Namen mit mysteriösen und manchmal finsteren Untertönen.",
+        "feature1": "Unterwelt-Kultur-Namensmuster",
+        "feature2": "Drow-Gesellschafts-Integration",
+        "feature3": "Dunkelelfen Namengenerator für Rollenspiele"
+      },
+      "halfElfGenerator": {
+        "title": "Halbelfen Namengenerator",
+        "description": "Unser Halbelfen Namengenerator vermischt menschliche und elfische Namenstraditionen. Perfekt für Charaktere mit gemischtem Erbe und einzigartigen Hintergründen. Der Halbelfen Namengenerator erstellt vielseitige Namen für verschiedene Settings.",
+        "feature1": "Kulturfusion-Namensmuster",
+        "feature2": "Anpassbar an verschiedene Kampagnen",
+        "feature3": "Halbelfen Namengenerator für diverse Geschichten"
+      },
+      "bloodElfGenerator": {
+        "title": "Blutelfen Namengenerator",
+        "description": "Erstelle majestätische und mächtige Namen mit unserem Blutelfen Namengenerator. Perfekt für High-Fantasy-Settings und arkane beeinflusste Charaktere. Der Blutelfen Namengenerator produziert Namen mit eleganten aber mächtigen Qualitäten.",
+        "feature1": "Arkane beeinflusste Namensmuster",
+        "feature2": "Magisches Erbe-Integration",
+        "feature3": "Blutelfen Namengenerator für Fantasy-Gaming"
+      },
+      "elfNamesGenerator": {
+        "title": "Elfennamen Generator",
+        "description": "Unser umfassender Elfennamen Generator deckt alle Arten von Elfenkulturen ab. Dieser Elfennamen Generator erstellt authentische Fantasy-Namen für jedes Setting oder jede Geschichte. Nutze unseren Elfennamen Generator für sofortige Charaktererstellung.",
+        "feature1": "Universelle elfische Namensmuster",
+        "feature2": "Multi-kulturelle Elfenintegration",
+        "feature3": "Elfennamen Generator für alle Charaktertypen"
+      },
+      "elfNameGeneratorDnd": {
+        "title": "Elfennamen Generator DnD",
+        "description": "Unser spezialisierter Elfennamen Generator DnD erstellt Namen, die perfekt mit Dungeons & Dragons-Überlieferung übereinstimmen. Dieser Elfennamen Generator DnD integriert mit offiziellen Rassenbeschreibungen und Namenskonventionen aus dem Spielerhandbuch.",
+        "feature1": "D&D-Regelbuch konforme Namen",
+        "feature2": "Kampagnen-Setting angemessen",
+        "feature3": "Elfennamen Generator DnD für authentisches Gameplay"
+      }
+    },
+    "relatedSites": {
+      "title": "Weitere Kreative Tools",
+      "description": "Erkunden Sie unsere Sammlung von KI-basierten kreativen Tools für Charaktererstellung, Stilumwandlung und Design-Inspiration.",
+      "chineseNameGenerator": {
+        "title": "Chinesischer Namengenerator",
+        "description": "Erstelle authentische chinesische Namen",
+        "url": "https://chinesenamegenerate.com"
+      },
+      "dressMeAI": {
+        "title": "DressMeAI",
+        "description": "KI-Mode-Styling",
+        "url": "https://dressmeai.com"
+      },
+      "dreamfinityX": {
+        "title": "DreamfinityX",
+        "description": "Kreative KI-Plattform",
+        "url": "https://dreamfinityx.com"
+      },
+      "aiNailsPro": {
+        "title": "AI Nails Pro",
+        "description": "KI-Nagelkunst-Designs",
+        "url": "https://ainails.pro"
+      },
+      "characterReadCanon": {
+        "title": "Character Read Canon",
+        "description": "Charakteranalyse-Tool",
+        "url": "https://charactereadcanon.pro"
+      }
+    },
+    "structuredData": {
+      "appName": "Ultimativer Elfennamen Generator",
+      "appDescription": "Generiere authentische Fantasy-Elfennamen sofort. Perfekt für Waldelfen, Dunkelelfen, Halbelfen und D&D-Charaktere mit unserem ultimativen Elfennamen Generator.",
+      "keywords": "Elfennamen Generator, ultimativer Elfennamen Generator, Waldelfen Namengenerator, Dunkelelfen Namengenerator, Halbelfen Namengenerator, Elfennamen Generator, Elfennamen Generator dnd, Fantasy-Namen, magische Elfennamen",
+      "audienceType1": "Fantasy-Autoren",
+      "audienceType2": "RPG-Spieler",
+      "audienceType3": "D&D-Spieler",
+      "audienceType4": "Kreative Autoren",
+      "feature1": "Waldelfen Namenerstellung",
+      "feature2": "Dunkelelfen Namenerstellung",
+      "feature3": "Halbelfen Namenerstellung",
+      "feature4": "DND Charakternamen",
+      "feature5": "KI-gestützte Generierung",
+      "feature6": "Kulturelle Hintergrundgeschichten",
+      "feature7": "Ausspracheführer",
+      "feature8": "Kostenlos zu verwenden",
+      "faq1Question": "Was ist der beliebteste Elfennamen Generator?",
+      "faq1Answer": "Viele Benutzer lieben unseren Elfennamen Generator für seine Benutzerfreundlichkeit und große Vielfalt an Optionen, einschließlich Waldelfen und Dunkelelfen Namengeneratoren. Unser Tool liefert authentische Namen mit kulturellen Hintergründen und Ausspracheführern.",
+      "faq2Question": "Kann ich speziell weibliche Elfennamen generieren?",
+      "faq2Answer": "Ja, die meisten Elfennamen Generator-Tools ermöglichen es Ihnen, geschlechtsspezifische Namen für ein personalisierteres Ergebnis zu wählen. Unser Generator beinhaltet sowohl männliche als auch weibliche Namenskonventionen für alle Elfentypen.",
+      "faq3Question": "Sind Elfennamen Generatoren für DND-Charaktere geeignet?",
+      "faq3Answer": "Absolut! Es gibt spezialisierte Elfennamen Generator DND-Tools mit überlieferungsgetreuen Namen. Unser Generator folgt D&D-Namenskonventionen und beinhaltet Namen für alle offiziellen Elfenunterarten.",
+      "faq4Question": "Kann ich Elfennamen für Nicht-Fantasy-Situationen verwenden?",
+      "faq4Answer": "Natürlich! Elfennamen Generatoren sind perfekt für Benutzernamen, Bildschirmnamen oder immer dann, wenn Sie etwas Magisches und Einzigartiges wollen."
+    },
+    "conclusion": {
+      "title": "Beginnen Sie heute mit der Erstellung fantastischer Elfennamen",
+      "paragraph1": "Ob Sie einen Waldelf Waldläufer erschaffen, einen mysteriösen Dunkelelf Schurken oder einen edlen Hochelf Zauberer, unser ultimativer Elfennamen Generator bietet den perfekten Ausgangspunkt für Ihre Charaktererstellungsreise.",
+      "paragraph2": "Schließen Sie sich Tausenden von Fantasy-Erstellern an, die auf unser Tool für authentische, unvergessliche Charakternamen vertrauen. Von D&D-Kampagnen bis zu epischen Fantasy-Romanen - lassen Sie unseren Generator Ihre elfischen Charaktere mit Namen zum Leben erwecken, die wirklich ihre Essenz einfangen.",
+      "generateButton": "Elfennamen Jetzt Generieren",
+      "exploreButton": "Elfentypen Erkunden"
+    }
+  }
+}

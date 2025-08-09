@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { useTranslations } from 'next-intl';
 import ElfNameGenerator from "@/components/ElfNameGenerator";
 import { Suspense } from "react";
 
@@ -12,7 +13,11 @@ const ElfNameSEO = dynamic(() => import("@/components/ElfNameSEO"), {
 import dynamic from "next/dynamic";
 
 export default function ElfNamePage() {
+  const t = useTranslations();
   const [showSEO, setShowSEO] = useState(false);
+
+  // 创建SEO翻译访问器
+  const seoTranslations = (key: string) => t(`seo.${key}`);
 
   useEffect(() => {
     // 设置一个定时器，确保SEO内容在页面加载后显示，无论是否滚动
@@ -63,7 +68,7 @@ export default function ElfNamePage() {
       {showSEO && (
         <Suspense fallback={<div className="h-4" />}>
           {/* 加载elf name generator dnd内容和elf names generator相关组件 */}
-          <ElfNameSEO />
+          <ElfNameSEO translations={seoTranslations} />
         </Suspense>
       )}
     </div>

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { useTranslations } from 'next-intl';
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Label } from "@/components/ui/label";
@@ -20,6 +21,7 @@ interface ElfName {
 }
 
 export default function ElfNameGenerator() {
+  const t = useTranslations();
   const [isGenerating, setIsGenerating] = useState(false);
   const [generatedNames, setGeneratedNames] = useState<ElfName[]>([]);
   const [formData, setFormData] = useState({
@@ -32,40 +34,40 @@ export default function ElfNameGenerator() {
   });
 
   const elfTypes = [
-    { value: "any", label: "Any Elf Type" },
-    { value: "wood-elf", label: "Wood Elf" },
-    { value: "dark-elf", label: "Dark Elf / Drow" },
-    { value: "half-elf", label: "Half-Elf" },
-    { value: "high-elf", label: "High Elf" },
-    { value: "moon-elf", label: "Moon Elf" },
-    { value: "sun-elf", label: "Sun Elf" },
-    { value: "wild-elf", label: "Wild Elf" },
-    { value: "sea-elf", label: "Sea Elf" },
-    { value: "snow-elf", label: "Snow Elf" },
-    { value: "shadow-elf", label: "Shadow Elf" },
+    { value: "any", label: t('elfTypes.any') },
+    { value: "wood-elf", label: t('elfTypes.woodElf') },
+    { value: "dark-elf", label: t('elfTypes.darkElf') },
+    { value: "half-elf", label: t('elfTypes.halfElf') },
+    { value: "high-elf", label: t('elfTypes.highElf') },
+    { value: "moon-elf", label: t('elfTypes.moonElf') },
+    { value: "sun-elf", label: t('elfTypes.sunElf') },
+    { value: "wild-elf", label: t('elfTypes.wildElf') },
+    { value: "sea-elf", label: t('elfTypes.seaElf') },
+    { value: "snow-elf", label: t('elfTypes.snowElf') },
+    { value: "shadow-elf", label: t('elfTypes.shadowElf') },
   ];
 
   const genders = [
-    { value: "any", label: "Any Gender" },
-    { value: "male", label: "Male" },
-    { value: "female", label: "Female" },
-    { value: "non-binary", label: "Non-binary" },
+    { value: "any", label: t('genders.any') },
+    { value: "male", label: t('genders.male') },
+    { value: "female", label: t('genders.female') },
+    { value: "non-binary", label: t('genders.nonBinary') },
   ];
 
   const nameStyles = [
-    { value: "traditional", label: "Traditional" },
-    { value: "modern", label: "Modern" },
-    { value: "melodic", label: "Melodic" },
-    { value: "mystical", label: "Mystical" },
-    { value: "noble", label: "Noble" },
-    { value: "nature-inspired", label: "Nature-inspired" },
+    { value: "traditional", label: t('nameStyles.traditional') },
+    { value: "modern", label: t('nameStyles.modern') },
+    { value: "melodic", label: t('nameStyles.melodic') },
+    { value: "mystical", label: t('nameStyles.mystical') },
+    { value: "noble", label: t('nameStyles.noble') },
+    { value: "nature-inspired", label: t('nameStyles.natureInspired') },
   ];
 
   const nameCounts = [
-    { value: "3", label: "3 names" },
-    { value: "5", label: "5 names" },
-    { value: "8", label: "8 names" },
-    { value: "10", label: "10 names" },
+    { value: "3", label: t('nameCounts.3') },
+    { value: "5", label: t('nameCounts.5') },
+    { value: "8", label: t('nameCounts.8') },
+    { value: "10", label: t('nameCounts.10') },
   ];
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -87,16 +89,15 @@ export default function ElfNameGenerator() {
         if (Array.isArray(result.data)) {
           setGeneratedNames(result.data);
         } else if (result.data.rawText) {
-          // Handle parsing failure
-          toast.error("Generation successful, but format parsing failed, please check the original result");
+          toast.error(t('common.generationSuccess'));
           console.log("Raw response:", result.data.rawText);
         }
       } else {
-        toast.error(result.error || "Generation failed");
+        toast.error(result.error || t('common.generationFailed'));
       }
     } catch (error) {
       console.error("Error:", error);
-      toast.error("Network error, please try again later");
+      toast.error(t('common.networkError'));
     } finally {
       setIsGenerating(false);
     }
@@ -104,7 +105,7 @@ export default function ElfNameGenerator() {
 
   const copyToClipboard = (text: string) => {
     navigator.clipboard.writeText(text);
-    toast.success("Copied to clipboard");
+    toast.success(t('common.copiedToClipboard'));
   };
 
   const speakName = (name: string, pronunciation: string) => {
@@ -114,7 +115,7 @@ export default function ElfNameGenerator() {
       utterance.pitch = 1.1;
       speechSynthesis.speak(utterance);
     } else {
-      toast.error("Your browser does not support speech synthesis");
+      toast.error(t('common.browserNotSupported'));
     }
   };
 
@@ -124,10 +125,10 @@ export default function ElfNameGenerator() {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-12">
             <h1 className="text-4xl font-bold text-gray-900 mb-4">
-              Elf Name Generator | Fantasy Name Creation Tool
+              {t('header.title')}
             </h1>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Our complete elf name generator suite includes wood elf name generator, dark elf name generator, half elf name generator, blood elf name generator, and elf name generator dnd tools for your fantasy stories, D&D characters, and RPG games. The best elf names generator available online!
+              {t('header.description')}
             </p>
           </div>
 
@@ -137,22 +138,22 @@ export default function ElfNameGenerator() {
               <CardHeader>
                 <CardTitle className="flex items-center gap-2">
                   <Sparkles className="h-5 w-5 text-blue-500" />
-                  Name Generator Settings
+                  {t('generator.settingsTitle')}
                 </CardTitle>
                 <CardDescription>
-                  Configure the type and style of elf names you want to generate
+                  {t('generator.settingsDescription')}
                 </CardDescription>
               </CardHeader>
               <CardContent>
                 <form onSubmit={handleSubmit} className="space-y-6">
                   <div className="space-y-2">
-                    <Label htmlFor="elfType">Elf Type</Label>
+                    <Label htmlFor="elfType">{t('form.elfType')}</Label>
                     <Select
                       value={formData.elfType}
                       onValueChange={(value) => setFormData(prev => ({ ...prev, elfType: value }))}
                     >
                       <SelectTrigger>
-                        <SelectValue placeholder="Select elf type" />
+                        <SelectValue placeholder={t('form.elfTypePlaceholder')} />
                       </SelectTrigger>
                       <SelectContent>
                         {elfTypes.map((type) => (
@@ -165,13 +166,13 @@ export default function ElfNameGenerator() {
                   </div>
 
                   <div className="space-y-2">
-                    <Label htmlFor="gender">Gender</Label>
+                    <Label htmlFor="gender">{t('form.gender')}</Label>
                     <Select
                       value={formData.gender}
                       onValueChange={(value) => setFormData(prev => ({ ...prev, gender: value }))}
                     >
                       <SelectTrigger>
-                        <SelectValue placeholder="Select gender" />
+                        <SelectValue placeholder={t('form.genderPlaceholder')} />
                       </SelectTrigger>
                       <SelectContent>
                         {genders.map((gender) => (
@@ -184,13 +185,13 @@ export default function ElfNameGenerator() {
                   </div>
 
                   <div className="space-y-2">
-                    <Label htmlFor="nameStyle">Name Style</Label>
+                    <Label htmlFor="nameStyle">{t('form.nameStyle')}</Label>
                     <Select
                       value={formData.nameStyle}
                       onValueChange={(value) => setFormData(prev => ({ ...prev, nameStyle: value }))}
                     >
                       <SelectTrigger>
-                        <SelectValue placeholder="Select name style" />
+                        <SelectValue placeholder={t('form.nameStylePlaceholder')} />
                       </SelectTrigger>
                       <SelectContent>
                         {nameStyles.map((style) => (
@@ -203,13 +204,13 @@ export default function ElfNameGenerator() {
                   </div>
 
                   <div className="space-y-2">
-                    <Label htmlFor="nameCount">Number of Names</Label>
+                    <Label htmlFor="nameCount">{t('form.nameCount')}</Label>
                     <Select
                       value={formData.nameCount}
                       onValueChange={(value) => setFormData(prev => ({ ...prev, nameCount: value }))}
                     >
                       <SelectTrigger>
-                        <SelectValue placeholder="Select number of names" />
+                        <SelectValue placeholder={t('form.nameCountPlaceholder')} />
                       </SelectTrigger>
                       <SelectContent>
                         {nameCounts.map((count) => (
@@ -230,15 +231,15 @@ export default function ElfNameGenerator() {
                       }
                     />
                     <Label htmlFor="includeBackground" className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70">
-                      Include Background Stories
+                      {t('form.includeBackground')}
                     </Label>
                   </div>
 
                   <div className="space-y-2">
-                    <Label htmlFor="customRequirements">Custom Requirements (Optional)</Label>
+                    <Label htmlFor="customRequirements">{t('form.customRequirements')}</Label>
                     <Textarea
                       id="customRequirements"
-                      placeholder="e.g., make names sound more mystical, include specific meanings, etc..."
+                      placeholder={t('form.customRequirementsPlaceholder')}
                       value={formData.customRequirements}
                       onChange={(e) => setFormData(prev => ({ ...prev, customRequirements: e.target.value }))}
                       rows={3}
@@ -253,12 +254,12 @@ export default function ElfNameGenerator() {
                     {isGenerating ? (
                       <>
                         <Shuffle className="mr-2 h-4 w-4 animate-spin" />
-                        Generating...
+                        {t('common.generating')}
                       </>
                     ) : (
                       <>
                         <Sparkles className="mr-2 h-4 w-4" />
-                        Generate Elf Names
+                        {t('common.generateButton')}
                       </>
                     )}
                   </Button>
@@ -269,9 +270,9 @@ export default function ElfNameGenerator() {
             {/* Generated Results */}
             <Card>
               <CardHeader>
-                <CardTitle>Generated Elf Names</CardTitle>
+                <CardTitle>{t('generator.resultsTitle')}</CardTitle>
                 <CardDescription>
-                  Click the copy button to copy names to clipboard
+                  {t('generator.resultsDescription')}
                 </CardDescription>
               </CardHeader>
               <CardContent>
@@ -305,11 +306,11 @@ export default function ElfNameGenerator() {
                         
                         <div className="space-y-2 text-sm">
                           <div>
-                            <span className="font-medium text-gray-700">Pronunciation:</span>
+                            <span className="font-medium text-gray-700">{t('nameCard.pronunciation')}</span>
                             <span className="text-gray-600">{elfName.pronunciation}</span>
                           </div>
                           <div>
-                            <span className="font-medium text-gray-700">Meaning:</span>
+                            <span className="font-medium text-gray-700">{t('nameCard.meaning')}</span>
                             <span className="text-gray-600">{elfName.meaning}</span>
                           </div>
                           <div>
@@ -319,7 +320,7 @@ export default function ElfNameGenerator() {
                           </div>
                           {elfName.background && (
                             <div className="mt-3 p-3 bg-white rounded border border-gray-200">
-                              <span className="font-medium text-gray-700">Background:</span>
+                              <span className="font-medium text-gray-700">{t('nameCard.background')}</span>
                               <p className="text-gray-600 mt-1">{elfName.background}</p>
                             </div>
                           )}
@@ -331,7 +332,7 @@ export default function ElfNameGenerator() {
                   <div className="text-center py-12">
                     <Sparkles className="mx-auto h-12 w-12 text-gray-400 mb-4" />
                     <p className="text-gray-500">
-                      Fill in the configuration and click &quot;Generate Elf Names&quot; to start creating
+                      {t('generator.noResults')}
                     </p>
                   </div>
                 )}

@@ -1,0 +1,497 @@
+{
+  "common": {
+    "siteName": "Ultimate Elf Name Generator",
+    "generateButton": "Generate Elf Names",
+    "generating": "Generating...",
+    "copyToClipboard": "Copy to clipboard",
+    "copiedToClipboard": "Copied to clipboard",
+    "speakName": "Speak name",
+    "browserNotSupported": "Your browser does not support speech synthesis",
+    "networkError": "Network error, please try again later",
+    "generationFailed": "Generation failed",
+    "generationSuccess": "Generation successful, but format parsing failed, please check the original result"
+  },
+  "metadata": {
+    "title": "Ultimate Elf Name Generator - Create Magical Names",
+    "description": "Generate authentic fantasy elf names instantly. Perfect for wood elves, dark elves, half elves, and DND characters. Free tool for fantasy creators.",
+    "keywords": "elf name generator, ultimate elf name generator, wood elf name generator, dark elf name generator, half elf name generator, elf names generator, elf name generator dnd, fantasy names, magical elf names",
+    "openGraphTitle": "Ultimate Elf Name Generator - Create Magical Names",
+    "openGraphDescription": "Generate authentic fantasy elf names instantly. Perfect for wood elves, dark elves, half elves, and DND characters.",
+    "twitterTitle": "Ultimate Elf Name Generator - Create Magical Names",
+    "twitterDescription": "Generate authentic fantasy elf names instantly. Perfect for wood elves, dark elves, half elves, and DND characters."
+  },
+  "header": {
+    "title": "Elf Name Generator | Fantasy Name Creation Tool",
+    "description": "Our complete elf name generator suite includes wood elf name generator, dark elf name generator, half elf name generator, blood elf name generator, and elf name generator dnd tools for your fantasy stories, D&D characters, and RPG games. The best elf names generator available online!"
+  },
+  "generator": {
+    "settingsTitle": "Name Generator Settings",
+    "settingsDescription": "Configure the type and style of elf names you want to generate",
+    "resultsTitle": "Generated Elf Names",
+    "resultsDescription": "Click the copy button to copy names to clipboard",
+    "noResults": "Fill in the configuration and click \"Generate Elf Names\" to start creating"
+  },
+  "form": {
+    "elfType": "Elf Type",
+    "elfTypePlaceholder": "Select elf type",
+    "gender": "Gender",
+    "genderPlaceholder": "Select gender",
+    "nameStyle": "Name Style",
+    "nameStylePlaceholder": "Select name style",
+    "nameCount": "Number of Names",
+    "nameCountPlaceholder": "Select number of names",
+    "includeBackground": "Include Background Stories",
+    "customRequirements": "Custom Requirements (Optional)",
+    "customRequirementsPlaceholder": "e.g., make names sound more mystical, include specific meanings, etc..."
+  },
+  "elfTypes": {
+    "any": "Any Elf Type",
+    "woodElf": "Wood Elf",
+    "darkElf": "Dark Elf / Drow",
+    "halfElf": "Half-Elf",
+    "highElf": "High Elf",
+    "moonElf": "Moon Elf",
+    "sunElf": "Sun Elf",
+    "wildElf": "Wild Elf",
+    "seaElf": "Sea Elf",
+    "snowElf": "Snow Elf",
+    "shadowElf": "Shadow Elf"
+  },
+  "genders": {
+    "any": "Any Gender",
+    "male": "Male",
+    "female": "Female",
+    "nonBinary": "Non-binary"
+  },
+  "nameStyles": {
+    "traditional": "Traditional",
+    "modern": "Modern",
+    "melodic": "Melodic",
+    "mystical": "Mystical",
+    "noble": "Noble",
+    "natureInspired": "Nature-inspired"
+  },
+  "nameCounts": {
+    "3": "3 names",
+    "5": "5 names",
+    "8": "8 names",
+    "10": "10 names"
+  },
+  "nameCard": {
+    "pronunciation": "Pronunciation:",
+    "meaning": "Meaning:",
+    "background": "Background:"
+  },
+  "languageSwitcher": {
+    "title": "Language",
+    "selectLanguage": "Select Language"
+  },
+  "seo": {
+    "structuredDataName": "Ultimate Elf Name Generator",
+    "structuredDataDescription": "Generate authentic fantasy elf names for wood elves, dark elves, half elves, and DND characters with our ultimate elf name generator.",
+    "breadcrumbHome": "Home",
+    "breadcrumbGenerator": "Elf Name Generator",
+    "noScriptTitle": "Ultimate Elf Name Generator - Create Magical Names",
+    "noScriptDescription": "Generate authentic fantasy elf names instantly. Perfect for wood elves, dark elves, half elves, and DND characters. Our elf name generator creates names for wood elves, dark elves, half elves, and more fantasy RPG characters.",
+    "toolLabel": "Elf Name Generator Tool",
+    "infoLabel": "Elf Name Generator Information",
+    "introduction": {
+      "title": "Ultimate Elf Name Generator - Create Authentic Fantasy Names",
+      "paragraph1": "Welcome to the ultimate elf name generator, your comprehensive source for creating authentic fantasy names. Whether you need a wood elf name generator, dark elf name generator, half elf name generator, or any other elvish naming solution, our advanced AI-powered tool delivers results that bring your characters to life.",
+      "paragraph2": "Our elf name generator combines traditional elvish linguistics with modern fantasy conventions to produce names that feel both authentic and fresh. Perfect for D&D campaigns, fantasy novels, games, and creative writing projects."
+    },
+    "whatIs": {
+      "title": "What Is an Elf Name Generator?",
+      "paragraph1": "An elf name generator is a specialized tool that creates authentic fantasy names based on elvish linguistic patterns and cultural traditions. These generators draw inspiration from various sources including Tolkien's languages, D&D lore, and established fantasy naming conventions.",
+      "paragraph2": "Our ultimate elf name generator goes beyond simple random combinations, incorporating meaningful elements, pronunciation guides, and cultural backgrounds to create names that truly enhance your fantasy experience."
+    },
+    "types": {
+      "title": "Types of Elf Name Generators",
+      "description": "Our comprehensive suite includes specialized generators for every type of elf culture and fantasy setting.",
+      "classic": {
+        "title": "Classic Elf Names",
+        "description": "Traditional elvish names inspired by Tolkien's Sindarin and Quenya languages, featuring flowing sounds and nature-based meanings."
+      },
+      "halfElf": {
+        "title": "Half-Elf Names",
+        "description": "Names that blend human and elvish traditions, perfect for characters with mixed heritage and complex backgrounds."
+      },
+      "woodElf": {
+        "title": "Wood Elf Names",
+        "description": "Forest-dwelling elf names with strong connections to nature, perfect for rangers, druids, and sylvan characters."
+      },
+      "darkElf": {
+        "title": "Dark Elf / Drow Names",
+        "description": "Mysterious and powerful names from the underdark, featuring darker themes and underground culture influences."
+      },
+      "dnd": {
+        "title": "D&D Elf Names",
+        "description": "Names specifically crafted for Dungeons & Dragons campaigns, following official lore and naming conventions."
+      },
+      "gender": {
+        "title": "Gender-Specific Names",
+        "description": "Tailored naming options for male, female, and non-binary characters across all elf types and cultures."
+      }
+    },
+    "howToUse": {
+      "title": "How to Use Our Elf Name Generator",
+      "description": "Creating the perfect elf name is simple with our intuitive three-step process.",
+      "step1": {
+        "title": "Choose Your Settings",
+        "description": "Select your preferred elf type, gender, and naming style from our comprehensive options menu."
+      },
+      "step2": {
+        "title": "Generate Names",
+        "description": "Click the generate button to create authentic elf names with pronunciation guides and meanings."
+      },
+      "step3": {
+        "title": "Select and Use",
+        "description": "Copy your favorite names and use them in your campaigns, stories, or creative projects."
+      }
+    },
+    "whyEssential": {
+      "title": "Why Use an Elf Name Generator?",
+      "saveTime": {
+        "title": "Save Creative Time",
+        "description": "Skip hours of brainstorming and research. Our generator instantly provides authentic-sounding names with cultural depth."
+      },
+      "creativity": {
+        "title": "Boost Creativity",
+        "description": "Discover unique naming patterns and combinations you might never have considered on your own."
+      },
+      "consistency": {
+        "title": "Maintain Consistency",
+        "description": "Keep your fantasy world coherent with names that follow established linguistic and cultural patterns."
+      },
+      "accessible": {
+        "title": "Accessible to All",
+        "description": "Whether you're a seasoned DM or new to fantasy, our tool makes professional-quality name creation accessible to everyone."
+      }
+    },
+    "topFeatures": {
+      "title": "Top Features to Look for in an Elf Name Generator",
+      "description": "Not all elf name generators are created equal. Here's what makes our tool stand out from the rest.",
+      "diverse": {
+        "title": "Diverse Elf Types",
+        "description": "Support for all major elf subraces including wood elves, dark elves, high elves, and more, each with authentic cultural naming patterns."
+      },
+      "gender": {
+        "title": "Gender Options",
+        "description": "Comprehensive gender selection including male, female, and non-binary naming conventions for inclusive character creation."
+      },
+      "customizable": {
+        "title": "Customizable Settings",
+        "description": "Adjust naming styles, cultural influences, and special requirements to create names that perfectly fit your vision."
+      },
+      "free": {
+        "title": "Free to Use",
+        "description": "Access all features without registration or payment. Create unlimited names for all your creative projects."
+      }
+    },
+    "popularUses": {
+      "title": "Popular Uses for Elf Name Generators",
+      "description": "Discover how creators across different mediums use our elf name generator to enhance their projects.",
+      "tabletop": {
+        "title": "Tabletop RPG Campaigns",
+        "description": "Perfect for D&D, Pathfinder, and other fantasy RPGs. Create memorable NPCs and player characters with authentic-sounding names."
+      },
+      "novels": {
+        "title": "Fantasy Novels & Stories",
+        "description": "Authors use our generator to create consistent, believable character names that enhance their fantasy worldbuilding."
+      },
+      "onlineGames": {
+        "title": "Online Gaming",
+        "description": "Stand out in MMORPGs and fantasy games with unique character names that reflect your chosen race and background."
+      },
+      "creativeWriting": {
+        "title": "Creative Writing Projects",
+        "description": "From fanfiction to original fantasy works, our generator provides the perfect names for any creative endeavor."
+      }
+    },
+    "supportedTypes": {
+      "title": "Supported Elf Types in Our Generator",
+      "woodElf": {
+        "title": "Wood Elf Names",
+        "description": "Nature-connected names for forest guardians and sylvan dwellers."
+      },
+      "darkElf": {
+        "title": "Dark Elf / Drow Names",
+        "description": "Mysterious names from the underdark with shadowy undertones."
+      },
+      "halfElf": {
+        "title": "Half-Elf Names",
+        "description": "Blended heritage names combining human and elven traditions."
+      },
+      "highElf": {
+        "title": "High Elf Names",
+        "description": "Noble and refined names for the elvish aristocracy."
+      },
+      "moonElf": {
+        "title": "Moon Elf Names",
+        "description": "Celestial-inspired names with lunar and nocturnal themes."
+      },
+      "sunElf": {
+        "title": "Sun Elf Names",
+        "description": "Radiant names celebrating light and solar power."
+      },
+      "wildElf": {
+        "title": "Wild Elf Names",
+        "description": "Primal names for untamed and feral elf characters."
+      },
+      "seaElf": {
+        "title": "Sea Elf Names",
+        "description": "Aquatic names inspired by ocean depths and marine life."
+      },
+      "snowElf": {
+        "title": "Snow Elf Names",
+        "description": "Arctic names reflecting ice, snow, and winter themes."
+      }
+    },
+    "gallery": {
+      "title": "Elf Character Examples",
+      "description": "Explore different elf types and their characteristic names through our visual gallery.",
+      "woodElf": {
+        "alt": "Wood Elf Ranger Character",
+        "title": "Wood Elf Ranger",
+        "description": "A skilled forest guardian with names reflecting nature's harmony."
+      },
+      "darkElf": {
+        "alt": "Dark Elf Mage Character", 
+        "title": "Dark Elf Mage",
+        "description": "A mysterious spellcaster from the shadowy underdark."
+      },
+      "highElf": {
+        "alt": "High Elf Noble Character",
+        "title": "High Elf Noble",
+        "description": "An aristocratic elf with names befitting royal lineage."
+      }
+    },
+    "categories": {
+      "title": "Elf Name Generator Categories and Meanings",
+      "natureInspired": {
+        "title": "Nature-Inspired Names",
+        "description": "Names reflecting natural elements and forest life",
+        "examples": {
+          "silverleaf": {
+            "name": "Silverleaf",
+            "meaning": "Tree guardian"
+          },
+          "moonwhisper": {
+            "name": "Moonwhisper", 
+            "meaning": "Night wanderer"
+          },
+          "starweaver": {
+            "name": "Starweaver",
+            "meaning": "Cosmic mage"
+          },
+          "windrunner": {
+            "name": "Windrunner",
+            "meaning": "Swift traveler"
+          }
+        }
+      },
+      "nobleTitles": {
+        "title": "Noble Titles",
+        "description": "Names of elvish nobility and aristocracy",
+        "examples": {
+          "goldenbrow": {
+            "name": "Goldenbrow",
+            "meaning": "Royal lineage"
+          },
+          "crystalborn": {
+            "name": "Crystalborn",
+            "meaning": "Pure bloodline"
+          },
+          "thornheart": {
+            "name": "Thornheart",
+            "meaning": "Warrior lord"
+          },
+          "stormcrown": {
+            "name": "Stormcrown",
+            "meaning": "Weather master"
+          }
+        }
+      },
+      "magicalNames": {
+        "title": "Magical Names",
+        "description": "Names with magical significance and power",
+        "examples": {
+          "spellsong": {
+            "name": "Spellsong",
+            "meaning": "Enchantress"
+          },
+          "runekeeper": {
+            "name": "Runekeeper", 
+            "meaning": "Magic scholar"
+          },
+          "dreamweaver": {
+            "name": "Dreamweaver",
+            "meaning": "Mind mage"
+          },
+          "lightbringer": {
+            "name": "Lightbringer",
+            "meaning": "Divine caster"
+          }
+        }
+      }
+    },
+    "linguisticFeatures": {
+      "title": "Elf Name Generator Linguistic Features",
+      "elvishLanguagePatterns": {
+        "title": "Elvish Language Patterns",
+        "description": "Understanding the structure of elvish names",
+        "sindarin": {
+          "title": "Sindarin Influences",
+          "description": "Names inspired by Tolkien's Sindarin language, featuring flowing vowel sounds and nature-based meanings. Common prefixes include \"Gal-\" (light), \"Cel-\" (stream), and \"Mith-\" (grey).",
+          "feature1": "Soft consonant clusters",
+          "feature2": "Melodic vowel combinations", 
+          "feature3": "Nature-inspired elements"
+        },
+        "quenya": {
+          "title": "Quenya Patterns",
+          "description": "High elvish naming conventions with formal, noble sounds. Often feature \"Eru-\" (one), \"Tar-\" (high), and \"Gil-\" (star) as meaningful components.",
+          "feature1": "Formal linguistic structure",
+          "feature2": "Noble-sounding combinations",
+          "feature3": "Cosmic and divine themes"
+        },
+        "dndElvish": {
+          "title": "D&D Elvish",
+          "description": "Names following D&D lore and conventions, adapted for various elf subraces. Features unique patterns for wood elves, high elves, and drow cultures.",
+          "feature1": "Subrace-specific patterns",
+          "feature2": "Cultural naming traditions",
+          "feature3": "Alignment-based influences"
+        }
+      },
+      "pronunciationGuide": {
+        "title": "Pronunciation Guide",
+        "description": "How to pronounce elvish names correctly",
+        "vowelSounds": {
+          "title": "Vowel Sounds",
+          "sounds": {
+            "a": "as in \"father\"",
+            "e": "as in \"bed\"",
+            "i": "as in \"machine\"",
+            "o": "as in \"more\"",
+            "u": "as in \"moon\""
+          }
+        },
+        "consonantCombinations": {
+          "title": "Consonant Combinations", 
+          "combinations": {
+            "th": "soft \"th\" sound",
+            "dh": "voiced \"th\"",
+            "ng": "as in \"sing\"",
+            "ch": "as in \"loch\"",
+            "r": "rolled \"r\""
+          }
+        }
+      }
+    },
+    "collection": {
+      "title": "Elf Name Generator Collection",
+      "woodElfGenerator": {
+        "title": "Wood Elf Name Generator",
+        "description": "Our wood elf name generator creates authentic names for forest-dwelling elves. Perfect for rangers, druids, and nature-connected characters. The wood elf name generator produces names with natural elements and sylvan influences.",
+        "feature1": "Nature-themed naming patterns",
+        "feature2": "Forest culture integration",
+        "feature3": "Wood elf name generator for D&D"
+      },
+      "darkElfGenerator": {
+        "title": "Dark Elf Name Generator",
+        "description": "Generate authentic drow names with our dark elf name generator. Perfect for underground campaigns and shadow-themed characters. The dark elf name generator creates names with mysterious and sometimes sinister undertones.",
+        "feature1": "Underworld culture naming patterns",
+        "feature2": "Drow society integration",
+        "feature3": "Dark elf name generator for roleplaying"
+      },
+      "halfElfGenerator": {
+        "title": "Half Elf Name Generator", 
+        "description": "Our half elf name generator blends human and elven naming traditions. Perfect for characters with mixed heritage and unique backgrounds. The half elf name generator creates versatile names fitting multiple settings.",
+        "feature1": "Cultural fusion naming patterns",
+        "feature2": "Adaptable to various campaigns",
+        "feature3": "Half elf name generator for diverse stories"
+      },
+      "bloodElfGenerator": {
+        "title": "Blood Elf Name Generator",
+        "description": "Create majestic and powerful names with our blood elf name generator. Perfect for high-fantasy settings and arcane-influenced characters. The blood elf name generator produces names with elegant yet potent qualities.",
+        "feature1": "Arcane-influenced naming patterns",
+        "feature2": "Magical heritage integration", 
+        "feature3": "Blood elf name generator for fantasy gaming"
+      },
+      "elfNamesGenerator": {
+        "title": "Elf Names Generator",
+        "description": "Our comprehensive elf names generator covers all types of elven cultures. This elf names generator creates authentic fantasy names suited for any setting or story. Use our elf names generator for instant character creation.",
+        "feature1": "Universal elven naming patterns",
+        "feature2": "Multi-cultural elven integration",
+        "feature3": "Elf names generator for all character types"
+      },
+      "elfNameGeneratorDnd": {
+        "title": "Elf Name Generator DnD",
+        "description": "Our specialized elf name generator DnD creates names perfectly aligned with Dungeons & Dragons lore. This elf name generator DnD integrates with official race descriptions and naming conventions from the Player's Handbook.",
+        "feature1": "D&D rulebook compliant names",
+        "feature2": "Campaign setting appropriate",
+        "feature3": "Elf name generator DnD for authentic gameplay"
+      }
+    },
+    "relatedSites": {
+      "title": "More Creative Tools",
+      "description": "Explore our collection of AI-powered creative tools for character creation, style transformation, and design inspiration.",
+      "chineseNameGenerator": {
+        "title": "Chinese Name Generator",
+        "description": "Create authentic Chinese names",
+        "url": "https://chinesenamegenerate.com"
+      },
+      "dressMeAI": {
+        "title": "DressMeAI", 
+        "description": "AI fashion styling",
+        "url": "https://dressmeai.com"
+      },
+      "dreamfinityX": {
+        "title": "DreamfinityX",
+        "description": "Creative AI platform", 
+        "url": "https://dreamfinityx.com"
+      },
+      "aiNailsPro": {
+        "title": "AI Nails Pro",
+        "description": "AI nail art designs",
+        "url": "https://ainails.pro"
+      },
+      "characterReadCanon": {
+        "title": "Character Read Canon",
+        "description": "Character analysis tool",
+        "url": "https://charactereadcanon.pro"
+      }
+    },
+    "structuredData": {
+      "appName": "Ultimate Elf Name Generator",
+      "appDescription": "Generate authentic fantasy elf names instantly. Perfect for wood elves, dark elves, half elves, and DND characters with our ultimate elf name generator.",
+      "keywords": "elf name generator, ultimate elf name generator, wood elf name generator, dark elf name generator, half elf name generator, elf names generator, elf name generator dnd, fantasy names, magical elf names",
+      "audienceType1": "Fantasy Writers",
+      "audienceType2": "RPG Gamers", 
+      "audienceType3": "D&D Players", 
+      "audienceType4": "Creative Writers",
+      "feature1": "Wood Elf Name Generation",
+      "feature2": "Dark Elf Name Generation", 
+      "feature3": "Half Elf Name Generation",
+      "feature4": "DND Character Names",
+      "feature5": "AI-Powered Generation",
+      "feature6": "Cultural Background Stories",
+      "feature7": "Pronunciation Guides",
+      "feature8": "Free to Use",
+      "faq1Question": "What is the most popular elf name generator?",
+      "faq1Answer": "Many users love our elf name generator for its ease of use and wide variety of options, including wood elf and dark elf name generators. Our tool provides authentic names with cultural backgrounds and pronunciation guides.",
+      "faq2Question": "Can I generate female elf names specifically?",
+      "faq2Answer": "Yes, most elf name generator tools allow you to choose gender-specific names for a more custom result. Our generator includes both male and female naming conventions for all elf types.",
+      "faq3Question": "Are elf name generators suitable for DND characters?",
+      "faq3Answer": "Absolutely! There are specialized elf name generator DND tools with lore-accurate names. Our generator follows D&D naming conventions and includes names for all official elf subraces.",
+      "faq4Question": "Can I use elf names for non-fantasy situations?",
+      "faq4Answer": "Of course! Elf name generators are perfect for usernames, screen names, or any time you want something magical and unique."
+    },
+    "conclusion": {
+      "title": "Start Creating Amazing Elf Names Today",
+      "paragraph1": "Whether you're crafting a wood elf ranger, a mysterious dark elf rogue, or a noble high elf wizard, our ultimate elf name generator provides the perfect starting point for your character creation journey.",
+      "paragraph2": "Join thousands of fantasy creators who rely on our tool for authentic, memorable character names. From D&D campaigns to epic fantasy novels, let our generator bring your elvish characters to life with names that truly capture their essence.",
+      "generateButton": "Generate Elf Names Now",
+      "exploreButton": "Explore Elf Types"
+    }
+  }
+}

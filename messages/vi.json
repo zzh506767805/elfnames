@@ -1,0 +1,286 @@
+{
+  "common": {
+    "siteName": "Trình Tạo Tên Elf Tối Thượng",
+    "generateButton": "Tạo Tên Elf",
+    "generating": "Đang tạo...",
+    "copyToClipboard": "Sao chép vào clipboard",
+    "copiedToClipboard": "Đã sao chép vào clipboard",
+    "speakName": "Phát âm tên",
+    "browserNotSupported": "Trình duyệt của bạn không hỗ trợ tổng hợp giọng nói",
+    "networkError": "Lỗi mạng, vui lòng thử lại sau",
+    "generationFailed": "Tạo thất bại",
+    "generationSuccess": "Tạo thành công, nhưng phân tích định dạng thất bại, vui lòng kiểm tra kết quả gốc"
+  },
+  "metadata": {
+    "title": "Trình Tạo Tên Elf Tối Thượng - Tạo Tên Ma Thuật",
+    "description": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D&D. Công cụ miễn phí cho người tạo fantasy.",
+    "keywords": "trình tạo tên elf, trình tạo tên elf tối thượng, trình tạo tên wood elf, trình tạo tên dark elf, trình tạo tên half elf, trình tạo tên elf, trình tạo tên elf dnd, tên fantasy, tên elf ma thuật",
+    "openGraphTitle": "Trình Tạo Tên Elf Tối Thượng - Tạo Tên Ma Thuật",
+    "openGraphDescription": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D&D.",
+    "twitterTitle": "Trình Tạo Tên Elf Tối Thượng - Tạo Tên Ma Thuật",
+    "twitterDescription": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D&D."
+  },
+  "header": {
+    "title": "Trình Tạo Tên Elf | Công Cụ Tạo Tên Fantasy",
+    "description": "Bộ trình tạo tên elf hoàn chỉnh của chúng tôi bao gồm trình tạo tên wood elf, trình tạo tên dark elf, trình tạo tên half elf, trình tạo tên blood elf, và các công cụ trình tạo tên elf dnd cho câu chuyện fantasy, nhân vật D&D, và trò chơi RPG của bạn. Trình tạo tên elf tốt nhất có sẵn trực tuyến!"
+  },
+  "generator": {
+    "settingsTitle": "Cài Đặt Trình Tạo Tên",
+    "settingsDescription": "Cấu hình loại và phong cách tên elf bạn muốn tạo",
+    "resultsTitle": "Tên Elf Được Tạo",
+    "resultsDescription": "Nhấp vào nút sao chép để sao chép tên vào clipboard",
+    "noResults": "Điền cấu hình và nhấp \"Tạo Tên Elf\" để bắt đầu tạo"
+  },
+  "form": {
+    "elfType": "Loại Elf",
+    "elfTypePlaceholder": "Chọn loại elf",
+    "gender": "Giới Tính",
+    "genderPlaceholder": "Chọn giới tính",
+    "nameStyle": "Phong Cách Tên",
+    "nameStylePlaceholder": "Chọn phong cách tên",
+    "nameCount": "Số Lượng Tên",
+    "nameCountPlaceholder": "Chọn số lượng tên",
+    "includeBackground": "Bao Gồm Câu Chuyện Nền",
+    "customRequirements": "Yêu Cầu Tùy Chỉnh (Tùy chọn)",
+    "customRequirementsPlaceholder": "vd: làm cho tên nghe có vẻ huyền bí hơn, bao gồm ý nghĩa cụ thể, v.v..."
+  },
+  "elfTypes": {
+    "any": "Bất Kỳ Loại Elf Nào",
+    "woodElf": "Wood Elf",
+    "darkElf": "Dark Elf / Drow",
+    "halfElf": "Half-Elf",
+    "highElf": "High Elf",
+    "moonElf": "Moon Elf",
+    "sunElf": "Sun Elf",
+    "wildElf": "Wild Elf",
+    "seaElf": "Sea Elf",
+    "snowElf": "Snow Elf",
+    "shadowElf": "Shadow Elf"
+  },
+  "genders": {
+    "any": "Bất Kỳ Giới Tính",
+    "male": "Nam",
+    "female": "Nữ",
+    "nonBinary": "Phi nhị phân"
+  },
+  "nameStyles": {
+    "traditional": "Truyền thống",
+    "modern": "Hiện đại",
+    "melodic": "Giai điệu",
+    "mystical": "Huyền bí",
+    "noble": "Quý tộc",
+    "natureInspired": "Lấy cảm hứng từ Thiên nhiên"
+  },
+  "nameCounts": {
+    "3": "3 tên",
+    "5": "5 tên",
+    "8": "8 tên",
+    "10": "10 tên"
+  },
+  "nameCard": {
+    "pronunciation": "Phát âm:",
+    "meaning": "Ý nghĩa:",
+    "background": "Nền:"
+  },
+  "languageSwitcher": {
+    "title": "Ngôn Ngữ",
+    "selectLanguage": "Chọn Ngôn Ngữ"
+  },
+  "seo": {
+    "structuredDataName": "Trình Tạo Tên Elf Tối Cao",
+    "structuredDataDescription": "Tạo tên elf thần thoại chính thống cho Elf Rừng, Elf Bóng Tối, Nửa Elf và nhân vật D&D với trình tạo tên elf tối cao của chúng tôi.",
+    "breadcrumbHome": "Trang Chủ",
+    "breadcrumbGenerator": "Trình Tạo Tên Elf",
+    "noScriptTitle": "Trình Tạo Tên Elf Tối Cao - Tạo Tên Ma Thuật",
+    "noScriptDescription": "Tạo tên elf thần thoại chính thống ngay lập tức. Hoàn hảo cho Elf Rừng, Elf Bóng Tối, Nửa Elf và nhân vật D&D. Trình tạo tên elf của chúng tôi tạo ra tên cho Elf Rừng, Elf Bóng Tối, Nửa Elf và nhiều nhân vật RPG thần thoại khác.",
+    "toolLabel": "Công Cụ Trình Tạo Tên Elf",
+    "infoLabel": "Thông Tin Trình Tạo Tên Elf",
+    "introduction": {
+      "title": "Trình Tạo Tên Elf Tối Cao - Tạo Tên Thần Thoại Chính Thống",
+      "paragraph1": "Chào mừng bạn đến với trình tạo tên elf tối cao, nguồn toàn diện của bạn để tạo ra những tên thần thoại chính thống. Dù bạn cần trình tạo tên Elf Rừng, trình tạo tên Elf Bóng Tối, trình tạo tên Nửa Elf, hay bất kỳ giải pháp đặt tên elvish nào khác, công cụ AI tiên tiến của chúng tôi mang đến kết quả làm sống động nhân vật của bạn.",
+      "paragraph2": "Trình tạo tên elf của chúng tôi kết hợp ngôn ngữ học elvish truyền thống với các quy ước thần thoại hiện đại để tạo ra những cái tên vừa chính thống vừa mới mẻ. Hoàn hảo cho các chiến dịch D&D, tiểu thuyết thần thoại, trò chơi và các dự án viết sáng tạo."
+    },
+    "whatIs": {
+      "title": "Trình Tạo Tên Elf Là Gì?",
+      "paragraph1": "Trình tạo tên elf là công cụ chuyên biệt tạo ra những cái tên thần thoại chính thống dựa trên các mẫu ngôn ngữ elvish và truyền thống văn hóa. Những trình tạo này lấy cảm hứng từ nhiều nguồn bao gồm ngôn ngữ Tolkien, truyền thuyết D&D và các quy ước đặt tên thần thoại đã được thiết lập.",
+      "paragraph2": "Trình tạo tên elf tối cao của chúng tôi vượt xa những sự kết hợp ngẫu nhiên đơn giản, tích hợp các yếu tố có ý nghĩa, hướng dẫn phát âm và nền tảng văn hóa để tạo ra những cái tên thực sự nâng cao trải nghiệm thần thoại của bạn."
+    },
+    "types": {
+      "title": "Các Loại Trình Tạo Tên Elf",
+      "description": "Bộ công cụ toàn diện của chúng tôi bao gồm các trình tạo chuyên biệt cho mọi loại văn hóa elf và bối cảnh thần thoại.",
+      "classic": {
+        "title": "Tên Elf Cổ Điển",
+        "description": "Tên elvish truyền thống lấy cảm hứng từ ngôn ngữ Sindarin và Quenya của Tolkien, có âm thanh trôi chảy và ý nghĩa dựa trên thiên nhiên."
+      },
+      "halfElf": {
+        "title": "Tên Nửa Elf",
+        "description": "Tên kết hợp truyền thống con người và elvish, hoàn hảo cho nhân vật có di sản hỗn hợp và nền tảng phức tạp."
+      },
+      "woodElf": {
+        "title": "Tên Elf Rừng",
+        "description": "Tên elf sống trong rừng có kết nối mạnh mẽ với thiên nhiên, hoàn hảo cho ranger, druid và nhân vật sylvan."
+      },
+      "darkElf": {
+        "title": "Tên Elf Bóng Tối / Drow",
+        "description": "Tên bí ẩn và mạnh mẽ từ underdark, có chủ đề tối tăm và ảnh hưởng văn hóa ngầm."
+      },
+      "dnd": {
+        "title": "Tên Elf D&D",
+        "description": "Tên được chế tác đặc biệt cho các chiến dịch Dungeons & Dragons, tuân theo truyền thuyết chính thức và quy ước đặt tên."
+      },
+      "gender": {
+        "title": "Tên Theo Giới Tính",
+        "description": "Tùy chọn đặt tên phù hợp cho nhân vật nam, nữ và phi nhị phân trên tất cả các loại elf và văn hóa."
+      }
+    },
+    "howToUse": {
+      "title": "Cách Sử Dụng Trình Tạo Tên Elf Của Chúng Tôi",
+      "description": "Tạo tên elf hoàn hảo rất đơn giản với quy trình ba bước trực quan của chúng tôi.",
+      "step1": {
+        "title": "Chọn Cài Đặt Của Bạn",
+        "description": "Chọn loại elf, giới tính và phong cách đặt tên ưa thích từ menu tùy chọn toàn diện của chúng tôi."
+      },
+      "step2": {
+        "title": "Tạo Tên",
+        "description": "Nhấp vào nút tạo để tạo ra tên elf chính thống với hướng dẫn phát âm và ý nghĩa."
+      },
+      "step3": {
+        "title": "Chọn Và Sử Dụng",
+        "description": "Sao chép những cái tên yêu thích và sử dụng chúng trong các chiến dịch, câu chuyện hoặc dự án sáng tạo của bạn."
+      }
+    },
+    "whyEssential": {
+      "title": "Tại Sao Nên Sử Dụng Trình Tạo Tên Elf?",
+      "saveTime": {
+        "title": "Tiết Kiệm Thời Gian Sáng Tạo",
+        "description": "Bỏ qua hàng giờ suy nghĩ và nghiên cứu. Trình tạo của chúng tôi ngay lập tức cung cấp những cái tên nghe chính thống với chiều sâu văn hóa."
+      },
+      "creativity": {
+        "title": "Thúc Đẩy Sáng Tạo",
+        "description": "Khám phá các mẫu và kết hợp đặt tên độc đáo mà bạn có thể chưa bao giờ nghĩ đến."
+      },
+      "consistency": {
+        "title": "Duy Trì Tính Nhất Quán",
+        "description": "Giữ cho thế giới thần thoại của bạn mạch lạc với những cái tên tuân theo các mẫu ngôn ngữ và văn hóa đã được thiết lập."
+      },
+      "accessible": {
+        "title": "Dễ Tiếp Cận Cho Tất Cả",
+        "description": "Dù bạn là DM có kinh nghiệm hay mới với thể loại thần thoại, công cụ của chúng tôi làm cho việc tạo tên chất lượng chuyên nghiệp trở nên dễ tiếp cận với mọi người."
+      }
+    },
+    "topFeatures": {
+      "title": "Tính Năng Hàng Đầu Cần Tìm Trong Trình Tạo Tên Elf",
+      "description": "Không phải tất cả trình tạo tên elf đều được tạo ra như nhau. Đây là những gì làm cho công cụ của chúng tôi nổi bật so với những công cụ khác.",
+      "diverse": {
+        "title": "Đa Dạng Loại Elf",
+        "description": "Hỗ trợ tất cả các phân loại elf chính bao gồm Elf Rừng, Elf Bóng Tối, High Elf và nhiều hơn nữa, mỗi loại có mẫu đặt tên văn hóa chính thống."
+      },
+      "gender": {
+        "title": "Tùy Chọn Giới Tính",
+        "description": "Lựa chọn giới tính toàn diện bao gồm quy ước đặt tên nam, nữ và phi nhị phân cho việc tạo nhân vật bao hàm."
+      },
+      "customizable": {
+        "title": "Cài Đặt Tùy Chỉnh",
+        "description": "Điều chỉnh phong cách đặt tên, ảnh hưởng văn hóa và yêu cầu đặc biệt để tạo ra những cái tên hoàn toàn phù hợp với tầm nhìn của bạn."
+      },
+      "free": {
+        "title": "Miễn Phí Sử Dụng",
+        "description": "Truy cập tất cả tính năng mà không cần đăng ký hoặc thanh toán. Tạo tên không giới hạn cho tất cả dự án sáng tạo của bạn."
+      }
+    },
+    "popularUses": {
+      "title": "Cách Sử Dụng Phổ Biến Cho Trình Tạo Tên Elf",
+      "description": "Khám phá cách những người sáng tạo trong các phương tiện khác nhau sử dụng trình tạo tên elf của chúng tôi để nâng cao dự án của họ.",
+      "tabletop": {
+        "title": "Chiến Dịch RPG Trên Bàn",
+        "description": "Hoàn hảo cho D&D, Pathfinder và các RPG thần thoại khác. Tạo ra NPC và nhân vật người chơi đáng nhớ với những cái tên nghe chính thống."
+      },
+      "novels": {
+        "title": "Tiểu Thuyết & Câu Chuyện Thần Thoại",
+        "description": "Các tác giả sử dụng trình tạo của chúng tôi để tạo ra tên nhân vật nhất quán, đáng tin cậy nhằm nâng cao việc xây dựng thế giới thần thoại."
+      },
+      "onlineGames": {
+        "title": "Trò Chơi Trực Tuyến",
+        "description": "Nổi bật trong MMORPG và trò chơi thần thoại với tên nhân vật độc đáo phản ánh chủng tộc và nền tảng đã chọn."
+      },
+      "creativeWriting": {
+        "title": "Dự Án Viết Sáng Tạo",
+        "description": "Từ fanfiction đến tác phẩm thần thoại gốc, trình tạo của chúng tôi cung cấp những cái tên hoàn hảo cho bất kỳ nỗ lực sáng tạo nào."
+      }
+    },
+    "supportedTypes": {
+      "title": "Các Loại Elf Được Hỗ Trợ Trong Trình Tạo Của Chúng Tôi",
+      "woodElf": {
+        "title": "Tên Elf Rừng",
+        "description": "Tên kết nối với thiên nhiên cho người bảo vệ rừng và cư dân sylvan."
+      },
+      "darkElf": {
+        "title": "Tên Elf Bóng Tối / Drow",
+        "description": "Tên bí ẩn từ underdark với âm hưởng bóng tối."
+      },
+      "halfElf": {
+        "title": "Tên Nửa Elf",
+        "description": "Tên di sản hỗn hợp kết hợp truyền thống con người và elven."
+      },
+      "highElf": {
+        "title": "Tên High Elf",
+        "description": "Tên quý tộc và tao nhã cho tầng lớp quý tộc elvish."
+      },
+      "moonElf": {
+        "title": "Tên Moon Elf",
+        "description": "Tên lấy cảm hứng từ thiên thể với chủ đề mặt trăng và ban đêm."
+      },
+      "sunElf": {
+        "title": "Tên Sun Elf",
+        "description": "Tên rạng rỡ tôn vinh ánh sáng và sức mạnh mặt trời."
+      },
+      "wildElf": {
+        "title": "Tên Wild Elf",
+        "description": "Tên nguyên thủy cho nhân vật elf hoang dã và man rợ."
+      },
+      "seaElf": {
+        "title": "Tên Sea Elf",
+        "description": "Tên thủy sinh lấy cảm hứng từ độ sâu đại dương và sinh vật biển."
+      },
+      "snowElf": {
+        "title": "Tên Snow Elf",
+        "description": "Tên Bắc Cực phản ánh băng, tuyết và chủ đề mùa đông."
+      }
+    },
+    "gallery": {
+      "title": "Ví Dụ Nhân Vật Elf",
+      "description": "Khám phá các loại elf khác nhau và tên đặc trưng của chúng thông qua thư viện hình ảnh của chúng tôi.",
+      "woodElf": {
+        "alt": "Nhân Vật Wood Elf Ranger",
+        "title": "Wood Elf Ranger",
+        "description": "Một người bảo vệ rừng lành nghề với tên phản ánh sự hài hòa của thiên nhiên."
+      },
+      "darkElf": {
+        "alt": "Nhân Vật Dark Elf Mage",
+        "title": "Dark Elf Mage",
+        "description": "Một pháp sư bí ẩn từ underdark đầy bóng tối."
+      },
+      "highElf": {
+        "alt": "Nhân Vật High Elf Noble",
+        "title": "High Elf Noble",
+        "description": "Một elf quý tộc với tên xứng đáng với dòng dõi hoàng gia."
+      }
+    },
+    "categories": {
+      "title": "Danh Mục và Ý Nghĩa Trình Tạo Tên Elf"
+    },
+    "linguisticFeatures": {
+      "title": "Tính Năng Ngôn Ngữ Học Trình Tạo Tên Elf"
+    },
+    "collection": {
+      "title": "Bộ Sưu Tập Trình Tạo Tên Elf"
+    },
+    "conclusion": {
+      "title": "Bắt Đầu Tạo Những Cái Tên Elf Tuyệt Vời Ngay Hôm Nay",
+      "paragraph1": "Dù bạn đang tạo ra một Wood Elf ranger, một Dark Elf rogue bí ẩn, hay một High Elf wizard quý tộc, trình tạo tên elf tối cao của chúng tôi cung cấp điểm khởi đầu hoàn hảo cho hành trình tạo nhân vật của bạn.",
+      "paragraph2": "Tham gia cùng hàng nghìn người sáng tạo thần thoại tin tưởng vào công cụ của chúng tôi để có những cái tên nhân vật chính thống, đáng nhớ. Từ các chiến dịch D&D đến tiểu thuyết thần thoại hoành tráng, hãy để trình tạo của chúng tôi thổi sức sống vào những nhân vật elvish của bạn với những cái tên thực sự nắm bắt được bản chất của chúng.",
+      "generateButton": "Tạo Tên Elf Ngay Bây Giờ",
+      "exploreButton": "Khám Phá Các Loại Elf"
+    }
+  }
+}
