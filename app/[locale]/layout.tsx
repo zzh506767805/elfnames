@@ -29,6 +29,11 @@ export default async function LocaleLayout({
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#3b82f6" />
+        <script 
+          async 
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8366783560808157"
+          crossOrigin="anonymous"
+        />
       </head>
       <body className={inter.className}>
         <NextIntlClientProvider messages={messages}>
