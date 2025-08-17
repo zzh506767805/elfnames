@@ -3,12 +3,17 @@ import { Badge } from "@/components/ui/badge";
 import { Sparkles, Book, Users, Zap, TreePine, Moon, Sun, Waves, Snowflake, Eye } from "lucide-react";
 import SEOImageGallery from './SEOImageGallery';
 import Link from 'next/link';
+import { useLocale } from 'next-intl';
+import { buildLocalizedPath } from '../lib/pathUtils';
 
 interface ElfNameSEOProps {
   translations: (key: string) => string;
 }
 
 export default function ElfNameSEO({ translations: t }: ElfNameSEOProps) {
+  const currentLocale = useLocale();
+  const homeHref = buildLocalizedPath(currentLocale as any, []);
+  
   return (
     <div className="bg-white py-16">
       <div className="container mx-auto px-4">
@@ -780,7 +785,7 @@ export default function ElfNameSEO({ translations: t }: ElfNameSEOProps) {
             </div>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mt-8">
               <Link 
-                href="/"
+                href={homeHref}
                 className="px-8 py-3 rounded-lg font-semibold bg-blue-600 text-white hover:bg-blue-700 transition-colors"
               >
                 🧝‍♀️ {t('conclusion.generateButton')}

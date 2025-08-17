@@ -86,6 +86,276 @@
     "title": "Bahasa",
     "selectLanguage": "Pilih Bahasa"
   },
+  "navigation": {
+    "title": "Generator Nama Peri Khusus",
+    "description": "Jelajahi koleksi generator nama peri khusus kami, masing-masing disesuaikan untuk jenis peri, gender, dan pengaturan fantasi tertentu.",
+    "sectionLabel": "Generator Nama Peri Khusus",
+    "categories": {
+      "elfTypes": "Jenis Peri",
+      "genderSpecific": "Khusus Gender",
+      "styleSpecific": "Gaya & Pengaturan"
+    },
+    "woodElf": {
+      "title": "Generator Nama Peri Hutan",
+      "description": "Hasilkan nama peri penghuni hutan yang otentik dengan tema alam dan pesona hutan."
+    },
+    "darkElf": {
+      "title": "Generator Nama Peri Gelap",
+      "description": "Buat nama peri gelap misterius dengan tema bayangan dan budaya bawah tanah."
+    },
+    "highElf": {
+      "title": "Generator Nama Peri Tinggi",
+      "description": "Hasilkan nama peri tinggi yang mulia dengan keanggunan aristokrat dan warisan magis."
+    },
+    "bloodElf": {
+      "title": "Generator Nama Peri Darah",
+      "description": "Buat nama peri darah dengan tema sihir dan legenda kecanduan magis."
+    },
+    "femaleElf": {
+      "title": "Generator Nama Peri Wanita",
+      "description": "Hasilkan nama peri wanita yang indah dengan keanggunan dan kegrasiaan feminin."
+    },
+    "tolkienElf": {
+      "title": "Generator Nama Peri Tolkien",
+      "description": "Buat nama peri gaya Tolkien yang otentik yang terinspirasi dari legenda Middle-earth."
+    },
+    "dndElf": {
+      "title": "Generator Nama Peri D&D",
+      "description": "Hasilkan nama peri D&D mengikuti konvensi Player's Handbook resmi."
+    },
+    "elvenName": {
+      "title": "Generator Nama Elven",
+      "description": "Buat nama elven klasik dengan pola linguistik elvish tradisional."
+    },
+    "elfRandomizer": {
+      "title": "Pengacak Nama Peri",
+      "description": "Hasilkan secara acak nama peri yang beragam dari semua jenis dan budaya."
+    }
+  },
+  "darkElf": {
+    "metadata": {
+      "title": "Generator Nama Dark Elf - Nama Peri Misterius Otentik",
+      "description": "Hasilkan nama dark elf otentik secara instan. Sempurna untuk karakter drow, penyusup, dan petualang gelap di D&D dan fantasi.",
+      "keywords": "generator nama dark elf, nama dark elf, nama drow, generator nama dark elf dnd, nama shadow elf",
+      "openGraphTitle": "Generator Nama Dark Elf - Buat Nama Bayangan Magis",
+      "openGraphDescription": "Temukan nama dark elf otentik menggunakan generator khusus kami. Sempurna untuk karakter D&D misterius.",
+      "twitterTitle": "Generator Nama Dark Elf - Nama Bayangan Otentik",
+      "twitterDescription": "Hasilkan nama dark elf unik untuk petualangan fantasi dan kampanye D&D Anda."
+    },
+    "seo": {
+      "structuredDataName": "Generator Nama Dark Elf",
+      "structuredDataDescription": "Hasilkan nama dark elf otentik untuk karakter fantasi, permainan RPG, dan penulisan kreatif. Buat nama drow misterius dengan tema bayangan dan budaya bawah tanah.",
+      "breadcrumbGenerator": "Generator Nama Dark Elf",
+      "noScriptTitle": "Generator Nama Dark Elf - Buat Nama Drow",
+      "noScriptDescription": "Hasilkan nama dark elf otentik untuk karakter fantasi Anda. Generator nama dark elf ini menciptakan nama sempurna untuk penyusup, drow, dan elf misterius.",
+      "toolLabel": "Alat Generasi Nama Dark Elf",
+      "infoLabel": "Informasi dan Panduan Nama Dark Elf"
+    }
+  },
+  "darkElfSeo": {
+    "introduction": {
+      "title": "Generator Nama Dark Elf - Buat Nama Bayangan Misterius",
+      "paragraph1": "Generator nama dark elf khusus kami menciptakan nama otentik untuk elf yang paling misterius dan gelap dari semua ras peri. Dark elf, juga dikenal sebagai drow, terkenal dengan budaya bawah tanah yang kompleks, sihir bayangan, dan masyarakat yang rumit.",
+      "paragraph2": "Generator nama dark elf menggabungkan pola linguistik yang mengalir dan tema bayangan yang khas dari peradaban dark elf, menekankan kualitas melodik dan elemen misterius yang mendefinisikan warisan gelap mereka."
+    },
+    "whatIs": {
+      "title": "Apa yang Membuat Nama Dark Elf Istimewa?",
+      "paragraph1": "Nama dark elf yang dihasilkan oleh generator khusus kami biasanya menampilkan suku kata elegan, referensi bayangan, dan terminologi misterius yang mendefinisikan budaya dark elf. Nama-nama ini sering menggabungkan elemen yang terkait dengan bayangan, dunia bawah, dan kekuatan tersembunyi.",
+      "paragraph2": "Konvensi penamaan dark elf tradisional mencakup referensi ke konsep bayangan (gelap, malam, kedalaman), pencarian rahasia (penyusupan, penipuan, penguasaan), dan elemen misterius (kristal, api, energi). Generator kami menggabungkan elemen-elemen kompleks ini untuk menciptakan nama yang mewujudkan kekuatan misterius dan keanggunan gelap."
+    }
+  },
+  "bloodElf": {
+    "metadata": {
+      "title": "Generator Nama Blood Elf - Nama Mistis Arkane",
+      "description": "Hasilkan nama blood elf otentik secara instan. Sempurna untuk karakter magis, pelempar mantra arkane, dan RPG fantasi.",
+      "keywords": "generator nama blood elf, nama blood elf, nama elf magis, generator blood elf, nama elf mistis",
+      "openGraphTitle": "Generator Nama Blood Elf - Buat Nama Mistis Arkane",
+      "openGraphDescription": "Hasilkan nama blood elf otentik secara instan. Sempurna untuk karakter magis dan pelempar mantra arkane.",
+      "twitterTitle": "Generator Nama Blood Elf - Nama Mistis Arkane",
+      "twitterDescription": "Hasilkan nama blood elf otentik secara instan. Sempurna untuk karakter magis dan pelempar mantra arkane."
+    },
+    "seo": {
+      "structuredDataName": "Generator Nama Blood Elf",
+      "structuredDataDescription": "Hasilkan nama blood elf otentik untuk karakter fantasi, permainan RPG, dan penulisan kreatif. Buat nama elf dengan tema magis, kekuatan mistis, dan warisan sihir.",
+      "breadcrumbGenerator": "Generator Nama Blood Elf",
+      "noScriptTitle": "Generator Nama Blood Elf - Buat Nama Elf Magis",
+      "noScriptDescription": "Hasilkan nama blood elf otentik untuk karakter fantasi Anda. Generator nama blood elf ini menciptakan nama sempurna untuk pelempar mantra arkane dan karakter elf magis.",
+      "toolLabel": "Alat Generasi Nama Blood Elf",
+      "infoLabel": "Informasi dan Panduan Nama Blood Elf Magis"
+    }
+  },
+  "bloodElfSeo": {
+    "introduction": {
+      "title": "Generator Nama Blood Elf - Buat Nama Mistis Arkane",
+      "paragraph1": "Generator nama blood elf khusus kami menciptakan nama otentik untuk ras elf yang paling berbakat secara magis dan berfokus pada arkane. Blood elf terkenal dengan penguasaan seni magis, kecanggihan elegan, dan hubungan kompleks dengan kekuatan arkane.",
+      "paragraph2": "Generator nama blood elf menggabungkan pola linguistik yang mengalir dan tema magis yang khas dari peradaban blood elf, menekankan kualitas melodik dan elemen mistis yang mendefinisikan warisan magis mereka."
+    },
+    "whatIs": {
+      "title": "Apa yang Membuat Nama Blood Elf Istimewa?",
+      "paragraph1": "Nama blood elf yang dihasilkan oleh generator khusus kami biasanya menampilkan suku kata elegan, referensi magis, dan terminologi arkane yang mendefinisikan budaya blood elf. Nama-nama ini sering menggabungkan elemen yang terkait dengan sekolah magis dan fenomena mistis.",
+      "paragraph2": "Konvensi penamaan blood elf tradisional mencakup referensi ke konsep magis (sihir, penyihiran, transmutasi), pencarian ilmiah (penelitian, studi, penguasaan), dan elemen mistis (kristal, api, energi). Generator kami menggabungkan elemen-elemen kompleks ini untuk menciptakan nama yang mewujudkan kekuatan magis dan keanggunan yang dipoles."
+    }
+  },
+  "highElf": {
+    "metadata": {
+      "title": "Generator Nama High Elf - Nama Aristokrat Mulia",
+      "description": "Hasilkan nama high elf otentik secara instan. Sempurna untuk bangsawan, penyihir, dan karakter aristokrat di D&D dan fantasi.",
+      "keywords": "generator nama high elf, nama high elf, nama elf mulia, generator high elf dnd, nama elf aristokrat",
+      "openGraphTitle": "Generator Nama High Elf - Buat Nama Mulia Elegan",
+      "openGraphDescription": "Temukan nama high elf otentik menggunakan generator khusus kami. Sempurna untuk karakter D&D mulia.",
+      "twitterTitle": "Generator Nama High Elf - Nama Mulia Otentik",
+      "twitterDescription": "Hasilkan nama high elf unik untuk petualangan fantasi dan kampanye D&D Anda."
+    },
+    "seo": {
+      "structuredDataName": "Generator Nama High Elf",
+      "structuredDataDescription": "Hasilkan nama high elf otentik untuk karakter fantasi, permainan RPG, dan penulisan kreatif. Buat nama mulia dengan keanggunan aristokrat dan warisan magis.",
+      "breadcrumbGenerator": "Generator Nama High Elf",
+      "noScriptTitle": "Generator Nama High Elf - Buat Nama Elf Mulia",
+      "noScriptDescription": "Hasilkan nama high elf otentik untuk karakter fantasi Anda. Generator nama high elf ini menciptakan nama sempurna untuk bangsawan, penyihir, dan karakter aristokrat.",
+      "toolLabel": "Alat Generasi Nama High Elf",
+      "infoLabel": "Informasi dan Panduan Nama High Elf Mulia"
+    }
+  },
+  "highElfSeo": {
+    "introduction": {
+      "title": "Generator Nama High Elf - Buat Nama Aristokrat Mulia",
+      "paragraph1": "Generator nama high elf khusus kami menciptakan nama otentik untuk ras elf yang paling mulia dan aristokrat. High elf terkenal dengan budaya yang dipoles, warisan magis kuno, dan kebijaksanaan akademis.",
+      "paragraph2": "Generator nama high elf menggabungkan pola linguistik yang mengalir dan tema mulia yang khas dari peradaban high elf, menekankan kualitas melodik dan elemen aristokrat yang mendefinisikan warisan mulia mereka."
+    },
+    "whatIs": {
+      "title": "Apa yang Membuat Nama High Elf Istimewa?",
+      "paragraph1": "Nama high elf yang dihasilkan oleh generator khusus kami biasanya menampilkan suku kata elegan, referensi mulia, dan terminologi aristokrat yang mendefinisikan budaya high elf. Nama-nama ini sering menggabungkan elemen yang terkait dengan kemulian dan kebijaksanaan kuno.",
+      "paragraph2": "Konvensi penamaan high elf tradisional mencakup referensi ke konsep mulia (kehormatan, kebijaksanaan, kemulian), pencarian akademis (pengetahuan, studi, penguasaan), dan elemen elegan (emas, perak, kristal). Generator kami menggabungkan elemen-elemen kompleks ini untuk menciptakan nama yang mewujudkan kemulian aristokrat dan keanggunan yang dipoles."
+    }
+  },
+  "femaleElf": {
+    "metadata": {
+      "title": "Generator Nama Female Elf - Nama Peri Feminin Elegan",
+      "description": "Hasilkan nama female elf otentik secara instan. Sempurna untuk karakter wanita, pejuang, dan penyihir di D&D dan fantasi.",
+      "keywords": "generator nama female elf, nama female elf, nama elf wanita, generator nama elf perempuan, nama elf cantik",
+      "openGraphTitle": "Generator Nama Female Elf - Buat Nama Feminin Elegan",
+      "openGraphDescription": "Temukan nama female elf otentik menggunakan generator khusus kami. Sempurna untuk karakter D&D feminin.",
+      "twitterTitle": "Generator Nama Female Elf - Nama Feminin Otentik",
+      "twitterDescription": "Hasilkan nama female elf unik untuk petualangan fantasi dan kampanye D&D Anda."
+    },
+    "seo": {
+      "structuredDataName": "Generator Nama Female Elf",
+      "structuredDataDescription": "Hasilkan nama female elf otentik untuk karakter fantasi, permainan RPG, dan penulisan kreatif. Buat nama feminin dengan keanggunan dan kecantikan elf.",
+      "breadcrumbGenerator": "Generator Nama Female Elf",
+      "noScriptTitle": "Generator Nama Female Elf - Buat Nama Elf Feminin",
+      "noScriptDescription": "Hasilkan nama female elf otentik untuk karakter fantasi Anda. Generator nama female elf ini menciptakan nama sempurna untuk pejuang, penyihir, dan karakter feminin.",
+      "toolLabel": "Alat Generasi Nama Female Elf",
+      "infoLabel": "Informasi dan Panduan Nama Female Elf"
+    }
+  },
+  "femaleElfSeo": {
+    "introduction": {
+      "title": "Generator Nama Female Elf - Buat Nama Feminin Cantik",
+      "paragraph1": "Generator nama female elf khusus kami menciptakan nama otentik yang mewujudkan kecantikan, keanggunan, dan kekuatan feminin elf. Female elf terkenal dengan kecantikan luar biasa, kebijaksanaan mendalam, dan kemampuan magis yang menakjubkan.",
+      "paragraph2": "Generator nama female elf menggabungkan pola linguistik yang mengalir dan tema feminin yang khas, menekankan kualitas melodik dan elemen cantik yang mendefinisikan feminitas elf."
+    },
+    "whatIs": {
+      "title": "Apa yang Membuat Nama Female Elf Istimewa?",
+      "paragraph1": "Nama female elf yang dihasilkan oleh generator khusus kami biasanya menampilkan suku kata melodik, referensi cantik, dan terminologi feminin yang mendefinisikan kecantikan elf. Nama-nama ini sering menggabungkan elemen yang terkait dengan alam, kecantikan, dan kebijaksanaan.",
+      "paragraph2": "Konvensi penamaan female elf tradisional mencakup referensi ke konsep cantik (bunga, cahaya, bulan), sifat feminin (keanggunan, kecantikan, kebijaksanaan), dan elemen alami (bintang, air, angin). Generator kami menggabungkan elemen-elemen ini untuk menciptakan nama yang mewujudkan kecantikan dan kekuatan feminin."
+    }
+  },
+  "dndElf": {
+    "metadata": {
+      "title": "Generator Nama D&D Elf - Nama untuk Karakter Dungeons & Dragons",
+      "description": "Hasilkan nama D&D elf otentik secara instan. Sempurna untuk kampanye Dungeons & Dragons dan karakter bermain peran.",
+      "keywords": "generator nama D&D elf, nama elf dnd, nama elf dungeons dragons, generator elf D&D, nama karakter dnd",
+      "openGraphTitle": "Generator Nama D&D Elf - Buat Nama Kampanye Otentik",
+      "openGraphDescription": "Temukan nama D&D elf otentik menggunakan generator khusus kami. Sempurna untuk kampanye Dungeons & Dragons.",
+      "twitterTitle": "Generator Nama D&D Elf - Nama Kampanye Otentik",
+      "twitterDescription": "Hasilkan nama D&D elf unik untuk kampanye dan karakter bermain peran Anda."
+    },
+    "seo": {
+      "structuredDataName": "Generator Nama D&D Elf",
+      "structuredDataDescription": "Hasilkan nama D&D elf otentik untuk kampanye Dungeons & Dragons dan permainan RPG. Buat nama yang mengikuti konvensi D&D resmi dan warisan permainan.",
+      "breadcrumbGenerator": "Generator Nama D&D Elf",
+      "noScriptTitle": "Generator Nama D&D Elf - Buat Nama Kampanye D&D",
+      "noScriptDescription": "Hasilkan nama D&D elf otentik untuk karakter dan kampanye Anda. Generator nama D&D elf ini menciptakan nama sempurna untuk semua jenis elf di Dungeons & Dragons.",
+      "toolLabel": "Alat Generasi Nama D&D Elf",
+      "infoLabel": "Informasi dan Panduan Nama D&D Elf"
+    }
+  },
+  "dndElfSeo": {
+    "introduction": {
+      "title": "Generator Nama D&D Elf - Buat Nama Kampanye Otentik",
+      "paragraph1": "Generator nama D&D elf khusus kami menciptakan nama otentik yang mengikuti konvensi Dungeons & Dragons resmi dan warisan permainan yang kaya. Elf D&D datang dalam berbagai jenis, masing-masing dengan budaya dan tradisi penamaan yang unik.",
+      "paragraph2": "Generator nama D&D elf menggabungkan pola linguistik yang diadopsi dalam permainan dan tema budaya yang khas dari setiap jenis elf, menekankan keaslian dan kompatibilitas dengan dunia D&D."
+    },
+    "whatIs": {
+      "title": "Apa yang Membuat Nama D&D Elf Istimewa?",
+      "paragraph1": "Nama D&D elf yang dihasilkan oleh generator khusus kami ditandai dengan kepatuhan pada konvensi resmi Player's Handbook dan buku D&D inti. Nama-nama ini menggabungkan elemen yang terkait dengan berbagai jenis elf, habitat, dan budaya mereka.",
+      "paragraph2": "Konvensi penamaan D&D elf resmi mencakup referensi ke konsep elf tradisional (alam, sihir, kebijaksanaan), lokasi geografis (hutan, gunung, sungai), dan leluhur terkenal. Generator kami menggabungkan elemen-elemen ini untuk menciptakan nama yang selaras dengan dunia D&D resmi."
+    }
+  },
+  "tolkienElf": {
+    "metadata": {
+      "title": "Generator Nama Tolkien Elf - Nama Middle-earth Otentik",
+      "description": "Hasilkan nama Tolkien elf otentik secara instan. Sempurna untuk karakter Middle-earth, cerita terinspirasi Tolkien, dan fantasi klasik.",
+      "keywords": "generator nama tolkien elf, nama tolkien elf, nama elf middle earth, generator elf tolkien, nama sindarin",
+      "openGraphTitle": "Generator Nama Tolkien Elf - Buat Nama Middle-earth",
+      "openGraphDescription": "Temukan nama Tolkien elf otentik menggunakan generator khusus kami. Sempurna untuk cerita Middle-earth.",
+      "twitterTitle": "Generator Nama Tolkien Elf - Nama Middle-earth Otentik",
+      "twitterDescription": "Hasilkan nama Tolkien elf unik untuk cerita dan karakter terinspirasi Middle-earth Anda."
+    },
+    "seo": {
+      "structuredDataName": "Generator Nama Tolkien Elf",
+      "structuredDataDescription": "Hasilkan nama Tolkien elf otentik untuk karakter Middle-earth, cerita terinspirasi Tolkien, dan penulisan kreatif. Buat nama dengan gaya Sindarin dan Quenya otentik.",
+      "breadcrumbGenerator": "Generator Nama Tolkien Elf",
+      "noScriptTitle": "Generator Nama Tolkien Elf - Buat Nama Middle-earth",
+      "noScriptDescription": "Hasilkan nama Tolkien elf otentik untuk karakter fantasi Anda. Generator nama Tolkien elf ini menciptakan nama sempurna untuk cerita terinspirasi Middle-earth dan Tolkien.",
+      "toolLabel": "Alat Generasi Nama Tolkien Elf",
+      "infoLabel": "Informasi dan Panduan Nama Tolkien Elf"
+    }
+  },
+  "tolkienElfSeo": {
+    "introduction": {
+      "title": "Generator Nama Tolkien Elf - Buat Nama Middle-earth Otentik",
+      "paragraph1": "Generator nama Tolkien elf khusus kami menciptakan nama otentik yang terinspirasi dari karya abadi J.R.R. Tolkien dan Middle-earth legendaris. Elf Tolkien mewakili standar emas fantasi elf, dengan bahasa yang kaya, budaya yang mendalam, dan warisan mulia.",
+      "paragraph2": "Generator nama Tolkien elf menggabungkan pola linguistik otentik dari Sindarin dan Quenya, menekankan kualitas melodik dan elemen puitis yang mendefinisikan warisan Middle-earth."
+    },
+    "whatIs": {
+      "title": "Apa yang Membuat Nama Tolkien Elf Istimewa?",
+      "paragraph1": "Nama Tolkien elf yang dihasilkan oleh generator khusus kami ditandai dengan keaslian linguistik dan kedalaman budaya yang berasal dari karya Tolkien. Nama-nama ini menggabungkan elemen dari bahasa Sindarin dan Quenya serta tradisi puitis Middle-earth.",
+      "paragraph2": "Konvensi penamaan Tolkien elf otentik mencakup referensi ke konsep alami (bintang, cahaya, pohon), sifat mulia (kebijaksanaan, kecantikan, kehormatan), dan elemen mitologis (Silmaril, Valinor, Elven). Generator kami menggabungkan elemen-elemen ini untuk menciptakan nama yang selaras dengan visi asli Tolkien."
+    }
+  },
+  "elvenName": {
+    "metadata": {
+      "title": "Generator Nama Elven - Nama Elf Klasik Tradisional",
+      "description": "Hasilkan nama elven klasik otentik secara instan. Sempurna untuk karakter elf tradisional, fantasi klasik, dan cerita epik.",
+      "keywords": "generator nama elven, nama elven, nama elf klasik, generator nama elf, nama elf tradisional",
+      "openGraphTitle": "Generator Nama Elven - Buat Nama Elf Klasik",
+      "openGraphDescription": "Temukan nama elven klasik otentik menggunakan generator khusus kami. Sempurna untuk fantasi tradisional.",
+      "twitterTitle": "Generator Nama Elven - Nama Elf Klasik",
+      "twitterDescription": "Hasilkan nama elven unik untuk cerita dan karakter klasik Anda."
+    },
+    "seo": {
+      "structuredDataName": "Generator Nama Elven",
+      "structuredDataDescription": "Hasilkan nama elven klasik otentik untuk karakter fantasi, cerita tradisional, dan penulisan kreatif. Buat nama dengan pola linguistik elf tradisional.",
+      "breadcrumbGenerator": "Generator Nama Elven",
+      "noScriptTitle": "Generator Nama Elven - Buat Nama Elf Klasik",
+      "noScriptDescription": "Hasilkan nama elven klasik otentik untuk karakter fantasi Anda. Generator nama elven ini menciptakan nama sempurna untuk karakter elf tradisional dan fantasi klasik.",
+      "toolLabel": "Alat Generasi Nama Elven",
+      "infoLabel": "Informasi dan Panduan Nama Elven"
+    }
+  },
+  "elvenNameSeo": {
+    "introduction": {
+      "title": "Generator Nama Elven - Buat Nama Elf Klasik Tradisional",
+      "paragraph1": "Generator nama elven khusus kami menciptakan nama klasik otentik yang mewujudkan esensi tradisi elf tradisional. Nama elven klasik mewakili kecantikan abadi, kebijaksanaan kuno, dan keanggunan alami elf di semua tradisi fantasi.",
+      "paragraph2": "Generator nama elven menggabungkan pola linguistik tradisional dan tema elf klasik, menekankan kualitas melodik dan elemen puitis yang mendefinisikan kecantikan elf abadi."
+    },
+    "whatIs": {
+      "title": "Apa yang Membuat Nama Elven Klasik Istimewa?",
+      "paragraph1": "Nama elven yang dihasilkan oleh generator khusus kami ditandai dengan keaslian tradisional dan kecantikan linguistik yang berasal dari warisan elf klasik. Nama-nama ini menggabungkan elemen alami, puitis, dan mulia yang mewakili nilai-nilai elf tradisional.",
+      "paragraph2": "Konvensi penamaan elven klasik mencakup referensi ke konsep alami (bulan, bintang, angin), sifat cantik (keanggunan, rahmat, kebijaksanaan), dan elemen magis (cahaya, mimpi, lagu). Generator kami menggabungkan elemen-elemen ini untuk menciptakan nama yang mewujudkan kecantikan elf abadi."
+    }
+  },
   "seo": {
     "structuredDataName": "Generator Nama Peri Terbaik",
     "structuredDataDescription": "Hasilkan nama peri fantasi otentik untuk peri hutan, peri gelap, separuh peri, dan karakter D&D dengan generator nama peri terbaik kami.",
@@ -281,6 +551,802 @@
       "paragraph2": "Bergabunglah dengan ribuan kreator fantasi yang mengandalkan tool kami untuk nama karakter otentik dan berkesan. Dari kampanye D&D hingga novel fantasi epik, biarkan generator kami menghidupkan karakter peri Anda dengan nama yang benar-benar menangkap esensi mereka.",
       "generateButton": "Hasilkan Nama Peri Sekarang",
       "exploreButton": "Jelajahi Jenis Peri"
+    }
+  },
+  "woodElf": {
+    "metadata": {
+      "title": "Generator Nama Wood Elf - Nama Peri Hutan Otentik",
+      "description": "Hasilkan nama wood elf otentik dengan generator khusus kami. Sempurna untuk ranger, druid, dan karakter yang terhubung dengan alam dalam D&D dan fantasi.",
+      "keywords": "generator nama wood elf, nama wood elf, generator nama wood elf untuk dnd, nama peri alam, generator wood elf",
+      "openGraphTitle": "Generator Nama Wood Elf - Buat Nama Hutan Ajaib",
+      "openGraphDescription": "Temukan nama wood elf otentik dengan generator khusus kami. Sempurna untuk karakter D&D yang terhubung dengan alam.",
+      "twitterTitle": "Generator Nama Wood Elf - Nama Hutan Otentik",
+      "twitterDescription": "Hasilkan nama wood elf unik untuk petualangan fantasi dan kampanye D&D Anda."
+    },
+    "seo": {
+      "structuredDataName": "Generator Nama Wood Elf",
+      "structuredDataDescription": "Hasilkan nama wood elf otentik untuk karakter fantasi, game RPG, dan penulisan kreatif. Buat nama peri penghuni hutan dengan tema alam dan pesona sylvan.",
+      "breadcrumbGenerator": "Generator Nama Wood Elf",
+      "noScriptTitle": "Generator Nama Wood Elf - Buat Nama Wood Elf",
+      "noScriptDescription": "Hasilkan nama wood elf otentik untuk karakter fantasi Anda. Generator nama wood elf ini membuat nama sempurna untuk ranger, druid, dan peri pencinta alam.",
+      "toolLabel": "Alat Pembuatan Nama Wood Elf",
+      "infoLabel": "Informasi dan Panduan Nama Wood Elf"
+    }
+  },
+  "elvenSeo": {
+    "introduction": {
+      "title": "Generator Nama Elf Ultimate - Ciptakan Nama Magis Otentik",
+      "paragraph1": "Temukan kekuatan kreativitas tanpa batas dengan generator nama elf komprehensif kami. Baik Anda merancang karakter untuk kampanye D&D epik berikutnya, mengembangkan tokoh untuk novel fantasi Anda, atau memerlukan nama sempurna untuk karakter RPG online, generator canggih kami menghasilkan nama elf otentik dan bermakna yang menangkap esensi makhluk legendaris ini.",
+      "paragraph2": "Tool kami dengan hati-hati menggabungkan pola linguistik tradisional, referensi budaya, dan tradisi mitologis untuk menciptakan nama yang terasa alami dan magis. Dari suara melodi elf tinggi hingga gema misterius nama dark elf, generator kami memberikan keragaman pilihan otentik yang tak tertandingi."
+    },
+    "whatIs": {
+      "title": "Apa yang Membuat Nama Elf Istimewa?",
+      "paragraph1": "Nama elf membawa warisan kaya tradisi mitologis dan kedalaman budaya. Tidak seperti nama biasa, nama elf biasanya mencakup elemen alam, sihir, benda langit, dan ideal mulia. Nama-nama ini dicirikan oleh suara melodi, struktur puitis, dan koneksi mendalam dengan elemen dan kekuatan mistis.",
+      "paragraph2": "Konvensi penamaan elf tradisional mencakup referensi cahaya (Ail = bintang), alam (Galad = pohon), kebajikan (Mithril = perak), dan elemen (Thrandiel = pria kuat). Generator kami menggabungkan elemen klasik ini dengan inovasi modern untuk menciptakan nama yang menghormati tradisi sambil terasa segar dan otentik."
+    },
+    "types": {
+      "title": "Jenis Generator Nama Elf",
+      "description": "Dunia elf beragam, begitu pula tradisi penamaan mereka. Generator komprehensif kami menawarkan gaya khusus untuk setiap jenis elf utama:",
+      "classic": {
+        "title": "Nama Elf Klasik",
+        "description": "Terinspirasi dari tradisi folklore Eropa, nama-nama ini menampilkan suara melodi dan koneksi dengan alam dan sihir."
+      },
+      "halfElf": {
+        "title": "Nama Half-Elf",
+        "description": "Memadukan tradisi elf dan manusia, mencerminkan sifat ganda karakter unik ini."
+      },
+      "woodElf": {
+        "title": "Nama Wood Elf",
+        "description": "Berfokus pada alam dan kehidupan liar, dengan referensi pohon, hewan, dan elemen hutan."
+      },
+      "darkElf": {
+        "title": "Nama Dark Elf (Drow)",
+        "description": "Menggabungkan elemen misterius dan kuat, mencerminkan sifat kompleks dan kontroversial elf ini."
+      },
+      "dnd": {
+        "title": "Nama Elf D&D",
+        "description": "Dirancang khusus untuk game Dungeons & Dragons, mengikuti lore resmi dan tradisi penamaan."
+      },
+      "gender": {
+        "title": "Nama Elf Berdasarkan Gender",
+        "description": "Menawarkan pilihan nama maskulin, feminin, dan netral gender untuk memenuhi semua kebutuhan pembuatan karakter."
+      }
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan Generator Nama Elf",
+      "description": "Memulai dengan generator nama elf kami mudah dan intuitif. Ikuti langkah sederhana ini untuk menciptakan nama sempurna untuk karakter Anda:",
+      "step1": {
+        "title": "Pilih Jenis Elf",
+        "description": "Pilih dari Wood Elf, Dark Elf, Half-Elf, High Elf, atau opsi lain yang tersedia."
+      },
+      "step2": {
+        "title": "Sesuaikan Pengaturan",
+        "description": "Pilih gender, gaya penamaan, dan persyaratan khusus untuk karakter Anda."
+      },
+      "step3": {
+        "title": "Generate dan Pilih",
+        "description": "Klik untuk menghasilkan daftar nama elf otentik dan pilih yang paling cocok dengan karakter Anda."
+      }
+    },
+    "whyEssential": {
+      "title": "Mengapa Generator Nama Elf adalah Tool Penting untuk Penulis dan Gamer",
+      "saveTime": {
+        "title": "Menghemat Waktu Kreatif",
+        "description": "Lewati jam-jam brainstorming dan riset. Generator kami memberikan nama bersuara otentik dengan kedalaman budaya secara instan."
+      },
+      "creativity": {
+        "title": "Meningkatkan Kreativitas",
+        "description": "Temukan pola penamaan unik dan kombinasi yang mungkin tidak pernah Anda pikirkan sendiri."
+      },
+      "consistency": {
+        "title": "Memastikan Konsistensi",
+        "description": "Jaga konsistensi dunia fantasi Anda dengan nama yang mengikuti pola linguistik dan budaya yang ditetapkan."
+      },
+      "accessible": {
+        "title": "Dapat Diakses Semua Orang",
+        "description": "Baik Anda DM berpengalaman atau pemula fantasi, tool kami membuat pembuatan nama berkualitas tinggi dapat diakses semua orang."
+      }
+    },
+    "topFeatures": {
+      "title": "Fitur Utama yang Harus Dicari dalam Generator Nama Elf",
+      "description": "Tidak semua generator nama elf dibuat sama. Inilah yang membedakan tool kami dari yang lain:",
+      "diverse": {
+        "title": "Jenis Elf Beragam",
+        "description": "Dukungan untuk semua subras elf utama - Wood Elf, Dark Elf, High Elf, dan lainnya, masing-masing dengan pola penamaan budaya otentik mereka sendiri."
+      },
+      "gender": {
+        "title": "Opsi Gender",
+        "description": "Pilihan gender inklusif termasuk konvensi penamaan maskulin, feminin, dan non-biner untuk pembuatan karakter yang inklusif."
+      },
+      "customizable": {
+        "title": "Pengaturan yang Dapat Disesuaikan",
+        "description": "Sesuaikan gaya penamaan, pengaruh budaya, dan persyaratan khusus untuk menciptakan nama yang sesuai dengan visi Anda."
+      },
+      "free": {
+        "title": "Gratis untuk Digunakan",
+        "description": "Akses semua fitur tanpa registrasi atau pembayaran. Buat nama tak terbatas untuk semua proyek kreatif Anda."
+      }
+    },
+    "popularUses": {
+      "title": "Penggunaan Populer Generator Nama Elf",
+      "description": "Temukan bagaimana kreator di berbagai media menggunakan generator nama elf kami untuk meningkatkan proyek mereka:",
+      "tabletop": {
+        "title": "Kampanye RPG Tabletop",
+        "description": "Sempurna untuk D&D, Pathfinder, dan fantasy RPG lainnya. Ciptakan NPC dan karakter pemain yang berkesan dengan nama bersuara otentik."
+      },
+      "novels": {
+        "title": "Novel dan Cerita Fantasi",
+        "description": "Penulis menggunakan generator kami untuk menciptakan nama karakter yang konsisten dan dapat dipercaya yang meningkatkan worldbuilding fantasi."
+      },
+      "onlineGames": {
+        "title": "Gaming Online",
+        "description": "Menemukan nama sempurna untuk karakter MMO atau RPG Anda menjadi mudah dengan generator komprehensif kami."
+      },
+      "creativeWriting": {
+        "title": "Penulisan Kreatif",
+        "description": "Dari cerita pendek hingga epos, generator kami menyediakan nama yang memperkaya narasi fantasi apa pun."
+      }
+    },
+    "supportedTypes": {
+      "title": "Jenis Karakter Elf yang Didukung",
+      "woodElf": {
+        "title": "Wood Elf",
+        "description": "Penghuni hutan pencinta alam yang dikenal karena kemampuan memanah dan koneksi mendalam dengan dunia alami."
+      },
+      "darkElf": {
+        "title": "Dark Elf (Drow)",
+        "description": "Elf penghuni bawah tanah dengan budaya kompleks dan gelap, terkenal karena sihir kuat dan sifat licik."
+      },
+      "halfElf": {
+        "title": "Half-Elf",
+        "description": "Makhluk warisan campuran yang menggabungkan kualitas terbaik elf dan manusia, sering bertindak sebagai jembatan antar dunia."
+      },
+      "highElf": {
+        "title": "High Elf",
+        "description": "Bangsawan elf yang dikenal karena kecerdasan, kekuatan magis, dan sifat anggun mereka."
+      },
+      "moonElf": {
+        "title": "Moon Elf",
+        "description": "Elf nokturnal yang menarik kekuatan dari cahaya bulan dan bintang, dikenal karena sifat misterius mereka."
+      },
+      "sunElf": {
+        "title": "Sun Elf",
+        "description": "Elf bercahaya yang memuja matahari dan cahaya, sering menjadi pemimpin dan pejuang."
+      },
+      "wildElf": {
+        "title": "Wild Elf",
+        "description": "Elf primitif yang hidup jauh di alam liar, jauh dari peradaban."
+      },
+      "seaElf": {
+        "title": "Sea Elf",
+        "description": "Elf akuatik yang hidup dekat lautan dan laut, terampil dalam sihir air."
+      },
+      "snowElf": {
+        "title": "Snow Elf",
+        "description": "Penghuni tanah beku yang telah beradaptasi dengan lingkungan es yang keras."
+      }
+    },
+    "gallery": {
+      "title": "Galeri Karakter Elf",
+      "description": "Jelajahi berbagai jenis karakter elf yang dapat Anda ciptakan dengan generator nama kami",
+      "woodElf": {
+        "alt": "Ranger Wood Elf di lingkungan hutan",
+        "title": "Ranger Wood Elf",
+        "description": "Pelindung alam ahli busur yang menjaga rahasia hutan kuno"
+      },
+      "darkElf": {
+        "alt": "Mage Dark Elf dengan sihir misterius",
+        "title": "Mage Dark Elf",
+        "description": "Penyihir kuat dari dunia bawah yang memanipulasi sihir gelap dan misterius"
+      },
+      "highElf": {
+        "alt": "Bangsawan High Elf dalam pakaian elegan",
+        "title": "Bangsawan High Elf",
+        "description": "Aristokrat bijak dan kuat yang dikenal karena kebijaksanaan dan kekuatan magis"
+      }
+    },
+    "categories": {
+      "title": "Kategori Nama Elf",
+      "natureInspired": {
+        "title": "Nama Terinspirasi Alam",
+        "description": "Nama yang mencerminkan hubungan mendalam antara elf dan dunia alami",
+        "examples": {
+          "silverleaf": {
+            "name": "Silverleaf",
+            "meaning": "Daun Perak"
+          },
+          "moonwhisper": {
+            "name": "Moonwhisper",
+            "meaning": "Bisikan Bulan"
+          },
+          "starweaver": {
+            "name": "Starweaver",
+            "meaning": "Penenun Bintang"
+          },
+          "windrunner": {
+            "name": "Windrunner",
+            "meaning": "Pelari Angin"
+          }
+        }
+      },
+      "nobleTitles": {
+        "title": "Gelar Bangsawan",
+        "description": "Nama yang menyampaikan status dan kehormatan dalam masyarakat elf",
+        "examples": {
+          "goldenbrow": {
+            "name": "Goldenbrow",
+            "meaning": "Alis Emas"
+          },
+          "crystalborn": {
+            "name": "Crystalborn",
+            "meaning": "Kelahiran Kristal"
+          },
+          "thornheart": {
+            "name": "Thornheart",
+            "meaning": "Hati Duri"
+          },
+          "stormcrown": {
+            "name": "Stormcrown",
+            "meaning": "Mahkota Badai"
+          }
+        }
+      },
+      "magicalNames": {
+        "title": "Nama Magis",
+        "description": "Nama yang mewujudkan kekuatan magis dan kebijaksanaan mistis elf",
+        "examples": {
+          "spellsong": {
+            "name": "Spellsong",
+            "meaning": "Lagu Mantra"
+          },
+          "runekeeper": {
+            "name": "Runekeeper",
+            "meaning": "Penjaga Rune"
+          },
+          "dreamweaver": {
+            "name": "Dreamweaver",
+            "meaning": "Penenun Mimpi"
+          },
+          "lightbringer": {
+            "name": "Lightbringer",
+            "meaning": "Pembawa Cahaya"
+          }
+        }
+      }
+    },
+    "linguisticFeatures": {
+      "title": "Fitur Linguistik Nama Elf",
+      "elvishLanguagePatterns": {
+        "title": "Pola Bahasa Elf",
+        "description": "Memahami fondasi linguistik yang membuat nama elf berbeda dan melodi",
+        "sindarin": {
+          "title": "Sindarin",
+          "description": "Bahasa elf yang paling umum digunakan, dikenal karena suara lembut dan mengalir",
+          "feature1": "Suara vokal mengalir (a, e, i, o, u)",
+          "feature2": "Kelompok konsonan lembut (th, nd, rn)",
+          "feature3": "Akhiran puitis (-iel, -wen, -ion)"
+        },
+        "quenya": {
+          "title": "Quenya",
+          "description": "Bahasa elf tinggi, lebih formal dan kuno",
+          "feature1": "Ritme formal dan megah",
+          "feature2": "Suku kata kompleks yang lebih panjang",
+          "feature3": "Akhiran aristokratis (-ë, -ár, -ion)"
+        },
+        "dndElvish": {
+          "title": "D&D Elvish",
+          "description": "Interpretasi modern bahasa elf untuk tabletop gaming",
+          "feature1": "Variasi suara yang seimbang",
+          "feature2": "Mudah diucapkan untuk pemain",
+          "feature3": "Pembedaan jelas antar subras"
+        }
+      },
+      "pronunciationGuide": {
+        "title": "Panduan Pengucapan",
+        "description": "Pelajari cara mengucapkan nama elf dengan benar untuk meningkatkan pengalaman roleplay",
+        "vowelSounds": {
+          "title": "Suara Vokal",
+          "sounds": {
+            "a": "seperti 'ah' dalam 'father'",
+            "e": "seperti 'ay' dalam 'day'",
+            "i": "seperti 'ee' dalam 'seen'",
+            "o": "seperti 'aw' dalam 'awe'",
+            "u": "seperti 'oo' dalam 'boot'"
+          }
+        },
+        "consonantCombinations": {
+          "title": "Kombinasi Konsonan",
+          "combinations": {
+            "th": "lembut, seperti 'think'",
+            "dh": "keras, seperti 'this'",
+            "ng": "seperti 'sing'",
+            "ch": "seperti 'loch' Skotlandia",
+            "r": "sedikit berguling"
+          }
+        }
+      }
+    },
+    "collection": {
+      "title": "Koleksi Lengkap Generator Nama Elf",
+      "woodElfGenerator": {
+        "title": "Generator Nama Wood Elf",
+        "description": "Nama khusus untuk pelindung alam dan penghuni hutan",
+        "feature1": "Referensi pohon dan hewan",
+        "feature2": "Suara alami dan earthy",
+        "feature3": "Tradisi penjagaan"
+      },
+      "darkElfGenerator": {
+        "title": "Generator Nama Dark Elf",
+        "description": "Nama yang mencerminkan sifat kompleks budaya drow",
+        "feature1": "Nada misterius",
+        "feature2": "Referensi kekuatan dan tipu daya",
+        "feature3": "Pengaruh dunia bawah"
+      },
+      "halfElfGenerator": {
+        "title": "Generator Nama Half-Elf",
+        "description": "Nama yang memadukan tradisi elf dan manusia",
+        "feature1": "Tradisi campuran",
+        "feature2": "Fleksibilitas budaya",
+        "feature3": "Keseimbangan unik"
+      },
+      "bloodElfGenerator": {
+        "title": "Generator Nama Blood Elf",
+        "description": "Nama untuk elf yang terpengaruh sihir terlarang",
+        "feature1": "Pengaruh magis",
+        "feature2": "Ambisi dan kekuatan",
+        "feature3": "Ciri aristokratis"
+      },
+      "elfNamesGenerator": {
+        "title": "Generator Nama Elf Umum",
+        "description": "Tool komprehensif untuk semua jenis elf",
+        "feature1": "Keragaman menyeluruh",
+        "feature2": "Opsi multikultural",
+        "feature3": "Fleksibilitas penggunaan"
+      },
+      "elfNameGeneratorDnd": {
+        "title": "Generator Nama Elf D&D",
+        "description": "Dirancang khusus untuk kampanye Dungeons & Dragons",
+        "feature1": "Kompatibilitas lore D&D",
+        "feature2": "Keragaman subras",
+        "feature3": "Nama ramah kampanye"
+      }
+    },
+    "relatedSites": {
+      "title": "Situs Terkait dan Tool Kreatif",
+      "description": "Temukan lebih banyak tool berguna untuk penulis, pengembang game, dan kreator",
+      "chineseNameGenerator": {
+        "title": "Generator Nama Cina",
+        "description": "Nama Cina otentik",
+        "url": "https://chinesename.pro"
+      },
+      "dressMeAI": {
+        "title": "DressMeAI",
+        "description": "Fashion AI",
+        "url": "https://dressmeai.xyz"
+      },
+      "dreamfinityX": {
+        "title": "DreamfinityX",
+        "description": "Platform kreatif",
+        "url": "https://dreamfinityx.com"
+      },
+      "aiNailsPro": {
+        "title": "AI Nails Pro",
+        "description": "Desain kuku AI",
+        "url": "https://ainails.pro"
+      },
+      "characterReadCanon": {
+        "title": "Character Read Canon",
+        "description": "Analisis karakter",
+        "url": "https://characterread.canon"
+      }
+    },
+    "structuredData": {
+      "appName": "Generator Nama Elf Ultimate",
+      "appDescription": "Generate nama elf otentik untuk Wood Elf, Dark Elf, Half-Elf, dan karakter D&D. Tool gratis untuk kreator fantasi.",
+      "keywords": "generator nama elf, nama elf, nama wood elf, nama dark elf, nama half elf, nama fantasi, D&D, nama magis",
+      "audienceType1": "Pemain tabletop",
+      "audienceType2": "Penulis fantasi",
+      "audienceType3": "Gamer online",
+      "audienceType4": "Pengembang game",
+      "feature1": "Nama elf otentik multi-jenis",
+      "feature2": "Opsi yang dapat disesuaikan",
+      "feature3": "Penggunaan gratis tak terbatas",
+      "feature4": "Desain responsif",
+      "feature5": "Pola penamaan budaya akurat",
+      "feature6": "Dukungan gender komprehensif",
+      "feature7": "Kompatibilitas D&D",
+      "feature8": "Interface user-friendly",
+      "faq1Question": "Bagaimana cara kerja generator nama elf?",
+      "faq1Answer": "Generator kami menggabungkan pola linguistik tradisional dan referensi budaya untuk menciptakan nama elf otentik untuk semua jenis elf utama.",
+      "faq2Question": "Apakah nama yang dihasilkan otentik?",
+      "faq2Answer": "Ya, semua nama mengikuti konvensi penamaan elf tradisional dan mencakup elemen dari folklore dan mitologi.",
+      "faq3Question": "Bisakah saya menggunakan nama ini untuk kampanye D&D?",
+      "faq3Answer": "Tentu saja! Nama kami dirancang untuk kompatibel dengan D&D dan game fantasi lainnya.",
+      "faq4Question": "Apakah layanan ini gratis digunakan?",
+      "faq4Answer": "Ya, generator nama elf kami sepenuhnya gratis dan tidak memerlukan registrasi."
+    },
+    "conclusion": {
+      "title": "Mulai Perjalanan Kreatif Anda Hari Ini",
+      "paragraph1": "Dengan generator nama elf komprehensif kami, Anda hanya beberapa klik dari menemukan nama sempurna untuk karakter elf berikutnya. Baik Anda menjelajahi kedalaman kampanye D&D, membuat dunia untuk novel Anda, atau mengembangkan karakter game video, tool kami mendukung perjalanan kreatif Anda.",
+      "paragraph2": "Bergabunglah dengan ribuan kreator yang mempercayai generator kami untuk menghidupkan karakter elf mereka. Mulai generate sekarang dan temukan nama yang akan menentukan nasib karakter Anda!"
+    }
+  },
+  "randomizer": {
+    "header": {
+      "title": "Pengacak Nama Elf",
+      "description": "Hasilkan nama elf yang beragam secara acak dari semua jenis dan budaya"
+    },
+    "metadata": {
+      "title": "Pengacak Nama Elf - Generator Nama Fantasi Acak",
+      "description": "Hasilkan nama elf acak secara instan dengan pengacak nama elf kami. Sempurna untuk pembuatan karakter cepat, pertemuan acak, dan kampanye RPG fantasi. Generator nama elf acak gratis.",
+      "keywords": "pengacak nama elf, nama elf acak, generator nama elf acak, pengacak nama fantasi, nama fantasi acak, generator acak nama elf, nama elf acak",
+      "openGraphTitle": "Pengacak Nama Elf - Generator Nama Fantasi Acak",
+      "openGraphDescription": "Hasilkan nama elf acak secara instan dengan pengacak nama elf kami. Sempurna untuk pembuatan karakter cepat, pertemuan acak, dan kampanye RPG fantasi.",
+      "twitterTitle": "Pengacak Nama Elf - Generator Nama Fantasi Acak",
+      "twitterDescription": "Hasilkan nama elf acak secara instan dengan pengacak nama elf kami. Sempurna untuk pembuatan karakter cepat, pertemuan acak, dan kampanye RPG fantasi."
+    },
+    "seo": {
+      "structuredDataName": "Pengacak Nama Elf",
+      "structuredDataDescription": "Hasilkan nama elf acak untuk karakter fantasi, kampanye RPG, dan penulisan kreatif. Buat nama elf yang beragam dengan alat pengacak nama elf komprehensif kami.",
+      "breadcrumbGenerator": "Pengacak Nama Elf",
+      "noScriptTitle": "Pengacak Nama Elf - Generator Nama Elf Acak",
+      "noScriptDescription": "Hasilkan nama elf acak secara instan dengan pengacak nama elf kami. Sempurna untuk membuat karakter elf yang beragam dan pertemuan fantasi acak.",
+      "toolLabel": "Alat Pengacakan Nama Elf",
+      "infoLabel": "Informasi dan Panduan Pengacak Nama Elf"
+    }
+  },
+  "randomizerSeo": {
+    "introduction": {
+      "title": "Pengacak Nama Elf - Generator Nama Fantasi Acak",
+      "paragraph1": "Pengacak nama elf komprehensif kami menyediakan akses instan ke ribuan nama elf yang beragam di semua budaya dan tradisi fantasi. Baik Anda membutuhkan inspirasi cepat untuk karakter baru, NPC acak untuk kampanye Anda, atau hanya ingin menjelajahi keragaman luas konvensi penamaan elf, pengacak nama elf ini memberikan hasil autentik dengan sekali klik.",
+      "paragraph2": "Pengacak nama elf menggabungkan pola linguistik elf tradisional dengan konvensi fantasi modern untuk menciptakan nama yang terasa autentik dan segar."
+    },
+    "whatIs": {
+      "title": "Apa itu Pengacak Nama Elf?",
+      "paragraph1": "Pengacak nama elf adalah alat khusus yang menghasilkan nama elf acak dari database komprehensif pola penamaan fantasi autentik.",
+      "paragraph2": "Pengacak nama elf tradisional hanya menggabungkan suku kata secara acak, tetapi sistem canggih kami mempertimbangkan keaslian linguistik, kesesuaian budaya, dan harmoni fonetik."
+    },
+    "types": {
+      "title": "Kategori Nama Elf Acak",
+      "description": "Pengacak nama elf kami mencakup semua budaya elf utama dan tradisi penamaan, memastikan hasil acak yang beragam dan autentik.",
+      "classic": {
+        "title": "",
+        "description": ""
+      },
+      "halfElf": {
+        "title": "",
+        "description": ""
+      },
+      "woodElf": {
+        "title": "",
+        "description": ""
+      },
+      "darkElf": {
+        "title": "",
+        "description": ""
+      },
+      "dnd": {
+        "title": "",
+        "description": ""
+      },
+      "gender": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "howToUse": {
+      "title": "",
+      "description": "",
+      "step1": {
+        "title": "",
+        "description": ""
+      },
+      "step2": {
+        "title": "",
+        "description": ""
+      },
+      "step3": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "whyEssential": {
+      "title": "",
+      "saveTime": {
+        "title": "",
+        "description": ""
+      },
+      "creativity": {
+        "title": "",
+        "description": ""
+      },
+      "consistency": {
+        "title": "",
+        "description": ""
+      },
+      "accessible": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "topFeatures": {
+      "title": "",
+      "description": "",
+      "diverse": {
+        "title": "",
+        "description": ""
+      },
+      "gender": {
+        "title": "",
+        "description": ""
+      },
+      "customizable": {
+        "title": "",
+        "description": ""
+      },
+      "free": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "popularUses": {
+      "title": "",
+      "description": "",
+      "tabletop": {
+        "title": "",
+        "description": ""
+      },
+      "novels": {
+        "title": "",
+        "description": ""
+      },
+      "onlineGames": {
+        "title": "",
+        "description": ""
+      },
+      "creativeWriting": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "supportedTypes": {
+      "title": "",
+      "woodElf": {
+        "title": "",
+        "description": ""
+      },
+      "darkElf": {
+        "title": "",
+        "description": ""
+      },
+      "halfElf": {
+        "title": "",
+        "description": ""
+      },
+      "highElf": {
+        "title": "",
+        "description": ""
+      },
+      "moonElf": {
+        "title": "",
+        "description": ""
+      },
+      "sunElf": {
+        "title": "",
+        "description": ""
+      },
+      "wildElf": {
+        "title": "",
+        "description": ""
+      },
+      "seaElf": {
+        "title": "",
+        "description": ""
+      },
+      "snowElf": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "gallery": {
+      "title": "",
+      "description": "",
+      "woodElf": {
+        "alt": "",
+        "title": "",
+        "description": ""
+      },
+      "darkElf": {
+        "alt": "",
+        "title": "",
+        "description": ""
+      },
+      "highElf": {
+        "alt": "",
+        "title": "",
+        "description": ""
+      }
+    },
+    "categories": {
+      "title": "",
+      "natureInspired": {
+        "title": "",
+        "description": "",
+        "examples": {
+          "silverleaf": {
+            "name": "",
+            "meaning": ""
+          },
+          "moonwhisper": {
+            "name": "",
+            "meaning": ""
+          },
+          "starweaver": {
+            "name": "",
+            "meaning": ""
+          },
+          "windrunner": {
+            "name": "",
+            "meaning": ""
+          }
+        }
+      },
+      "nobleTitles": {
+        "title": "",
+        "description": "",
+        "examples": {
+          "goldenbrow": {
+            "name": "",
+            "meaning": ""
+          },
+          "crystalborn": {
+            "name": "",
+            "meaning": ""
+          },
+          "thornheart": {
+            "name": "",
+            "meaning": ""
+          },
+          "stormcrown": {
+            "name": "",
+            "meaning": ""
+          }
+        }
+      },
+      "magicalNames": {
+        "title": "",
+        "description": "",
+        "examples": {
+          "spellsong": {
+            "name": "",
+            "meaning": ""
+          },
+          "runekeeper": {
+            "name": "",
+            "meaning": ""
+          },
+          "dreamweaver": {
+            "name": "",
+            "meaning": ""
+          },
+          "lightbringer": {
+            "name": "",
+            "meaning": ""
+          }
+        }
+      }
+    },
+    "linguisticFeatures": {
+      "title": "",
+      "elvishLanguagePatterns": {
+        "title": "",
+        "description": "",
+        "sindarin": {
+          "title": "",
+          "description": "",
+          "feature1": "",
+          "feature2": "",
+          "feature3": ""
+        },
+        "quenya": {
+          "title": "",
+          "description": "",
+          "feature1": "",
+          "feature2": "",
+          "feature3": ""
+        },
+        "dndElvish": {
+          "title": "",
+          "description": "",
+          "feature1": "",
+          "feature2": "",
+          "feature3": ""
+        }
+      },
+      "pronunciationGuide": {
+        "title": "",
+        "description": "",
+        "vowelSounds": {
+          "title": "",
+          "sounds": {
+            "a": "",
+            "e": "",
+            "i": "",
+            "o": "",
+            "u": ""
+          }
+        },
+        "consonantCombinations": {
+          "title": "",
+          "combinations": {
+            "th": "",
+            "dh": "",
+            "ng": "",
+            "ch": "",
+            "ph": "",
+            "r": "slightly rolled 'r' sound"
+          }
+        }
+      }
+    },
+    "cta": {
+      "title": "",
+      "description": "",
+      "primaryButton": "",
+      "secondaryButton": "",
+      "exploreButton": ""
+    },
+    "collection": {
+      "title": "Elf Name Generator Collection",
+      "woodElfGenerator": {
+        "title": "Wood Elf Names",
+        "description": "Generate wood elf names with nature themes.",
+        "feature1": "Forest-themed generation",
+        "feature2": "Nature-based patterns",
+        "feature3": "Woodland integration"
+      },
+      "darkElfGenerator": {
+        "title": "Dark Elf Names",
+        "description": "Create dark elf names with mysterious themes.",
+        "feature1": "Underground patterns",
+        "feature2": "Shadow-themed names",
+        "feature3": "Drow integration"
+      },
+      "halfElfGenerator": {
+        "title": "Half-Elf Names",
+        "description": "Generate half-elf names with mixed heritage.",
+        "feature1": "Mixed heritage patterns",
+        "feature2": "Cultural fusion",
+        "feature3": "Versatile options"
+      },
+      "bloodElfGenerator": {
+        "title": "Blood Elf Names",
+        "description": "Create blood elf names with arcane themes.",
+        "feature1": "Arcane patterns",
+        "feature2": "Magical themes",
+        "feature3": "High fantasy"
+      },
+      "elfNamesGenerator": {
+        "title": "General Elf Names",
+        "description": "Generate elf names for all cultures.",
+        "feature1": "Universal patterns",
+        "feature2": "Multi-cultural",
+        "feature3": "Broad compatibility"
+      },
+      "elfNameGeneratorDnd": {
+        "title": "D&D Elf Names",
+        "description": "Create D&D elf names following official lore.",
+        "feature1": "D&D compliance",
+        "feature2": "Official patterns",
+        "feature3": "Campaign ready"
+      }
+    },
+    "conclusion": {
+      "title": "Start Your Elf Name Adventure",
+      "paragraph1": "Create amazing elf characters with our name generator.",
+      "paragraph2": "Join thousands of creators using our elf name tools.",
+      "generateButton": "Generate Elf Names",
+      "exploreButton": "Explore Options"
     }
   }
 }

@@ -2,8 +2,10 @@ import { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import ElfNameClient from "@/components/ElfNameClient";
 import ElfNameSEO from "@/components/ElfNameSEO";
+import SubPageNavigation from "@/components/SubPageNavigation";
 import StructuredData from "@/components/StructuredData";
 import { locales } from "../../i18n";
+import { getTranslationWithFallback } from "../../lib/serverTranslationUtils";
 
 type Props = {
   params: { locale: string };
@@ -83,6 +85,17 @@ export default async function ElfNameGeneratorPage({ params: { locale } }: Props
   const baseUrl = "https://elfname.pro";
   const canonicalUrl = locale === 'en' ? baseUrl : `${baseUrl}/${locale}`;
 
+  // 获取带回退的翻译
+  const toolLabel = await getTranslationWithFallback(locale, 'seo.toolLabel');
+  const infoLabel = await getTranslationWithFallback(locale, 'seo.infoLabel');
+  const navigationSectionLabel = await getTranslationWithFallback(locale, 'navigation.sectionLabel');
+  const noScriptTitle = await getTranslationWithFallback(locale, 'seo.noScriptTitle');
+  const noScriptDescription = await getTranslationWithFallback(locale, 'seo.noScriptDescription');
+  const structuredDataName = await getTranslationWithFallback(locale, 'seo.structuredDataName');
+  const structuredDataDescription = await getTranslationWithFallback(locale, 'seo.structuredDataDescription');
+  const breadcrumbHome = await getTranslationWithFallback(locale, 'seo.breadcrumbHome');
+  const breadcrumbGenerator = await getTranslationWithFallback(locale, 'seo.breadcrumbGenerator');
+
   return (
     <>
       {/* Structured Data */}
@@ -91,27 +104,27 @@ export default async function ElfNameGeneratorPage({ params: { locale } }: Props
         data={{
           "@context": "https://schema.org",
           "@type": "SoftwareApplication",
-          "name": t('seo.structuredDataName'),
+          "name": structuredDataName,
           "applicationCategory": "EntertainmentApplication",
           "offers": {
             "@type": "Offer",
             "price": "0",
             "priceCurrency": "USD"
           },
-          "description": t('seo.structuredDataDescription'),
+          "description": structuredDataDescription,
           "breadcrumb": {
             "@type": "BreadcrumbList",
             "itemListElement": [
               {
                 "@type": "ListItem",
                 "position": 1,
-                "name": t('seo.breadcrumbHome'),
+                "name": breadcrumbHome,
                 "item": canonicalUrl
               },
               {
                 "@type": "ListItem",
                 "position": 2,
-                "name": t('seo.breadcrumbGenerator'),
+                "name": breadcrumbGenerator,
                 "item": canonicalUrl
               }
             ]
@@ -122,21 +135,26 @@ export default async function ElfNameGeneratorPage({ params: { locale } }: Props
       {/* NoScript SEO内容 */}
       <noscript>
         <section>
-          <h1>{t('seo.noScriptTitle')}</h1>
+          <h1>{noScriptTitle}</h1>
           <p>
-            {t('seo.noScriptDescription')}
+            {noScriptDescription}
           </p>
         </section>
       </noscript>
       
       <div className="min-h-screen">
         {/* 主要功能区 - 客户端组件 */}
-        <section aria-label={t('seo.toolLabel')}>
+        <section aria-label={toolLabel}>
           <ElfNameClient />
         </section>
         
+        {/* 子页面导航 */}
+        <section className="container mx-auto px-4" aria-label={navigationSectionLabel}>
+          <SubPageNavigation />
+        </section>
+        
         {/* SEO内容 - 服务器端渲染 */}
-        <section aria-label={t('seo.infoLabel')}>
+        <section aria-label={infoLabel}>
           <ElfNameSEO translations={seoTranslations} />
         </section>
       </div>

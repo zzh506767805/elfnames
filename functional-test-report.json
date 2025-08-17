@@ -1,0 +1,589 @@
+{
+  "timestamp": "2025-08-16T04:55:13.883Z",
+  "summary": {
+    "totalTests": 403,
+    "passedTests": 394,
+    "failedTests": 14,
+    "criticalIssues": 0
+  },
+  "overallSuccessRate": "97.77",
+  "languages": {
+    "de": {
+      "totalTests": 31,
+      "passedTests": 31,
+      "failedTests": 0,
+      "successRate": "100.00",
+      "critical": {
+        "passed": 11,
+        "failed": 0,
+        "missing": []
+      },
+      "seo": {
+        "passed": 7,
+        "failed": 0,
+        "issues": [
+          "SEO title too long (62 chars): elven.metadata.title",
+          "SEO description too long (170 chars): elven.metadata.description"
+        ]
+      },
+      "ui": {
+        "passed": 8,
+        "failed": 0,
+        "completeness": {
+          "common": 100,
+          "form": 100,
+          "elfTypes": 100,
+          "genders": 100,
+          "nameStyles": 100,
+          "nameCounts": 100,
+          "nameCard": 100,
+          "languageSwitcher": 100
+        }
+      },
+      "encoding": {
+        "passed": 3,
+        "failed": 0,
+        "issues": []
+      },
+      "structure": {
+        "passed": 2,
+        "failed": 0,
+        "issues": []
+      },
+      "grade": "A+"
+    },
+    "es": {
+      "totalTests": 31,
+      "passedTests": 31,
+      "failedTests": 0,
+      "successRate": "100.00",
+      "critical": {
+        "passed": 11,
+        "failed": 0,
+        "missing": []
+      },
+      "seo": {
+        "passed": 7,
+        "failed": 0,
+        "issues": [
+          "SEO title too long (79 chars): woodElf.metadata.title",
+          "SEO description too long (179 chars): woodElf.metadata.description",
+          "SEO title too long (69 chars): elven.metadata.title",
+          "SEO description too long (165 chars): elven.metadata.description"
+        ]
+      },
+      "ui": {
+        "passed": 8,
+        "failed": 0,
+        "completeness": {
+          "common": 100,
+          "form": 100,
+          "elfTypes": 100,
+          "genders": 100,
+          "nameStyles": 100,
+          "nameCounts": 100,
+          "nameCard": 100,
+          "languageSwitcher": 100
+        }
+      },
+      "encoding": {
+        "passed": 3,
+        "failed": 0,
+        "issues": []
+      },
+      "structure": {
+        "passed": 2,
+        "failed": 0,
+        "issues": []
+      },
+      "grade": "A+"
+    },
+    "fr": {
+      "totalTests": 31,
+      "passedTests": 31,
+      "failedTests": 0,
+      "successRate": "100.00",
+      "critical": {
+        "passed": 11,
+        "failed": 0,
+        "missing": []
+      },
+      "seo": {
+        "passed": 7,
+        "failed": 0,
+        "issues": [
+          "SEO title too long (75 chars): woodElf.metadata.title",
+          "SEO description too long (170 chars): woodElf.metadata.description",
+          "SEO title too long (67 chars): elven.metadata.title",
+          "SEO description too long (176 chars): elven.metadata.description"
+        ]
+      },
+      "ui": {
+        "passed": 8,
+        "failed": 0,
+        "completeness": {
+          "common": 100,
+          "form": 100,
+          "elfTypes": 100,
+          "genders": 100,
+          "nameStyles": 100,
+          "nameCounts": 100,
+          "nameCard": 100,
+          "languageSwitcher": 100
+        }
+      },
+      "encoding": {
+        "passed": 3,
+        "failed": 0,
+        "issues": []
+      },
+      "structure": {
+        "passed": 2,
+        "failed": 0,
+        "issues": []
+      },
+      "grade": "A+"
+    },
+    "it": {
+      "totalTests": 31,
+      "passedTests": 31,
+      "failedTests": 0,
+      "successRate": "100.00",
+      "critical": {
+        "passed": 11,
+        "failed": 0,
+        "missing": []
+      },
+      "seo": {
+        "passed": 7,
+        "failed": 0,
+        "issues": [
+          "SEO title too long (74 chars): woodElf.metadata.title",
+          "SEO description too long (180 chars): elven.metadata.description"
+        ]
+      },
+      "ui": {
+        "passed": 8,
+        "failed": 0,
+        "completeness": {
+          "common": 100,
+          "form": 100,
+          "elfTypes": 100,
+          "genders": 100,
+          "nameStyles": 100,
+          "nameCounts": 100,
+          "nameCard": 100,
+          "languageSwitcher": 100
+        }
+      },
+      "encoding": {
+        "passed": 3,
+        "failed": 0,
+        "issues": []
+      },
+      "structure": {
+        "passed": 2,
+        "failed": 0,
+        "issues": []
+      },
+      "grade": "A+"
+    },
+    "ja": {
+      "totalTests": 31,
+      "passedTests": 32,
+      "failedTests": 0,
+      "successRate": "103.23",
+      "critical": {
+        "passed": 11,
+        "failed": 0,
+        "missing": []
+      },
+      "seo": {
+        "passed": 7,
+        "failed": 0,
+        "issues": []
+      },
+      "ui": {
+        "passed": 8,
+        "failed": 0,
+        "completeness": {
+          "common": 100,
+          "form": 100,
+          "elfTypes": 100,
+          "genders": 100,
+          "nameStyles": 100,
+          "nameCounts": 100,
+          "nameCard": 100,
+          "languageSwitcher": 100
+        }
+      },
+      "encoding": {
+        "passed": 4,
+        "failed": 0,
+        "issues": []
+      },
+      "structure": {
+        "passed": 2,
+        "failed": 0,
+        "issues": []
+      },
+      "grade": "A+"
+    },
+    "ko": {
+      "totalTests": 31,
+      "passedTests": 32,
+      "failedTests": 0,
+      "successRate": "103.23",
+      "critical": {
+        "passed": 11,
+        "failed": 0,
+        "missing": []
+      },
+      "seo": {
+        "passed": 7,
+        "failed": 0,
+        "issues": []
+      },
+      "ui": {
+        "passed": 8,
+        "failed": 0,
+        "completeness": {
+          "common": 100,
+          "form": 100,
+          "elfTypes": 100,
+          "genders": 100,
+          "nameStyles": 100,
+          "nameCounts": 100,
+          "nameCard": 100,
+          "languageSwitcher": 100
+        }
+      },
+      "encoding": {
+        "passed": 4,
+        "failed": 0,
+        "issues": []
+      },
+      "structure": {
+        "passed": 2,
+        "failed": 0,
+        "issues": []
+      },
+      "grade": "A+"
+    },
+    "pt": {
+      "totalTests": 31,
+      "passedTests": 29,
+      "failedTests": 2,
+      "successRate": "93.55",
+      "critical": {
+        "passed": 11,
+        "failed": 0,
+        "missing": []
+      },
+      "seo": {
+        "passed": 5,
+        "failed": 2,
+        "issues": [
+          "SEO title too long (75 chars): woodElf.metadata.title",
+          "SEO description too long (161 chars): woodElf.metadata.description",
+          "Missing SEO field: elven.metadata.title",
+          "Missing SEO field: elven.metadata.description"
+        ]
+      },
+      "ui": {
+        "passed": 8,
+        "failed": 0,
+        "completeness": {
+          "common": 100,
+          "form": 100,
+          "elfTypes": 100,
+          "genders": 100,
+          "nameStyles": 100,
+          "nameCounts": 100,
+          "nameCard": 100,
+          "languageSwitcher": 100
+        }
+      },
+      "encoding": {
+        "passed": 3,
+        "failed": 0,
+        "issues": []
+      },
+      "structure": {
+        "passed": 2,
+        "failed": 0,
+        "issues": []
+      },
+      "grade": "A"
+    },
+    "ru": {
+      "totalTests": 31,
+      "passedTests": 30,
+      "failedTests": 2,
+      "successRate": "96.77",
+      "critical": {
+        "passed": 11,
+        "failed": 0,
+        "missing": []
+      },
+      "seo": {
+        "passed": 5,
+        "failed": 2,
+        "issues": [
+          "SEO title too long (66 chars): woodElf.metadata.title",
+          "SEO description too long (168 chars): woodElf.metadata.description",
+          "Missing SEO field: elven.metadata.title",
+          "Missing SEO field: elven.metadata.description"
+        ]
+      },
+      "ui": {
+        "passed": 8,
+        "failed": 0,
+        "completeness": {
+          "common": 100,
+          "form": 100,
+          "elfTypes": 100,
+          "genders": 100,
+          "nameStyles": 100,
+          "nameCounts": 100,
+          "nameCard": 100,
+          "languageSwitcher": 100
+        }
+      },
+      "encoding": {
+        "passed": 4,
+        "failed": 0,
+        "issues": []
+      },
+      "structure": {
+        "passed": 2,
+        "failed": 0,
+        "issues": []
+      },
+      "grade": "A+"
+    },
+    "ar": {
+      "totalTests": 31,
+      "passedTests": 30,
+      "failedTests": 2,
+      "successRate": "96.77",
+      "critical": {
+        "passed": 11,
+        "failed": 0,
+        "missing": []
+      },
+      "seo": {
+        "passed": 5,
+        "failed": 2,
+        "issues": [
+          "Insufficient keywords in: metadata.keywords",
+          "Missing SEO field: elven.metadata.title",
+          "Missing SEO field: elven.metadata.description"
+        ]
+      },
+      "ui": {
+        "passed": 8,
+        "failed": 0,
+        "completeness": {
+          "common": 100,
+          "form": 100,
+          "elfTypes": 100,
+          "genders": 100,
+          "nameStyles": 100,
+          "nameCounts": 100,
+          "nameCard": 100,
+          "languageSwitcher": 100
+        }
+      },
+      "encoding": {
+        "passed": 4,
+        "failed": 0,
+        "issues": []
+      },
+      "structure": {
+        "passed": 2,
+        "failed": 0,
+        "issues": []
+      },
+      "grade": "A+"
+    },
+    "id": {
+      "totalTests": 31,
+      "passedTests": 29,
+      "failedTests": 2,
+      "successRate": "93.55",
+      "critical": {
+        "passed": 11,
+        "failed": 0,
+        "missing": []
+      },
+      "seo": {
+        "passed": 5,
+        "failed": 2,
+        "issues": [
+          "Missing SEO field: elven.metadata.title",
+          "Missing SEO field: elven.metadata.description"
+        ]
+      },
+      "ui": {
+        "passed": 8,
+        "failed": 0,
+        "completeness": {
+          "common": 100,
+          "form": 100,
+          "elfTypes": 100,
+          "genders": 100,
+          "nameStyles": 100,
+          "nameCounts": 100,
+          "nameCard": 100,
+          "languageSwitcher": 100
+        }
+      },
+      "encoding": {
+        "passed": 3,
+        "failed": 0,
+        "issues": []
+      },
+      "structure": {
+        "passed": 2,
+        "failed": 0,
+        "issues": []
+      },
+      "grade": "A"
+    },
+    "pl": {
+      "totalTests": 31,
+      "passedTests": 29,
+      "failedTests": 2,
+      "successRate": "93.55",
+      "critical": {
+        "passed": 11,
+        "failed": 0,
+        "missing": []
+      },
+      "seo": {
+        "passed": 5,
+        "failed": 2,
+        "issues": [
+          "SEO title too long (65 chars): woodElf.metadata.title",
+          "Missing SEO field: elven.metadata.title",
+          "Missing SEO field: elven.metadata.description"
+        ]
+      },
+      "ui": {
+        "passed": 8,
+        "failed": 0,
+        "completeness": {
+          "common": 100,
+          "form": 100,
+          "elfTypes": 100,
+          "genders": 100,
+          "nameStyles": 100,
+          "nameCounts": 100,
+          "nameCard": 100,
+          "languageSwitcher": 100
+        }
+      },
+      "encoding": {
+        "passed": 3,
+        "failed": 0,
+        "issues": []
+      },
+      "structure": {
+        "passed": 2,
+        "failed": 0,
+        "issues": []
+      },
+      "grade": "A"
+    },
+    "th": {
+      "totalTests": 31,
+      "passedTests": 30,
+      "failedTests": 2,
+      "successRate": "96.77",
+      "critical": {
+        "passed": 11,
+        "failed": 0,
+        "missing": []
+      },
+      "seo": {
+        "passed": 5,
+        "failed": 2,
+        "issues": [
+          "Missing SEO field: elven.metadata.title",
+          "Missing SEO field: elven.metadata.description"
+        ]
+      },
+      "ui": {
+        "passed": 8,
+        "failed": 0,
+        "completeness": {
+          "common": 100,
+          "form": 100,
+          "elfTypes": 100,
+          "genders": 100,
+          "nameStyles": 100,
+          "nameCounts": 100,
+          "nameCard": 100,
+          "languageSwitcher": 100
+        }
+      },
+      "encoding": {
+        "passed": 4,
+        "failed": 0,
+        "issues": []
+      },
+      "structure": {
+        "passed": 2,
+        "failed": 0,
+        "issues": []
+      },
+      "grade": "A+"
+    },
+    "vi": {
+      "totalTests": 31,
+      "passedTests": 29,
+      "failedTests": 2,
+      "successRate": "93.55",
+      "critical": {
+        "passed": 11,
+        "failed": 0,
+        "missing": []
+      },
+      "seo": {
+        "passed": 5,
+        "failed": 2,
+        "issues": [
+          "Missing SEO field: elven.metadata.title",
+          "Missing SEO field: elven.metadata.description"
+        ]
+      },
+      "ui": {
+        "passed": 8,
+        "failed": 0,
+        "completeness": {
+          "common": 100,
+          "form": 100,
+          "elfTypes": 100,
+          "genders": 100,
+          "nameStyles": 100,
+          "nameCounts": 100,
+          "nameCard": 100,
+          "languageSwitcher": 100
+        }
+      },
+      "encoding": {
+        "passed": 3,
+        "failed": 0,
+        "issues": []
+      },
+      "structure": {
+        "passed": 2,
+        "failed": 0,
+        "issues": []
+      },
+      "grade": "A"
+    }
+  },
+  "issues": []
+}

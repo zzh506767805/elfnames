@@ -1,0 +1,188 @@
+{
+  "analysisDate": "2025-08-16",
+  "totalKeys": 3402,
+  "subpageKeys": 2423,
+  "languages": {
+    "ar": {
+      "completeness": 8.2,
+      "existingKeys": 278,
+      "missingKeys": 3124,
+      "missingSubpageKeys": 2380,
+      "status": "需要完整翻译",
+      "criticalMissing": [
+        "整个section缺失: darkElf, bloodElf, highElf, femaleElf, dndElf, tolkienElf, elvenName, elfRandomizer"
+      ]
+    },
+    "de": {
+      "completeness": 44.8,
+      "existingKeys": 1523,
+      "missingKeys": 2247,
+      "missingSubpageKeys": 2240,
+      "status": "部分翻译完成",
+      "criticalMissing": [
+        "整个section缺失: elvenName",
+        "所有子页面的seo section几乎完全缺失"
+      ]
+    },
+    "es": {
+      "completeness": 36.0,
+      "existingKeys": 1224,
+      "missingKeys": 2560,
+      "missingSubpageKeys": 2269,
+      "status": "部分翻译完成",
+      "criticalMissing": [
+        "整个section缺失: elvenName",
+        "所有子页面的seo section几乎完全缺失"
+      ]
+    },
+    "fr": {
+      "completeness": 36.0,
+      "existingKeys": 1224,
+      "missingKeys": 2560,
+      "missingSubpageKeys": 2269,
+      "status": "部分翻译完成",
+      "criticalMissing": [
+        "整个section缺失: elvenName",
+        "所有子页面的seo section几乎完全缺失"
+      ]
+    },
+    "id": {
+      "completeness": 8.2,
+      "existingKeys": 278,
+      "missingKeys": 3124,
+      "missingSubpageKeys": 2380,
+      "status": "需要完整翻译",
+      "criticalMissing": [
+        "整个section缺失: darkElf, bloodElf, highElf, femaleElf, dndElf, tolkienElf, elvenName, elfRandomizer"
+      ]
+    },
+    "it": {
+      "completeness": 17.9,
+      "existingKeys": 608,
+      "missingKeys": 2794,
+      "missingSubpageKeys": 2351,
+      "status": "需要大量翻译",
+      "criticalMissing": [
+        "整个section缺失: darkElf, bloodElf, highElf, femaleElf, dndElf, tolkienElf, elvenName, elfRandomizer"
+      ]
+    },
+    "ja": {
+      "completeness": 22.9,
+      "existingKeys": 779,
+      "missingKeys": 2623,
+      "missingSubpageKeys": 2339,
+      "status": "需要大量翻译",
+      "criticalMissing": [
+        "整个section缺失: darkElf, bloodElf, highElf, femaleElf, dndElf, tolkienElf, elvenName, elfRandomizer"
+      ]
+    },
+    "ko": {
+      "completeness": 22.9,
+      "existingKeys": 779,
+      "missingKeys": 2623,
+      "missingSubpageKeys": 2339,
+      "status": "需要大量翻译",
+      "criticalMissing": [
+        "整个section缺失: darkElf, bloodElf, highElf, femaleElf, dndElf, tolkienElf, elvenName, elfRandomizer"
+      ]
+    },
+    "pl": {
+      "completeness": 8.2,
+      "existingKeys": 278,
+      "missingKeys": 3124,
+      "missingSubpageKeys": 2380,
+      "status": "需要完整翻译",
+      "criticalMissing": [
+        "整个section缺失: darkElf, bloodElf, highElf, femaleElf, dndElf, tolkienElf, elvenName, elfRandomizer"
+      ]
+    },
+    "pt": {
+      "completeness": 8.2,
+      "existingKeys": 278,
+      "missingKeys": 3124,
+      "missingSubpageKeys": 2380,
+      "status": "需要完整翻译",
+      "criticalMissing": [
+        "整个section缺失: darkElf, bloodElf, highElf, femaleElf, dndElf, tolkienElf, elvenName, elfRandomizer"
+      ]
+    },
+    "ru": {
+      "completeness": 8.2,
+      "existingKeys": 278,
+      "missingKeys": 3124,
+      "missingSubpageKeys": 2380,
+      "status": "需要完整翻译",
+      "criticalMissing": [
+        "整个section缺失: darkElf, bloodElf, highElf, femaleElf, dndElf, tolkienElf, elvenName, elfRandomizer"
+      ]
+    },
+    "th": {
+      "completeness": 8.2,
+      "existingKeys": 278,
+      "missingKeys": 3124,
+      "missingSubpageKeys": 2380,
+      "status": "需要完整翻译",
+      "criticalMissing": [
+        "整个section缺失: darkElf, bloodElf, highElf, femaleElf, dndElf, tolkienElf, elvenName, elfRandomizer"
+      ]
+    },
+    "vi": {
+      "completeness": 8.2,
+      "existingKeys": 278,
+      "missingKeys": 3124,
+      "missingSubpageKeys": 2380,
+      "status": "需要完整翻译",
+      "criticalMissing": [
+        "整个section缺失: darkElf, bloodElf, highElf, femaleElf, dndElf, tolkienElf, elvenName, elfRandomizer"
+      ]
+    }
+  },
+  "keySubpageStructure": {
+    "darkElf": {
+      "metadata": 7,
+      "seo": 8
+    },
+    "darkElfSeo": 313,
+    "bloodElf": {
+      "metadata": 7,
+      "seo": 8
+    },
+    "bloodElfSeo": 313,
+    "highElf": {
+      "metadata": 7,
+      "seo": 8
+    },
+    "highElfSeo": 313,
+    "femaleElf": {
+      "metadata": 7,
+      "seo": 8
+    },
+    "femaleElfSeo": 313,
+    "dndElf": {
+      "metadata": 7,
+      "seo": 8
+    },
+    "dndElfSeo": 313,
+    "tolkienElf": {
+      "metadata": 7,
+      "seo": 8
+    },
+    "tolkienElfSeo": 313,
+    "elvenName": {
+      "metadata": 7,
+      "seo": 8
+    },
+    "elvenSeo": 313,
+    "elfRandomizer": {
+      "metadata": 7,
+      "seo": 8
+    },
+    "elfRandomizerSeo": 313
+  },
+  "priorityActions": [
+    "大部分语言缺失新子页面的所有翻译内容",
+    "德语、西班牙语、法语有基础翻译但缺失详细的SEO内容",
+    "导航相关的子页面描述在navigation section中已存在",
+    "需要优先补充各子页面的metadata和seo section翻译"
+  ]
+}

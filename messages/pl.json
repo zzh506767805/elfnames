@@ -86,6 +86,116 @@
     "title": "Język",
     "selectLanguage": "Wybierz Język"
   },
+  "navigation": {
+    "title": "Specjalistyczne Generatory Imion Elfów",
+    "description": "Poznaj naszą kolekcję specjalistycznych generatorów imion elfów, każdy dostosowany do określonych typów elfów, płci i ustawień fantasy.",
+    "sectionLabel": "Specjalistyczne Generatory Imion Elfów",
+    "categories": {
+      "elfTypes": "Typy Elfów",
+      "genderSpecific": "Specyficzne dla Płci",
+      "styleSpecific": "Styl i Ustawienia"
+    },
+    "woodElf": {
+      "title": "Generator Imion Elfów Leśnych",
+      "description": "Generuj autentyczne imiona elfów mieszkających w lesie z motywami natury i leśnym urokiem."
+    },
+    "darkElf": {
+      "title": "Generator Imion Mrocznych Elfów",
+      "description": "Twórz tajemnicze imiona mrocznych elfów z motywami cieni i podziemnej kultury."
+    },
+    "highElf": {
+      "title": "Generator Imion Wysokich Elfów",
+      "description": "Generuj szlachetne imiona wysokich elfów z arystokratyczną elegancją i magicznym dziedzictwem."
+    },
+    "bloodElf": {
+      "title": "Generator Imion Elfów Krwi",
+      "description": "Twórz imiona elfów krwi z tajemnymi motywami i legendami uzależnienia od magii."
+    },
+    "femaleElf": {
+      "title": "Generator Imion Żeńskich Elfów",
+      "description": "Generuj piękne imiona żeńskich elfów z kobiecą elegancją i gracją."
+    },
+    "tolkienElf": {
+      "title": "Generator Imion Elfów Tolkiena",
+      "description": "Twórz autentyczne imiona elfów w stylu Tolkiena inspirowane legendami Śródziemia."
+    },
+    "dndElf": {
+      "title": "Generator Imion Elfów D&D",
+      "description": "Generuj imiona elfów D&D zgodnie z oficjalnymi konwencjami Podręcznika Gracza."
+    },
+    "elvenName": {
+      "title": "Generator Imion Elfickich",
+      "description": "Twórz klasyczne imiona elfickie z tradycyjnymi wzorcami językowymi elfów."
+    },
+    "elfRandomizer": {
+      "title": "Randomizer Imion Elfów",
+      "description": "Losowo generuj różnorodne imiona elfów ze wszystkich typów i kultur."
+    }
+  },
+  "darkElf": {
+    "metadata": {
+      "title": "Generator Imion Mrocznych Elfów - Autentyczne Imiona Mistycznych Elfów",
+      "description": "Generuj autentyczne imiona mrocznych elfów natychmiast. Idealne dla postaci drow, skrytobójców i mrocznych poszukiwaczy przygód w D&D i fantasy.",
+      "keywords": "generator imion mrocznych elfów, imiona mrocznych elfów, imiona drow, generator imion mrocznych elfów dnd, imiona cienistych elfów",
+      "openGraphTitle": "Generator Imion Mrocznych Elfów - Twórz Magiczne Imiona Cieni",
+      "openGraphDescription": "Odkryj autentyczne imiona mrocznych elfów używając naszego specjalistycznego generatora. Idealne dla tajemniczych postaci D&D.",
+      "twitterTitle": "Generator Imion Mrocznych Elfów - Autentyczne Imiona Cieni",
+      "twitterDescription": "Generuj unikalne imiona mrocznych elfów dla swoich fantasy przygód i kampanii D&D."
+    },
+    "seo": {
+      "structuredDataName": "Generator Imion Mrocznych Elfów",
+      "structuredDataDescription": "Generuj autentyczne imiona mrocznych elfów dla postaci fantasy, gier RPG i pisania kreatywnego. Twórz tajemnicze imiona drow z motywami cieni i podziemną kulturą.",
+      "breadcrumbGenerator": "Generator Imion Mrocznych Elfów",
+      "noScriptTitle": "Generator Imion Mrocznych Elfów - Twórz Imiona Drow",
+      "noScriptDescription": "Generuj autentyczne imiona mrocznych elfów dla swoich fantasy postaci. Ten generator imion mrocznych elfów tworzy idealne imiona dla skrytobójców, drow i tajemniczych elfów.",
+      "toolLabel": "Narzędzie Generowania Imion Mrocznych Elfów",
+      "infoLabel": "Informacje i Przewodnik po Imionach Mrocznych Elfów"
+    }
+  },
+  "darkElfSeo": {
+    "introduction": {
+      "title": "Generator Imion Mrocznych Elfów - Twórz Tajemnicze Imiona Cieni",
+      "paragraph1": "Nasz specjalistyczny generator imion mrocznych elfów tworzy autentyczne imiona dla najbardziej tajemniczych i mrocznych ze wszystkich ras elfickich. Mroczne elfy, znane również jako drow, słyną ze swojej złożonej podziemnej kultury, magii cieni i skomplikowanego społeczeństwa.",
+      "paragraph2": "Generator imion mrocznych elfów łączy płynne wzorce językowe i charakterystyczne motywy cieni cywilizacji mrocznych elfów, podkreślając melodyjne cechy i tajemnicze elementy definiujące ich mroczne dziedzictwo."
+    },
+    "whatIs": {
+      "title": "Co Czyni Imiona Mrocznych Elfów Wyjątkowymi?",
+      "paragraph1": "Imiona mrocznych elfów generowane przez nasz specjalistyczny generator zazwyczaj zawierają eleganckie sylaby, odniesienia do cieni i tajemniczą terminologię definiującą kulturę mrocznych elfów. Te imiona często zawierają elementy związane z cieniami, podziemnym światem i ukrytą mocą.",
+      "paragraph2": "Tradycyjne konwencje nazewnicze mrocznych elfów obejmują odniesienia do pojęć cieni (ciemność, noc, głębia), tajemnych dążeń (skradanie, oszustwo, mistrzostwo) i tajemniczych elementów (kryształ, płomień, energia). Nasz generator łączy te złożone elementy, aby tworzyć imiona ucieleśniające tajemniczą moc i mroczną elegancję."
+    }
+  },
+  "bloodElf": {
+    "metadata": {
+      "title": "Generator Imion Elfów Krwi - Mistyczne Arkańskie Imiona",
+      "description": "Generuj autentyczne imiona elfów krwi natychmiast. Idealne dla magicznych postaci, rzucających zaklęcia arkańskie i fantasy RPG.",
+      "keywords": "generator imion elfów krwi, imiona elfów krwi, imiona magicznych elfów, generator elfów krwi, imiona mistycznych elfów",
+      "openGraphTitle": "Generator Imion Elfów Krwi - Twórz Mistyczne Arkańskie Imiona",
+      "openGraphDescription": "Generuj autentyczne imiona elfów krwi natychmiast. Idealne dla magicznych postaci i rzucających zaklęcia arkańskie.",
+      "twitterTitle": "Generator Imion Elfów Krwi - Mistyczne Arkańskie Imiona",
+      "twitterDescription": "Generuj autentyczne imiona elfów krwi natychmiast. Idealne dla magicznych postaci i rzucających zaklęcia arkańskie."
+    },
+    "seo": {
+      "structuredDataName": "Generator Imion Elfów Krwi",
+      "structuredDataDescription": "Generuj autentyczne imiona elfów krwi dla postaci fantasy, gier RPG i pisania kreatywnego. Twórz imiona elfów z motywami magicznymi, mistyczną mocą i magicznym dziedzictwem.",
+      "breadcrumbGenerator": "Generator Imion Elfów Krwi",
+      "noScriptTitle": "Generator Imion Elfów Krwi - Twórz Magiczne Imiona Elfów",
+      "noScriptDescription": "Generuj autentyczne imiona elfów krwi dla swoich fantasy postaci. Ten generator imion elfów krwi tworzy idealne imiona dla rzucających zaklęcia arkańskie i magicznych postaci elfickich.",
+      "toolLabel": "Narzędzie Generowania Imion Elfów Krwi",
+      "infoLabel": "Informacje i Przewodnik po Magicznych Imionach Elfów Krwi"
+    }
+  },
+  "bloodElfSeo": {
+    "introduction": {
+      "title": "Generator Imion Elfów Krwi - Twórz Mistyczne Arkańskie Imiona",
+      "paragraph1": "Nasz specjalistyczny generator imion elfów krwi tworzy autentyczne imiona dla najbardziej utalentowanych magicznie i skupionych na arkańskim ze wszystkich ras elfickich. Elfy krwi słyną z opanowania sztuk magicznych, eleganckiej wyrafinowania i złożonej relacji z arkańską mocą.",
+      "paragraph2": "Generator imion elfów krwi łączy płynne wzorce językowe i charakterystyczne magiczne motywy cywilizacji elfów krwi, podkreślając melodyjne cechy i mistyczne elementy definiujące ich magiczne dziedzictwo."
+    },
+    "whatIs": {
+      "title": "Co Czyni Imiona Elfów Krwi Wyjątkowymi?",
+      "paragraph1": "Imiona elfów krwi generowane przez nasz specjalistyczny generator zazwyczaj zawierają eleganckie sylaby, magiczne odniesienia i arkańską terminologię definiującą kulturę elfów krwi. Te imiona często zawierają elementy związane ze szkołami magicznymi i mistycznymi zjawiskami.",
+      "paragraph2": "Tradycyjne konwencje nazewnicze elfów krwi obejmują odniesienia do magicznych pojęć (magia, oczarowanie, transmutacja), naukowych dążeń (badania, studiowanie, mistrzostwo) i mistycznych elementów (kryształ, płomień, energia). Nasz generator łączy te złożone elementy, aby tworzyć imiona ucieleśniające magiczną moc i wypolerowaną elegancję."
+    }
+  },
   "seo": {
     "structuredDataName": "Najlepszy Generator Imion Elfów",
     "structuredDataDescription": "Generuj autentyczne fantasy imiona elfów dla elfów leśnych, mrocznych elfów, półelfów i postaci D&D z naszym najlepszym generatorem imion elfów.",
@@ -281,6 +391,804 @@
       "paragraph2": "Dołącz do tysięcy twórców fantasy, którzy polegają na naszym narzędziu w zakresie autentycznych, zapadających w pamięć imion postaci. Od kampanii D&D po epickie powieści fantasy, pozwól naszemu generatorowi ożywić Twoje elfickie postacie z imionami, które naprawdę oddają ich istotę.",
       "generateButton": "Generuj Imiona Elfów Teraz",
       "exploreButton": "Eksploruj Typy Elfów"
+    }
+  },
+  "elvenSeo": {
+    "introduction": {
+      "title": "Generator Imion Elfów - Twórz Autentyczne Elfickie Imiona",
+      "paragraph1": "Nasz kompleksowy generator imion elfów tworzy autentyczne elfickie imiona, które oddają eteryczną piękność i starożytną mądrość kultur elfickich ze wszystkich tradycji fantasy. Niezależnie od tego, czy potrzebujesz generatora imion elfów dla klasycznych wysokich elfów, tajemniczych mrocznych elfów, czy kochających naturę elfów leśnych, ten generator elfickich imion zapewnia imiona, które rezonują z ponadczasową elegancją i magicznym dziedzictwem cywilizacji elfickich.",
+      "paragraph2": "Generator imion elfów czerpie z rozległych elfickich tradycji językowych, włączając płynne sylaby, melodyjne spółgłoski i elementy oparte na naturze, które definiują autentyczne konwencje nadawania imion elfickich. Każde imię wygenerowane przez nasz generator elfickich imion odzwierciedla głębokie połączenie, jakie elfy mają z magią, naturą i wiecznym przepływem czasu poprzez ich starożytne kultury."
+    },
+    "whatIs": {
+      "title": "Co Czyni Elfickie Imiona Wyjątkowymi?",
+      "paragraph1": "Elfickie imiona generowane przez nasz generator imion elfów zazwyczaj charakteryzują się płynnymi samogłoskami, miękkimi spółgłoskami i znaczącymi elementami, które odzwierciedlają wartości i kulturę elfów. Generator imion elfów zapewnia, że każde elfickie imię nosi w sobie muzyczną jakość, która charakteryzuje mowę elfów, tworząc imiona, które brzmią zarówno starożytnie, jak i ponadczasowo.",
+      "paragraph2": "Tradycyjne elfickie konwencje nadawania imion obejmują odniesienia do elementów naturalnych (gwiazdy, księżyc, drzewa), magicznych konceptów (światło, cień, zaklęcie) i szlachetnych cech (mądrość, gracja, piękno). Nasz generator imion elfów łączy te wzorce językowe, aby tworzyć elfickie imiona, które czują się autentyczne i wciągające dla każdego fantasy ustawienia lub kampanii."
+    },
+    "types": {
+      "title": "Typy Elfickich Imion",
+      "description": "Nasz generator imion elfów oferuje różne kategorie elfickich imion, z których każda odzwierciedla różne aspekty kultury elfów i ich różnorodne podgatunki.",
+      "classic": {
+        "title": "Klasyczne Elfickie Imiona",
+        "description": "Tradycyjne elfickie imiona zgodne ze starożytnymi tradycjami nadawania imion elfów z głębokimi połączeniami z magią i naturą."
+      },
+      "halfElf": {
+        "title": "Imiona Półelfów",
+        "description": "Imiona łączące elfickie dziedzictwo z ludzkim wpływem, idealne dla postaci o mieszanym pochodzeniu."
+      },
+      "woodElf": {
+        "title": "Leśne Elfickie Imiona",
+        "description": "Elfickie imiona z motywami natury, idealne dla elfów leśnych i leśnych społeczności elfickich."
+      },
+      "darkElf": {
+        "title": "Mroczne Elfickie Imiona",
+        "description": "Tajemnicze elfickie imiona z ciemnymi podtekstami, odpowiednie dla drowów i podziemnych kultur elfickich."
+      },
+      "dnd": {
+        "title": "Elfickie Imiona D&D",
+        "description": "Elfickie imiona stworzone specjalnie dla kampanii D&D, zgodne z oficjalnym lore i konwencjami Podręcznika Gracza."
+      },
+      "gender": {
+        "title": "Płciowo-Specyficzne Elfickie Imiona",
+        "description": "Męskie i żeńskie elfickie imiona zgodne z tradycyjnymi konwencjami płciowymi elfów i wzorcami językowymi."
+      }
+    },
+    "howToUse": {
+      "title": "Jak Używać Generatora Imion Elfów",
+      "description": "Używanie naszego generatora imion elfów jest proste i zaprojektowane, aby pomóc ci stworzyć idealne elfickie imię dla każdej postaci lub historii.",
+      "step1": {
+        "title": "Wybierz Swoje Preferencje",
+        "description": "Wybierz płeć, podgatunek elfów i preferencje stylu nadawania imion. Generator imion elfów pozwala na dostosowanie dla różnych typów kultur elfickich."
+      },
+      "step2": {
+        "title": "Generuj Elfickie Imiona",
+        "description": "Kliknij generuj, aby stworzyć listę autentycznych imion elfów. Generator elfickich imion zapewni wiele opcji z różnymi podejściami stylistycznymi."
+      },
+      "step3": {
+        "title": "Dostosuj i Udoskonal",
+        "description": "Przeglądaj wygenerowane elfickie imiona i wybierz ulubione. Możesz dalej dostosować każde elfickie imię, aby lepiej pasowało do koncepcji twojej postaci."
+      }
+    },
+    "whyEssential": {
+      "title": "Dlaczego Używać Generatora Imion Elfów?",
+      "saveTime": {
+        "title": "Natychmiastowe Tworzenie Imion",
+        "description": "Nasz generator imion elfów natychmiast zapewnia dziesiątki autentycznych elfickich imion, eliminując godziny badań nad elficką lingwistyką i konwencjami nadawania imion."
+      },
+      "creativity": {
+        "title": "Inspiruj Kreatywność",
+        "description": "Generator imion elfów oferuje nieoczekiwane kombinacje i elfickie elementy, które mogą wywołać nowe koncepcje postaci i pomysły na historie dla twoich projektów fantasy."
+      },
+      "consistency": {
+        "title": "Autentyczne Elfickie Uczucie",
+        "description": "Każde imię z naszego generatora elfickich imion podąża za ustalonymi wzorcami językowymi elfów, zapewniając, że twoje postacie czują się autentyczne w każdym ustawieniu fantasy."
+      },
+      "accessible": {
+        "title": "Darmowe i Łatwe",
+        "description": "Nasz generator imion elfów jest całkowicie darmowy bez wymagania rejestracji. Generuj nieograniczone elfickie imiona dla wszystkich swoich kreatywnych projektów."
+      }
+    },
+    "topFeatures": {
+      "title": "Zaawansowane Funkcje Generatora Imion Elfów",
+      "description": "Nasz generator imion elfów zawiera zaawansowane funkcje, które zapewniają autentyczne i różnorodne elfickie imiona dla każdego typu postaci.",
+      "diverse": {
+        "title": "Kompleksowa Elficka Różnorodność",
+        "description": "Generator imion elfów zawiera imiona ze wszystkich głównych kultur elfickich, od wysokich elfów do elfów leśnych, zapewniając różnorodne, ale autentyczne wzorce nadawania imion elfickich."
+      },
+      "gender": {
+        "title": "Opcje Odpowiednie dla Płci",
+        "description": "Generuj męskie lub żeńskie elfickie imiona, z których każde podąża za tradycyjnymi wzorcami płciowymi elfów, zachowując jednocześnie muzyczną jakość języków elfickich."
+      },
+      "customizable": {
+        "title": "Elastyczne Parametry",
+        "description": "Dostosuj ustawienia generatora imion elfów, aby skupić się na konkretnych kulturach elfickich, magicznych motywach lub preferencjach językowych dla twojego świata kampanii."
+      },
+      "free": {
+        "title": "Zawsze Darmowe",
+        "description": "Używaj naszego generatora imion elfów bez kosztów, rejestracji lub ograniczeń. Twórz nieograniczone elfickie imiona dla postaci, miejsc i historii."
+      }
+    },
+    "popularUses": {
+      "title": "Popularne Zastosowania Elfickich Imion",
+      "description": "Nasz generator imion elfów służy twórcom na wielu platformach i projektach, zapewniając autentyczne elfickie imiona dla różnorodnych potrzeb kreatywnych.",
+      "tabletop": {
+        "title": "Postacie RPG i D&D",
+        "description": "Twórz niezapomniane postacie elfów dla D&D, Pathfinder i innych RPG z naszym specjalistycznym generatorem elfickich imion dostosowanym do gier stołowych."
+      },
+      "novels": {
+        "title": "Pisanie Fantasy",
+        "description": "Autorzy używają naszego generatora imion elfów do rozwijania przekonujących elfickich postaci dla powieści fantasy, tworząc imiona, które wzbogacają budowanie świata i głębię postaci."
+      },
+      "onlineGames": {
+        "title": "Postacie Gier Wideo",
+        "description": "Gracze polegają na naszym generatorze elfickich imion dla MMORPG, gier fantasy dla jednego gracza i każdej gry zawierającej rasy i kultury elfów."
+      },
+      "creativeWriting": {
+        "title": "Projekty Kreatywne",
+        "description": "Pisarze, twórcy treści i budowniczowie światów używają generatora imion elfów dla scenariuszy, fikcji interaktywnej, komiksów i innych przedsięwzięć kreatywnych."
+      }
+    },
+    "supportedTypes": {
+      "title": "Obsługiwane Typy Postaci Elfów",
+      "woodElf": {
+        "title": "Wysokie Elfy",
+        "description": "Szlachetne elfickie imiona dla postaci wysokich elfów, które uosabiają magiczne mistrzostwo, starożytną mądrość i arystokratyczną kulturę elficką."
+      },
+      "darkElf": {
+        "title": "Mroczne Elfy",
+        "description": "Tajemnicze elfickie imiona dla drowów i innych mrocznych kultur elfickich, włączające motywy cieni i elementy podziemnej cywilizacji."
+      },
+      "halfElf": {
+        "title": "Półelfy",
+        "description": "Zrównoważone elfickie imiona odpowiednie dla postaci o elfickim i ludzkim dziedzictwie, łączące elfickie piękno z ludzką adaptacyjnością."
+      },
+      "highElf": {
+        "title": "Księżycowe Elfy",
+        "description": "Eteryczne elfickie imiona dla księżycowych elfów i innych elfickich podgatunków o tematyce niebiańskiej, podkreślające księżycowe i gwiezdne połączenia."
+      },
+      "moonElf": {
+        "title": "Słoneczne Elfy",
+        "description": "Promienne elfickie imiona dla słonecznych elfów i kultur elfickich związanych ze światłem, włączające motywy świtu, światła dziennego i solarnej magii."
+      },
+      "sunElf": {
+        "title": "Dzikie Elfy",
+        "description": "Pierwotne elfickie imiona dla dzikich elfów, które żyją w harmonii z nieoswojoną naturą, podkreślające wolność i naturalne połączenia."
+      },
+      "wildElf": {
+        "title": "Morskie Elfy",
+        "description": "Płynne elfickie imiona dla wodnych kultur elfickich, włączające oceaniczne motywy i morskie tradycje elfickie."
+      },
+      "seaElf": {
+        "title": "Leśne Elfy",
+        "description": "Elfickie imiona o tematyce natury dla elfów mieszkających w lasach, podkreślające ich głębokie połączenie z leśnymi środowiskami i naturalną magią."
+      },
+      "snowElf": {
+        "title": "Arktyczne Elfy",
+        "description": "Elfickie imiona o tematyce zimnej dla elfów przystosowanych do zimowych klimatów, włączające lód, śnieg i północne elementy zorzy do elfickiego nadawania imion."
+      }
+    },
+    "gallery": {
+      "title": "Galeria Postaci Elfów",
+      "description": "Eksploruj wizualną inspirację dla postaci elfów stworzonych za pomocą naszego generatora imion elfów, pokazując różnorodność kultur elfickich.",
+      "woodElf": {
+        "alt": "Sztuka postaci Czarodzieja Wysokiego Elfa",
+        "title": "Mag Wysoki Elf",
+        "description": "Elegancki czarodziej wysokich elfów uosabiający szczyt elfickiego magicznego mistrzostwa i starożytnej wiedzy tajemnej."
+      },
+      "darkElf": {
+        "alt": "Sztuka postaci Łotra Mrocznego Elfa",
+        "title": "Zabójca Drow",
+        "description": "Tajemniczy mroczny elf poruszający się przez cienie, reprezentujący niebezpieczne piękno i śmiertelną gracię kultury drowów."
+      },
+      "highElf": {
+        "alt": "Sztuka postaci Strażnika Księżycowego Elfa",
+        "title": "Strażnik Księżycowy Elf",
+        "description": "Pełen gracji strażnik księżycowych elfów łączący sprawność bojową z eterycznym pięknem charakterystycznym dla księżycowych rodów elfickich."
+      }
+    },
+    "categories": {
+      "title": "Kategorie Elfickich Imion",
+      "natureInspired": {
+        "title": "Niebiańskie Elfickie Imiona",
+        "description": "Elfickie imiona inspirowane gwiazdami, księżycami i zjawiskami niebiańskimi, które elfy czczą w swojej kulturze.",
+        "examples": {
+          "silverleaf": {
+            "name": "Astraleth",
+            "meaning": "Pieśń Gwiazd"
+          },
+          "moonwhisper": {
+            "name": "Lunarias",
+            "meaning": "Błogosławiony Księżyc"
+          },
+          "starweaver": {
+            "name": "Stellanis",
+            "meaning": "Tkacz Gwiazd"
+          },
+          "windrunner": {
+            "name": "Aethermist",
+            "meaning": "Wędrowiec Nieba"
+          }
+        }
+      },
+      "nobleTitles": {
+        "title": "Szlachetne Elfickie Imiona",
+        "description": "Arystokratyczne elfickie imiona odzwierciedlające wyrafinowaną kulturę i starożytną szlachtę społeczeństwa elfów.",
+        "examples": {
+          "goldenbrow": {
+            "name": "Aurathiel",
+            "meaning": "Złote Światło"
+          },
+          "crystalborn": {
+            "name": "Mithrendel",
+            "meaning": "Srebrna Korona"
+          },
+          "thornheart": {
+            "name": "Valandria",
+            "meaning": "Szlachetne Serce"
+          },
+          "stormcrown": {
+            "name": "Celebrian",
+            "meaning": "Srebrna Królowa"
+          }
+        }
+      },
+      "magicalNames": {
+        "title": "Mistyczne Elfickie Imiona",
+        "description": "Elfickie imiona włączające magiczne elementy i tajemne motywy centralne dla cywilizacji elfów.",
+        "examples": {
+          "spellsong": {
+            "name": "Melodreth",
+            "meaning": "Magiczna Pieśń"
+          },
+          "runekeeper": {
+            "name": "Inscriptis",
+            "meaning": "Mistrz Run"
+          },
+          "dreamweaver": {
+            "name": "Oneireth",
+            "meaning": "Kształtowca Snów"
+          },
+          "lightbringer": {
+            "name": "Luminaris",
+            "meaning": "Nośnik Światła"
+          }
+        }
+      }
+    },
+    "linguisticFeatures": {
+      "title": "Wzorce Języka Elfickiego",
+      "elvishLanguagePatterns": {
+        "title": "Autentyczna Lingwistyka Elficka",
+        "description": "Nasz generator imion elfów używa autentycznych wzorców języka elfickiego pochodzących z różnych tradycji fantasy i badań językowych.",
+        "sindarin": {
+          "title": "Wzorce Sindarin",
+          "description": "Elfickie imiona używające wzorców inspirowanych Sindarin z płynnymi samogłoskami i miękkimi spółgłoskami.",
+          "feature1": "Melodyjne sekwencje samogłosek",
+          "feature2": "Miękkie kombinacje spółgłosek",
+          "feature3": "Słowa rdzeniowe oparte na naturze"
+        },
+        "quenya": {
+          "title": "Wzorce Quenya",
+          "description": "Wysokie elfickie imiona używające wzorców w stylu Quenya dla szlachetnych i starożytnych postaci elfów.",
+          "feature1": "Formalna struktura językowa",
+          "feature2": "Starożytne elfickie elementy",
+          "feature3": "Integracja magicznej terminologii"
+        },
+        "dndElvish": {
+          "title": "Konwencje Elfickie D&D",
+          "description": "Elfickie imiona zgodne z oficjalnymi konwencjami nadawania imion D&D dla autentycznej integracji rozgrywki.",
+          "feature1": "Zgodność z Podręcznikiem Gracza",
+          "feature2": "Odpowiednie dla ustawień kampanii",
+          "feature3": "Kompatybilność z wieloma podgatunkami"
+        }
+      },
+      "pronunciationGuide": {
+        "title": "Przewodnik Wymowy Elfickiej",
+        "description": "Naucz się wymawiać elfickie imiona wygenerowane przez nasz generator imion elfów z tym kompleksowym przewodnikiem.",
+        "vowelSounds": {
+          "title": "Elfickie Samogłoski",
+          "sounds": {
+            "a": "jak w 'tata' (czysto i długo)",
+            "e": "jak w 'echo' (jasno i czysto)",
+            "i": "jak w 'litania' (czysto i ostro)",
+            "o": "jak w 'oko' (okrągło i otwarto)",
+            "u": "jak w 'luna' (głęboko i tajemniczo)"
+          }
+        },
+        "consonantCombinations": {
+          "title": "Elfickie Spółgłoski",
+          "combinations": {
+            "th": "miękkie 'th' jak w angielskim 'think'",
+            "dh": "miękkie 'th' jak w angielskim 'that'",
+            "ng": "jak w 'bank' (często na końcu)",
+            "ch": "miękki dźwięk 'k'",
+            "r": "lekko toczące lub płynne 'r'"
+          }
+        }
+      }
+    },
+    "collection": {
+      "title": "Kompletna Kolekcja Elfickich Imion",
+      "woodElfGenerator": {
+        "title": "Klasyczne Elfickie Imiona",
+        "description": "Tradycyjne imiona elfów zgodne z klasycznymi wzorcami nadawania imion elfickich z naciskiem na elegancję i magiczne dziedzictwo.",
+        "feature1": "Tradycyjna lingwistyka elficka",
+        "feature2": "Klasyczne elementy fantasy",
+        "feature3": "Ponadczasowe elfickie piękno"
+      },
+      "darkElfGenerator": {
+        "title": "Mroczne Elfickie Imiona",
+        "description": "Tajemnicze imiona elfów z ciemniejszymi motywami, idealne dla postaci drowów i podziemnych kultur elfickich.",
+        "feature1": "Motywy cieni i tajemnicy",
+        "feature2": "Elementy kultury podziemnej",
+        "feature3": "Konwencje nadawania imion drowów"
+      },
+      "halfElfGenerator": {
+        "title": "Imiona Półelfów",
+        "description": "Zrównoważone elfickie imiona odpowiednie dla postaci o mieszanym elfickim i ludzkim dziedzictwie.",
+        "feature1": "Wzorce fuzji kulturowej",
+        "feature2": "Wszechstronne style nadawania imion",
+        "feature3": "Integracja międzykulturowa"
+      },
+      "bloodElfGenerator": {
+        "title": "Tajemne Elfickie Imiona",
+        "description": "Magiczne imiona elfów podkreślające tajemną moc i mistyczne połączenia w kulturze elfickiej.",
+        "feature1": "Integracja tajemnej magii",
+        "feature2": "Mistyczne motywy elfickie",
+        "feature3": "Nadawanie imion skupione na mocy"
+      },
+      "elfNamesGenerator": {
+        "title": "Uniwersalne Elfickie Imiona",
+        "description": "Kompleksowe imiona elfów odpowiednie dla wszystkich typów postaci elfickich i ustawień fantasy.",
+        "feature1": "Wielokulturowe wzorce elfickie",
+        "feature2": "Uniwersalna kompatybilność fantasy",
+        "feature3": "Szerokie pokrycie typów postaci"
+      },
+      "elfNameGeneratorDnd": {
+        "title": "Elfickie Imiona D&D",
+        "description": "Specjalistyczne imiona elfów zgodne z oficjalnymi konwencjami nadawania imion elfickich D&D i lore dla autentycznej rozgrywki.",
+        "feature1": "Oficjalna zgodność z D&D",
+        "feature2": "Dokładne nazewnictwo zgodne z podręcznikami",
+        "feature3": "Gotowe do integracji z kampanią"
+      }
+    },
+    "relatedSites": {
+      "title": "Więcej Narzędzi Kreatywnych",
+      "description": "Eksploruj naszą kolekcję narzędzi kreatywnych zasilanych przez AI do tworzenia postaci, transformacji stylu i inspiracji projektowej.",
+      "chineseNameGenerator": {
+        "title": "Generator Chińskich Imion",
+        "description": "Twórz autentyczne chińskie imiona",
+        "url": "https://chinesenamegenerate.com"
+      },
+      "dressMeAI": {
+        "title": "DressMeAI",
+        "description": "Stylizacja mody AI",
+        "url": "https://dressmeai.com"
+      },
+      "dreamfinityX": {
+        "title": "DreamfinityX",
+        "description": "Kreatywna platforma AI",
+        "url": "https://dreamfinityx.com"
+      },
+      "aiNailsPro": {
+        "title": "AI Nails Pro",
+        "description": "Projekty nail art AI",
+        "url": "https://ainails.pro"
+      },
+      "characterReadCanon": {
+        "title": "Character Read Canon",
+        "description": "Narzędzie analizy postaci",
+        "url": "https://charactereadcanon.pro"
+      }
+    },
+    "structuredData": {
+      "appName": "Generator Imion Elfów",
+      "appDescription": "Generuj autentyczne elfickie imiona dla postaci fantasy, gier RPG i kreatywnego pisania. Twórz elfickie imiona z tłem kulturowym i autentycznością językową.",
+      "keywords": "generator imion elfów, generator elfickich imion, elfickie imiona, imiona elfów, generator imion elfów, generator imion fantasy, imiona postaci elfów, imiona kultur elfickich",
+      "audienceType1": "Pisarze Fantasy",
+      "audienceType2": "Gracze RPG",
+      "audienceType3": "Gracze D&D",
+      "audienceType4": "Kreatywni Pisarze",
+      "feature1": "Autentyczne Generowanie Elfickich Imion",
+      "feature2": "Wsparcie Wielu Kultur Elfickich",
+      "feature3": "Imiona Kompatybilne z D&D",
+      "feature4": "Opcje Specyficzne dla Płci",
+      "feature5": "Autentyczność Językowa",
+      "feature6": "Informacje o Tle Kulturowym",
+      "feature7": "Darmowe w Użyciu",
+      "feature8": "Kompatybilność z Wieloma Ustawieniami",
+      "faq1Question": "Jak generator imion elfów tworzy autentyczne elfickie imiona?",
+      "faq1Answer": "Nasz generator imion elfów używa autentycznych wzorców językowych elfickich, łącząc płynne samogłoski, miękkie spółgłoski i znaczące elementy, które odzwierciedlają kulturę i wartości elfów, aby tworzyć wiarygodne elfickie imiona.",
+      "faq2Question": "Czy mogę używać elfickich imion dla postaci D&D?",
+      "faq2Answer": "Absolutnie! Nasz generator imion elfów tworzy imiona, które są w pełni kompatybilne z lore D&D i konwencjami nadawania imion elfickich, idealne dla wszystkich podgatunków elfów w Podręczniku Gracza.",
+      "faq3Question": "Jaka jest różnica między imionami elfów i elfickimi?",
+      "faq3Answer": "Imiona elfów i elfickie to zasadniczo to samo - oba terminy odnoszą się do imion należących do postaci elfów. Nasz generator imion elfów tworzy autentyczne imiona dla wszystkich typów elfów i kultur elfickich.",
+      "faq4Question": "Czy są różne style elfickich imion?",
+      "faq4Answer": "Tak! Nasz generator imion elfów zawiera różne style nadawania imion elfickich dla różnych podgatunków elfów, w tym wysokie elfy, leśne elfy, mroczne elfy i półelfy, każdy z odrębnymi wzorcami kulturowymi."
+    },
+    "conclusion": {
+      "title": "Stwórz Swoją Idealną Postać Elfa Już Dziś",
+      "paragraph1": "Niezależnie od tego, czy tworzysz mądrego czarodzieja wysokich elfów, pełnego gracji strażnika księżycowych elfów, czy tajemniczego łotra mrocznych elfów, nasz kompleksowy generator imion elfów zapewnia idealną podstawę do ożywienia twoich elfickich postaci z autentycznymi, bogatymi kulturowo imionami.",
+      "paragraph2": "Dołącz do tysięcy twórców fantasy, którzy ufają naszemu generatorowi imion elfów w swoich kampaniach RPG, powieściach fantasy i projektach kreatywnych. Pozwól starożytnej magii kultury elfickiej przepłynąć przez twoje postacie z imionami, które naprawdę oddają ponadczasowe piękno i mistyczne dziedzictwo cywilizacji elfickich.",
+      "generateButton": "Generuj Elfickie Imiona",
+      "exploreButton": "Eksploruj Kultury Elfickie"
+    }
+  },
+  "woodElf": {
+    "metadata": {
+      "title": "Generator Imion Elfów Leśnych - Autentyczne Elfickie Imiona Leśne",
+      "description": "Generuj autentyczne imiona elfów leśnych z naszym specjalistycznym generatorem. Idealne dla łowców, druidów i postaci związanych z naturą w D&D i fantasy.",
+      "keywords": "generator imion elfów leśnych, imiona elfów leśnych, generator imion elfów leśnych dla dnd, imiona elfów natury, generator elfów leśnych",
+      "openGraphTitle": "Generator Imion Elfów Leśnych - Twórz Magiczne Imiona Leśne",
+      "openGraphDescription": "Odkryj autentyczne imiona elfów leśnych z naszym specjalistycznym generatorem. Idealne dla postaci D&D związanych z naturą.",
+      "twitterTitle": "Generator Imion Elfów Leśnych - Autentyczne Imiona Leśne",
+      "twitterDescription": "Generuj unikalne imiona elfów leśnych dla swoich przygód fantasy i kampanii D&D."
+    },
+    "seo": {
+      "structuredDataName": "Generator Imion Elfów Leśnych",
+      "structuredDataDescription": "Generuj autentyczne imiona elfów leśnych dla postaci fantasy, gier RPG i kreatywnego pisania. Twórz imiona elfów mieszkających w lesie z naturalnymi motywami i leśnym urokiem.",
+      "breadcrumbGenerator": "Generator Imion Elfów Leśnych",
+      "noScriptTitle": "Generator Imion Elfów Leśnych - Twórz Imiona Elfów Leśnych",
+      "noScriptDescription": "Generuj autentyczne imiona elfów leśnych dla swoich postaci fantasy. Ten generator imion elfów leśnych tworzy imiona idealne dla łowców, druidów i elfów kochających naturę.",
+      "toolLabel": "Narzędzie Generowania Imion Elfów Leśnych",
+      "infoLabel": "Informacje i Przewodnik po Imionach Elfów Leśnych"
+    }
+  },
+  "randomizer": {
+    "header": {
+      "title": "Randomizer Imion Elfów",
+      "description": "Generuj różnorodne imiona elfów losowo ze wszystkich typów i kultur"
+    },
+    "metadata": {
+      "title": "Randomizer Imion Elfów - Generator Losowych Imion Fantasy",
+      "description": "Generuj losowe imiona elfów natychmiast z naszym randomizerem imion elfów. Idealny do szybkiego tworzenia postaci, losowych spotkań i kampanii RPG fantasy. Darmowy generator losowych imion elfów.",
+      "keywords": "randomizer imion elfów, losowe imiona elfów, generator imion elfów losowy, randomizer imion fantasy, losowe imiona fantasy, losowy generator imion elfów, losowe imiona elfów",
+      "openGraphTitle": "Randomizer Imion Elfów - Generator Losowych Imion Fantasy",
+      "openGraphDescription": "Generuj losowe imiona elfów natychmiast z naszym randomizerem imion elfów. Idealny do szybkiego tworzenia postaci, losowych spotkań i kampanii RPG fantasy.",
+      "twitterTitle": "Randomizer Imion Elfów - Generator Losowych Imion Fantasy",
+      "twitterDescription": "Generuj losowe imiona elfów natychmiast z naszym randomizerem imion elfów. Idealny do szybkiego tworzenia postaci, losowych spotkań i kampanii RPG fantasy."
+    },
+    "seo": {
+      "structuredDataName": "Randomizer Imion Elfów",
+      "structuredDataDescription": "Generuj losowe imiona elfów dla postaci fantasy, kampanii RPG i pisania kreatywnego. Twórz różnorodne imiona elfów z naszym kompleksowym narzędziem randomizera imion elfów.",
+      "breadcrumbGenerator": "Randomizer Imion Elfów",
+      "noScriptTitle": "Randomizer Imion Elfów - Generator Losowych Imion Elfów",
+      "noScriptDescription": "Generuj losowe imiona elfów natychmiast z naszym randomizerem imion elfów. Idealny do tworzenia różnorodnych postaci elfów i losowych spotkań fantasy.",
+      "toolLabel": "Narzędzie Randomizacji Imion Elfów",
+      "infoLabel": "Informacje i Przewodnik Randomizera Imion Elfów"
+    }
+  },
+  "randomizerSeo": {
+    "introduction": {
+      "title": "Randomizer Imion Elfów - Generator Losowych Imion Fantasy",
+      "paragraph1": "Nasz kompleksowy randomizer imion elfów zapewnia natychmiastowy dostęp do tysięcy różnorodnych imion elfów ze wszystkich kultur i tradycji fantasy. Czy potrzebujesz szybkiej inspiracji dla nowej postaci, losowych BN dla swojej kampanii, czy po prostu chcesz zbadać ogromną różnorodność konwencji imion elfów, ten randomizer imion elfów dostarcza autentyczne wyniki jednym kliknięciem.",
+      "paragraph2": "Randomizer imion elfów łączy tradycyjne wzorce językowe elfów z nowoczesnymi konwencjami fantasy, aby tworzyć imiona, które wydają się zarówno autentyczne, jak i świeże."
+    },
+    "whatIs": {
+      "title": "Czym jest Randomizer Imion Elfów?",
+      "paragraph1": "Randomizer imion elfów to specjalistyczne narzędzie, które generuje losowe imiona elfów z kompleksowej bazy danych autentycznych wzorców imion fantasy.",
+      "paragraph2": "Tradycyjne randomizery imion elfów po prostu łączą sylaby losowo, ale nasz zaawansowany system uwzględnia autentyczność językową, odpowiedniość kulturową i harmonię fonetyczną."
+    },
+    "types": {
+      "title": "Kategorie Losowych Imion Elfów",
+      "description": "Nasz randomizer imion elfów obejmuje wszystkie główne kultury elfów i tradycje imion, zapewniając różnorodne i autentyczne losowe wyniki.",
+      "classic": {
+        "title": "",
+        "description": ""
+      },
+      "halfElf": {
+        "title": "",
+        "description": ""
+      },
+      "woodElf": {
+        "title": "",
+        "description": ""
+      },
+      "darkElf": {
+        "title": "",
+        "description": ""
+      },
+      "dnd": {
+        "title": "",
+        "description": ""
+      },
+      "gender": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "howToUse": {
+      "title": "",
+      "description": "",
+      "step1": {
+        "title": "",
+        "description": ""
+      },
+      "step2": {
+        "title": "",
+        "description": ""
+      },
+      "step3": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "whyEssential": {
+      "title": "",
+      "saveTime": {
+        "title": "",
+        "description": ""
+      },
+      "creativity": {
+        "title": "",
+        "description": ""
+      },
+      "consistency": {
+        "title": "",
+        "description": ""
+      },
+      "accessible": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "topFeatures": {
+      "title": "",
+      "description": "",
+      "diverse": {
+        "title": "",
+        "description": ""
+      },
+      "gender": {
+        "title": "",
+        "description": ""
+      },
+      "customizable": {
+        "title": "",
+        "description": ""
+      },
+      "free": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "popularUses": {
+      "title": "",
+      "description": "",
+      "tabletop": {
+        "title": "",
+        "description": ""
+      },
+      "novels": {
+        "title": "",
+        "description": ""
+      },
+      "onlineGames": {
+        "title": "",
+        "description": ""
+      },
+      "creativeWriting": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "supportedTypes": {
+      "title": "",
+      "woodElf": {
+        "title": "",
+        "description": ""
+      },
+      "darkElf": {
+        "title": "",
+        "description": ""
+      },
+      "halfElf": {
+        "title": "",
+        "description": ""
+      },
+      "highElf": {
+        "title": "",
+        "description": ""
+      },
+      "moonElf": {
+        "title": "",
+        "description": ""
+      },
+      "sunElf": {
+        "title": "",
+        "description": ""
+      },
+      "wildElf": {
+        "title": "",
+        "description": ""
+      },
+      "seaElf": {
+        "title": "",
+        "description": ""
+      },
+      "snowElf": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "gallery": {
+      "title": "",
+      "description": "",
+      "woodElf": {
+        "alt": "",
+        "title": "",
+        "description": ""
+      },
+      "darkElf": {
+        "alt": "",
+        "title": "",
+        "description": ""
+      },
+      "highElf": {
+        "alt": "",
+        "title": "",
+        "description": ""
+      }
+    },
+    "categories": {
+      "title": "",
+      "natureInspired": {
+        "title": "",
+        "description": "",
+        "examples": {
+          "silverleaf": {
+            "name": "",
+            "meaning": ""
+          },
+          "moonwhisper": {
+            "name": "",
+            "meaning": ""
+          },
+          "starweaver": {
+            "name": "",
+            "meaning": ""
+          },
+          "windrunner": {
+            "name": "",
+            "meaning": ""
+          }
+        }
+      },
+      "nobleTitles": {
+        "title": "",
+        "description": "",
+        "examples": {
+          "goldenbrow": {
+            "name": "",
+            "meaning": ""
+          },
+          "crystalborn": {
+            "name": "",
+            "meaning": ""
+          },
+          "thornheart": {
+            "name": "",
+            "meaning": ""
+          },
+          "stormcrown": {
+            "name": "",
+            "meaning": ""
+          }
+        }
+      },
+      "magicalNames": {
+        "title": "",
+        "description": "",
+        "examples": {
+          "spellsong": {
+            "name": "",
+            "meaning": ""
+          },
+          "runekeeper": {
+            "name": "",
+            "meaning": ""
+          },
+          "dreamweaver": {
+            "name": "",
+            "meaning": ""
+          },
+          "lightbringer": {
+            "name": "",
+            "meaning": ""
+          }
+        }
+      }
+    },
+    "linguisticFeatures": {
+      "title": "",
+      "elvishLanguagePatterns": {
+        "title": "",
+        "description": "",
+        "sindarin": {
+          "title": "",
+          "description": "",
+          "feature1": "",
+          "feature2": "",
+          "feature3": ""
+        },
+        "quenya": {
+          "title": "",
+          "description": "",
+          "feature1": "",
+          "feature2": "",
+          "feature3": ""
+        },
+        "dndElvish": {
+          "title": "",
+          "description": "",
+          "feature1": "",
+          "feature2": "",
+          "feature3": ""
+        }
+      },
+      "pronunciationGuide": {
+        "title": "",
+        "description": "",
+        "vowelSounds": {
+          "title": "",
+          "sounds": {
+            "a": "",
+            "e": "",
+            "i": "",
+            "o": "",
+            "u": ""
+          }
+        },
+        "consonantCombinations": {
+          "title": "",
+          "combinations": {
+            "th": "",
+            "dh": "",
+            "ng": "",
+            "ch": "",
+            "ph": "",
+            "r": "slightly rolled 'r' sound"
+          }
+        }
+      }
+    },
+    "cta": {
+      "title": "",
+      "description": "",
+      "primaryButton": "",
+      "secondaryButton": "",
+      "exploreButton": ""
+    },
+    "collection": {
+      "title": "Elf Name Generator Collection",
+      "woodElfGenerator": {
+        "title": "Wood Elf Names",
+        "description": "Generate wood elf names with nature themes.",
+        "feature1": "Forest-themed generation",
+        "feature2": "Nature-based patterns",
+        "feature3": "Woodland integration"
+      },
+      "darkElfGenerator": {
+        "title": "Dark Elf Names",
+        "description": "Create dark elf names with mysterious themes.",
+        "feature1": "Underground patterns",
+        "feature2": "Shadow-themed names",
+        "feature3": "Drow integration"
+      },
+      "halfElfGenerator": {
+        "title": "Half-Elf Names",
+        "description": "Generate half-elf names with mixed heritage.",
+        "feature1": "Mixed heritage patterns",
+        "feature2": "Cultural fusion",
+        "feature3": "Versatile options"
+      },
+      "bloodElfGenerator": {
+        "title": "Blood Elf Names",
+        "description": "Create blood elf names with arcane themes.",
+        "feature1": "Arcane patterns",
+        "feature2": "Magical themes",
+        "feature3": "High fantasy"
+      },
+      "elfNamesGenerator": {
+        "title": "General Elf Names",
+        "description": "Generate elf names for all cultures.",
+        "feature1": "Universal patterns",
+        "feature2": "Multi-cultural",
+        "feature3": "Broad compatibility"
+      },
+      "elfNameGeneratorDnd": {
+        "title": "D&D Elf Names",
+        "description": "Create D&D elf names following official lore.",
+        "feature1": "D&D compliance",
+        "feature2": "Official patterns",
+        "feature3": "Campaign ready"
+      }
+    },
+    "conclusion": {
+      "title": "Start Your Elf Name Adventure",
+      "paragraph1": "Create amazing elf characters with our name generator.",
+      "paragraph2": "Join thousands of creators using our elf name tools.",
+      "generateButton": "Generate Elf Names",
+      "exploreButton": "Explore Options"
     }
   }
 }

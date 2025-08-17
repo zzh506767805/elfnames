@@ -1,0 +1,306 @@
+{
+  "common": {
+    "siteName": "Generator Nama Elf Ultimate",
+    "generateButton": "Generate Nama Elf",
+    "generating": "Sedang Generate...",
+    "copyToClipboard": "Salin ke clipboard",
+    "copiedToClipboard": "Disalin ke clipboard",
+    "speakName": "Ucapkan nama",
+    "browserNotSupported": "Browser Anda tidak mendukung sintesis suara",
+    "networkError": "Error jaringan, silakan coba lagi nanti",
+    "generationFailed": "Generasi gagal",
+    "generationSuccess": "Generasi berhasil, tetapi parsing format gagal, silakan periksa hasil asli"
+  },
+  "metadata": {
+    "title": "Generator Nama Elf Ultimate - Buat Nama Magis",
+    "description": "Generate nama elf fantasi otentik secara instan. Sempurna untuk wood elf, dark elf, half elf, dan karakter D&D. Tool gratis untuk kreator fantasi.",
+    "keywords": "generator nama elf, generator nama elf ultimate, generator nama wood elf, generator nama dark elf, generator nama half elf, generator nama elf, generator nama elf dnd, nama fantasi, nama elf magis",
+    "openGraphTitle": "Generator Nama Elf Ultimate - Buat Nama Magis",
+    "openGraphDescription": "Generate nama elf fantasi otentik secara instan. Sempurna untuk wood elf, dark elf, half elf, dan karakter D&D.",
+    "twitterTitle": "Generator Nama Elf Ultimate - Buat Nama Magis",
+    "twitterDescription": "Generate nama elf fantasi otentik secara instan. Sempurna untuk wood elf, dark elf, half elf, dan karakter D&D."
+  },
+  "header": {
+    "title": "Generator Nama Elf | Tool Pembuatan Nama Fantasi",
+    "description": "Suite lengkap generator nama elf kami mencakup generator nama wood elf, generator nama dark elf, generator nama half elf, generator nama blood elf, dan tool generator nama elf dnd untuk cerita fantasi Anda, karakter D&D, dan permainan RPG. Generator nama elf terbaik yang tersedia online!"
+  },
+  "generator": {
+    "settingsTitle": "Pengaturan Generator Nama",
+    "settingsDescription": "Konfigurasi tipe dan gaya nama elf yang ingin Anda generate",
+    "resultsTitle": "Nama Elf yang Dihasilkan",
+    "resultsDescription": "Klik tombol salin untuk menyalin nama ke clipboard",
+    "noResults": "Isi konfigurasi dan klik \"Generate Nama Elf\" untuk mulai membuat"
+  },
+  "form": {
+    "elfType": "Tipe Elf",
+    "elfTypePlaceholder": "Pilih tipe elf",
+    "gender": "Gender",
+    "genderPlaceholder": "Pilih gender",
+    "nameStyle": "Gaya Nama",
+    "nameStylePlaceholder": "Pilih gaya nama",
+    "nameCount": "Jumlah Nama",
+    "nameCountPlaceholder": "Pilih jumlah nama",
+    "includeBackground": "Sertakan Cerita Latar",
+    "customRequirements": "Persyaratan Kustom (Opsional)",
+    "customRequirementsPlaceholder": "mis. buat nama terdengar lebih mistis, sertakan makna spesifik, dll..."
+  },
+  "elfTypes": {
+    "any": "Semua Tipe Elf",
+    "woodElf": "Wood Elf",
+    "darkElf": "Dark Elf / Drow",
+    "halfElf": "Half-Elf",
+    "highElf": "High Elf",
+    "moonElf": "Moon Elf",
+    "sunElf": "Sun Elf",
+    "wildElf": "Wild Elf",
+    "seaElf": "Sea Elf",
+    "snowElf": "Snow Elf",
+    "shadowElf": "Shadow Elf"
+  },
+  "genders": {
+    "any": "Semua Gender",
+    "male": "Pria",
+    "female": "Wanita",
+    "nonBinary": "Non-biner"
+  },
+  "nameStyles": {
+    "traditional": "Tradisional",
+    "modern": "Modern",
+    "melodic": "Melodis",
+    "mystical": "Mistis",
+    "noble": "Mulia",
+    "natureInspired": "Terinspirasi Alam"
+  },
+  "nameCounts": {
+    "3": "3 nama",
+    "5": "5 nama",
+    "8": "8 nama",
+    "10": "10 nama"
+  },
+  "nameCard": {
+    "pronunciation": "Pengucapan:",
+    "meaning": "Makna:",
+    "background": "Latar:"
+  },
+  "languageSwitcher": {
+    "title": "Bahasa",
+    "selectLanguage": "Pilih Bahasa"
+  },
+  "seo": {
+    "structuredDataName": "Generator Nama Peri Terbaik",
+    "structuredDataDescription": "Hasilkan nama peri fantasi otentik untuk peri hutan, peri gelap, separuh peri, dan karakter D&D dengan generator nama peri terbaik kami.",
+    "breadcrumbHome": "Beranda",
+    "breadcrumbGenerator": "Generator Nama Peri",
+    "noScriptTitle": "Generator Nama Peri Terbaik - Buat Nama Magis",
+    "noScriptDescription": "Hasilkan nama peri fantasi otentik secara instan. Sempurna untuk peri hutan, peri gelap, separuh peri, dan karakter D&D. Generator nama peri kami menciptakan nama untuk peri hutan, peri gelap, separuh peri, dan lebih banyak karakter RPG fantasi.",
+    "toolLabel": "Tool Generator Nama Peri",
+    "infoLabel": "Informasi Generator Nama Peri",
+    "introduction": {
+      "title": "Generator Nama Peri Terbaik - Ciptakan Nama Fantasi Otentik",
+      "paragraph1": "Selamat datang di generator nama peri terbaik, sumber lengkap Anda untuk menciptakan nama fantasi otentik. Baik Anda membutuhkan generator nama peri hutan, generator nama peri gelap, generator nama separuh peri, atau solusi penamaan peri lainnya, tool bertenaga AI canggih kami memberikan hasil yang menghidupkan karakter Anda.",
+      "paragraph2": "Generator nama peri kami menggabungkan linguistik peri tradisional dengan konvensi fantasi modern untuk menghasilkan nama yang terasa otentik dan segar. Sempurna untuk kampanye D&D, novel fantasi, game, dan proyek penulisan kreatif."
+    },
+    "whatIs": {
+      "title": "Apa Itu Generator Nama Peri?",
+      "paragraph1": "Generator nama peri adalah tool khusus yang menciptakan nama fantasi otentik berdasarkan pola linguistik peri dan tradisi budaya. Generator ini mengambil inspirasi dari berbagai sumber termasuk bahasa Tolkien, cerita D&D, dan konvensi penamaan fantasi yang mapan.",
+      "paragraph2": "Generator nama peri terbaik kami melampaui kombinasi acak sederhana, menggabungkan elemen bermakna, panduan pengucapan, dan latar belakang budaya untuk menciptakan nama yang benar-benar meningkatkan pengalaman fantasi Anda."
+    },
+    "types": {
+      "title": "Jenis Generator Nama Peri",
+      "description": "Rangkaian lengkap kami mencakup generator khusus untuk setiap jenis budaya peri dan setting fantasi.",
+      "classic": {
+        "title": "Nama Peri Klasik",
+        "description": "Nama peri tradisional yang terinspirasi dari bahasa Sindarin dan Quenya Tolkien, menampilkan suara mengalir dan makna berbasis alam."
+      },
+      "halfElf": {
+        "title": "Nama Separuh Peri",
+        "description": "Nama yang memadukan tradisi manusia dan peri, sempurna untuk karakter dengan warisan campuran dan latar belakang kompleks."
+      },
+      "woodElf": {
+        "title": "Nama Peri Hutan",
+        "description": "Nama peri penghuni hutan dengan koneksi kuat ke alam, sempurna untuk ranger, druid, dan karakter sylvan."
+      },
+      "darkElf": {
+        "title": "Nama Peri Gelap / Drow",
+        "description": "Nama misterius dan kuat dari underdark, menampilkan tema gelap dan pengaruh budaya bawah tanah."
+      },
+      "dnd": {
+        "title": "Nama Peri D&D",
+        "description": "Nama yang dibuat khusus untuk kampanye Dungeons & Dragons, mengikuti lore resmi dan konvensi penamaan."
+      },
+      "gender": {
+        "title": "Nama Spesifik Gender",
+        "description": "Opsi penamaan yang disesuaikan untuk karakter pria, wanita, dan non-biner di semua jenis dan budaya peri."
+      }
+    },
+    "howToUse": {
+      "title": "Cara Menggunakan Generator Nama Peri Kami",
+      "description": "Menciptakan nama peri yang sempurna mudah dengan proses tiga langkah intuitif kami.",
+      "step1": {
+        "title": "Pilih Pengaturan Anda",
+        "description": "Pilih jenis peri, gender, dan gaya penamaan yang Anda sukai dari menu opsi lengkap kami."
+      },
+      "step2": {
+        "title": "Hasilkan Nama",
+        "description": "Klik tombol generate untuk menciptakan nama peri otentik dengan panduan pengucapan dan makna."
+      },
+      "step3": {
+        "title": "Pilih dan Gunakan",
+        "description": "Salin nama favorit Anda dan gunakan dalam kampanye, cerita, atau proyek kreatif Anda."
+      }
+    },
+    "whyEssential": {
+      "title": "Mengapa Menggunakan Generator Nama Peri?",
+      "saveTime": {
+        "title": "Hemat Waktu Kreatif",
+        "description": "Lewati berjam-jam brainstorming dan riset. Generator kami langsung memberikan nama yang terdengar otentik dengan kedalaman budaya."
+      },
+      "creativity": {
+        "title": "Tingkatkan Kreativitas",
+        "description": "Temukan pola penamaan unik dan kombinasi yang mungkin tidak pernah Anda pertimbangkan sendiri."
+      },
+      "consistency": {
+        "title": "Pertahankan Konsistensi",
+        "description": "Jaga dunia fantasi Anda tetap koheren dengan nama yang mengikuti pola linguistik dan budaya yang mapan."
+      },
+      "accessible": {
+        "title": "Dapat Diakses Semua Orang",
+        "description": "Baik Anda seorang DM berpengalaman atau baru dalam fantasi, tool kami membuat pembuatan nama berkualitas profesional dapat diakses semua orang."
+      }
+    },
+    "topFeatures": {
+      "title": "Fitur Utama yang Harus Dicari dalam Generator Nama Peri",
+      "description": "Tidak semua generator nama peri diciptakan sama. Inilah yang membuat tool kami menonjol dari yang lain.",
+      "diverse": {
+        "title": "Beragam Jenis Peri",
+        "description": "Dukungan untuk semua subras peri utama termasuk peri hutan, peri gelap, peri tinggi, dan lainnya, masing-masing dengan pola penamaan budaya otentik."
+      },
+      "gender": {
+        "title": "Opsi Gender",
+        "description": "Seleksi gender komprehensif termasuk konvensi penamaan pria, wanita, dan non-biner untuk pembuatan karakter inklusif."
+      },
+      "customizable": {
+        "title": "Pengaturan yang Dapat Disesuaikan",
+        "description": "Sesuaikan gaya penamaan, pengaruh budaya, dan persyaratan khusus untuk menciptakan nama yang sempurna sesuai visi Anda."
+      },
+      "free": {
+        "title": "Gratis Digunakan",
+        "description": "Akses semua fitur tanpa registrasi atau pembayaran. Buat nama tak terbatas untuk semua proyek kreatif Anda."
+      }
+    },
+    "popularUses": {
+      "title": "Penggunaan Populer Generator Nama Peri",
+      "description": "Temukan bagaimana kreator di berbagai media menggunakan generator nama peri kami untuk meningkatkan proyek mereka.",
+      "tabletop": {
+        "title": "Kampanye RPG Tabletop",
+        "description": "Sempurna untuk D&D, Pathfinder, dan RPG fantasi lainnya. Ciptakan NPC dan karakter pemain yang berkesan dengan nama yang terdengar otentik."
+      },
+      "novels": {
+        "title": "Novel & Cerita Fantasi",
+        "description": "Penulis menggunakan generator kami untuk menciptakan nama karakter yang konsisten dan dapat dipercaya yang meningkatkan worldbuilding fantasi mereka."
+      },
+      "onlineGames": {
+        "title": "Gaming Online",
+        "description": "Menonjol di MMORPG dan game fantasi dengan nama karakter unik yang mencerminkan ras dan latar belakang pilihan Anda."
+      },
+      "creativeWriting": {
+        "title": "Proyek Penulisan Kreatif",
+        "description": "Dari fanfiksi hingga karya fantasi orisinal, generator kami menyediakan nama sempurna untuk setiap usaha kreatif."
+      }
+    },
+    "supportedTypes": {
+      "title": "Jenis Peri yang Didukung dalam Generator Kami",
+      "woodElf": {
+        "title": "Nama Peri Hutan",
+        "description": "Nama yang terhubung dengan alam untuk penjaga hutan dan penghuni sylvan."
+      },
+      "darkElf": {
+        "title": "Nama Peri Gelap / Drow",
+        "description": "Nama misterius dari underdark dengan nuansa bayangan."
+      },
+      "halfElf": {
+        "title": "Nama Separuh Peri",
+        "description": "Nama warisan campuran yang menggabungkan tradisi manusia dan peri."
+      },
+      "highElf": {
+        "title": "Nama Peri Tinggi",
+        "description": "Nama mulia dan halus untuk aristokrasi peri."
+      },
+      "moonElf": {
+        "title": "Nama Peri Bulan",
+        "description": "Nama terinspirasi surgawi dengan tema lunar dan nokturnal."
+      },
+      "sunElf": {
+        "title": "Nama Peri Matahari",
+        "description": "Nama bersinar yang merayakan cahaya dan kekuatan solar."
+      },
+      "wildElf": {
+        "title": "Nama Peri Liar",
+        "description": "Nama primitif untuk karakter peri yang tak dijinakkan dan liar."
+      },
+      "seaElf": {
+        "title": "Nama Peri Laut",
+        "description": "Nama akuatik yang terinspirasi dari kedalaman laut dan kehidupan laut."
+      },
+      "snowElf": {
+        "title": "Nama Peri Salju",
+        "description": "Nama arktik yang mencerminkan es, salju, dan tema musim dingin."
+      }
+    },
+    "gallery": {
+      "title": "Contoh Karakter Peri",
+      "description": "Jelajahi berbagai jenis peri dan nama khas mereka melalui galeri visual kami.",
+      "woodElf": {
+        "alt": "Karakter Ranger Peri Hutan",
+        "title": "Ranger Peri Hutan",
+        "description": "Penjaga hutan terampil dengan nama yang mencerminkan harmoni alam."
+      },
+      "darkElf": {
+        "alt": "Karakter Mage Peri Gelap",
+        "title": "Mage Peri Gelap",
+        "description": "Penyihir misterius dari underdark yang penuh bayangan."
+      },
+      "highElf": {
+        "alt": "Karakter Bangsawan Peri Tinggi",
+        "title": "Bangsawan Peri Tinggi",
+        "description": "Peri aristokrat dengan nama yang sesuai dengan garis kerajaan."
+      }
+    },
+    "categories": {
+      "title": "Kategori dan Makna Generator Nama Peri"
+    },
+    "linguisticFeatures": {
+      "title": "Fitur Linguistik Generator Nama Peri"
+    },
+    "collection": {
+      "title": "Koleksi Generator Nama Peri"
+    },
+    "conclusion": {
+      "title": "Mulai Menciptakan Nama Peri Menakjubkan Hari Ini",
+      "paragraph1": "Baik Anda sedang membuat ranger peri hutan, rogue peri gelap yang misterius, atau wizard peri tinggi yang mulia, generator nama peri terbaik kami menyediakan titik awal sempurna untuk perjalanan pembuatan karakter Anda.",
+      "paragraph2": "Bergabunglah dengan ribuan kreator fantasi yang mengandalkan tool kami untuk nama karakter otentik dan berkesan. Dari kampanye D&D hingga novel fantasi epik, biarkan generator kami menghidupkan karakter peri Anda dengan nama yang benar-benar menangkap esensi mereka.",
+      "generateButton": "Hasilkan Nama Peri Sekarang",
+      "exploreButton": "Jelajahi Jenis Peri"
+    }
+  },
+  "woodElf": {
+    "metadata": {
+      "title": "Generator Nama Wood Elf - Nama Peri Hutan Otentik",
+      "description": "Hasilkan nama wood elf otentik dengan generator khusus kami. Sempurna untuk ranger, druid, dan karakter yang terhubung dengan alam dalam D&D dan fantasi.",
+      "keywords": "generator nama wood elf, nama wood elf, generator nama wood elf untuk dnd, nama peri alam, generator wood elf",
+      "openGraphTitle": "Generator Nama Wood Elf - Buat Nama Hutan Ajaib",
+      "openGraphDescription": "Temukan nama wood elf otentik dengan generator khusus kami. Sempurna untuk karakter D&D yang terhubung dengan alam.",
+      "twitterTitle": "Generator Nama Wood Elf - Nama Hutan Otentik",
+      "twitterDescription": "Hasilkan nama wood elf unik untuk petualangan fantasi dan kampanye D&D Anda."
+    },
+    "seo": {
+      "structuredDataName": "Generator Nama Wood Elf",
+      "structuredDataDescription": "Hasilkan nama wood elf otentik untuk karakter fantasi, game RPG, dan penulisan kreatif. Buat nama peri penghuni hutan dengan tema alam dan pesona sylvan.",
+      "breadcrumbGenerator": "Generator Nama Wood Elf",
+      "noScriptTitle": "Generator Nama Wood Elf - Buat Nama Wood Elf",
+      "noScriptDescription": "Hasilkan nama wood elf otentik untuk karakter fantasi Anda. Generator nama wood elf ini membuat nama sempurna untuk ranger, druid, dan peri pencinta alam.",
+      "toolLabel": "Alat Pembuatan Nama Wood Elf",
+      "infoLabel": "Informasi dan Panduan Nama Wood Elf"
+    }
+  }
+}

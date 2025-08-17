@@ -1,0 +1,3471 @@
+{
+  "timestamp": "2025-08-16T04:53:39.353Z",
+  "summary": {
+    "totalLanguages": 13,
+    "totalIssues": 597,
+    "averageConsistency": 82.79923076923076
+  },
+  "terminology": {
+    "Elf": {
+      "de": "Elf",
+      "es": "Elfo",
+      "fr": "Elfe",
+      "it": "Elfo",
+      "ja": "エルフ",
+      "ko": "엘프",
+      "pt": "Elfo",
+      "ru": "Эльф",
+      "ar": "جني",
+      "id": "Elf",
+      "pl": "Elf",
+      "th": "เอลฟ์",
+      "vi": "Elf"
+    },
+    "Wood Elf": {
+      "de": "Waldelf",
+      "es": "Elfo del Bosque",
+      "fr": "Elfe des Bois",
+      "it": "Elfo del Bosco",
+      "ja": "森エルフ",
+      "ko": "우드엘프",
+      "pt": "Elfo da Floresta",
+      "ru": "Лесной эльф",
+      "ar": "جني الغابة",
+      "id": "Elf Hutan",
+      "pl": "Elf Leśny",
+      "th": "เอลฟ์ป่า",
+      "vi": "Elf Rừng"
+    },
+    "Dark Elf": {
+      "de": "Dunkelelf",
+      "es": "Elfo Oscuro",
+      "fr": "Elfe Noir",
+      "it": "Elfo Scuro",
+      "ja": "ダークエルフ",
+      "ko": "다크엘프",
+      "pt": "Elfo Negro",
+      "ru": "Темный эльф",
+      "ar": "الجني المظلم",
+      "id": "Elf Gelap",
+      "pl": "Mroczny Elf",
+      "th": "เอลฟ์มืด",
+      "vi": "Elf Tối"
+    },
+    "High Elf": {
+      "de": "Hochelf",
+      "es": "Alto Elfo",
+      "fr": "Haut-Elfe",
+      "it": "Alto Elfo",
+      "ja": "ハイエルフ",
+      "ko": "하이엘프",
+      "pt": "Alto Elfo",
+      "ru": "Высший эльф",
+      "ar": "الجني العالي",
+      "id": "Elf Tinggi",
+      "pl": "Wysoki Elf",
+      "th": "เอลฟ์สูง",
+      "vi": "Elf Cao"
+    },
+    "Half-Elf": {
+      "de": "Halbelf",
+      "es": "Semielfo",
+      "fr": "Demi-Elfe",
+      "it": "Mezzelfo",
+      "ja": "ハーフエルフ",
+      "ko": "하프엘프",
+      "pt": "Meio-Elfo",
+      "ru": "Полуэльф",
+      "ar": "نصف جني",
+      "id": "Setengah Elf",
+      "pl": "Półelf",
+      "th": "ครึ่งเอลฟ์",
+      "vi": "Nửa Elf"
+    },
+    "D&D": {
+      "de": "D&D",
+      "es": "D&D",
+      "fr": "D&D",
+      "it": "D&D",
+      "ja": "D&D",
+      "ko": "D&D",
+      "pt": "D&D",
+      "ru": "D&D",
+      "ar": "D&D",
+      "id": "D&D",
+      "pl": "D&D",
+      "th": "D&D",
+      "vi": "D&D"
+    },
+    "RPG": {
+      "de": "RPG",
+      "es": "RPG",
+      "fr": "JDR",
+      "it": "GDR",
+      "ja": "RPG",
+      "ko": "RPG",
+      "pt": "RPG",
+      "ru": "РПГ",
+      "ar": "آر بي جي",
+      "id": "RPG",
+      "pl": "RPG",
+      "th": "อาร์พีจี",
+      "vi": "RPG"
+    },
+    "Magic": {
+      "de": "Magie",
+      "es": "Magia",
+      "fr": "Magie",
+      "it": "Magia",
+      "ja": "魔法",
+      "ko": "마법",
+      "pt": "Magia",
+      "ru": "Магия",
+      "ar": "سحر",
+      "id": "Sihir",
+      "pl": "Magia",
+      "th": "เวทมนตร์",
+      "vi": "Phép thuật"
+    },
+    "Fantasy": {
+      "de": "Fantasy",
+      "es": "Fantasía",
+      "fr": "Fantasy",
+      "it": "Fantasy",
+      "ja": "ファンタジー",
+      "ko": "판타지",
+      "pt": "Fantasia",
+      "ru": "Фэнтези",
+      "ar": "خيال",
+      "id": "Fantasi",
+      "pl": "Fantasy",
+      "th": "แฟนตาซี",
+      "vi": "Giả tưởng"
+    }
+  },
+  "results": {
+    "inconsistencies": {
+      "de": [
+        {
+          "path": "metadata.description",
+          "issue": "Mixed language detected: Fantasy, Fantasy",
+          "text": "Generiere authentische Fantasy-Elfennamen sofort. Perfekt für Waldelfen, Dunkelelfen, Halbelfen und ..."
+        },
+        {
+          "path": "metadata.keywords",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Elfennamen Generator, ultimativer Elfennamen Generator, Waldelfen Namengenerator, Dunkelelfen Nameng..."
+        },
+        {
+          "path": "metadata.openGraphDescription",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Generiere authentische Fantasy-Elfennamen sofort. Perfekt für Waldelfen, Dunkelelfen, Halbelfen und ..."
+        },
+        {
+          "path": "metadata.twitterDescription",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Generiere authentische Fantasy-Elfennamen sofort. Perfekt für Waldelfen, Dunkelelfen, Halbelfen und ..."
+        },
+        {
+          "path": "header.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Elfennamen Generator | Fantasy Namen Erstellungstool"
+        },
+        {
+          "path": "header.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Unsere komplette Elfennamen Generator Suite enthält Waldelfen Namengenerator, Dunkelelfen Namengener..."
+        },
+        {
+          "path": "seo.structuredDataDescription",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Generiere authentische Fantasy-Elfennamen für Waldelfen, Dunkelelfen, Halbelfen und D&D-Charaktere m..."
+        },
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Mixed language detected: Fantasy, Fantasy, RPG",
+          "text": "Generiere authentische Fantasy-Elfennamen sofort. Perfekt für Waldelfen, Dunkelelfen, Halbelfen und ..."
+        },
+        {
+          "path": "seo.introduction.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Ultimativer Elfennamen Generator - Erstelle Authentische Fantasy-Namen"
+        },
+        {
+          "path": "seo.introduction.paragraph1",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Willkommen beim ultimativen Elfennamen Generator, Ihrer umfassenden Quelle für die Erstellung authen..."
+        },
+        {
+          "path": "seo.introduction.paragraph2",
+          "issue": "Mixed language detected: Fantasy, Fantasy",
+          "text": "Unser Elfennamen Generator kombiniert traditionelle elfische Sprachwissenschaft mit modernen Fantasy..."
+        },
+        {
+          "path": "seo.whatIs.paragraph1",
+          "issue": "Mixed language detected: Fantasy, Fantasy",
+          "text": "Ein Elfennamen Generator ist ein spezialisiertes Werkzeug, das authentische Fantasy-Namen basierend ..."
+        },
+        {
+          "path": "seo.whatIs.paragraph2",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Unser ultimativer Elfennamen Generator geht über einfache zufällige Kombinationen hinaus und integri..."
+        },
+        {
+          "path": "seo.types.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Unsere umfassende Suite umfasst spezialisierte Generatoren für jeden Typ von Elfenkultur und Fantasy..."
+        },
+        {
+          "path": "seo.whyEssential.consistency.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Halten Sie Ihre Fantasy-Welt kohärent mit Namen, die etablierten sprachlichen und kulturellen Muster..."
+        },
+        {
+          "path": "seo.whyEssential.accessible.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Ob Sie ein erfahrener Spielleiter oder neu in der Fantasy-Welt sind, unser Tool macht professionelle..."
+        },
+        {
+          "path": "seo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "Tabletop-RPG-Kampagnen"
+        },
+        {
+          "path": "seo.popularUses.tabletop.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Perfekt für D&D, Pathfinder und andere Fantasy-RPGs. Erstellen Sie unvergessliche NSCs und Spielerch..."
+        },
+        {
+          "path": "seo.popularUses.novels.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Fantasy-Romane & Geschichten"
+        },
+        {
+          "path": "seo.popularUses.novels.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Autoren nutzen unseren Generator, um konsistente, glaubwürdige Charakternamen zu erstellen, die ihr ..."
+        },
+        {
+          "path": "seo.popularUses.onlineGames.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Stechen Sie in MMORPGs und Fantasy-Spielen mit einzigartigen Charakternamen hervor, die Ihre gewählt..."
+        },
+        {
+          "path": "seo.popularUses.creativeWriting.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Von Fanfiction bis zu originalen Fantasy-Werken bietet unser Generator die perfekten Namen für jedes..."
+        },
+        {
+          "path": "seo.gallery.highElf.description",
+          "issue": "Mixed language detected: Elf",
+          "text": "Ein aristokratischer Elf mit Namen, die königlicher Abstammung würdig sind."
+        },
+        {
+          "path": "seo.collection.bloodElfGenerator.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Erstelle majestätische und mächtige Namen mit unserem Blutelfen Namengenerator. Perfekt für High-Fan..."
+        },
+        {
+          "path": "seo.collection.bloodElfGenerator.feature3",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Blutelfen Namengenerator für Fantasy-Gaming"
+        },
+        {
+          "path": "seo.collection.elfNamesGenerator.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Unser umfassender Elfennamen Generator deckt alle Arten von Elfenkulturen ab. Dieser Elfennamen Gene..."
+        },
+        {
+          "path": "seo.structuredData.appDescription",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Generiere authentische Fantasy-Elfennamen sofort. Perfekt für Waldelfen, Dunkelelfen, Halbelfen und ..."
+        },
+        {
+          "path": "seo.structuredData.keywords",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Elfennamen Generator, ultimativer Elfennamen Generator, Waldelfen Namengenerator, Dunkelelfen Nameng..."
+        },
+        {
+          "path": "seo.structuredData.audienceType1",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Fantasy-Autoren"
+        },
+        {
+          "path": "seo.structuredData.audienceType2",
+          "issue": "Mixed language detected: RPG",
+          "text": "RPG-Spieler"
+        },
+        {
+          "path": "seo.structuredData.faq4Question",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Kann ich Elfennamen für Nicht-Fantasy-Situationen verwenden?"
+        },
+        {
+          "path": "seo.conclusion.paragraph2",
+          "issue": "Mixed language detected: Fantasy, Fantasy",
+          "text": "Schließen Sie sich Tausenden von Fantasy-Erstellern an, die auf unser Tool für authentische, unverge..."
+        },
+        {
+          "path": "woodElf.metadata.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Generiere authentische Waldelfen Namen mit unserem spezialisierten Generator. Perfekt für Waldläufer..."
+        },
+        {
+          "path": "woodElf.metadata.twitterDescription",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Generiere einzigartige Waldelfen Namen für deine Fantasy-Abenteuer und D&D-Kampagnen."
+        },
+        {
+          "path": "woodElf.header.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Erschaffe magische Waldelfen Namen mit unserem spezialisierten Generator. Perfekt für Waldhüter, Dru..."
+        },
+        {
+          "path": "woodElf.seo.structuredDataDescription",
+          "issue": "Mixed language detected: Fantasy, RPG",
+          "text": "Generiere authentische Waldelfen Namen für Fantasy-Charaktere, RPG-Spiele und kreatives Schreiben. E..."
+        },
+        {
+          "path": "woodElf.seo.noScriptDescription",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Generiere authentische Waldelfen Namen für deine Fantasy-Charaktere. Dieser Waldelfen Namengenerator..."
+        },
+        {
+          "path": "woodElf.seo.introduction.paragraph2",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Ob du einen elfischen Waldläufer für deine D&D-Kampagne erstellst, einen weisen Druiden für deinen F..."
+        },
+        {
+          "path": "woodElf.seo.features.cultural.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Basierend auf den Waldelf-Traditionen von D&D und Fantasy-Literatur wahren unsere Namen die kulturel..."
+        },
+        {
+          "path": "woodElf.seo.features.versatile.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Perfekt für D&D-Kampagnen, Fantasy-Romane, Online-Rollenspiele und jedes kreative Projekt, das authe..."
+        },
+        {
+          "path": "woodElfSeo.introduction.paragraph2",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Der Waldelfen Namengenerator schöpft Inspiration aus verschiedenen Fantasy-Traditionen, einschließli..."
+        },
+        {
+          "path": "woodElfSeo.whyEssential.consistency.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Jeder Name aus unserem Waldelfen Namengenerator folgt etablierten Fantasy-Namenskonventionen und ste..."
+        },
+        {
+          "path": "woodElfSeo.topFeatures.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Unser Waldelfen Namengenerator bietet mehrere erweiterte Funktionen, die ihn von generischen Fantasy..."
+        },
+        {
+          "path": "woodElfSeo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "D&D und RPG Charaktere"
+        },
+        {
+          "path": "woodElfSeo.popularUses.novels.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Fantasy-Literatur"
+        },
+        {
+          "path": "woodElfSeo.popularUses.novels.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Autoren verwenden unseren Waldelfen Namengenerator, um fesselnde Waldelfencharaktere für Fantasy-Rom..."
+        },
+        {
+          "path": "woodElfSeo.popularUses.onlineGames.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Spieler verlassen sich auf unseren Waldelfen Namengenerator für die Charaktererstellung in World of ..."
+        },
+        {
+          "path": "woodElfSeo.structuredData.appDescription",
+          "issue": "Mixed language detected: Fantasy, RPG",
+          "text": "Generiere authentische Waldelfen Namen für Fantasy-Charaktere, RPG-Spiele und kreatives Schreiben. E..."
+        },
+        {
+          "path": "woodElfSeo.structuredData.audienceType1",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Fantasy-Autoren"
+        },
+        {
+          "path": "woodElfSeo.structuredData.audienceType2",
+          "issue": "Mixed language detected: RPG",
+          "text": "RPG-Spieler"
+        },
+        {
+          "path": "woodElfSeo.conclusion.paragraph2",
+          "issue": "Mixed language detected: Fantasy, RPG, Fantasy",
+          "text": "Schließen Sie sich Tausenden von Fantasy-Erstellern an, die unserem Waldelfen Namengenerator für ihr..."
+        },
+        {
+          "path": "elven.metadata.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Elfischer Namengenerator - Authentische Elvische Fantasy-Namen"
+        },
+        {
+          "path": "elven.metadata.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Erstelle authentische elfische Namen mit unserem umfassenden Elvischen Generator. Perfekt für Fantas..."
+        },
+        {
+          "path": "elven.metadata.keywords",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Elfischer Namengenerator, Elvische Namen, Elvischer Generator, Elfische Fantasy-Namen, Elvish Nameng..."
+        },
+        {
+          "path": "elven.metadata.twitterDescription",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Erstelle wunderschöne und authentische elfische Namen für deine Fantasy-Charaktere und epischen Aben..."
+        },
+        {
+          "path": "elven.header.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Tauche ein in die reiche elfische Sprachtradition mit unserem umfassenden Elfischen Namengenerator. ..."
+        },
+        {
+          "path": "elven.seo.introduction.paragraph2",
+          "issue": "Mixed language detected: Fantasy, Fantasy",
+          "text": "Von Tolkiens unsterblichen Werken bis zu modernen Fantasy-Sagen behalten elfische Namen eine besonde..."
+        },
+        {
+          "path": "highElf.metadata.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Hochelfen Namengenerator - Noble Elfische High-Fantasy-Namen"
+        },
+        {
+          "path": "highElf.metadata.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Generiere aristokratische Hochelfen Namen mit unserem spezialisierten Generator. Perfekt für elfisch..."
+        },
+        {
+          "path": "highElf.metadata.openGraphDescription",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Erstelle elegante Hochelfen Namen, die Adel, Weisheit und arkane Macht in deinen Fantasy-Abenteuern ..."
+        },
+        {
+          "path": "highElf.metadata.twitterDescription",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Entdecke noble und raffinierte Hochelfen Namen für aristokratische High-Fantasy-Charaktere."
+        },
+        {
+          "path": "highElf.header.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Erstelle aristokratische Hochelfen Namen, die Jahrhunderte der Raffinesse, arkane Weisheit und adlig..."
+        },
+        {
+          "path": "highElf.seo.introduction.paragraph2",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Diese Namen sind nicht nur Bezeichnungen, sondern Aussagen über Abstammung, Macht und Status innerha..."
+        },
+        {
+          "path": "darkElf.metadata.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Generiere mysteriöse Dunkelelf und Drow Namen mit unserem spezialisierten Generator. Perfekt für Und..."
+        },
+        {
+          "path": "darkElf.header.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Erkunde die Tiefen des Underdark mit authentischen Dunkelelf und Drow Namen. Perfekt für mysteriöse ..."
+        },
+        {
+          "path": "darkElf.seo.introduction.paragraph1",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Dunkelelfen, gemeinhin als Drow bekannt, repräsentieren eine der faszinierendsten und komplexesten R..."
+        },
+        {
+          "path": "bloodElf.metadata.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Generiere mächtige Blutelfen Namen mit unserem spezialisierten Generator. Perfekt für arkane Magier,..."
+        },
+        {
+          "path": "bloodElf.metadata.keywords",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Blutelfen Namengenerator, Blutelfen Namen, Blutelf Generator, Arkane Elfennamen, Blutelfen Fantasy"
+        },
+        {
+          "path": "bloodElf.metadata.twitterDescription",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Erstelle elegante und mächtige Blutelfen Namen für arkane Charaktere und High-Fantasy-Adlige."
+        },
+        {
+          "path": "elfRandomizer.metadata.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Entdecke einzigartige elfische Namen mit unserem spezialisierten Randomizer. Generiere zufällige Kom..."
+        },
+        {
+          "path": "elfRandomizer.seo.benefits.variety.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Mit Millionen möglicher Kombinationen stellt der Randomizer sicher, dass dir nie die frischen und in..."
+        },
+        {
+          "path": "elfRandomizer.seo.applications.worldbuilding.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Nutze zufällige Namen, um deine Fantasy-Welt schnell mit einzigartigen NSCs zu bevölkern, jeder mit ..."
+        },
+        {
+          "path": "tolkienElf.header.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Ehre J.R.R. Tolkiens sprachliche Tradition mit authentischen elfischen Namen basierend auf den Sinda..."
+        },
+        {
+          "path": "tolkienElf.seo.introduction.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Tolkien Elfennamen - Die Quelle Aller Elfischen Fantasy"
+        },
+        {
+          "path": "tolkienElf.seo.introduction.paragraph1",
+          "issue": "Mixed language detected: Fantasy, Fantasy",
+          "text": "J.R.R. Tolkien schuf nicht nur die moderne Fantasy; er revolutionierte für immer, wie wir Elfen und ..."
+        },
+        {
+          "path": "femaleElf.metadata.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Generiere elegante weibliche Elfennamen mit unserem spezialisierten Generator. Perfekt für weibliche..."
+        },
+        {
+          "path": "femaleElf.metadata.openGraphDescription",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Entdecke schöne und elegante weibliche Elfennamen für weibliche Fantasy-Charaktere mit elfischer Anm..."
+        },
+        {
+          "path": "elvenSeo.introduction.paragraph1",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Unser umfassender elfischer Namengenerator erstellt authentische elvische Namen, die die ätherische ..."
+        },
+        {
+          "path": "elvenSeo.whatIs.paragraph2",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Traditionelle elvische Namenskonventionen umfassen Bezüge zu natürlichen Elementen (Sterne, Mond, Bä..."
+        },
+        {
+          "path": "elvenSeo.whyEssential.creativity.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Der elfische Namengenerator bietet unerwartete Kombinationen und elvische Elemente, die neue Charakt..."
+        },
+        {
+          "path": "elvenSeo.whyEssential.consistency.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Jeder Name von unserem elvischen Namengenerator folgt etablierten elfischen sprachlichen Mustern und..."
+        },
+        {
+          "path": "elvenSeo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "RPG und D&D Charaktere"
+        },
+        {
+          "path": "elvenSeo.popularUses.novels.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Fantasy-Schreiben"
+        },
+        {
+          "path": "elvenSeo.popularUses.novels.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Autoren verwenden unseren elfischen Namengenerator, um fesselnde elvische Charaktere für Fantasy-Rom..."
+        },
+        {
+          "path": "elvenSeo.popularUses.onlineGames.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Spieler verlassen sich auf unseren elvischen Namengenerator für MMORPGs, Einzelspieler-Fantasy-Spiel..."
+        },
+        {
+          "path": "elvenSeo.linguisticFeatures.elvishLanguagePatterns.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Unser elfischer Namengenerator verwendet authentische elvische Sprachmuster, die aus verschiedenen F..."
+        },
+        {
+          "path": "elvenSeo.collection.woodElfGenerator.feature2",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Klassische Fantasy-Elemente"
+        },
+        {
+          "path": "elvenSeo.collection.elfNamesGenerator.description",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Umfassende elfische Namen, die für alle Arten elfischer Charaktere und Fantasy-Umgebungen geeignet s..."
+        },
+        {
+          "path": "elvenSeo.collection.elfNamesGenerator.feature2",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Universelle Fantasy-Kompatibilität"
+        },
+        {
+          "path": "elvenSeo.structuredData.appDescription",
+          "issue": "Mixed language detected: Fantasy, RPG",
+          "text": "Generiere authentische elfische und elvische Namen für Fantasy-Charaktere, RPG-Spiele und kreatives ..."
+        },
+        {
+          "path": "elvenSeo.structuredData.keywords",
+          "issue": "Mixed language detected: fantasy",
+          "text": "elfischer namengenerator, elvische namen, elvischer generator, elfische fantasy namen, elvish nameng..."
+        },
+        {
+          "path": "elvenSeo.structuredData.audienceType1",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Fantasy-Schriftsteller"
+        },
+        {
+          "path": "elvenSeo.structuredData.audienceType2",
+          "issue": "Mixed language detected: RPG",
+          "text": "RPG-Spieler"
+        },
+        {
+          "path": "elvenSeo.conclusion.paragraph2",
+          "issue": "Mixed language detected: Fantasy, RPG, Fantasy",
+          "text": "Schließen Sie sich Tausenden von Fantasy-Schöpfern an, die unserem elfischen Namengenerator für ihre..."
+        }
+      ],
+      "es": [
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "Genera nombres élficos auténticos de fantasía al instante. Perfecto para elfos del bosque, elfos osc..."
+        },
+        {
+          "path": "seo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "Campañas de RPG de Mesa"
+        },
+        {
+          "path": "seo.structuredData.audienceType2",
+          "issue": "Mixed language detected: RPG",
+          "text": "Jugadores de RPG"
+        },
+        {
+          "path": "elvenSeo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "Personajes RPG y D&D"
+        },
+        {
+          "path": "elvenSeo.structuredData.appDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "Genera nombres élficos y élvicos auténticos para personajes fantásticos, juegos RPG y escritura crea..."
+        },
+        {
+          "path": "elvenSeo.structuredData.audienceType2",
+          "issue": "Mixed language detected: RPG",
+          "text": "Jugadores RPG"
+        },
+        {
+          "path": "elvenSeo.conclusion.paragraph2",
+          "issue": "Mixed language detected: RPG",
+          "text": "Únete a miles de creadores fantásticos que confían en nuestro generador de nombres élficos para sus ..."
+        }
+      ],
+      "fr": [
+        {
+          "path": "metadata.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Générez des noms d'elfes fantastiques authentiques instantanément. Parfait pour les elfes des bois, ..."
+        },
+        {
+          "path": "metadata.keywords",
+          "issue": "Mixed language detected: fantasy",
+          "text": "générateur de noms d'elfes, générateur de noms d'elfes ultime, générateur de noms d'elfes des bois, ..."
+        },
+        {
+          "path": "seo.structuredDataDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Générez des noms d'elfes de fantasy authentiques pour les elfes des bois, les elfes noirs, les demi-..."
+        },
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Found English term \"RPG\" instead of \"JDR\"",
+          "text": "Générez instantanément des noms d'elfes de fantasy authentiques. Parfait pour les elfes des bois, le...",
+          "suggestion": "Générez instantanément des noms d'elfes de fantasy authentiques. Parfait pour les elfes des bois, les elfes noirs, les demi-elfes et les personnages D&D. Notre générateur de noms d'elfes crée des noms pour les elfes des bois, les elfes noirs, les demi-elfes et plus de personnages JDR fantasy."
+        },
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Mixed language detected: fantasy, RPG, fantasy",
+          "text": "Générez instantanément des noms d'elfes de fantasy authentiques. Parfait pour les elfes des bois, le..."
+        },
+        {
+          "path": "seo.introduction.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Générateur de Noms d'Elfes Ultime - Créez des Noms de Fantasy Authentiques"
+        },
+        {
+          "path": "seo.introduction.paragraph1",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Bienvenue dans le générateur de noms d'elfes ultime, votre source complète pour créer des noms de fa..."
+        },
+        {
+          "path": "seo.introduction.paragraph2",
+          "issue": "Mixed language detected: fantasy, fantasy",
+          "text": "Notre générateur de noms d'elfes combine la linguistique elfique traditionnelle avec les conventions..."
+        },
+        {
+          "path": "seo.whatIs.paragraph1",
+          "issue": "Mixed language detected: fantasy, fantasy",
+          "text": "Un générateur de noms d'elfes est un outil spécialisé qui crée des noms de fantasy authentiques basé..."
+        },
+        {
+          "path": "seo.whatIs.paragraph2",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Notre générateur de noms d'elfes ultime va au-delà de simples combinaisons aléatoires, incorporant d..."
+        },
+        {
+          "path": "seo.types.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Notre suite complète inclut des générateurs spécialisés pour chaque type de culture elfique et envir..."
+        },
+        {
+          "path": "seo.whyEssential.consistency.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Gardez votre monde fantasy cohérent avec des noms qui suivent des motifs linguistiques et culturels ..."
+        },
+        {
+          "path": "seo.whyEssential.accessible.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Que vous soyez un MJ expérimenté ou nouveau dans la fantasy, notre outil rend la création de noms de..."
+        },
+        {
+          "path": "seo.popularUses.tabletop.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Parfait pour D&D, Pathfinder, et autres JdRs fantasy. Créez des PNJ mémorables et des personnages jo..."
+        },
+        {
+          "path": "seo.popularUses.novels.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Romans et Histoires Fantasy"
+        },
+        {
+          "path": "seo.popularUses.novels.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Les auteurs utilisent notre générateur pour créer des noms de personnages cohérents et crédibles qui..."
+        },
+        {
+          "path": "seo.popularUses.onlineGames.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Démarquez-vous dans les MMORPGs et jeux fantasy avec des noms de personnages uniques qui reflètent v..."
+        },
+        {
+          "path": "seo.popularUses.creativeWriting.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "De la fanfiction aux œuvres fantasy originales, notre générateur fournit les noms parfaits pour tout..."
+        },
+        {
+          "path": "seo.collection.bloodElfGenerator.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Créez des noms majestueux et puissants avec notre générateur de noms d'elfes de sang. Parfait pour l..."
+        },
+        {
+          "path": "seo.collection.bloodElfGenerator.feature3",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Générateur de noms d'elfes de sang pour les jeux fantasy"
+        },
+        {
+          "path": "seo.collection.elfNamesGenerator.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Notre générateur complet de noms d'elfes couvre tous les types de cultures elfiques. Ce générateur d..."
+        },
+        {
+          "path": "seo.structuredData.appDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Générez des noms d'elfes de fantasy authentiques instantanément. Parfait pour les elfes des bois, el..."
+        },
+        {
+          "path": "seo.structuredData.keywords",
+          "issue": "Mixed language detected: fantasy",
+          "text": "générateur de noms d'elfes, générateur de noms d'elfes ultime, générateur de noms d'elfes des bois, ..."
+        },
+        {
+          "path": "seo.structuredData.audienceType1",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Écrivains Fantasy"
+        },
+        {
+          "path": "seo.structuredData.audienceType2",
+          "issue": "Found English term \"RPG\" instead of \"JDR\"",
+          "text": "Joueurs RPG",
+          "suggestion": "Joueurs JDR"
+        },
+        {
+          "path": "seo.structuredData.audienceType2",
+          "issue": "Mixed language detected: RPG",
+          "text": "Joueurs RPG"
+        },
+        {
+          "path": "seo.structuredData.faq4Question",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Puis-je utiliser des noms d'elfes pour des situations non-fantasy?"
+        },
+        {
+          "path": "seo.conclusion.paragraph2",
+          "issue": "Mixed language detected: fantasy, fantasy",
+          "text": "Rejoignez des milliers de créateurs fantasy qui comptent sur notre outil pour des noms de personnage..."
+        },
+        {
+          "path": "woodElf.metadata.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Générez des noms authentiques d'elfes des bois avec notre générateur spécialisé. Parfait pour les rô..."
+        },
+        {
+          "path": "woodElf.metadata.twitterDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Générez des noms uniques d'elfes des bois pour vos aventures fantasy et campagnes D&D."
+        },
+        {
+          "path": "woodElf.header.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Créez des noms magiques d'elfes des bois avec notre générateur spécialisé. Parfait pour les gardiens..."
+        },
+        {
+          "path": "woodElf.seo.structuredDataDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Générez des noms authentiques d'elfes des bois pour les personnages de fantasy, jeux de rôle et écri..."
+        },
+        {
+          "path": "woodElf.seo.noScriptDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Générez des noms authentiques d'elfes des bois pour vos personnages de fantasy. Ce générateur de nom..."
+        },
+        {
+          "path": "woodElf.seo.introduction.paragraph2",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Que vous créiez un explorateur elfique pour votre campagne D&D, développiez un druide sage pour votr..."
+        },
+        {
+          "path": "woodElf.seo.features.versatile.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Parfait pour les campagnes D&D, romans fantasy, jeux de rôle en ligne et tout projet créatif nécessi..."
+        },
+        {
+          "path": "woodElf.seo.usage.writing.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Les auteurs de fantasy trouveront ces noms idéaux pour les personnages habitant dans des forêts magi..."
+        },
+        {
+          "path": "woodElf.seo.usage.gaming.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Pour les Jeux Fantasy"
+        },
+        {
+          "path": "woodElf.seo.usage.gaming.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Que ce soit dans les MMORPG, jeux de table, ou jeux vidéo fantasy, les noms d'elfes des bois ajouten..."
+        },
+        {
+          "path": "elven.metadata.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Générateur de Noms Elfiques - Noms Elviques Authentiques de Fantasy"
+        },
+        {
+          "path": "elven.metadata.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Créez des noms elfiques authentiques avec notre générateur elvique complet. Parfait pour les personn..."
+        },
+        {
+          "path": "elven.metadata.keywords",
+          "issue": "Mixed language detected: fantasy",
+          "text": "générateur de noms elfiques, noms elviques, générateur elvique, noms fantasy elfiques, générateur de..."
+        },
+        {
+          "path": "elven.metadata.twitterDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Créez de beaux noms elfiques authentiques pour vos personnages fantasy et aventures épiques."
+        },
+        {
+          "path": "elven.header.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Plongez dans la riche tradition linguistique elfique avec notre générateur complet de noms elfiques...."
+        },
+        {
+          "path": "elven.seo.introduction.paragraph2",
+          "issue": "Mixed language detected: fantasy, fantasy",
+          "text": "Depuis les œuvres immortelles de Tolkien jusqu'aux sagas fantasy modernes, les noms elfiques maintie..."
+        },
+        {
+          "path": "highElf.metadata.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Générateur de Noms d'Elfes Hauts - Noms Nobles Elfiques de Haute Fantasy"
+        },
+        {
+          "path": "highElf.metadata.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Générez des noms aristocratiques d'elfes hauts avec notre générateur spécialisé. Parfait pour les no..."
+        },
+        {
+          "path": "highElf.metadata.openGraphDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Créez des noms élégants d'elfes hauts reflétant noblesse, sagesse et pouvoir arcane dans vos aventur..."
+        },
+        {
+          "path": "highElf.metadata.twitterDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Découvrez des noms nobles et raffinés d'elfes hauts pour personnages aristocratiques de haute fantas..."
+        },
+        {
+          "path": "highElf.header.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Créez des noms aristocratiques d'elfes hauts reflétant des siècles de raffinement, sagesse arcane et..."
+        },
+        {
+          "path": "highElf.seo.introduction.paragraph2",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Ces noms ne sont pas simplement des étiquettes, mais des déclarations de lignée, pouvoir et statut a..."
+        },
+        {
+          "path": "darkElf.metadata.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Générez des noms mystérieux d'elfes sombres et drow avec notre générateur spécialisé. Parfait pour l..."
+        },
+        {
+          "path": "darkElf.header.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Explorez les profondeurs de l'Underdark avec des noms authentiques d'elfes sombres et drow. Parfait ..."
+        },
+        {
+          "path": "darkElf.seo.introduction.paragraph1",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Les elfes sombres, communément connus sous le nom de drow, représentent l'une des races les plus fas..."
+        },
+        {
+          "path": "bloodElf.metadata.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Générez des noms puissants d'elfes de sang avec notre générateur spécialisé. Parfait pour mages arca..."
+        },
+        {
+          "path": "bloodElf.metadata.keywords",
+          "issue": "Mixed language detected: fantasy",
+          "text": "générateur de noms d'elfes de sang, noms d'elfes de sang, générateur d'elfes de sang, noms arcanes e..."
+        },
+        {
+          "path": "bloodElf.metadata.twitterDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Créez des noms élégants et puissants d'elfes de sang pour personnages arcanes et nobles de haute fan..."
+        },
+        {
+          "path": "elfRandomizer.metadata.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Découvrez des noms elfiques uniques avec notre randomisateur spécialisé. Générez des combinaisons al..."
+        },
+        {
+          "path": "elfRandomizer.seo.benefits.variety.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Avec des millions de combinaisons possibles, le randomisateur assure que vous ne manquerez jamais d'..."
+        },
+        {
+          "path": "elfRandomizer.seo.applications.worldbuilding.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Utilisez des noms aléatoires pour peupler rapidement votre monde fantasy avec des PNJ uniques, chacu..."
+        },
+        {
+          "path": "tolkienElf.header.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Honorez la tradition linguistique de J.R.R. Tolkien avec des noms elfiques authentiques basés sur le..."
+        },
+        {
+          "path": "tolkienElf.seo.introduction.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Noms d'Elfes Tolkien - La Source de Toute Fantasy Elfique"
+        },
+        {
+          "path": "tolkienElf.seo.introduction.paragraph1",
+          "issue": "Mixed language detected: fantasy, fantasy",
+          "text": "J.R.R. Tolkien n'a pas seulement créé la fantasy moderne ; il a révolutionné à jamais notre concepti..."
+        },
+        {
+          "path": "femaleElf.metadata.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Générez des noms élégants d'elfes féminins avec notre générateur spécialisé. Parfait pour personnage..."
+        },
+        {
+          "path": "femaleElf.metadata.openGraphDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Découvrez de beaux noms élégants d'elfes féminins pour personnages féminins fantasy avec grâce et po..."
+        },
+        {
+          "path": "elvenSeo.popularUses.tabletop.title",
+          "issue": "Found English term \"RPG\" instead of \"JDR\"",
+          "text": "Personnages RPG et D&D",
+          "suggestion": "Personnages JDR et D&D"
+        },
+        {
+          "path": "elvenSeo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "Personnages RPG et D&D"
+        },
+        {
+          "path": "elvenSeo.structuredData.appDescription",
+          "issue": "Found English term \"RPG\" instead of \"JDR\"",
+          "text": "Générez des noms elfiques et elviques authentiques pour personnages fantastiques, jeux RPG et écritu...",
+          "suggestion": "Générez des noms elfiques et elviques authentiques pour personnages fantastiques, jeux JDR et écriture créative. Créez des noms elviques avec arrière-plans culturels et authenticité linguistique."
+        },
+        {
+          "path": "elvenSeo.structuredData.appDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "Générez des noms elfiques et elviques authentiques pour personnages fantastiques, jeux RPG et écritu..."
+        },
+        {
+          "path": "elvenSeo.structuredData.audienceType2",
+          "issue": "Found English term \"RPG\" instead of \"JDR\"",
+          "text": "Joueurs RPG",
+          "suggestion": "Joueurs JDR"
+        },
+        {
+          "path": "elvenSeo.structuredData.audienceType2",
+          "issue": "Mixed language detected: RPG",
+          "text": "Joueurs RPG"
+        },
+        {
+          "path": "elvenSeo.conclusion.paragraph2",
+          "issue": "Found English term \"RPG\" instead of \"JDR\"",
+          "text": "Rejoignez des milliers de créateurs fantastiques qui font confiance à notre générateur de noms elfiq...",
+          "suggestion": "Rejoignez des milliers de créateurs fantastiques qui font confiance à notre générateur de noms elfiques pour leurs campagnes JDR, romans fantastiques et projets créatifs. Laissez la magie ancestrale de la culture elvique couler à travers vos personnages avec des noms qui capturent vraiment la beauté intemporelle et l'héritage mystique des civilisations elfiques."
+        },
+        {
+          "path": "elvenSeo.conclusion.paragraph2",
+          "issue": "Mixed language detected: RPG",
+          "text": "Rejoignez des milliers de créateurs fantastiques qui font confiance à notre générateur de noms elfiq..."
+        }
+      ],
+      "it": [
+        {
+          "path": "metadata.description",
+          "issue": "Mixed language detected: fantasy, fantasy",
+          "text": "Genera nomi elfici fantasy autentici all'istante. Perfetto per elfi del bosco, elfi scuri, mezzelfi ..."
+        },
+        {
+          "path": "metadata.keywords",
+          "issue": "Mixed language detected: fantasy",
+          "text": "generatore di nomi elfici, generatore di nomi elfici definitivo, generatore di nomi di elfi del bosc..."
+        },
+        {
+          "path": "metadata.openGraphDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Genera nomi elfici fantasy autentici all'istante. Perfetto per elfi del bosco, elfi scuri, mezzelfi ..."
+        },
+        {
+          "path": "metadata.twitterDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Genera nomi elfici fantasy autentici all'istante. Perfetto per elfi del bosco, elfi scuri, mezzelfi ..."
+        },
+        {
+          "path": "header.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Generatore di Nomi Elfici | Strumento di Creazione Nomi Fantasy"
+        },
+        {
+          "path": "header.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "La nostra suite completa di generatore di nomi elfici include generatore di nomi di elfi del bosco, ..."
+        },
+        {
+          "path": "seo.structuredDataDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Genera nomi elfici fantasy autentici per elfi del bosco, elfi scuri, mezzelfi e personaggi D&D con i..."
+        },
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Found English term \"RPG\" instead of \"GDR\"",
+          "text": "Genera nomi elfici fantasy autentici all'istante. Perfetto per elfi del bosco, elfi scuri, mezzelfi ...",
+          "suggestion": "Genera nomi elfici fantasy autentici all'istante. Perfetto per elfi del bosco, elfi scuri, mezzelfi e personaggi D&D. Il nostro generatore di nomi elfici crea nomi per elfi del bosco, elfi scuri, mezzelfi e altri personaggi GDR fantasy."
+        },
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Mixed language detected: fantasy, RPG, fantasy",
+          "text": "Genera nomi elfici fantasy autentici all'istante. Perfetto per elfi del bosco, elfi scuri, mezzelfi ..."
+        },
+        {
+          "path": "seo.introduction.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Generatore di Nomi Elfici Definitivo - Crea Nomi Fantasy Autentici"
+        },
+        {
+          "path": "seo.introduction.paragraph1",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Benvenuti nel generatore di nomi elfici definitivo, la vostra fonte completa per creare nomi fantasy..."
+        },
+        {
+          "path": "seo.introduction.paragraph2",
+          "issue": "Mixed language detected: fantasy, fantasy",
+          "text": "Il nostro generatore di nomi elfici combina la linguistica elfica tradizionale con le convenzioni fa..."
+        },
+        {
+          "path": "seo.whatIs.paragraph1",
+          "issue": "Mixed language detected: fantasy, fantasy",
+          "text": "Un generatore di nomi elfici è uno strumento specializzato che crea nomi fantasy autentici basati su..."
+        },
+        {
+          "path": "seo.whatIs.paragraph2",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Il nostro generatore di nomi elfici definitivo va oltre le semplici combinazioni casuali, incorporan..."
+        },
+        {
+          "path": "seo.types.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "La nostra suite completa include generatori specializzati per ogni tipo di cultura elfica e ambienta..."
+        },
+        {
+          "path": "seo.whyEssential.consistency.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Mantieni il tuo mondo fantasy coerente con nomi che seguono modelli linguistici e culturali consolid..."
+        },
+        {
+          "path": "seo.whyEssential.accessible.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Che tu sia un DM esperto o nuovo al fantasy, il nostro strumento rende la creazione di nomi di quali..."
+        },
+        {
+          "path": "seo.popularUses.tabletop.title",
+          "issue": "Found English term \"RPG\" instead of \"GDR\"",
+          "text": "Campagne RPG da Tavolo",
+          "suggestion": "Campagne GDR da Tavolo"
+        },
+        {
+          "path": "seo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "Campagne RPG da Tavolo"
+        },
+        {
+          "path": "seo.popularUses.tabletop.description",
+          "issue": "Found English term \"RPG\" instead of \"GDR\"",
+          "text": "Perfetto per D&D, Pathfinder e altri RPG fantasy. Crea PNG memorabili e personaggi giocanti con nomi...",
+          "suggestion": "Perfetto per D&D, Pathfinder e altri GDR fantasy. Crea PNG memorabili e personaggi giocanti con nomi dal suono autentico."
+        },
+        {
+          "path": "seo.popularUses.tabletop.description",
+          "issue": "Mixed language detected: RPG, fantasy",
+          "text": "Perfetto per D&D, Pathfinder e altri RPG fantasy. Crea PNG memorabili e personaggi giocanti con nomi..."
+        },
+        {
+          "path": "seo.popularUses.novels.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Romanzi Fantasy e Storie"
+        },
+        {
+          "path": "seo.popularUses.novels.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Gli autori usano il nostro generatore per creare nomi di personaggi coerenti e credibili che miglior..."
+        },
+        {
+          "path": "seo.popularUses.onlineGames.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Distinguiti nei MMORPG e giochi fantasy con nomi di personaggi unici che riflettono la tua razza sce..."
+        },
+        {
+          "path": "seo.popularUses.creativeWriting.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Dalla fanfiction alle opere fantasy originali, il nostro generatore fornisce i nomi perfetti per qua..."
+        },
+        {
+          "path": "seo.conclusion.paragraph2",
+          "issue": "Mixed language detected: fantasy, fantasy",
+          "text": "Unisciti a migliaia di creatori fantasy che si affidano al nostro strumento per nomi di personaggi a..."
+        },
+        {
+          "path": "elven.metadata.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Genera nomi elfici ed elvici autentici istantaneamente. Perfetto per personaggi fantasy, campagne D&..."
+        },
+        {
+          "path": "elven.metadata.keywords",
+          "issue": "Mixed language detected: fantasy",
+          "text": "generatore di nomi elfici, generatore di nomi elvici, nomi elvici, nomi elfici, generatore di nomi d..."
+        },
+        {
+          "path": "elven.metadata.openGraphDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Genera nomi elfici ed elvici autentici istantaneamente. Perfetto per personaggi fantasy, campagne D&..."
+        },
+        {
+          "path": "elven.metadata.twitterDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Genera nomi elfici ed elvici autentici istantaneamente. Perfetto per personaggi fantasy, campagne D&..."
+        },
+        {
+          "path": "elven.seo.structuredDataDescription",
+          "issue": "Found English term \"RPG\" instead of \"GDR\"",
+          "text": "Genera nomi elfici ed elvici autentici per personaggi fantasy, giochi RPG e scrittura creativa. Crea...",
+          "suggestion": "Genera nomi elfici ed elvici autentici per personaggi fantasy, giochi GDR e scrittura creativa. Crea nomi elvici con sfondi culturali e autenticità linguistica."
+        },
+        {
+          "path": "elven.seo.structuredDataDescription",
+          "issue": "Mixed language detected: fantasy, RPG",
+          "text": "Genera nomi elfici ed elvici autentici per personaggi fantasy, giochi RPG e scrittura creativa. Crea..."
+        },
+        {
+          "path": "elven.seo.noScriptDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Genera nomi elfici ed elvici autentici per i tuoi personaggi fantasy. Questo generatore di nomi elfi..."
+        },
+        {
+          "path": "elvenSeo.introduction.paragraph1",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Il nostro generatore di nomi elfici completo crea nomi elvici autentici che catturano la bellezza et..."
+        },
+        {
+          "path": "elvenSeo.whatIs.paragraph2",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Le convenzioni tradizionali di nomenclatura elvica includono riferimenti a elementi naturali (stelle..."
+        },
+        {
+          "path": "elvenSeo.whyEssential.creativity.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Il generatore di nomi elfici offre combinazioni inaspettate ed elementi elvici che possono scatenare..."
+        },
+        {
+          "path": "elvenSeo.whyEssential.consistency.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Ogni nome dal nostro generatore di nomi elfici segue modelli linguistici elfici stabiliti, assicuran..."
+        },
+        {
+          "path": "elvenSeo.popularUses.tabletop.title",
+          "issue": "Found English term \"RPG\" instead of \"GDR\"",
+          "text": "Personaggi RPG e D&D",
+          "suggestion": "Personaggi GDR e D&D"
+        },
+        {
+          "path": "elvenSeo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "Personaggi RPG e D&D"
+        },
+        {
+          "path": "elvenSeo.popularUses.tabletop.description",
+          "issue": "Found English term \"RPG\" instead of \"GDR\"",
+          "text": "Crea personaggi elfici memorabili per D&D, Pathfinder e altri RPG con il nostro generatore di nomi e...",
+          "suggestion": "Crea personaggi elfici memorabili per D&D, Pathfinder e altri GDR con il nostro generatore di nomi elvici specializzato su misura per il gioco da tavolo."
+        },
+        {
+          "path": "elvenSeo.popularUses.tabletop.description",
+          "issue": "Mixed language detected: RPG",
+          "text": "Crea personaggi elfici memorabili per D&D, Pathfinder e altri RPG con il nostro generatore di nomi e..."
+        },
+        {
+          "path": "elvenSeo.popularUses.novels.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Scrittura Fantasy"
+        },
+        {
+          "path": "elvenSeo.popularUses.novels.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Gli autori usano il nostro generatore di nomi elfici per sviluppare personaggi elvici avvincenti per..."
+        },
+        {
+          "path": "elvenSeo.popularUses.onlineGames.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "I giocatori si affidano al nostro generatore di nomi elvici per MMORPG, giochi fantasy single-player..."
+        },
+        {
+          "path": "elvenSeo.linguisticFeatures.elvishLanguagePatterns.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Il nostro generatore di nomi elfici usa modelli linguistici elfici autentici derivati da varie tradi..."
+        },
+        {
+          "path": "elvenSeo.collection.woodElfGenerator.feature2",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Elementi fantasy classici"
+        },
+        {
+          "path": "elvenSeo.collection.elfNamesGenerator.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Nomi elfici completi adatti per tutti i tipi di personaggi elfici e ambientazioni fantasy."
+        },
+        {
+          "path": "elvenSeo.collection.elfNamesGenerator.feature2",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Compatibilità fantasy universale"
+        },
+        {
+          "path": "elvenSeo.structuredData.appDescription",
+          "issue": "Found English term \"RPG\" instead of \"GDR\"",
+          "text": "Genera nomi elfici ed elvici autentici per personaggi fantasy, giochi RPG e scrittura creativa. Crea...",
+          "suggestion": "Genera nomi elfici ed elvici autentici per personaggi fantasy, giochi GDR e scrittura creativa. Crea nomi elvici con sfondi culturali e autenticità linguistica."
+        },
+        {
+          "path": "elvenSeo.structuredData.appDescription",
+          "issue": "Mixed language detected: fantasy, RPG",
+          "text": "Genera nomi elfici ed elvici autentici per personaggi fantasy, giochi RPG e scrittura creativa. Crea..."
+        },
+        {
+          "path": "elvenSeo.structuredData.keywords",
+          "issue": "Mixed language detected: fantasy",
+          "text": "generatore di nomi elfici, generatore di nomi elvici, nomi elvici, nomi elfici, generatore di nomi d..."
+        },
+        {
+          "path": "elvenSeo.structuredData.audienceType1",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Scrittori Fantasy"
+        },
+        {
+          "path": "elvenSeo.structuredData.audienceType2",
+          "issue": "Found English term \"RPG\" instead of \"GDR\"",
+          "text": "Giocatori RPG",
+          "suggestion": "Giocatori GDR"
+        },
+        {
+          "path": "elvenSeo.structuredData.audienceType2",
+          "issue": "Mixed language detected: RPG",
+          "text": "Giocatori RPG"
+        },
+        {
+          "path": "elvenSeo.conclusion.paragraph2",
+          "issue": "Found English term \"RPG\" instead of \"GDR\"",
+          "text": "Unisciti a migliaia di creatori fantasy che si fidano del nostro generatore di nomi elfici per le lo...",
+          "suggestion": "Unisciti a migliaia di creatori fantasy che si fidano del nostro generatore di nomi elfici per le loro campagne GDR, romanzi fantasy e progetti creativi. Lascia che l'antica magia della cultura elfica fluisca attraverso i tuoi personaggi con nomi che catturano veramente la bellezza senza tempo e il patrimonio mistico delle civiltà elfiche."
+        },
+        {
+          "path": "elvenSeo.conclusion.paragraph2",
+          "issue": "Mixed language detected: fantasy, RPG, fantasy",
+          "text": "Unisciti a migliaia di creatori fantasy che si fidano del nostro generatore di nomi elfici per le lo..."
+        },
+        {
+          "path": "woodElf.metadata.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Genera nomi autentici di elfi del bosco con il nostro generatore specializzato. Perfetto per ranger,..."
+        },
+        {
+          "path": "woodElf.metadata.twitterDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Genera nomi unici di elfi del bosco per le tue avventure fantasy e campagne D&D."
+        },
+        {
+          "path": "woodElf.seo.structuredDataDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Genera nomi autentici di elfi del bosco per personaggi fantasy, giochi di ruolo e scrittura creativa..."
+        },
+        {
+          "path": "woodElf.seo.noScriptDescription",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Genera nomi autentici di elfi del bosco per i tuoi personaggi fantasy. Questo generatore di nomi di ..."
+        }
+      ],
+      "ja": [
+        {
+          "path": "header.description",
+          "issue": "Mixed language detected: RPG",
+          "text": "私たちの完全なエルフ名前ジェネレータースイートには、森のエルフ名前ジェネレーター、ダークエルフ名前ジェネレーター、ハーフエルフ名前ジェネレーター、ブラッドエルフ名前ジェネレーター、エルフ名前ジェネレー..."
+        },
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "本格的なファンタジーエルフの名前を瞬時に生成。森エルフ、ダークエルフ、ハーフエルフ、D&Dキャラクターに最適。私たちのエルフ名前ジェネレーターは森エルフ、ダークエルフ、ハーフエルフ、その他のファンタジ..."
+        },
+        {
+          "path": "seo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "テーブルトップRPGキャンペーン"
+        },
+        {
+          "path": "seo.popularUses.tabletop.description",
+          "issue": "Mixed language detected: RPG",
+          "text": "D&D、Pathfinder、その他のファンタジーRPGに最適。本格的な響きの名前で記憶に残るNPCとプレイヤーキャラクターを作成しましょう。"
+        },
+        {
+          "path": "seo.structuredData.audienceType2",
+          "issue": "Mixed language detected: RPG",
+          "text": "RPGゲーマー"
+        },
+        {
+          "path": "elven.seo.structuredDataDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "ファンタジーキャラクター、RPGゲーム、創作活動のための本格的なエルフとエルフィッシュの名前を生成。文化的背景と言語的真正性を持つエルフィッシュ名前を作成。"
+        },
+        {
+          "path": "elvenSeo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "RPGとD&Dキャラクター"
+        },
+        {
+          "path": "elvenSeo.popularUses.tabletop.description",
+          "issue": "Mixed language detected: RPG",
+          "text": "テーブルトップゲーム用に調整された私たちの専門的なエルフィッシュ名前ジェネレーターで、D&D、パスファインダー、その他のRPGのための記憶に残るエルフキャラクターを作成してください。"
+        },
+        {
+          "path": "elvenSeo.structuredData.appDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "ファンタジーキャラクター、RPGゲーム、創作活動のための本格的なエルフとエルフィッシュの名前を生成。文化的背景と言語的真正性を持つエルフィッシュ名前を作成。"
+        },
+        {
+          "path": "elvenSeo.structuredData.audienceType2",
+          "issue": "Mixed language detected: RPG",
+          "text": "RPGゲーマー"
+        },
+        {
+          "path": "elvenSeo.conclusion.paragraph2",
+          "issue": "Mixed language detected: RPG",
+          "text": "RPGキャンペーン、ファンタジー小説、創造的プロジェクトのために私たちのエルフ名前ジェネレーターを信頼する何千ものファンタジークリエイターに参加してください。エルフ文明の時代を超えた美しさと神秘的遺産..."
+        },
+        {
+          "path": "woodElf.seo.structuredDataDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "ファンタジーキャラクター、RPGゲーム、創作活動のための本格的な森エルフの名前を生成します。自然のテーマと森の魅力を持つ森に住むエルフの名前を作成します。"
+        }
+      ],
+      "ko": [
+        {
+          "path": "header.description",
+          "issue": "Mixed language detected: RPG",
+          "text": "우리의 완전한 엘프 이름 생성기 모음에는 우드엘프 이름 생성기, 다크엘프 이름 생성기, 하프엘프 이름 생성기, 블러드엘프 이름 생성기, 엘프 이름 생성기 D&D 도구가 포함되어 있..."
+        },
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "진정한 판타지 엘프 이름을 즉시 생성하세요. 우드엘프, 다크엘프, 하프엘프, D&D 캐릭터에 완벽합니다. 우리의 엘프 이름 생성기는 우드엘프, 다크엘프, 하프엘프 및 더 많은 판타..."
+        },
+        {
+          "path": "seo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "테이블탑 RPG 캠페인"
+        },
+        {
+          "path": "seo.popularUses.tabletop.description",
+          "issue": "Mixed language detected: RPG",
+          "text": "D&D, 패스파인더 및 기타 판타지 RPG에 완벽합니다. 진정한 소리의 이름으로 기억에 남는 NPC와 플레이어 캐릭터를 만드세요."
+        },
+        {
+          "path": "seo.structuredData.audienceType2",
+          "issue": "Mixed language detected: RPG",
+          "text": "RPG 게이머"
+        },
+        {
+          "path": "elven.seo.structuredDataDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "판타지 캐릭터, RPG 게임, 창작 활동을 위한 진정한 엘프와 엘비시 이름을 생성하세요. 문화적 배경과 언어적 진정성을 가진 엘비시 이름을 만드세요."
+        },
+        {
+          "path": "elvenSeo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "RPG 및 D&D 캐릭터"
+        },
+        {
+          "path": "elvenSeo.popularUses.tabletop.description",
+          "issue": "Mixed language detected: RPG",
+          "text": "테이블탑 게임에 맞춤화된 우리의 전문 엘비시 이름 생성기로 D&D, 패스파인더 및 기타 RPG를 위한 기억에 남는 엘프 캐릭터를 만드세요."
+        },
+        {
+          "path": "elvenSeo.structuredData.appDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "판타지 캐릭터, RPG 게임, 창작 활동을 위한 진정한 엘프와 엘비시 이름을 생성하세요. 문화적 배경과 언어적 진정성을 가진 엘비시 이름을 만드세요."
+        },
+        {
+          "path": "elvenSeo.structuredData.audienceType2",
+          "issue": "Mixed language detected: RPG",
+          "text": "RPG 게이머"
+        },
+        {
+          "path": "elvenSeo.conclusion.paragraph2",
+          "issue": "Mixed language detected: RPG",
+          "text": "RPG 캠페인, 판타지 소설, 창작 프로젝트를 위해 우리의 엘프 이름 생성기를 신뢰하는 수천 명의 판타지 창작자들과 함께하세요. 엘프 문명의 시대를 초월한 아름다움과 신비로운 유산..."
+        },
+        {
+          "path": "woodElf.seo.structuredDataDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "판타지 캐릭터, RPG 게임, 창작 활동을 위한 진정한 우드엘프 이름을 생성하세요. 자연 테마와 숲의 매력을 가진 숲에 거주하는 엘프 이름을 만드세요."
+        }
+      ],
+      "pt": [
+        {
+          "path": "header.description",
+          "issue": "Mixed language detected: RPG",
+          "text": "Nossa suíte completa de gerador de nomes élficos inclui gerador de nomes de elfos da floresta, gerad..."
+        },
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "Gere nomes élficos de fantasia autênticos instantaneamente. Perfeito para elfos da floresta, elfos s..."
+        },
+        {
+          "path": "seo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "Campanhas de RPG de Mesa"
+        },
+        {
+          "path": "woodElf.seo.structuredDataDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "Gere nomes autênticos de elfos da floresta para personagens de fantasia, jogos de RPG e escrita cria..."
+        }
+      ],
+      "ru": [
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Found English term \"RPG\" instead of \"РПГ\"",
+          "text": "Генерируйте аутентичные фэнтезийные эльфийские имена мгновенно. Идеально для лесных эльфов, тёмных э...",
+          "suggestion": "Генерируйте аутентичные фэнтезийные эльфийские имена мгновенно. Идеально для лесных эльфов, тёмных эльфов, полуэльфов и персонажей D&D. Наш генератор эльфийских имён создаёт имена для лесных эльфов, тёмных эльфов, полуэльфов и других фэнтезийных РПГ персонажей."
+        },
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "Генерируйте аутентичные фэнтезийные эльфийские имена мгновенно. Идеально для лесных эльфов, тёмных э..."
+        },
+        {
+          "path": "seo.popularUses.tabletop.title",
+          "issue": "Found English term \"RPG\" instead of \"РПГ\"",
+          "text": "Настольные RPG Кампании",
+          "suggestion": "Настольные РПГ Кампании"
+        },
+        {
+          "path": "seo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "Настольные RPG Кампании"
+        },
+        {
+          "path": "seo.popularUses.tabletop.description",
+          "issue": "Found English term \"RPG\" instead of \"РПГ\"",
+          "text": "Идеально для D&D, Pathfinder и других фэнтези RPG. Создавайте запоминающихся НИПов и игровых персона...",
+          "suggestion": "Идеально для D&D, Pathfinder и других фэнтези РПГ. Создавайте запоминающихся НИПов и игровых персонажей с аутентично звучащими именами."
+        },
+        {
+          "path": "seo.popularUses.tabletop.description",
+          "issue": "Mixed language detected: RPG",
+          "text": "Идеально для D&D, Pathfinder и других фэнтези RPG. Создавайте запоминающихся НИПов и игровых персона..."
+        }
+      ],
+      "id": [
+        {
+          "path": "common.siteName",
+          "issue": "Mixed language detected: Elf",
+          "text": "Generator Nama Elf Ultimate"
+        },
+        {
+          "path": "common.generateButton",
+          "issue": "Mixed language detected: Elf",
+          "text": "Generate Nama Elf"
+        },
+        {
+          "path": "metadata.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Generator Nama Elf Ultimate - Buat Nama Magis"
+        },
+        {
+          "path": "metadata.description",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Generate nama elf fantasi otentik secara instan. Sempurna untuk wood elf, dark elf, half elf, dan ka...",
+          "suggestion": "Generate nama elf fantasi otentik secara instan. Sempurna untuk Elf Hutan, dark elf, half elf, dan karakter D&D. Tool gratis untuk kreator fantasi."
+        },
+        {
+          "path": "metadata.description",
+          "issue": "Found English term \"Dark Elf\" instead of \"Elf Gelap\"",
+          "text": "Generate nama elf fantasi otentik secara instan. Sempurna untuk wood elf, dark elf, half elf, dan ka...",
+          "suggestion": "Generate nama elf fantasi otentik secara instan. Sempurna untuk wood elf, Elf Gelap, half elf, dan karakter D&D. Tool gratis untuk kreator fantasi."
+        },
+        {
+          "path": "metadata.description",
+          "issue": "Mixed language detected: elf, wood elf, dark elf, elf",
+          "text": "Generate nama elf fantasi otentik secara instan. Sempurna untuk wood elf, dark elf, half elf, dan ka..."
+        },
+        {
+          "path": "metadata.keywords",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "generator nama elf, generator nama elf ultimate, generator nama wood elf, generator nama dark elf, g...",
+          "suggestion": "generator nama elf, generator nama elf ultimate, generator nama Elf Hutan, generator nama dark elf, generator nama half elf, generator nama elf, generator nama elf dnd, nama fantasi, nama elf magis"
+        },
+        {
+          "path": "metadata.keywords",
+          "issue": "Found English term \"Dark Elf\" instead of \"Elf Gelap\"",
+          "text": "generator nama elf, generator nama elf ultimate, generator nama wood elf, generator nama dark elf, g...",
+          "suggestion": "generator nama elf, generator nama elf ultimate, generator nama wood elf, generator nama Elf Gelap, generator nama half elf, generator nama elf, generator nama elf dnd, nama fantasi, nama elf magis"
+        },
+        {
+          "path": "metadata.keywords",
+          "issue": "Mixed language detected: elf, elf, wood elf, dark elf, elf, elf, elf, elf",
+          "text": "generator nama elf, generator nama elf ultimate, generator nama wood elf, generator nama dark elf, g..."
+        },
+        {
+          "path": "metadata.openGraphTitle",
+          "issue": "Mixed language detected: Elf",
+          "text": "Generator Nama Elf Ultimate - Buat Nama Magis"
+        },
+        {
+          "path": "metadata.openGraphDescription",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Generate nama elf fantasi otentik secara instan. Sempurna untuk wood elf, dark elf, half elf, dan ka...",
+          "suggestion": "Generate nama elf fantasi otentik secara instan. Sempurna untuk Elf Hutan, dark elf, half elf, dan karakter D&D."
+        },
+        {
+          "path": "metadata.openGraphDescription",
+          "issue": "Found English term \"Dark Elf\" instead of \"Elf Gelap\"",
+          "text": "Generate nama elf fantasi otentik secara instan. Sempurna untuk wood elf, dark elf, half elf, dan ka...",
+          "suggestion": "Generate nama elf fantasi otentik secara instan. Sempurna untuk wood elf, Elf Gelap, half elf, dan karakter D&D."
+        },
+        {
+          "path": "metadata.openGraphDescription",
+          "issue": "Mixed language detected: elf, wood elf, dark elf, elf",
+          "text": "Generate nama elf fantasi otentik secara instan. Sempurna untuk wood elf, dark elf, half elf, dan ka..."
+        },
+        {
+          "path": "metadata.twitterTitle",
+          "issue": "Mixed language detected: Elf",
+          "text": "Generator Nama Elf Ultimate - Buat Nama Magis"
+        },
+        {
+          "path": "metadata.twitterDescription",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Generate nama elf fantasi otentik secara instan. Sempurna untuk wood elf, dark elf, half elf, dan ka...",
+          "suggestion": "Generate nama elf fantasi otentik secara instan. Sempurna untuk Elf Hutan, dark elf, half elf, dan karakter D&D."
+        },
+        {
+          "path": "metadata.twitterDescription",
+          "issue": "Found English term \"Dark Elf\" instead of \"Elf Gelap\"",
+          "text": "Generate nama elf fantasi otentik secara instan. Sempurna untuk wood elf, dark elf, half elf, dan ka...",
+          "suggestion": "Generate nama elf fantasi otentik secara instan. Sempurna untuk wood elf, Elf Gelap, half elf, dan karakter D&D."
+        },
+        {
+          "path": "metadata.twitterDescription",
+          "issue": "Mixed language detected: elf, wood elf, dark elf, elf",
+          "text": "Generate nama elf fantasi otentik secara instan. Sempurna untuk wood elf, dark elf, half elf, dan ka..."
+        },
+        {
+          "path": "header.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Generator Nama Elf | Tool Pembuatan Nama Fantasi"
+        },
+        {
+          "path": "header.description",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Suite lengkap generator nama elf kami mencakup generator nama wood elf, generator nama dark elf, gen...",
+          "suggestion": "Suite lengkap generator nama elf kami mencakup generator nama Elf Hutan, generator nama dark elf, generator nama half elf, generator nama blood elf, dan tool generator nama elf dnd untuk cerita fantasi Anda, karakter D&D, dan permainan RPG. Generator nama elf terbaik yang tersedia online!"
+        },
+        {
+          "path": "header.description",
+          "issue": "Found English term \"Dark Elf\" instead of \"Elf Gelap\"",
+          "text": "Suite lengkap generator nama elf kami mencakup generator nama wood elf, generator nama dark elf, gen...",
+          "suggestion": "Suite lengkap generator nama elf kami mencakup generator nama wood elf, generator nama Elf Gelap, generator nama half elf, generator nama blood elf, dan tool generator nama elf dnd untuk cerita fantasi Anda, karakter D&D, dan permainan RPG. Generator nama elf terbaik yang tersedia online!"
+        },
+        {
+          "path": "header.description",
+          "issue": "Mixed language detected: elf, wood elf, dark elf, elf, elf, elf, RPG, elf",
+          "text": "Suite lengkap generator nama elf kami mencakup generator nama wood elf, generator nama dark elf, gen..."
+        },
+        {
+          "path": "generator.settingsDescription",
+          "issue": "Mixed language detected: elf",
+          "text": "Konfigurasi tipe dan gaya nama elf yang ingin Anda generate"
+        },
+        {
+          "path": "generator.resultsTitle",
+          "issue": "Mixed language detected: Elf",
+          "text": "Nama Elf yang Dihasilkan"
+        },
+        {
+          "path": "generator.noResults",
+          "issue": "Mixed language detected: Elf",
+          "text": "Isi konfigurasi dan klik \"Generate Nama Elf\" untuk mulai membuat"
+        },
+        {
+          "path": "form.elfType",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tipe Elf"
+        },
+        {
+          "path": "form.elfTypePlaceholder",
+          "issue": "Mixed language detected: elf",
+          "text": "Pilih tipe elf"
+        },
+        {
+          "path": "elfTypes.any",
+          "issue": "Mixed language detected: Elf",
+          "text": "Semua Tipe Elf"
+        },
+        {
+          "path": "elfTypes.woodElf",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Wood Elf",
+          "suggestion": "Elf Hutan"
+        },
+        {
+          "path": "elfTypes.woodElf",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Wood Elf"
+        },
+        {
+          "path": "elfTypes.darkElf",
+          "issue": "Found English term \"Dark Elf\" instead of \"Elf Gelap\"",
+          "text": "Dark Elf / Drow",
+          "suggestion": "Elf Gelap / Drow"
+        },
+        {
+          "path": "elfTypes.darkElf",
+          "issue": "Mixed language detected: Dark Elf",
+          "text": "Dark Elf / Drow"
+        },
+        {
+          "path": "elfTypes.halfElf",
+          "issue": "Found English term \"Half-Elf\" instead of \"Setengah Elf\"",
+          "text": "Half-Elf",
+          "suggestion": "Setengah Elf"
+        },
+        {
+          "path": "elfTypes.halfElf",
+          "issue": "Mixed language detected: Half-Elf",
+          "text": "Half-Elf"
+        },
+        {
+          "path": "elfTypes.highElf",
+          "issue": "Found English term \"High Elf\" instead of \"Elf Tinggi\"",
+          "text": "High Elf",
+          "suggestion": "Elf Tinggi"
+        },
+        {
+          "path": "elfTypes.highElf",
+          "issue": "Mixed language detected: High Elf",
+          "text": "High Elf"
+        },
+        {
+          "path": "elfTypes.moonElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Moon Elf"
+        },
+        {
+          "path": "elfTypes.sunElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Sun Elf"
+        },
+        {
+          "path": "elfTypes.wildElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Wild Elf"
+        },
+        {
+          "path": "elfTypes.seaElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Sea Elf"
+        },
+        {
+          "path": "elfTypes.snowElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Snow Elf"
+        },
+        {
+          "path": "elfTypes.shadowElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Shadow Elf"
+        },
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "Hasilkan nama peri fantasi otentik secara instan. Sempurna untuk peri hutan, peri gelap, separuh per..."
+        },
+        {
+          "path": "seo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "Kampanye RPG Tabletop"
+        },
+        {
+          "path": "seo.popularUses.tabletop.description",
+          "issue": "Mixed language detected: RPG",
+          "text": "Sempurna untuk D&D, Pathfinder, dan RPG fantasi lainnya. Ciptakan NPC dan karakter pemain yang berke..."
+        },
+        {
+          "path": "woodElf.metadata.title",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Generator Nama Wood Elf - Nama Peri Hutan Otentik",
+          "suggestion": "Generator Nama Elf Hutan - Nama Peri Hutan Otentik"
+        },
+        {
+          "path": "woodElf.metadata.title",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Generator Nama Wood Elf - Nama Peri Hutan Otentik"
+        },
+        {
+          "path": "woodElf.metadata.description",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Hasilkan nama wood elf otentik dengan generator khusus kami. Sempurna untuk ranger, druid, dan karak...",
+          "suggestion": "Hasilkan nama Elf Hutan otentik dengan generator khusus kami. Sempurna untuk ranger, druid, dan karakter yang terhubung dengan alam dalam D&D dan fantasi."
+        },
+        {
+          "path": "woodElf.metadata.description",
+          "issue": "Mixed language detected: wood elf",
+          "text": "Hasilkan nama wood elf otentik dengan generator khusus kami. Sempurna untuk ranger, druid, dan karak..."
+        },
+        {
+          "path": "woodElf.metadata.keywords",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "generator nama wood elf, nama wood elf, generator nama wood elf untuk dnd, nama peri alam, generator...",
+          "suggestion": "generator nama Elf Hutan, nama Elf Hutan, generator nama Elf Hutan untuk dnd, nama peri alam, generator Elf Hutan"
+        },
+        {
+          "path": "woodElf.metadata.keywords",
+          "issue": "Mixed language detected: wood elf, wood elf, wood elf, wood elf",
+          "text": "generator nama wood elf, nama wood elf, generator nama wood elf untuk dnd, nama peri alam, generator..."
+        },
+        {
+          "path": "woodElf.metadata.openGraphTitle",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Generator Nama Wood Elf - Buat Nama Hutan Ajaib",
+          "suggestion": "Generator Nama Elf Hutan - Buat Nama Hutan Ajaib"
+        },
+        {
+          "path": "woodElf.metadata.openGraphTitle",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Generator Nama Wood Elf - Buat Nama Hutan Ajaib"
+        },
+        {
+          "path": "woodElf.metadata.openGraphDescription",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Temukan nama wood elf otentik dengan generator khusus kami. Sempurna untuk karakter D&D yang terhubu...",
+          "suggestion": "Temukan nama Elf Hutan otentik dengan generator khusus kami. Sempurna untuk karakter D&D yang terhubung dengan alam."
+        },
+        {
+          "path": "woodElf.metadata.openGraphDescription",
+          "issue": "Mixed language detected: wood elf",
+          "text": "Temukan nama wood elf otentik dengan generator khusus kami. Sempurna untuk karakter D&D yang terhubu..."
+        },
+        {
+          "path": "woodElf.metadata.twitterTitle",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Generator Nama Wood Elf - Nama Hutan Otentik",
+          "suggestion": "Generator Nama Elf Hutan - Nama Hutan Otentik"
+        },
+        {
+          "path": "woodElf.metadata.twitterTitle",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Generator Nama Wood Elf - Nama Hutan Otentik"
+        },
+        {
+          "path": "woodElf.metadata.twitterDescription",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Hasilkan nama wood elf unik untuk petualangan fantasi dan kampanye D&D Anda.",
+          "suggestion": "Hasilkan nama Elf Hutan unik untuk petualangan fantasi dan kampanye D&D Anda."
+        },
+        {
+          "path": "woodElf.metadata.twitterDescription",
+          "issue": "Mixed language detected: wood elf",
+          "text": "Hasilkan nama wood elf unik untuk petualangan fantasi dan kampanye D&D Anda."
+        },
+        {
+          "path": "woodElf.seo.structuredDataName",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Generator Nama Wood Elf",
+          "suggestion": "Generator Nama Elf Hutan"
+        },
+        {
+          "path": "woodElf.seo.structuredDataName",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Generator Nama Wood Elf"
+        },
+        {
+          "path": "woodElf.seo.structuredDataDescription",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Hasilkan nama wood elf otentik untuk karakter fantasi, game RPG, dan penulisan kreatif. Buat nama pe...",
+          "suggestion": "Hasilkan nama Elf Hutan otentik untuk karakter fantasi, game RPG, dan penulisan kreatif. Buat nama peri penghuni hutan dengan tema alam dan pesona sylvan."
+        },
+        {
+          "path": "woodElf.seo.structuredDataDescription",
+          "issue": "Mixed language detected: wood elf, RPG",
+          "text": "Hasilkan nama wood elf otentik untuk karakter fantasi, game RPG, dan penulisan kreatif. Buat nama pe..."
+        },
+        {
+          "path": "woodElf.seo.breadcrumbGenerator",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Generator Nama Wood Elf",
+          "suggestion": "Generator Nama Elf Hutan"
+        },
+        {
+          "path": "woodElf.seo.breadcrumbGenerator",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Generator Nama Wood Elf"
+        },
+        {
+          "path": "woodElf.seo.noScriptTitle",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Generator Nama Wood Elf - Buat Nama Wood Elf",
+          "suggestion": "Generator Nama Elf Hutan - Buat Nama Elf Hutan"
+        },
+        {
+          "path": "woodElf.seo.noScriptTitle",
+          "issue": "Mixed language detected: Wood Elf, Wood Elf",
+          "text": "Generator Nama Wood Elf - Buat Nama Wood Elf"
+        },
+        {
+          "path": "woodElf.seo.noScriptDescription",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Hasilkan nama wood elf otentik untuk karakter fantasi Anda. Generator nama wood elf ini membuat nama...",
+          "suggestion": "Hasilkan nama Elf Hutan otentik untuk karakter fantasi Anda. Generator nama Elf Hutan ini membuat nama sempurna untuk ranger, druid, dan peri pencinta alam."
+        },
+        {
+          "path": "woodElf.seo.noScriptDescription",
+          "issue": "Mixed language detected: wood elf, wood elf",
+          "text": "Hasilkan nama wood elf otentik untuk karakter fantasi Anda. Generator nama wood elf ini membuat nama..."
+        },
+        {
+          "path": "woodElf.seo.toolLabel",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Alat Pembuatan Nama Wood Elf",
+          "suggestion": "Alat Pembuatan Nama Elf Hutan"
+        },
+        {
+          "path": "woodElf.seo.toolLabel",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Alat Pembuatan Nama Wood Elf"
+        },
+        {
+          "path": "woodElf.seo.infoLabel",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Hutan\"",
+          "text": "Informasi dan Panduan Nama Wood Elf",
+          "suggestion": "Informasi dan Panduan Nama Elf Hutan"
+        },
+        {
+          "path": "woodElf.seo.infoLabel",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Informasi dan Panduan Nama Wood Elf"
+        }
+      ],
+      "pl": [
+        {
+          "path": "common.siteName",
+          "issue": "Mixed language detected: Elf",
+          "text": "Ostateczny Generator Imion Elfów"
+        },
+        {
+          "path": "common.generateButton",
+          "issue": "Mixed language detected: Elf",
+          "text": "Generuj Imiona Elfów"
+        },
+        {
+          "path": "metadata.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Ostateczny Generator Imion Elfów - Twórz Magiczne Imiona"
+        },
+        {
+          "path": "metadata.description",
+          "issue": "Mixed language detected: fantasy, elf, elf, elf, elf, fantasy",
+          "text": "Generuj autentyczne fantasy imiona elfów natychmiast. Idealne dla elfów leśnych, mrocznych elfów, pó..."
+        },
+        {
+          "path": "metadata.keywords",
+          "issue": "Mixed language detected: elf, elf, elf, elf, elf, elf, elf, fantasy, elf",
+          "text": "generator imion elfów, ostateczny generator imion elfów, generator imion elfów leśnych, generator im..."
+        },
+        {
+          "path": "metadata.openGraphTitle",
+          "issue": "Mixed language detected: Elf",
+          "text": "Ostateczny Generator Imion Elfów - Twórz Magiczne Imiona"
+        },
+        {
+          "path": "metadata.openGraphDescription",
+          "issue": "Mixed language detected: fantasy, elf, elf, elf, elf",
+          "text": "Generuj autentyczne fantasy imiona elfów natychmiast. Idealne dla elfów leśnych, mrocznych elfów, pó..."
+        },
+        {
+          "path": "metadata.twitterTitle",
+          "issue": "Mixed language detected: Elf",
+          "text": "Ostateczny Generator Imion Elfów - Twórz Magiczne Imiona"
+        },
+        {
+          "path": "metadata.twitterDescription",
+          "issue": "Mixed language detected: fantasy, elf, elf, elf, elf",
+          "text": "Generuj autentyczne fantasy imiona elfów natychmiast. Idealne dla elfów leśnych, mrocznych elfów, pó..."
+        },
+        {
+          "path": "header.title",
+          "issue": "Mixed language detected: Elf, Fantasy",
+          "text": "Generator Imion Elfów | Narzędzie Tworzenia Imion Fantasy"
+        },
+        {
+          "path": "header.description",
+          "issue": "Mixed language detected: elf, elf, elf, elf, elf, elf, fantasy, RPG, elf",
+          "text": "Nasz kompletny zestaw generatora imion elfów zawiera generator imion elfów leśnych, generator imion ..."
+        },
+        {
+          "path": "generator.settingsDescription",
+          "issue": "Mixed language detected: elf",
+          "text": "Skonfiguruj typ i styl imion elfów, które chcesz wygenerować"
+        },
+        {
+          "path": "generator.resultsTitle",
+          "issue": "Mixed language detected: Elf",
+          "text": "Wygenerowane Imiona Elfów"
+        },
+        {
+          "path": "generator.noResults",
+          "issue": "Mixed language detected: Elf",
+          "text": "Wypełnij konfigurację i kliknij \"Generuj Imiona Elfów\", aby rozpocząć tworzenie"
+        },
+        {
+          "path": "elfTypes.woodElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Elf Leśny"
+        },
+        {
+          "path": "elfTypes.darkElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Mroczny Elf / Drow"
+        },
+        {
+          "path": "elfTypes.halfElf",
+          "issue": "Mixed language detected: elf",
+          "text": "Półelf"
+        },
+        {
+          "path": "elfTypes.highElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Wysoki Elf"
+        },
+        {
+          "path": "elfTypes.moonElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Elf Księżycowy"
+        },
+        {
+          "path": "elfTypes.sunElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Elf Słoneczny"
+        },
+        {
+          "path": "elfTypes.wildElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Dziki Elf"
+        },
+        {
+          "path": "elfTypes.seaElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Elf Morski"
+        },
+        {
+          "path": "elfTypes.snowElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Elf Śnieżny"
+        },
+        {
+          "path": "elfTypes.shadowElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Elf Cienia"
+        },
+        {
+          "path": "seo.structuredDataName",
+          "issue": "Mixed language detected: Elf",
+          "text": "Najlepszy Generator Imion Elfów"
+        },
+        {
+          "path": "seo.structuredDataDescription",
+          "issue": "Mixed language detected: fantasy, elf, elf, elf, elf, elf",
+          "text": "Generuj autentyczne fantasy imiona elfów dla elfów leśnych, mrocznych elfów, półelfów i postaci D&D ..."
+        },
+        {
+          "path": "seo.breadcrumbGenerator",
+          "issue": "Mixed language detected: Elf",
+          "text": "Generator Imion Elfów"
+        },
+        {
+          "path": "seo.noScriptTitle",
+          "issue": "Mixed language detected: Elf",
+          "text": "Najlepszy Generator Imion Elfów - Twórz Magiczne Imiona"
+        },
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Mixed language detected: fantasy, elf, elf, elf, elf, elf, elf, elf, elf, fantasy, RPG",
+          "text": "Generuj autentyczne fantasy imiona elfów natychmiast. Idealne dla elfów leśnych, mrocznych elfów, pó..."
+        },
+        {
+          "path": "seo.toolLabel",
+          "issue": "Mixed language detected: Elf",
+          "text": "Narzędzie Generatora Imion Elfów"
+        },
+        {
+          "path": "seo.infoLabel",
+          "issue": "Mixed language detected: Elf",
+          "text": "Informacje o Generatorze Imion Elfów"
+        },
+        {
+          "path": "seo.introduction.title",
+          "issue": "Mixed language detected: Elf, Fantasy",
+          "text": "Najlepszy Generator Imion Elfów - Twórz Autentyczne Imiona Fantasy"
+        },
+        {
+          "path": "seo.introduction.paragraph1",
+          "issue": "Mixed language detected: elf, fantasy, elf, elf, elf",
+          "text": "Witamy w najlepszym generatorze imion elfów, Twoim kompleksowym źródle tworzenia autentycznych imion..."
+        },
+        {
+          "path": "seo.introduction.paragraph2",
+          "issue": "Mixed language detected: elf, fantasy, fantasy",
+          "text": "Nasz generator imion elfów łączy tradycyjną lingwistykę elficką z nowoczesnymi konwencjami fantasy, ..."
+        },
+        {
+          "path": "seo.whatIs.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Czym Jest Generator Imion Elfów?"
+        },
+        {
+          "path": "seo.whatIs.paragraph1",
+          "issue": "Mixed language detected: elf, fantasy, fantasy",
+          "text": "Generator imion elfów to wyspecjalizowane narzędzie, które tworzy autentyczne imiona fantasy oparte ..."
+        },
+        {
+          "path": "seo.whatIs.paragraph2",
+          "issue": "Mixed language detected: elf, fantasy",
+          "text": "Nasz najlepszy generator imion elfów wykracza poza proste losowe kombinacje, włączając znaczące elem..."
+        },
+        {
+          "path": "seo.types.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Rodzaje Generatorów Imion Elfów"
+        },
+        {
+          "path": "seo.types.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Nasz kompleksowy zestaw obejmuje wyspecjalizowane generatory dla każdego typu kultury elfickiej i św..."
+        },
+        {
+          "path": "seo.types.classic.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Klasyczne Imiona Elfów"
+        },
+        {
+          "path": "seo.types.halfElf.title",
+          "issue": "Mixed language detected: elf",
+          "text": "Imiona Półelfów"
+        },
+        {
+          "path": "seo.types.woodElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Imiona Elfów Leśnych"
+        },
+        {
+          "path": "seo.types.woodElf.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Imiona elfów zamieszkujących lasy z silnymi połączeniami z naturą, idealne dla łowców, druidów i syl..."
+        },
+        {
+          "path": "seo.types.darkElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Imiona Mrocznych Elfów / Drow"
+        },
+        {
+          "path": "seo.types.dnd.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Imiona Elfów D&D"
+        },
+        {
+          "path": "seo.types.gender.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Dopasowane opcje nazewnictwa dla męskich, żeńskich i niebinarnych postaci we wszystkich typach elfów..."
+        },
+        {
+          "path": "seo.howToUse.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Jak Używać Naszego Generatora Imion Elfów"
+        },
+        {
+          "path": "seo.howToUse.step2.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Kliknij przycisk generowania, aby stworzyć autentyczne imiona elfów z przewodnikami wymowy i znaczen..."
+        },
+        {
+          "path": "seo.whyEssential.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Dlaczego Warto Używać Generatora Imion Elfów?"
+        },
+        {
+          "path": "seo.whyEssential.consistency.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Utrzymuj spójność swojego świata fantasy z imionami, które podążają za ustalonymi wzorcami językowym..."
+        },
+        {
+          "path": "seo.whyEssential.accessible.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Niezależnie od tego, czy jesteś doświadczonym MG czy nowicjuszem w fantasy, nasze narzędzie czyni pr..."
+        },
+        {
+          "path": "seo.topFeatures.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Najważniejsze Funkcje Generatora Imion Elfów"
+        },
+        {
+          "path": "seo.topFeatures.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Nie wszystkie generatory imion elfów są stworzone tak samo. Oto co wyróżnia nasze narzędzie spośród ..."
+        },
+        {
+          "path": "seo.topFeatures.diverse.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Zróżnicowane Typy Elfów"
+        },
+        {
+          "path": "seo.topFeatures.diverse.description",
+          "issue": "Mixed language detected: elf, elf, elf, elf",
+          "text": "Wsparcie dla wszystkich głównych podras elfów, w tym elfów leśnych, mrocznych elfów, wysokich elfów ..."
+        },
+        {
+          "path": "seo.popularUses.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Popularne Zastosowania Generatorów Imion Elfów"
+        },
+        {
+          "path": "seo.popularUses.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Odkryj, jak twórcy z różnych mediów używają naszego generatora imion elfów, aby wzbogacić swoje proj..."
+        },
+        {
+          "path": "seo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "Kampanie RPG Stołowych"
+        },
+        {
+          "path": "seo.popularUses.tabletop.description",
+          "issue": "Mixed language detected: fantasy, RPG",
+          "text": "Idealne dla D&D, Pathfinder i innych fantasy RPG. Twórz zapadające w pamięć postacie niezależne i gr..."
+        },
+        {
+          "path": "seo.popularUses.novels.title",
+          "issue": "Mixed language detected: Fantasy",
+          "text": "Powieści Fantasy i Opowieści"
+        },
+        {
+          "path": "seo.popularUses.novels.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Autorzy używają naszego generatora do tworzenia spójnych, wiarygodnych imion postaci, które wzbogaca..."
+        },
+        {
+          "path": "seo.popularUses.onlineGames.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Wyróżnij się w MMORPG i grach fantasy z unikalnymi imionami postaci, które odzwierciedlają wybraną r..."
+        },
+        {
+          "path": "seo.popularUses.creativeWriting.description",
+          "issue": "Mixed language detected: fantasy",
+          "text": "Od fanfiction po oryginalne dzieła fantasy, nasz generator dostarcza idealnych imion dla każdego twó..."
+        },
+        {
+          "path": "seo.supportedTypes.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Wspierane Typy Elfów w Naszym Generatorze"
+        },
+        {
+          "path": "seo.supportedTypes.woodElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Imiona Elfów Leśnych"
+        },
+        {
+          "path": "seo.supportedTypes.darkElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Imiona Mrocznych Elfów / Drow"
+        },
+        {
+          "path": "seo.supportedTypes.halfElf.title",
+          "issue": "Mixed language detected: elf",
+          "text": "Imiona Półelfów"
+        },
+        {
+          "path": "seo.supportedTypes.highElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Imiona Wysokich Elfów"
+        },
+        {
+          "path": "seo.supportedTypes.moonElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Imiona Elfów Księżycowych"
+        },
+        {
+          "path": "seo.supportedTypes.sunElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Imiona Elfów Słonecznych"
+        },
+        {
+          "path": "seo.supportedTypes.wildElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Imiona Dzikich Elfów"
+        },
+        {
+          "path": "seo.supportedTypes.wildElf.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Pierwotne imiona dla nieujarzmnionych i dzikich postaci elfów."
+        },
+        {
+          "path": "seo.supportedTypes.seaElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Imiona Elfów Morskich"
+        },
+        {
+          "path": "seo.supportedTypes.snowElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Imiona Elfów Śnieżnych"
+        },
+        {
+          "path": "seo.gallery.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Przykłady Postaci Elfów"
+        },
+        {
+          "path": "seo.gallery.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Eksploruj różne typy elfów i ich charakterystyczne imiona przez naszą wizualną galerię."
+        },
+        {
+          "path": "seo.gallery.woodElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Łowca Elf Leśny"
+        },
+        {
+          "path": "seo.gallery.darkElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Mag Mroczny Elf"
+        },
+        {
+          "path": "seo.gallery.highElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Szlachcic Wysoki Elf"
+        },
+        {
+          "path": "seo.gallery.highElf.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Arystokratyczny elf z imionami godnymi królewskiego rodu."
+        },
+        {
+          "path": "seo.categories.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Kategorie i Znaczenia Generatora Imion Elfów"
+        },
+        {
+          "path": "seo.linguisticFeatures.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Cechy Językowe Generatora Imion Elfów"
+        },
+        {
+          "path": "seo.collection.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Kolekcja Generatora Imion Elfów"
+        },
+        {
+          "path": "seo.conclusion.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Zacznij Tworzyć Niesamowite Imiona Elfów Już Dziś"
+        },
+        {
+          "path": "seo.conclusion.paragraph1",
+          "issue": "Mixed language detected: elf",
+          "text": "Niezależnie od tego, czy tworzysz łowcę elfa leśnego, tajemniczego łotra mrocznego elfa, czy szlache..."
+        },
+        {
+          "path": "seo.conclusion.paragraph2",
+          "issue": "Mixed language detected: fantasy, fantasy",
+          "text": "Dołącz do tysięcy twórców fantasy, którzy polegają na naszym narzędziu w zakresie autentycznych, zap..."
+        },
+        {
+          "path": "seo.conclusion.generateButton",
+          "issue": "Mixed language detected: Elf",
+          "text": "Generuj Imiona Elfów Teraz"
+        },
+        {
+          "path": "seo.conclusion.exploreButton",
+          "issue": "Mixed language detected: Elf",
+          "text": "Eksploruj Typy Elfów"
+        },
+        {
+          "path": "woodElf.metadata.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Generator Imion Elfów Leśnych - Autentyczne Elfickie Imiona Leśne"
+        },
+        {
+          "path": "woodElf.metadata.description",
+          "issue": "Mixed language detected: elf, fantasy",
+          "text": "Generuj autentyczne imiona elfów leśnych z naszym specjalistycznym generatorem. Idealne dla łowców, ..."
+        },
+        {
+          "path": "woodElf.metadata.keywords",
+          "issue": "Mixed language detected: elf, elf, elf, elf, elf",
+          "text": "generator imion elfów leśnych, imiona elfów leśnych, generator imion elfów leśnych dla dnd, imiona e..."
+        },
+        {
+          "path": "woodElf.metadata.openGraphTitle",
+          "issue": "Mixed language detected: Elf",
+          "text": "Generator Imion Elfów Leśnych - Twórz Magiczne Imiona Leśne"
+        },
+        {
+          "path": "woodElf.metadata.openGraphDescription",
+          "issue": "Mixed language detected: elf",
+          "text": "Odkryj autentyczne imiona elfów leśnych z naszym specjalistycznym generatorem. Idealne dla postaci D..."
+        },
+        {
+          "path": "woodElf.metadata.twitterTitle",
+          "issue": "Mixed language detected: Elf",
+          "text": "Generator Imion Elfów Leśnych - Autentyczne Imiona Leśne"
+        },
+        {
+          "path": "woodElf.metadata.twitterDescription",
+          "issue": "Mixed language detected: elf, fantasy",
+          "text": "Generuj unikalne imiona elfów leśnych dla swoich przygód fantasy i kampanii D&D."
+        },
+        {
+          "path": "woodElf.seo.structuredDataName",
+          "issue": "Mixed language detected: Elf",
+          "text": "Generator Imion Elfów Leśnych"
+        },
+        {
+          "path": "woodElf.seo.structuredDataDescription",
+          "issue": "Mixed language detected: elf, fantasy, RPG, elf",
+          "text": "Generuj autentyczne imiona elfów leśnych dla postaci fantasy, gier RPG i kreatywnego pisania. Twórz ..."
+        },
+        {
+          "path": "woodElf.seo.breadcrumbGenerator",
+          "issue": "Mixed language detected: Elf",
+          "text": "Generator Imion Elfów Leśnych"
+        },
+        {
+          "path": "woodElf.seo.noScriptTitle",
+          "issue": "Mixed language detected: Elf, Elf",
+          "text": "Generator Imion Elfów Leśnych - Twórz Imiona Elfów Leśnych"
+        },
+        {
+          "path": "woodElf.seo.noScriptDescription",
+          "issue": "Mixed language detected: elf, fantasy, elf, elf",
+          "text": "Generuj autentyczne imiona elfów leśnych dla swoich postaci fantasy. Ten generator imion elfów leśny..."
+        },
+        {
+          "path": "woodElf.seo.toolLabel",
+          "issue": "Mixed language detected: Elf",
+          "text": "Narzędzie Generowania Imion Elfów Leśnych"
+        },
+        {
+          "path": "woodElf.seo.infoLabel",
+          "issue": "Mixed language detected: Elf",
+          "text": "Informacje i Przewodnik po Imionach Elfów Leśnych"
+        }
+      ],
+      "th": [
+        {
+          "path": "header.description",
+          "issue": "Found English term \"RPG\" instead of \"อาร์พีจี\"",
+          "text": "ชุดเครื่องมือสร้างชื่อเอลฟ์ที่สมบูรณ์ของเราประกอบด้วย เครื่องมือสร้างชื่อเอลฟ์ป่า เครื่องมือสร้างชื่...",
+          "suggestion": "ชุดเครื่องมือสร้างชื่อเอลฟ์ที่สมบูรณ์ของเราประกอบด้วย เครื่องมือสร้างชื่อเอลฟ์ป่า เครื่องมือสร้างชื่อเอลฟ์มืด เครื่องมือสร้างชื่อฮาล์ฟเอลฟ์ เครื่องมือสร้างชื่อเอลฟ์เลือด และเครื่องมือสร้างชื่อเอลฟ์ dnd สำหรับเรื่องราวแฟนตาซี ตัวละคร D&D และเกม อาร์พีจี ของคุณ เครื่องมือสร้างชื่อเอลฟ์ที่ดีที่สุดที่มีออนไลน์!"
+        },
+        {
+          "path": "header.description",
+          "issue": "Mixed language detected: RPG",
+          "text": "ชุดเครื่องมือสร้างชื่อเอลฟ์ที่สมบูรณ์ของเราประกอบด้วย เครื่องมือสร้างชื่อเอลฟ์ป่า เครื่องมือสร้างชื่..."
+        },
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Found English term \"RPG\" instead of \"อาร์พีจี\"",
+          "text": "สร้างชื่อเอลฟ์แฟนตาซีที่แท้จริงในทันที เหมาะสำหรับเอลฟ์ป่า เอลฟ์มืด ฮาล์ฟเอลฟ์ และตัวละคร D&D เครื่อ...",
+          "suggestion": "สร้างชื่อเอลฟ์แฟนตาซีที่แท้จริงในทันที เหมาะสำหรับเอลฟ์ป่า เอลฟ์มืด ฮาล์ฟเอลฟ์ และตัวละคร D&D เครื่องมือสร้างชื่อเอลฟ์ของเราจะสร้างชื่อสำหรับเอลฟ์ป่า เอลฟ์มืด ฮาล์ฟเอลฟ์ และตัวละคร อาร์พีจี แฟนตาซีอื่นๆ"
+        },
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "สร้างชื่อเอลฟ์แฟนตาซีที่แท้จริงในทันที เหมาะสำหรับเอลฟ์ป่า เอลฟ์มืด ฮาล์ฟเอลฟ์ และตัวละคร D&D เครื่อ..."
+        },
+        {
+          "path": "seo.popularUses.tabletop.title",
+          "issue": "Found English term \"RPG\" instead of \"อาร์พีจี\"",
+          "text": "แคมเปญ RPG แบบกระดาน",
+          "suggestion": "แคมเปญ อาร์พีจี แบบกระดาน"
+        },
+        {
+          "path": "seo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "แคมเปญ RPG แบบกระดาน"
+        },
+        {
+          "path": "seo.popularUses.tabletop.description",
+          "issue": "Found English term \"RPG\" instead of \"อาร์พีจี\"",
+          "text": "เหมาะสำหรับ D&D, Pathfinder และ RPG แฟนตาซีอื่นๆ สร้าง NPC และตัวละครผู้เล่นที่น่าจดจำด้วยชื่อที่ฟัง...",
+          "suggestion": "เหมาะสำหรับ D&D, Pathfinder และ อาร์พีจี แฟนตาซีอื่นๆ สร้าง NPC และตัวละครผู้เล่นที่น่าจดจำด้วยชื่อที่ฟังดูแท้จริง"
+        },
+        {
+          "path": "seo.popularUses.tabletop.description",
+          "issue": "Mixed language detected: RPG",
+          "text": "เหมาะสำหรับ D&D, Pathfinder และ RPG แฟนตาซีอื่นๆ สร้าง NPC และตัวละครผู้เล่นที่น่าจดจำด้วยชื่อที่ฟัง..."
+        },
+        {
+          "path": "woodElf.seo.structuredDataDescription",
+          "issue": "Found English term \"RPG\" instead of \"อาร์พีจี\"",
+          "text": "สร้างชื่อเอลฟ์ป่าที่แท้จริงสำหรับตัวละครแฟนตาซี เกม RPG และการเขียนสร้างสรรค์ สร้างชื่อเอลฟ์ที่อาศัย...",
+          "suggestion": "สร้างชื่อเอลฟ์ป่าที่แท้จริงสำหรับตัวละครแฟนตาซี เกม อาร์พีจี และการเขียนสร้างสรรค์ สร้างชื่อเอลฟ์ที่อาศัยในป่าด้วยธีมธรรมชาติและเสน่ห์ซิลแวน"
+        },
+        {
+          "path": "woodElf.seo.structuredDataDescription",
+          "issue": "Mixed language detected: RPG",
+          "text": "สร้างชื่อเอลฟ์ป่าที่แท้จริงสำหรับตัวละครแฟนตาซี เกม RPG และการเขียนสร้างสรรค์ สร้างชื่อเอลฟ์ที่อาศัย..."
+        }
+      ],
+      "vi": [
+        {
+          "path": "common.siteName",
+          "issue": "Mixed language detected: Elf",
+          "text": "Trình Tạo Tên Elf Tối Thượng"
+        },
+        {
+          "path": "common.generateButton",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tạo Tên Elf"
+        },
+        {
+          "path": "metadata.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Trình Tạo Tên Elf Tối Thượng - Tạo Tên Ma Thuật"
+        },
+        {
+          "path": "metadata.description",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D...",
+          "suggestion": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho Elf Rừng, dark elf, half elf và nhân vật D&D. Công cụ miễn phí cho người tạo fantasy."
+        },
+        {
+          "path": "metadata.description",
+          "issue": "Found English term \"Dark Elf\" instead of \"Elf Tối\"",
+          "text": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D...",
+          "suggestion": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, Elf Tối, half elf và nhân vật D&D. Công cụ miễn phí cho người tạo fantasy."
+        },
+        {
+          "path": "metadata.description",
+          "issue": "Found English term \"Fantasy\" instead of \"Giả tưởng\"",
+          "text": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D...",
+          "suggestion": "Tạo tên elf Giả tưởng chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D&D. Công cụ miễn phí cho người tạo Giả tưởng."
+        },
+        {
+          "path": "metadata.description",
+          "issue": "Mixed language detected: elf, fantasy, wood elf, dark elf, elf, fantasy",
+          "text": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D..."
+        },
+        {
+          "path": "metadata.keywords",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "trình tạo tên elf, trình tạo tên elf tối thượng, trình tạo tên wood elf, trình tạo tên dark elf, trì...",
+          "suggestion": "trình tạo tên elf, trình tạo tên elf tối thượng, trình tạo tên Elf Rừng, trình tạo tên dark elf, trình tạo tên half elf, trình tạo tên elf, trình tạo tên elf dnd, tên fantasy, tên elf ma thuật"
+        },
+        {
+          "path": "metadata.keywords",
+          "issue": "Found English term \"Fantasy\" instead of \"Giả tưởng\"",
+          "text": "trình tạo tên elf, trình tạo tên elf tối thượng, trình tạo tên wood elf, trình tạo tên dark elf, trì...",
+          "suggestion": "trình tạo tên elf, trình tạo tên elf tối thượng, trình tạo tên wood elf, trình tạo tên dark elf, trình tạo tên half elf, trình tạo tên elf, trình tạo tên elf dnd, tên Giả tưởng, tên elf ma thuật"
+        },
+        {
+          "path": "metadata.keywords",
+          "issue": "Mixed language detected: elf, elf, wood elf, dark elf, elf, elf, elf, fantasy, elf",
+          "text": "trình tạo tên elf, trình tạo tên elf tối thượng, trình tạo tên wood elf, trình tạo tên dark elf, trì..."
+        },
+        {
+          "path": "metadata.openGraphTitle",
+          "issue": "Mixed language detected: Elf",
+          "text": "Trình Tạo Tên Elf Tối Thượng - Tạo Tên Ma Thuật"
+        },
+        {
+          "path": "metadata.openGraphDescription",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D...",
+          "suggestion": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho Elf Rừng, dark elf, half elf và nhân vật D&D."
+        },
+        {
+          "path": "metadata.openGraphDescription",
+          "issue": "Found English term \"Dark Elf\" instead of \"Elf Tối\"",
+          "text": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D...",
+          "suggestion": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, Elf Tối, half elf và nhân vật D&D."
+        },
+        {
+          "path": "metadata.openGraphDescription",
+          "issue": "Found English term \"Fantasy\" instead of \"Giả tưởng\"",
+          "text": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D...",
+          "suggestion": "Tạo tên elf Giả tưởng chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D&D."
+        },
+        {
+          "path": "metadata.openGraphDescription",
+          "issue": "Mixed language detected: elf, fantasy, wood elf, dark elf, elf",
+          "text": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D..."
+        },
+        {
+          "path": "metadata.twitterTitle",
+          "issue": "Mixed language detected: Elf",
+          "text": "Trình Tạo Tên Elf Tối Thượng - Tạo Tên Ma Thuật"
+        },
+        {
+          "path": "metadata.twitterDescription",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D...",
+          "suggestion": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho Elf Rừng, dark elf, half elf và nhân vật D&D."
+        },
+        {
+          "path": "metadata.twitterDescription",
+          "issue": "Found English term \"Dark Elf\" instead of \"Elf Tối\"",
+          "text": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D...",
+          "suggestion": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, Elf Tối, half elf và nhân vật D&D."
+        },
+        {
+          "path": "metadata.twitterDescription",
+          "issue": "Found English term \"Fantasy\" instead of \"Giả tưởng\"",
+          "text": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D...",
+          "suggestion": "Tạo tên elf Giả tưởng chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D&D."
+        },
+        {
+          "path": "metadata.twitterDescription",
+          "issue": "Mixed language detected: elf, fantasy, wood elf, dark elf, elf",
+          "text": "Tạo tên elf fantasy chính thức ngay lập tức. Hoàn hảo cho wood elf, dark elf, half elf và nhân vật D..."
+        },
+        {
+          "path": "header.title",
+          "issue": "Found English term \"Fantasy\" instead of \"Giả tưởng\"",
+          "text": "Trình Tạo Tên Elf | Công Cụ Tạo Tên Fantasy",
+          "suggestion": "Trình Tạo Tên Elf | Công Cụ Tạo Tên Giả tưởng"
+        },
+        {
+          "path": "header.title",
+          "issue": "Mixed language detected: Elf, Fantasy",
+          "text": "Trình Tạo Tên Elf | Công Cụ Tạo Tên Fantasy"
+        },
+        {
+          "path": "header.description",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Bộ trình tạo tên elf hoàn chỉnh của chúng tôi bao gồm trình tạo tên wood elf, trình tạo tên dark elf...",
+          "suggestion": "Bộ trình tạo tên elf hoàn chỉnh của chúng tôi bao gồm trình tạo tên Elf Rừng, trình tạo tên dark elf, trình tạo tên half elf, trình tạo tên blood elf, và các công cụ trình tạo tên elf dnd cho câu chuyện fantasy, nhân vật D&D, và trò chơi RPG của bạn. Trình tạo tên elf tốt nhất có sẵn trực tuyến!"
+        },
+        {
+          "path": "header.description",
+          "issue": "Found English term \"Dark Elf\" instead of \"Elf Tối\"",
+          "text": "Bộ trình tạo tên elf hoàn chỉnh của chúng tôi bao gồm trình tạo tên wood elf, trình tạo tên dark elf...",
+          "suggestion": "Bộ trình tạo tên elf hoàn chỉnh của chúng tôi bao gồm trình tạo tên wood elf, trình tạo tên Elf Tối, trình tạo tên half elf, trình tạo tên blood elf, và các công cụ trình tạo tên elf dnd cho câu chuyện fantasy, nhân vật D&D, và trò chơi RPG của bạn. Trình tạo tên elf tốt nhất có sẵn trực tuyến!"
+        },
+        {
+          "path": "header.description",
+          "issue": "Found English term \"Fantasy\" instead of \"Giả tưởng\"",
+          "text": "Bộ trình tạo tên elf hoàn chỉnh của chúng tôi bao gồm trình tạo tên wood elf, trình tạo tên dark elf...",
+          "suggestion": "Bộ trình tạo tên elf hoàn chỉnh của chúng tôi bao gồm trình tạo tên wood elf, trình tạo tên dark elf, trình tạo tên half elf, trình tạo tên blood elf, và các công cụ trình tạo tên elf dnd cho câu chuyện Giả tưởng, nhân vật D&D, và trò chơi RPG của bạn. Trình tạo tên elf tốt nhất có sẵn trực tuyến!"
+        },
+        {
+          "path": "header.description",
+          "issue": "Mixed language detected: elf, wood elf, dark elf, elf, elf, elf, fantasy, RPG, elf",
+          "text": "Bộ trình tạo tên elf hoàn chỉnh của chúng tôi bao gồm trình tạo tên wood elf, trình tạo tên dark elf..."
+        },
+        {
+          "path": "generator.settingsDescription",
+          "issue": "Mixed language detected: elf",
+          "text": "Cấu hình loại và phong cách tên elf bạn muốn tạo"
+        },
+        {
+          "path": "generator.resultsTitle",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tên Elf Được Tạo"
+        },
+        {
+          "path": "generator.noResults",
+          "issue": "Mixed language detected: Elf",
+          "text": "Điền cấu hình và nhấp \"Tạo Tên Elf\" để bắt đầu tạo"
+        },
+        {
+          "path": "form.elfType",
+          "issue": "Mixed language detected: Elf",
+          "text": "Loại Elf"
+        },
+        {
+          "path": "form.elfTypePlaceholder",
+          "issue": "Mixed language detected: elf",
+          "text": "Chọn loại elf"
+        },
+        {
+          "path": "elfTypes.any",
+          "issue": "Mixed language detected: Elf",
+          "text": "Bất Kỳ Loại Elf Nào"
+        },
+        {
+          "path": "elfTypes.woodElf",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Wood Elf",
+          "suggestion": "Elf Rừng"
+        },
+        {
+          "path": "elfTypes.woodElf",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Wood Elf"
+        },
+        {
+          "path": "elfTypes.darkElf",
+          "issue": "Found English term \"Dark Elf\" instead of \"Elf Tối\"",
+          "text": "Dark Elf / Drow",
+          "suggestion": "Elf Tối / Drow"
+        },
+        {
+          "path": "elfTypes.darkElf",
+          "issue": "Mixed language detected: Dark Elf",
+          "text": "Dark Elf / Drow"
+        },
+        {
+          "path": "elfTypes.halfElf",
+          "issue": "Found English term \"Half-Elf\" instead of \"Nửa Elf\"",
+          "text": "Half-Elf",
+          "suggestion": "Nửa Elf"
+        },
+        {
+          "path": "elfTypes.halfElf",
+          "issue": "Mixed language detected: Half-Elf",
+          "text": "Half-Elf"
+        },
+        {
+          "path": "elfTypes.highElf",
+          "issue": "Found English term \"High Elf\" instead of \"Elf Cao\"",
+          "text": "High Elf",
+          "suggestion": "Elf Cao"
+        },
+        {
+          "path": "elfTypes.highElf",
+          "issue": "Mixed language detected: High Elf",
+          "text": "High Elf"
+        },
+        {
+          "path": "elfTypes.moonElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Moon Elf"
+        },
+        {
+          "path": "elfTypes.sunElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Sun Elf"
+        },
+        {
+          "path": "elfTypes.wildElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Wild Elf"
+        },
+        {
+          "path": "elfTypes.seaElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Sea Elf"
+        },
+        {
+          "path": "elfTypes.snowElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Snow Elf"
+        },
+        {
+          "path": "elfTypes.shadowElf",
+          "issue": "Mixed language detected: Elf",
+          "text": "Shadow Elf"
+        },
+        {
+          "path": "seo.structuredDataName",
+          "issue": "Mixed language detected: Elf",
+          "text": "Trình Tạo Tên Elf Tối Cao"
+        },
+        {
+          "path": "seo.structuredDataDescription",
+          "issue": "Mixed language detected: elf, Elf, Elf, Elf, elf",
+          "text": "Tạo tên elf thần thoại chính thống cho Elf Rừng, Elf Bóng Tối, Nửa Elf và nhân vật D&D với trình tạo..."
+        },
+        {
+          "path": "seo.breadcrumbGenerator",
+          "issue": "Mixed language detected: Elf",
+          "text": "Trình Tạo Tên Elf"
+        },
+        {
+          "path": "seo.noScriptTitle",
+          "issue": "Mixed language detected: Elf",
+          "text": "Trình Tạo Tên Elf Tối Cao - Tạo Tên Ma Thuật"
+        },
+        {
+          "path": "seo.noScriptDescription",
+          "issue": "Mixed language detected: elf, Elf, Elf, Elf, elf, Elf, Elf, Elf, RPG",
+          "text": "Tạo tên elf thần thoại chính thống ngay lập tức. Hoàn hảo cho Elf Rừng, Elf Bóng Tối, Nửa Elf và nhâ..."
+        },
+        {
+          "path": "seo.toolLabel",
+          "issue": "Mixed language detected: Elf",
+          "text": "Công Cụ Trình Tạo Tên Elf"
+        },
+        {
+          "path": "seo.infoLabel",
+          "issue": "Mixed language detected: Elf",
+          "text": "Thông Tin Trình Tạo Tên Elf"
+        },
+        {
+          "path": "seo.introduction.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Trình Tạo Tên Elf Tối Cao - Tạo Tên Thần Thoại Chính Thống"
+        },
+        {
+          "path": "seo.introduction.paragraph1",
+          "issue": "Mixed language detected: elf, Elf, Elf, Elf",
+          "text": "Chào mừng bạn đến với trình tạo tên elf tối cao, nguồn toàn diện của bạn để tạo ra những tên thần th..."
+        },
+        {
+          "path": "seo.introduction.paragraph2",
+          "issue": "Mixed language detected: elf",
+          "text": "Trình tạo tên elf của chúng tôi kết hợp ngôn ngữ học elvish truyền thống với các quy ước thần thoại ..."
+        },
+        {
+          "path": "seo.whatIs.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Trình Tạo Tên Elf Là Gì?"
+        },
+        {
+          "path": "seo.whatIs.paragraph1",
+          "issue": "Mixed language detected: elf",
+          "text": "Trình tạo tên elf là công cụ chuyên biệt tạo ra những cái tên thần thoại chính thống dựa trên các mẫ..."
+        },
+        {
+          "path": "seo.whatIs.paragraph2",
+          "issue": "Mixed language detected: elf",
+          "text": "Trình tạo tên elf tối cao của chúng tôi vượt xa những sự kết hợp ngẫu nhiên đơn giản, tích hợp các y..."
+        },
+        {
+          "path": "seo.types.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Các Loại Trình Tạo Tên Elf"
+        },
+        {
+          "path": "seo.types.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Bộ công cụ toàn diện của chúng tôi bao gồm các trình tạo chuyên biệt cho mọi loại văn hóa elf và bối..."
+        },
+        {
+          "path": "seo.types.classic.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tên Elf Cổ Điển"
+        },
+        {
+          "path": "seo.types.halfElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tên Nửa Elf"
+        },
+        {
+          "path": "seo.types.woodElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tên Elf Rừng"
+        },
+        {
+          "path": "seo.types.woodElf.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Tên elf sống trong rừng có kết nối mạnh mẽ với thiên nhiên, hoàn hảo cho ranger, druid và nhân vật s..."
+        },
+        {
+          "path": "seo.types.darkElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tên Elf Bóng Tối / Drow"
+        },
+        {
+          "path": "seo.types.dnd.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tên Elf D&D"
+        },
+        {
+          "path": "seo.types.gender.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Tùy chọn đặt tên phù hợp cho nhân vật nam, nữ và phi nhị phân trên tất cả các loại elf và văn hóa."
+        },
+        {
+          "path": "seo.howToUse.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Cách Sử Dụng Trình Tạo Tên Elf Của Chúng Tôi"
+        },
+        {
+          "path": "seo.howToUse.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Tạo tên elf hoàn hảo rất đơn giản với quy trình ba bước trực quan của chúng tôi."
+        },
+        {
+          "path": "seo.howToUse.step1.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Chọn loại elf, giới tính và phong cách đặt tên ưa thích từ menu tùy chọn toàn diện của chúng tôi."
+        },
+        {
+          "path": "seo.howToUse.step2.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Nhấp vào nút tạo để tạo ra tên elf chính thống với hướng dẫn phát âm và ý nghĩa."
+        },
+        {
+          "path": "seo.whyEssential.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tại Sao Nên Sử Dụng Trình Tạo Tên Elf?"
+        },
+        {
+          "path": "seo.topFeatures.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tính Năng Hàng Đầu Cần Tìm Trong Trình Tạo Tên Elf"
+        },
+        {
+          "path": "seo.topFeatures.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Không phải tất cả trình tạo tên elf đều được tạo ra như nhau. Đây là những gì làm cho công cụ của ch..."
+        },
+        {
+          "path": "seo.topFeatures.diverse.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Đa Dạng Loại Elf"
+        },
+        {
+          "path": "seo.topFeatures.diverse.description",
+          "issue": "Found English term \"High Elf\" instead of \"Elf Cao\"",
+          "text": "Hỗ trợ tất cả các phân loại elf chính bao gồm Elf Rừng, Elf Bóng Tối, High Elf và nhiều hơn nữa, mỗi...",
+          "suggestion": "Hỗ trợ tất cả các phân loại elf chính bao gồm Elf Rừng, Elf Bóng Tối, Elf Cao và nhiều hơn nữa, mỗi loại có mẫu đặt tên văn hóa chính thống."
+        },
+        {
+          "path": "seo.topFeatures.diverse.description",
+          "issue": "Mixed language detected: elf, Elf, Elf, High Elf",
+          "text": "Hỗ trợ tất cả các phân loại elf chính bao gồm Elf Rừng, Elf Bóng Tối, High Elf và nhiều hơn nữa, mỗi..."
+        },
+        {
+          "path": "seo.popularUses.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Cách Sử Dụng Phổ Biến Cho Trình Tạo Tên Elf"
+        },
+        {
+          "path": "seo.popularUses.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Khám phá cách những người sáng tạo trong các phương tiện khác nhau sử dụng trình tạo tên elf của chú..."
+        },
+        {
+          "path": "seo.popularUses.tabletop.title",
+          "issue": "Mixed language detected: RPG",
+          "text": "Chiến Dịch RPG Trên Bàn"
+        },
+        {
+          "path": "seo.popularUses.tabletop.description",
+          "issue": "Mixed language detected: RPG",
+          "text": "Hoàn hảo cho D&D, Pathfinder và các RPG thần thoại khác. Tạo ra NPC và nhân vật người chơi đáng nhớ ..."
+        },
+        {
+          "path": "seo.supportedTypes.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Các Loại Elf Được Hỗ Trợ Trong Trình Tạo Của Chúng Tôi"
+        },
+        {
+          "path": "seo.supportedTypes.woodElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tên Elf Rừng"
+        },
+        {
+          "path": "seo.supportedTypes.darkElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tên Elf Bóng Tối / Drow"
+        },
+        {
+          "path": "seo.supportedTypes.halfElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tên Nửa Elf"
+        },
+        {
+          "path": "seo.supportedTypes.highElf.title",
+          "issue": "Found English term \"High Elf\" instead of \"Elf Cao\"",
+          "text": "Tên High Elf",
+          "suggestion": "Tên Elf Cao"
+        },
+        {
+          "path": "seo.supportedTypes.highElf.title",
+          "issue": "Mixed language detected: High Elf",
+          "text": "Tên High Elf"
+        },
+        {
+          "path": "seo.supportedTypes.moonElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tên Moon Elf"
+        },
+        {
+          "path": "seo.supportedTypes.sunElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tên Sun Elf"
+        },
+        {
+          "path": "seo.supportedTypes.wildElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tên Wild Elf"
+        },
+        {
+          "path": "seo.supportedTypes.wildElf.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Tên nguyên thủy cho nhân vật elf hoang dã và man rợ."
+        },
+        {
+          "path": "seo.supportedTypes.seaElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tên Sea Elf"
+        },
+        {
+          "path": "seo.supportedTypes.snowElf.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tên Snow Elf"
+        },
+        {
+          "path": "seo.gallery.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Ví Dụ Nhân Vật Elf"
+        },
+        {
+          "path": "seo.gallery.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Khám phá các loại elf khác nhau và tên đặc trưng của chúng thông qua thư viện hình ảnh của chúng tôi..."
+        },
+        {
+          "path": "seo.gallery.woodElf.alt",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Nhân Vật Wood Elf Ranger",
+          "suggestion": "Nhân Vật Elf Rừng Ranger"
+        },
+        {
+          "path": "seo.gallery.woodElf.alt",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Nhân Vật Wood Elf Ranger"
+        },
+        {
+          "path": "seo.gallery.woodElf.title",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Wood Elf Ranger",
+          "suggestion": "Elf Rừng Ranger"
+        },
+        {
+          "path": "seo.gallery.woodElf.title",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Wood Elf Ranger"
+        },
+        {
+          "path": "seo.gallery.darkElf.alt",
+          "issue": "Found English term \"Dark Elf\" instead of \"Elf Tối\"",
+          "text": "Nhân Vật Dark Elf Mage",
+          "suggestion": "Nhân Vật Elf Tối Mage"
+        },
+        {
+          "path": "seo.gallery.darkElf.alt",
+          "issue": "Mixed language detected: Dark Elf",
+          "text": "Nhân Vật Dark Elf Mage"
+        },
+        {
+          "path": "seo.gallery.darkElf.title",
+          "issue": "Found English term \"Dark Elf\" instead of \"Elf Tối\"",
+          "text": "Dark Elf Mage",
+          "suggestion": "Elf Tối Mage"
+        },
+        {
+          "path": "seo.gallery.darkElf.title",
+          "issue": "Mixed language detected: Dark Elf",
+          "text": "Dark Elf Mage"
+        },
+        {
+          "path": "seo.gallery.highElf.alt",
+          "issue": "Found English term \"High Elf\" instead of \"Elf Cao\"",
+          "text": "Nhân Vật High Elf Noble",
+          "suggestion": "Nhân Vật Elf Cao Noble"
+        },
+        {
+          "path": "seo.gallery.highElf.alt",
+          "issue": "Mixed language detected: High Elf",
+          "text": "Nhân Vật High Elf Noble"
+        },
+        {
+          "path": "seo.gallery.highElf.title",
+          "issue": "Found English term \"High Elf\" instead of \"Elf Cao\"",
+          "text": "High Elf Noble",
+          "suggestion": "Elf Cao Noble"
+        },
+        {
+          "path": "seo.gallery.highElf.title",
+          "issue": "Mixed language detected: High Elf",
+          "text": "High Elf Noble"
+        },
+        {
+          "path": "seo.gallery.highElf.description",
+          "issue": "Mixed language detected: elf",
+          "text": "Một elf quý tộc với tên xứng đáng với dòng dõi hoàng gia."
+        },
+        {
+          "path": "seo.categories.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Danh Mục và Ý Nghĩa Trình Tạo Tên Elf"
+        },
+        {
+          "path": "seo.linguisticFeatures.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tính Năng Ngôn Ngữ Học Trình Tạo Tên Elf"
+        },
+        {
+          "path": "seo.collection.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Bộ Sưu Tập Trình Tạo Tên Elf"
+        },
+        {
+          "path": "seo.conclusion.title",
+          "issue": "Mixed language detected: Elf",
+          "text": "Bắt Đầu Tạo Những Cái Tên Elf Tuyệt Vời Ngay Hôm Nay"
+        },
+        {
+          "path": "seo.conclusion.paragraph1",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Dù bạn đang tạo ra một Wood Elf ranger, một Dark Elf rogue bí ẩn, hay một High Elf wizard quý tộc, t...",
+          "suggestion": "Dù bạn đang tạo ra một Elf Rừng ranger, một Dark Elf rogue bí ẩn, hay một High Elf wizard quý tộc, trình tạo tên elf tối cao của chúng tôi cung cấp điểm khởi đầu hoàn hảo cho hành trình tạo nhân vật của bạn."
+        },
+        {
+          "path": "seo.conclusion.paragraph1",
+          "issue": "Found English term \"High Elf\" instead of \"Elf Cao\"",
+          "text": "Dù bạn đang tạo ra một Wood Elf ranger, một Dark Elf rogue bí ẩn, hay một High Elf wizard quý tộc, t...",
+          "suggestion": "Dù bạn đang tạo ra một Wood Elf ranger, một Dark Elf rogue bí ẩn, hay một Elf Cao wizard quý tộc, trình tạo tên elf tối cao của chúng tôi cung cấp điểm khởi đầu hoàn hảo cho hành trình tạo nhân vật của bạn."
+        },
+        {
+          "path": "seo.conclusion.paragraph1",
+          "issue": "Mixed language detected: Wood Elf, Dark Elf, High Elf, elf",
+          "text": "Dù bạn đang tạo ra một Wood Elf ranger, một Dark Elf rogue bí ẩn, hay một High Elf wizard quý tộc, t..."
+        },
+        {
+          "path": "seo.conclusion.generateButton",
+          "issue": "Mixed language detected: Elf",
+          "text": "Tạo Tên Elf Ngay Bây Giờ"
+        },
+        {
+          "path": "seo.conclusion.exploreButton",
+          "issue": "Mixed language detected: Elf",
+          "text": "Khám Phá Các Loại Elf"
+        },
+        {
+          "path": "woodElf.metadata.title",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Trình Tạo Tên Wood Elf - Tên Elvish Rừng Chính Thống",
+          "suggestion": "Trình Tạo Tên Elf Rừng - Tên Elvish Rừng Chính Thống"
+        },
+        {
+          "path": "woodElf.metadata.title",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Trình Tạo Tên Wood Elf - Tên Elvish Rừng Chính Thống"
+        },
+        {
+          "path": "woodElf.metadata.description",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Tạo tên Wood Elf chính thống với trình tạo chuyên biệt của chúng tôi. Hoàn hảo cho ranger, druid và ...",
+          "suggestion": "Tạo tên Elf Rừng chính thống với trình tạo chuyên biệt của chúng tôi. Hoàn hảo cho ranger, druid và nhân vật kết nối với thiên nhiên trong D&D và thần thoại."
+        },
+        {
+          "path": "woodElf.metadata.description",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Tạo tên Wood Elf chính thống với trình tạo chuyên biệt của chúng tôi. Hoàn hảo cho ranger, druid và ..."
+        },
+        {
+          "path": "woodElf.metadata.keywords",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "trình tạo tên wood elf, tên wood elf, trình tạo tên wood elf cho dnd, tên elf thiên nhiên, trình tạo...",
+          "suggestion": "trình tạo tên Elf Rừng, tên Elf Rừng, trình tạo tên Elf Rừng cho dnd, tên elf thiên nhiên, trình tạo Elf Rừng"
+        },
+        {
+          "path": "woodElf.metadata.keywords",
+          "issue": "Mixed language detected: wood elf, wood elf, wood elf, elf, wood elf",
+          "text": "trình tạo tên wood elf, tên wood elf, trình tạo tên wood elf cho dnd, tên elf thiên nhiên, trình tạo..."
+        },
+        {
+          "path": "woodElf.metadata.openGraphTitle",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Trình Tạo Tên Wood Elf - Tạo Tên Rừng Kỳ Diệu",
+          "suggestion": "Trình Tạo Tên Elf Rừng - Tạo Tên Rừng Kỳ Diệu"
+        },
+        {
+          "path": "woodElf.metadata.openGraphTitle",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Trình Tạo Tên Wood Elf - Tạo Tên Rừng Kỳ Diệu"
+        },
+        {
+          "path": "woodElf.metadata.openGraphDescription",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Khám phá tên Wood Elf chính thống với trình tạo chuyên biệt của chúng tôi. Hoàn hảo cho nhân vật D&D...",
+          "suggestion": "Khám phá tên Elf Rừng chính thống với trình tạo chuyên biệt của chúng tôi. Hoàn hảo cho nhân vật D&D kết nối với thiên nhiên."
+        },
+        {
+          "path": "woodElf.metadata.openGraphDescription",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Khám phá tên Wood Elf chính thống với trình tạo chuyên biệt của chúng tôi. Hoàn hảo cho nhân vật D&D..."
+        },
+        {
+          "path": "woodElf.metadata.twitterTitle",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Trình Tạo Tên Wood Elf - Tên Rừng Chính Thống",
+          "suggestion": "Trình Tạo Tên Elf Rừng - Tên Rừng Chính Thống"
+        },
+        {
+          "path": "woodElf.metadata.twitterTitle",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Trình Tạo Tên Wood Elf - Tên Rừng Chính Thống"
+        },
+        {
+          "path": "woodElf.metadata.twitterDescription",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Tạo tên Wood Elf độc đáo cho cuộc phiêu lưu thần thoại và chiến dịch D&D của bạn.",
+          "suggestion": "Tạo tên Elf Rừng độc đáo cho cuộc phiêu lưu thần thoại và chiến dịch D&D của bạn."
+        },
+        {
+          "path": "woodElf.metadata.twitterDescription",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Tạo tên Wood Elf độc đáo cho cuộc phiêu lưu thần thoại và chiến dịch D&D của bạn."
+        },
+        {
+          "path": "woodElf.seo.structuredDataName",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Trình Tạo Tên Wood Elf",
+          "suggestion": "Trình Tạo Tên Elf Rừng"
+        },
+        {
+          "path": "woodElf.seo.structuredDataName",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Trình Tạo Tên Wood Elf"
+        },
+        {
+          "path": "woodElf.seo.structuredDataDescription",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Tạo tên Wood Elf chính thống cho nhân vật thần thoại, trò chơi RPG và viết sáng tạo. Tạo tên elf sốn...",
+          "suggestion": "Tạo tên Elf Rừng chính thống cho nhân vật thần thoại, trò chơi RPG và viết sáng tạo. Tạo tên elf sống trong rừng với chủ đề thiên nhiên và sức hút sylvan."
+        },
+        {
+          "path": "woodElf.seo.structuredDataDescription",
+          "issue": "Mixed language detected: Wood Elf, RPG, elf",
+          "text": "Tạo tên Wood Elf chính thống cho nhân vật thần thoại, trò chơi RPG và viết sáng tạo. Tạo tên elf sốn..."
+        },
+        {
+          "path": "woodElf.seo.breadcrumbGenerator",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Trình Tạo Tên Wood Elf",
+          "suggestion": "Trình Tạo Tên Elf Rừng"
+        },
+        {
+          "path": "woodElf.seo.breadcrumbGenerator",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Trình Tạo Tên Wood Elf"
+        },
+        {
+          "path": "woodElf.seo.noScriptTitle",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Trình Tạo Tên Wood Elf - Tạo Tên Wood Elf",
+          "suggestion": "Trình Tạo Tên Elf Rừng - Tạo Tên Elf Rừng"
+        },
+        {
+          "path": "woodElf.seo.noScriptTitle",
+          "issue": "Mixed language detected: Wood Elf, Wood Elf",
+          "text": "Trình Tạo Tên Wood Elf - Tạo Tên Wood Elf"
+        },
+        {
+          "path": "woodElf.seo.noScriptDescription",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Tạo tên Wood Elf chính thống cho nhân vật thần thoại của bạn. Trình tạo tên Wood Elf này tạo ra nhữn...",
+          "suggestion": "Tạo tên Elf Rừng chính thống cho nhân vật thần thoại của bạn. Trình tạo tên Elf Rừng này tạo ra những cái tên hoàn hảo cho ranger, druid và elf yêu thiên nhiên."
+        },
+        {
+          "path": "woodElf.seo.noScriptDescription",
+          "issue": "Mixed language detected: Wood Elf, Wood Elf, elf",
+          "text": "Tạo tên Wood Elf chính thống cho nhân vật thần thoại của bạn. Trình tạo tên Wood Elf này tạo ra nhữn..."
+        },
+        {
+          "path": "woodElf.seo.toolLabel",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Công Cụ Tạo Tên Wood Elf",
+          "suggestion": "Công Cụ Tạo Tên Elf Rừng"
+        },
+        {
+          "path": "woodElf.seo.toolLabel",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Công Cụ Tạo Tên Wood Elf"
+        },
+        {
+          "path": "woodElf.seo.infoLabel",
+          "issue": "Found English term \"Wood Elf\" instead of \"Elf Rừng\"",
+          "text": "Thông Tin và Hướng Dẫn Tên Wood Elf",
+          "suggestion": "Thông Tin và Hướng Dẫn Tên Elf Rừng"
+        },
+        {
+          "path": "woodElf.seo.infoLabel",
+          "issue": "Mixed language detected: Wood Elf",
+          "text": "Thông Tin và Hướng Dẫn Tên Wood Elf"
+        }
+      ]
+    },
+    "suggestions": {
+      "de": [
+        {
+          "type": "terminology_usage",
+          "message": "Most used terms in de:",
+          "terms": [
+            "Fantasy (96 times)",
+            "D&D (71 times)",
+            "Magie (23 times)",
+            "Dunkelelf (17 times)",
+            "RPG (12 times)"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "type": "terminology_usage",
+          "message": "Most used terms in es:",
+          "terms": [
+            "Elfo (88 times)",
+            "Fantasía (68 times)",
+            "D&D (59 times)",
+            "Elfo del Bosque (24 times)",
+            "Magia (24 times)"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "type": "terminology_usage",
+          "message": "Most used terms in fr:",
+          "terms": [
+            "Fantasy (67 times)",
+            "D&D (56 times)",
+            "Elfe (38 times)",
+            "Magie (24 times)",
+            "Elfe Noir (6 times)"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "type": "terminology_usage",
+          "message": "Most used terms in it:",
+          "terms": [
+            "Fantasy (53 times)",
+            "Elfo (34 times)",
+            "D&D (30 times)",
+            "Alto Elfo (8 times)",
+            "Elfo Scuro (7 times)"
+          ]
+        }
+      ],
+      "ja": [
+        {
+          "type": "terminology_usage",
+          "message": "Most used terms in ja:",
+          "terms": [
+            "D&D (38 times)",
+            "RPG (12 times)"
+          ]
+        }
+      ],
+      "ko": [
+        {
+          "type": "terminology_usage",
+          "message": "Most used terms in ko:",
+          "terms": [
+            "D&D (38 times)",
+            "RPG (12 times)"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "type": "terminology_usage",
+          "message": "Most used terms in pt:",
+          "terms": [
+            "Elfo (33 times)",
+            "Fantasia (29 times)",
+            "D&D (14 times)",
+            "Elfo da Floresta (13 times)",
+            "RPG (4 times)"
+          ]
+        }
+      ],
+      "ru": [
+        {
+          "type": "terminology_usage",
+          "message": "Most used terms in ru:",
+          "terms": [
+            "D&D (14 times)"
+          ]
+        }
+      ],
+      "ar": [
+        {
+          "type": "terminology_usage",
+          "message": "Most used terms in ar:",
+          "terms": [
+            "D&D (14 times)"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "type": "terminology_usage",
+          "message": "Most used terms in id:",
+          "terms": [
+            "Elf (68 times)",
+            "Fantasi (31 times)",
+            "D&D (14 times)",
+            "RPG (5 times)"
+          ]
+        }
+      ],
+      "pl": [
+        {
+          "type": "terminology_usage",
+          "message": "Most used terms in pl:",
+          "terms": [
+            "Elf (139 times)",
+            "Fantasy (31 times)",
+            "D&D (14 times)",
+            "Półelf (12 times)",
+            "RPG (5 times)"
+          ]
+        }
+      ],
+      "th": [
+        {
+          "type": "terminology_usage",
+          "message": "Most used terms in th:",
+          "terms": [
+            "D&D (14 times)"
+          ]
+        }
+      ],
+      "vi": [
+        {
+          "type": "terminology_usage",
+          "message": "Most used terms in vi:",
+          "terms": [
+            "Elf (151 times)",
+            "D&D (14 times)",
+            "Elf Tối (12 times)",
+            "Elf Rừng (7 times)",
+            "Nửa Elf (6 times)"
+          ]
+        }
+      ]
+    },
+    "statistics": {
+      "de": {
+        "totalTexts": 1060,
+        "inconsistencies": 94,
+        "consistencyRate": "91.13%"
+      },
+      "es": {
+        "totalTexts": 843,
+        "inconsistencies": 7,
+        "consistencyRate": "99.17%"
+      },
+      "fr": {
+        "totalTexts": 843,
+        "inconsistencies": 72,
+        "consistencyRate": "91.46%"
+      },
+      "it": {
+        "totalTexts": 422,
+        "inconsistencies": 60,
+        "consistencyRate": "85.78%"
+      },
+      "ja": {
+        "totalTexts": 553,
+        "inconsistencies": 12,
+        "consistencyRate": "97.83%"
+      },
+      "ko": {
+        "totalTexts": 553,
+        "inconsistencies": 12,
+        "consistencyRate": "97.83%"
+      },
+      "pt": {
+        "totalTexts": 182,
+        "inconsistencies": 4,
+        "consistencyRate": "97.80%"
+      },
+      "ru": {
+        "totalTexts": 182,
+        "inconsistencies": 6,
+        "consistencyRate": "96.70%"
+      },
+      "ar": {
+        "totalTexts": 182,
+        "inconsistencies": 0,
+        "consistencyRate": "100.00%"
+      },
+      "id": {
+        "totalTexts": 182,
+        "inconsistencies": 72,
+        "consistencyRate": "60.44%"
+      },
+      "pl": {
+        "totalTexts": 182,
+        "inconsistencies": 102,
+        "consistencyRate": "43.96%"
+      },
+      "th": {
+        "totalTexts": 182,
+        "inconsistencies": 10,
+        "consistencyRate": "94.51%"
+      },
+      "vi": {
+        "totalTexts": 182,
+        "inconsistencies": 146,
+        "consistencyRate": "19.78%"
+      }
+    }
+  }
+}

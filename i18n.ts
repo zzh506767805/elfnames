@@ -135,63 +135,11 @@ export default getRequestConfig(async ({ locale }) => {
           }
         }
         
-        // 如果英语回退也没有，返回更智能的默认文本
+        // 如果英语回退也没有找到，直接返回键的最后部分，避免固定文本
         const keyParts = key.split('.');
         const lastPart = keyParts[keyParts.length - 1];
         
-        // 根据上下文提供更具体的默认文本
-        const contextualDefaults: Record<string, string> = {
-          // 元数据相关
-          'title': 'Elf Name Generator',
-          'description': 'Generate fantasy elf names for your characters',
-          'keywords': 'elf names, fantasy names, name generator',
-          
-          // 表单字段
-          'elfType': 'Elf Type',
-          'gender': 'Gender', 
-          'nameStyle': 'Name Style',
-          'nameCount': 'Number of Names',
-          
-          // 精灵类型
-          'woodElf': 'Wood Elf',
-          'darkElf': 'Dark Elf',
-          'highElf': 'High Elf',
-          'bloodElf': 'Blood Elf',
-          'nightElf': 'Night Elf',
-          'moonElf': 'Moon Elf',
-          'sunElf': 'Sun Elf',
-          'seaElf': 'Sea Elf',
-          'snowElf': 'Snow Elf',
-          'shadowElf': 'Shadow Elf',
-          
-          // 性别
-          'male': 'Male',
-          'female': 'Female',
-          'any': 'Any',
-          'nonBinary': 'Non-binary',
-          
-          // 名字风格
-          'traditional': 'Traditional',
-          'modern': 'Modern', 
-          'melodic': 'Melodic',
-          'mystical': 'Mystical',
-          'noble': 'Noble',
-          'natureInspired': 'Nature-inspired',
-          
-          // 常用按钮和动作
-          'generate': 'Generate',
-          'copy': 'Copy',
-          'random': 'Random',
-          'back': 'Back',
-          'home': 'Home'
-        };
-        
-        // 如果有预定义的默认值，使用它
-        if (contextualDefaults[lastPart]) {
-          return contextualDefaults[lastPart];
-        }
-        
-        // 否则将驼峰命名转换为可读文本
+        // 将驼峰命名转换为可读文本
         return lastPart
           .replace(/([A-Z])/g, ' $1')
           .replace(/^./, str => str.toUpperCase())

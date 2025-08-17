@@ -1,0 +1,200 @@
+{
+  "timestamp": "2025-08-16T04:57:01.143Z",
+  "version": "1.0.0",
+  "languages": [
+    "de",
+    "es",
+    "fr",
+    "it",
+    "ja",
+    "ko",
+    "pt",
+    "ru",
+    "ar",
+    "id",
+    "pl",
+    "th",
+    "vi"
+  ],
+  "files": {
+    "de": {
+      "path": "deployment/de.json",
+      "size": 99957,
+      "lastModified": "2025-08-16T04:57:01.135Z",
+      "valid": true,
+      "keyCount": 1060,
+      "optimization": {
+        "originalSize": 115606,
+        "optimizedSize": 99088,
+        "savings": "14.29%",
+        "compressionRatio": "0.857"
+      }
+    },
+    "es": {
+      "path": "deployment/es.json",
+      "size": 84515,
+      "lastModified": "2025-08-16T04:57:01.136Z",
+      "valid": true,
+      "keyCount": 843,
+      "optimization": {
+        "originalSize": 96609,
+        "optimizedSize": 83160,
+        "savings": "13.92%",
+        "compressionRatio": "0.861"
+      }
+    },
+    "fr": {
+      "path": "deployment/fr.json",
+      "size": 85935,
+      "lastModified": "2025-08-16T04:57:01.137Z",
+      "valid": true,
+      "keyCount": 843,
+      "optimization": {
+        "originalSize": 97298,
+        "optimizedSize": 83860,
+        "savings": "13.81%",
+        "compressionRatio": "0.862"
+      }
+    },
+    "it": {
+      "path": "deployment/it.json",
+      "size": 35180,
+      "lastModified": "2025-08-16T04:57:01.138Z",
+      "valid": true,
+      "keyCount": 422,
+      "optimization": {
+        "originalSize": 40751,
+        "optimizedSize": 35133,
+        "savings": "13.79%",
+        "compressionRatio": "0.862"
+      }
+    },
+    "ja": {
+      "path": "deployment/ja.json",
+      "size": 53782,
+      "lastModified": "2025-08-16T04:57:01.139Z",
+      "valid": true,
+      "keyCount": 553,
+      "optimization": {
+        "originalSize": 33436,
+        "optimizedSize": 25652,
+        "savings": "23.28%",
+        "compressionRatio": "0.767"
+      }
+    },
+    "ko": {
+      "path": "deployment/ko.json",
+      "size": 45899,
+      "lastModified": "2025-08-16T04:57:01.140Z",
+      "valid": true,
+      "keyCount": 553,
+      "optimization": {
+        "originalSize": 33099,
+        "optimizedSize": 25315,
+        "savings": "23.52%",
+        "compressionRatio": "0.765"
+      }
+    },
+    "pt": {
+      "path": "deployment/pt.json",
+      "size": 15436,
+      "lastModified": "2025-08-16T04:57:01.141Z",
+      "valid": true,
+      "keyCount": 182,
+      "optimization": {
+        "originalSize": 17368,
+        "optimizedSize": 15168,
+        "savings": "12.67%",
+        "compressionRatio": "0.873"
+      }
+    },
+    "ru": {
+      "path": "deployment/ru.json",
+      "size": 24863,
+      "lastModified": "2025-08-16T04:57:01.141Z",
+      "valid": true,
+      "keyCount": 182,
+      "optimization": {
+        "originalSize": 17235,
+        "optimizedSize": 15035,
+        "savings": "12.76%",
+        "compressionRatio": "0.872"
+      }
+    },
+    "ar": {
+      "path": "deployment/ar.json",
+      "size": 18558,
+      "lastModified": "2025-08-16T04:57:01.142Z",
+      "valid": true,
+      "keyCount": 182,
+      "optimization": {
+        "originalSize": 13976,
+        "optimizedSize": 11776,
+        "savings": "15.74%",
+        "compressionRatio": "0.843"
+      }
+    },
+    "id": {
+      "path": "deployment/id.json",
+      "size": 13590,
+      "lastModified": "2025-08-16T04:57:01.142Z",
+      "valid": true,
+      "keyCount": 182,
+      "optimization": {
+        "originalSize": 15790,
+        "optimizedSize": 13590,
+        "savings": "13.93%",
+        "compressionRatio": "0.861"
+      }
+    },
+    "pl": {
+      "path": "deployment/pl.json",
+      "size": 15040,
+      "lastModified": "2025-08-16T04:57:01.142Z",
+      "valid": true,
+      "keyCount": 182,
+      "optimization": {
+        "originalSize": 16703,
+        "optimizedSize": 14503,
+        "savings": "13.17%",
+        "compressionRatio": "0.868"
+      }
+    },
+    "th": {
+      "path": "deployment/th.json",
+      "size": 30918,
+      "lastModified": "2025-08-16T04:57:01.143Z",
+      "valid": true,
+      "keyCount": 182,
+      "optimization": {
+        "originalSize": 15176,
+        "optimizedSize": 12976,
+        "savings": "14.50%",
+        "compressionRatio": "0.855"
+      }
+    },
+    "vi": {
+      "path": "deployment/vi.json",
+      "size": 16591,
+      "lastModified": "2025-08-16T04:57:01.143Z",
+      "valid": true,
+      "keyCount": 182,
+      "optimization": {
+        "originalSize": 15919,
+        "optimizedSize": 13719,
+        "savings": "13.82%",
+        "compressionRatio": "0.862"
+      }
+    }
+  },
+  "validation": {
+    "totalFiles": 13,
+    "validFiles": 13,
+    "invalidFiles": 0
+  },
+  "optimization": {
+    "totalOriginalSize": 528966,
+    "totalOptimizedSize": 448975,
+    "totalSavings": "15.12%"
+  }
+}

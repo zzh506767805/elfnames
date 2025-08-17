@@ -4,7 +4,8 @@ import { locales, defaultLocale } from './i18n';
 export default createMiddleware({
   locales,
   defaultLocale,
-  localePrefix: 'as-needed'
+  localePrefix: 'as-needed',
+  localeDetection: false  // 禁用自动语言检测，始终使用默认英语
 });
 
 export const config = {

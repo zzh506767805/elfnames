@@ -86,6 +86,52 @@
     "title": "Idioma",
     "selectLanguage": "Seleccionar Idioma"
   },
+  "navigation": {
+    "title": "Generadores de Nombres Élficos Especializados",
+    "description": "Explora nuestra colección de generadores de nombres élficos especializados, cada uno adaptado para tipos específicos de elfos, géneros y ambientaciones fantásticas.",
+    "sectionLabel": "Generadores de Nombres Élficos Especializados",
+    "categories": {
+      "elfTypes": "Tipos de Elfos",
+      "genderSpecific": "Específico por Género",
+      "styleSpecific": "Estilo y Ambientación"
+    },
+    "woodElf": {
+      "title": "Generador de Nombres de Elfos del Bosque",
+      "description": "Genera nombres auténticos de elfos forestales con temas naturales y encanto silvestre."
+    },
+    "darkElf": {
+      "title": "Generador de Nombres de Elfos Oscuros",
+      "description": "Crea nombres misteriosos de elfos oscuros con temas sombríos y cultura subterránea."
+    },
+    "highElf": {
+      "title": "Generador de Nombres de Altos Elfos",
+      "description": "Genera nombres nobles de altos elfos con elegancia aristocrática y herencia mágica."
+    },
+    "bloodElf": {
+      "title": "Generador de Nombres de Elfos de Sangre",
+      "description": "Crea nombres de elfos de sangre con temas arcanos y tradición de adicción mágica."
+    },
+    "femaleElf": {
+      "title": "Generador de Nombres de Elfas",
+      "description": "Genera hermosos nombres de elfas con elegancia y gracia femeninas."
+    },
+    "tolkienElf": {
+      "title": "Generador de Nombres Élficos de Tolkien",
+      "description": "Crea nombres élficos auténticos al estilo de Tolkien inspirados en la Tierra Media."
+    },
+    "dndElf": {
+      "title": "Generador de Nombres Élficos D&D",
+      "description": "Genera nombres élficos D&D siguiendo las convenciones oficiales del Manual del Jugador."
+    },
+    "elvenName": {
+      "title": "Generador de Nombres Élficos",
+      "description": "Crea nombres élficos clásicos con patrones lingüísticos élficos tradicionales."
+    },
+    "elfRandomizer": {
+      "title": "Aleatorizador de Nombres Élficos",
+      "description": "Genera aleatoriamente nombres élficos diversos de todos los tipos y culturas."
+    }
+  },
   "seo": {
     "structuredDataName": "Generador de Nombres Élficos Definitivo",
     "structuredDataDescription": "Genera nombres élficos auténticos de fantasía para elfos del bosque, elfos oscuros, semi-elfos y personajes de D&D con nuestro generador de nombres élficos definitivo.",
@@ -256,7 +302,7 @@
         "description": "Un hábil guardián del bosque con nombres que reflejan la armonía de la naturaleza."
       },
       "darkElf": {
-        "alt": "Personaje Mago Elfo Oscuro", 
+        "alt": "Personaje Mago Elfo Oscuro",
         "title": "Mago Elfo Oscuro",
         "description": "Un misterioso conjurador de hechizos del sombrío submundo oscuro."
       },
@@ -277,7 +323,7 @@
             "meaning": "Guardián del árbol"
           },
           "moonwhisper": {
-            "name": "Susurro Lunar", 
+            "name": "Susurro Lunar",
             "meaning": "Caminante nocturno"
           },
           "starweaver": {
@@ -321,7 +367,7 @@
             "meaning": "Encantadora"
           },
           "runekeeper": {
-            "name": "Guardián de Runas", 
+            "name": "Guardián de Runas",
             "meaning": "Erudito mágico"
           },
           "dreamweaver": {
@@ -344,7 +390,7 @@
           "title": "Influencias Sindarin",
           "description": "Nombres inspirados en el idioma Sindarin de Tolkien, con sonidos vocálicos fluidos y significados basados en la naturaleza. Los prefijos comunes incluyen \"Gal-\" (luz), \"Cel-\" (arroyo) y \"Mith-\" (gris).",
           "feature1": "Grupos consonánticos suaves",
-          "feature2": "Combinaciones vocálicas melódicas", 
+          "feature2": "Combinaciones vocálicas melódicas",
           "feature3": "Elementos inspirados en la naturaleza"
         },
         "quenya": {
@@ -376,7 +422,7 @@
           }
         },
         "consonantCombinations": {
-          "title": "Combinaciones Consonánticas", 
+          "title": "Combinaciones Consonánticas",
           "combinations": {
             "th": "sonido \"th\" suave",
             "dh": "\"th\" sonoro",
@@ -404,7 +450,7 @@
         "feature3": "Generador de nombres de elfo oscuro para juego de rol"
       },
       "halfElfGenerator": {
-        "title": "Generador de Nombres de Medio Elfo", 
+        "title": "Generador de Nombres de Medio Elfo",
         "description": "Nuestro generador de nombres de medio elfo mezcla tradiciones de nombres humanos y élficos. Perfecto para personajes con herencia mixta y trasfondos únicos.",
         "feature1": "Patrones de nombres de fusión cultural",
         "feature2": "Adaptable a varias campañas",
@@ -414,7 +460,7 @@
         "title": "Generador de Nombres de Elfo de Sangre",
         "description": "Crea nombres majestuosos y poderosos con nuestro generador de nombres de elfo de sangre. Perfecto para configuraciones de alta fantasía y personajes influenciados por lo arcano.",
         "feature1": "Patrones de nombres influenciados por lo arcano",
-        "feature2": "Integración de herencia mágica", 
+        "feature2": "Integración de herencia mágica",
         "feature3": "Generador de nombres de elfo de sangre para juegos de fantasía"
       },
       "elfNamesGenerator": {
@@ -441,13 +487,13 @@
         "url": "https://chinesenamegenerate.com"
       },
       "dressMeAI": {
-        "title": "DressMeAI", 
+        "title": "DressMeAI",
         "description": "Estilismo de moda con IA",
         "url": "https://dressmeai.com"
       },
       "dreamfinityX": {
         "title": "DreamfinityX",
-        "description": "Plataforma creativa de IA", 
+        "description": "Plataforma creativa de IA",
         "url": "https://dreamfinityx.com"
       },
       "aiNailsPro": {
@@ -466,11 +512,11 @@
       "appDescription": "Genera nombres de fantasía élficos auténticos al instante. Perfecto para elfos del bosque, elfos oscuros, medio elfos y personajes de DND con nuestro generador definitivo de nombres élficos.",
       "keywords": "generador de nombres élficos, generador definitivo de nombres élficos, generador de nombres de elfo del bosque, generador de nombres de elfo oscuro, generador de nombres de medio elfo, generador de nombres élficos, generador de nombres élficos dnd, nombres de fantasía, nombres élficos mágicos",
       "audienceType1": "Escritores de Fantasía",
-      "audienceType2": "Jugadores de RPG", 
-      "audienceType3": "Jugadores de D&D", 
+      "audienceType2": "Jugadores de RPG",
+      "audienceType3": "Jugadores de D&D",
       "audienceType4": "Escritores Creativos",
       "feature1": "Generación de Nombres de Elfo del Bosque",
-      "feature2": "Generación de Nombres de Elfo Oscuro", 
+      "feature2": "Generación de Nombres de Elfo Oscuro",
       "feature3": "Generación de Nombres de Medio Elfo",
       "feature4": "Nombres de Personajes DND",
       "feature5": "Generación Impulsada por IA",
@@ -492,6 +538,1480 @@
       "paragraph2": "Únete a miles de creadores de fantasía que confían en nuestra herramienta para nombres de personajes auténticos y memorables. Desde campañas de D&D hasta novelas épicas de fantasía, deja que nuestro generador dé vida a tus personajes élficos con nombres que verdaderamente capturan su esencia.",
       "generateButton": "Genera Nombres Élficos Ahora",
       "exploreButton": "Explorar Tipos de Elfos"
+    }
+  },
+  "woodElf": {
+    "metadata": {
+      "title": "Generador de Nombres de Elfo del Bosque - Nombres Élficos Auténticos del Bosque",
+      "description": "Genera nombres auténticos de elfos del bosque con nuestro generador especializado. Perfecto para exploradores, druidas y personajes conectados con la naturaleza en D&D y fantasía.",
+      "keywords": "generador de nombres de elfo del bosque, nombres de elfos del bosque, generador de nombres de elfos del bosque para dnd, nombres de elfos de la naturaleza, generador de elfos del bosque",
+      "openGraphTitle": "Generador de Nombres de Elfo del Bosque - Crea Nombres Mágicos del Bosque",
+      "openGraphDescription": "Descubre nombres auténticos de elfos del bosque con nuestro generador especializado. Perfecto para personajes de D&D conectados con la naturaleza.",
+      "twitterTitle": "Generador de Nombres de Elfo del Bosque - Nombres del Bosque Auténticos",
+      "twitterDescription": "Genera nombres únicos de elfos del bosque para tus aventuras de fantasía y campañas de D&D."
+    },
+    "header": {
+      "title": "Generador de Nombres de Elfo del Bosque | Nombres Auténticos del Bosque",
+      "description": "Crea nombres mágicos de elfos del bosque con nuestro generador especializado. Perfecto para guardianes del bosque, druidas y exploradores en tus campañas de D&D y historias de fantasía."
+    },
+    "seo": {
+      "structuredDataName": "Generador de Nombres de Elfo del Bosque",
+      "structuredDataDescription": "Genera nombres auténticos de elfos del bosque para personajes de fantasía, juegos de rol y escritura creativa. Crea nombres de elfos habitantes del bosque con temas naturales y encanto silvestre.",
+      "breadcrumbGenerator": "Generador de Nombres de Elfo del Bosque",
+      "noScriptTitle": "Generador de Nombres de Elfo del Bosque - Crea Nombres de Elfos del Bosque",
+      "noScriptDescription": "Genera nombres auténticos de elfos del bosque para tus personajes de fantasía. Este generador de nombres de elfos del bosque crea nombres perfectos para exploradores, druidas y elfos amantes de la naturaleza.",
+      "toolLabel": "Herramienta de Generación de Nombres de Elfo del Bosque",
+      "infoLabel": "Información y Guía de Nombres de Elfo del Bosque",
+      "introduction": {
+        "title": "Generador de Nombres de Elfo del Bosque - Descubre la Magia del Bosque",
+        "paragraph1": "Los elfos del bosque representan la conexión más profunda entre las criaturas mágicas y la naturaleza salvaje. Nuestro generador especializado de nombres de elfos del bosque crea nombres auténticos que capturan la esencia de estos guardianes ancestrales del bosque.",
+        "paragraph2": "Ya sea que estés creando un explorador élfico para tu campaña de D&D, desarrollando un druida sabio para tu novela de fantasía, o diseñando un guardabosques misterioso para tu juego, nuestro generador de nombres de elfo del bosque proporciona opciones perfectas que reflejan su profunda conexión con la naturaleza."
+      },
+      "features": {
+        "title": "Características Especiales del Generador de Nombres de Elfo del Bosque",
+        "authentic": {
+          "title": "Nombres Auténticos del Bosque",
+          "description": "Cada nombre refleja la profunda conexión de los elfos del bosque con la naturaleza, incorporando elementos como hojas, árboles, animales y fenómenos naturales."
+        },
+        "cultural": {
+          "title": "Tradición Cultural Rica",
+          "description": "Basado en las tradiciones élficas del bosque de D&D y literatura fantástica, nuestros nombres mantienen la autenticidad cultural de estas criaturas místicas."
+        },
+        "versatile": {
+          "title": "Uso Versátil",
+          "description": "Perfecto para campañas de D&D, novelas de fantasía, juegos de rol en línea y cualquier proyecto creativo que requiera nombres auténticos de elfos del bosque."
+        }
+      },
+      "types": {
+        "title": "Tipos de Nombres de Elfos del Bosque",
+        "nature": {
+          "title": "Nombres Inspirados en la Naturaleza",
+          "description": "Nombres que incorporan elementos naturales como 'Verdehoja', 'Susurraviento' o 'Luznaturaleza', reflejando la armonía con el entorno forestal."
+        },
+        "guardian": {
+          "title": "Nombres de Guardianes",
+          "description": "Nombres que reflejan el rol protector de los elfos del bosque, como 'Defenderbosque', 'Guardiaroble' o 'Protectorsilvestre'."
+        },
+        "mystical": {
+          "title": "Nombres Místicos",
+          "description": "Nombres que capturan la magia inherente de los elfos del bosque, incorporando elementos de encantamiento y sabiduría ancestral."
+        }
+      },
+      "culture": {
+        "title": "Cultura y Tradiciones de los Elfos del Bosque",
+        "lifestyle": {
+          "title": "Estilo de Vida Natural",
+          "description": "Los elfos del bosque viven en perfecta armonía con su entorno natural, construyendo sus hogares en los árboles y siguiendo los ritmos de la naturaleza. Sus nombres reflejan esta conexión profunda con el mundo natural."
+        },
+        "society": {
+          "title": "Estructura Social",
+          "description": "La sociedad de los elfos del bosque se organiza alrededor del respeto por la naturaleza y la sabiduría ancestral. Los nombres a menudo reflejan el rol de cada individuo en la comunidad y su relación especial con aspectos específicos del bosque."
+        },
+        "magic": {
+          "title": "Magia Natural",
+          "description": "Los elfos del bosque practican una forma de magia que está íntimamente conectada con la naturaleza. Sus nombres a menudo incorporan referencias a esta magia natural y sus manifestaciones en el mundo físico."
+        }
+      },
+      "usage": {
+        "title": "Cómo Usar los Nombres de Elfos del Bosque",
+        "dnd": {
+          "title": "Para Campañas de D&D",
+          "description": "Los nombres de elfos del bosque son perfectos para personajes jugadores y NPCs en Dungeons & Dragons. Usa estos nombres para druidas, exploradores, y cualquier personaje con una fuerte conexión con la naturaleza."
+        },
+        "writing": {
+          "title": "Para Escritura Creativa",
+          "description": "Los autores de fantasía encontrarán estos nombres ideales para personajes que habitan en bosques mágicos, guardianes de la naturaleza, y criaturas místicas conectadas con el mundo natural."
+        },
+        "gaming": {
+          "title": "Para Juegos de Fantasía",
+          "description": "Ya sea en MMORPGs, juegos de mesa, o videojuegos de fantasía, los nombres de elfos del bosque añaden autenticidad a personajes forestales y criaturas de la naturaleza."
+        }
+      }
+    }
+  },
+  "elven": {
+    "metadata": {
+      "title": "Generador de Nombres Élficos - Nombres Élvicos Auténticos de Fantasía",
+      "description": "Crea nombres élficos auténticos con nuestro generador élvico completo. Perfecto para personajes de fantasía, D&D y literatura épica con tradición lingüística élfica.",
+      "keywords": "generador de nombres élficos, nombres élvicos, generador élvico, nombres de fantasía élfica, generador de nombres elvish",
+      "openGraphTitle": "Generador de Nombres Élficos - Magia Lingüística Élfica",
+      "openGraphDescription": "Descubre la belleza de los nombres élficos auténticos con nuestro generador especializado en tradiciones lingüísticas élficas.",
+      "twitterTitle": "Generador de Nombres Élficos - Tradición Élfica Auténtica",
+      "twitterDescription": "Crea nombres élficos hermosos y auténticos para tus personajes de fantasía y aventuras épicas."
+    },
+    "header": {
+      "title": "Generador de Nombres Élficos | Tradición Lingüística Élfica Auténtica",
+      "description": "Sumérgete en la rica tradición lingüística élfica con nuestro generador completo de nombres élficos. Crea nombres que honran las antiguas tradiciones élficas para personajes de fantasía, historias épicas y mundos mágicos."
+    },
+    "seo": {
+      "introduction": {
+        "title": "Generador de Nombres Élficos - La Esencia de la Tradición Élfica",
+        "paragraph1": "Los nombres élficos han capturado la imaginación humana durante generaciones, representando la elegancia, la sabiduría y la conexión mística con fuerzas sobrenaturales. Nuestro generador de nombres élficos se basa en tradiciones lingüísticas profundas para crear nombres que verdaderamente capturan la esencia élfica.",
+        "paragraph2": "Desde las obras inmortales de Tolkien hasta las modernas sagas de fantasía, los nombres élficos mantienen una cualidad especial que los distingue. Nuestro generador honra estas tradiciones mientras proporciona infinitas posibilidades creativas para tus proyectos de fantasía."
+      },
+      "linguistic": {
+        "title": "Fundamentos Lingüísticos de los Nombres Élficos",
+        "tolkien": {
+          "title": "Influencia de Tolkien",
+          "description": "Basado en los idiomas Sindarin y Quenya creados por J.R.R. Tolkien, nuestro generador incorpora patrones fonéticos y estructuras gramaticales que hacen que los nombres suenen auténticamente élficos."
+        },
+        "phonetics": {
+          "title": "Patrones Fonéticos",
+          "description": "Los nombres élficos se caracterizan por sonidos fluidos, combinaciones vocálicas melodiosas y consonantes suaves que crean una musicalidad natural inherente al idioma élfico."
+        },
+        "meaning": {
+          "title": "Significado Profundo",
+          "description": "Cada nombre élfico tradicionalmente lleva un significado profundo, a menudo relacionado con elementos naturales, cualidades espirituales o eventos significativos en la vida del portador."
+        }
+      },
+      "categories": {
+        "title": "Categorías de Nombres Élficos",
+        "noble": {
+          "title": "Nombres Nobles",
+          "description": "Nombres que reflejan linaje aristocrático, sabiduría ancestral y liderazgo natural. Perfectos para señores élficos, reinas forestales y personajes de alto rango."
+        },
+        "mystical": {
+          "title": "Nombres Místicos",
+          "description": "Nombres imbuidos con connotaciones mágicas, poder arcano y conexiones con fuerzas sobrenaturales. Ideales para magos, hechiceros y guardianes de secretos antiguos."
+        },
+        "natural": {
+          "title": "Nombres Naturales",
+          "description": "Nombres que celebran la conexión élfica con la naturaleza, incorporando elementos como estrellas, bosques, ríos y criaturas del bosque."
+        }
+      },
+      "creation": {
+        "title": "El Arte de Crear Nombres Élficos",
+        "composition": {
+          "title": "Composición de Nombres",
+          "description": "Los nombres élficos tradicionalmente se componen de elementos significativos que se combinan para crear significados más profundos. Por ejemplo, 'Gil' (estrella) combinado con 'galad' (luz) crea 'Gilgalad' (luz de estrella)."
+        },
+        "pronunciation": {
+          "title": "Guía de Pronunciación",
+          "description": "Los nombres élficos siguen patrones de pronunciación específicos que enfatizan la fluidez y musicalidad. Las vocales son claras y resonantes, mientras que las consonantes se pronuncian suavemente."
+        },
+        "adaptation": {
+          "title": "Adaptación Cultural",
+          "description": "Diferentes culturas élficas han adaptado las tradiciones de nomenclatura básicas para reflejar sus entornos y valores únicos, desde elfos del mar hasta elfos de montaña."
+        }
+      }
+    }
+  },
+  "highElf": {
+    "metadata": {
+      "title": "Generador de Nombres de Elfo Alto - Nombres Nobles Élficos de Alta Fantasía",
+      "description": "Genera nombres aristocráticos de elfos altos con nuestro generador especializado. Perfecto para nobles élficos, magos de alto rango y personajes de alta fantasía en D&D.",
+      "keywords": "generador de nombres de elfo alto, nombres de elfos altos, generador de elfos altos dnd, nombres nobles élficos, generador de elfos altos para dnd",
+      "openGraphTitle": "Generador de Nombres de Elfo Alto - Nobleza Élfica Refinada",
+      "openGraphDescription": "Crea nombres elegantes de elfos altos que reflejan nobleza, sabiduría y poder arcano en tus aventuras de fantasía.",
+      "twitterTitle": "Generador de Nombres de Elfo Alto - Elegancia Élfica",
+      "twitterDescription": "Descubre nombres nobles y refinados de elfos altos para personajes aristocráticos de alta fantasía."
+    },
+    "header": {
+      "title": "Generador de Nombres de Elfo Alto | Nobleza y Elegancia Élfica",
+      "description": "Crea nombres aristocráticos de elfos altos que reflejan siglos de refinamiento, sabiduría arcana y linaje noble. Perfecto para señores élficos, magos de la corte y personajes de alta cuna en tus aventuras de fantasía."
+    },
+    "seo": {
+      "introduction": {
+        "title": "Generador de Nombres de Elfo Alto - La Cúspide de la Civilización Élfica",
+        "paragraph1": "Los elfos altos representan la cúspide del refinamiento élfico, combinando siglos de sabiduría, poder arcano y tradiciones aristocráticas. Nuestro generador especializado de nombres de elfos altos crea nombres que reflejan esta nobleza inherente y sofisticación cultural.",
+        "paragraph2": "Estos nombres no son simplemente etiquetas, sino declaraciones de linaje, poder y estatus dentro de la sociedad élfica. Cada nombre generado lleva el peso de la tradición y la promesa de grandeza, perfecto para personajes destinados a roles de liderazgo en tus historias de fantasía."
+      },
+      "characteristics": {
+        "title": "Características de los Elfos Altos",
+        "nobility": {
+          "title": "Linaje Noble",
+          "description": "Los elfos altos trazan su linaje a través de milenios de historia, con nombres que reflejan conexiones ancestrales con los primeros señores élficos y eventos históricos significativos."
+        },
+        "magic": {
+          "title": "Maestría Arcana",
+          "description": "Como practicantes naturales de magia arcana, los elfos altos a menudo llevan nombres que incorporan referencias a hechizos, elementos mágicos y conceptos arcanos avanzados."
+        },
+        "culture": {
+          "title": "Refinamiento Cultural",
+          "description": "La cultura de los elfos altos valora el arte, la literatura, la música y la filosofía, elementos que se reflejan en la complejidad y belleza de sus nombres tradicionales."
+        }
+      },
+      "naming": {
+        "title": "Tradiciones de Nomenclatura de Elfos Altos",
+        "structure": {
+          "title": "Estructura de Nombres",
+          "description": "Los nombres de elfos altos típicamente siguen patrones específicos que incluyen elementos que denotan rango, logros mágicos, conexiones familiares y características personales distintivas."
+        },
+        "titles": {
+          "title": "Títulos Honoríficos",
+          "description": "Muchos elfos altos incorporan títulos o sufijos que indican su posición en la sociedad, logros académicos, o roles ceremoniales dentro de su comunidad."
+        },
+        "legacy": {
+          "title": "Nombres de Legado",
+          "description": "Ciertos nombres se pasan de generación en generación, llevando consigo el peso de las hazañas ancestrales y las expectativas de futura grandeza."
+        }
+      },
+      "society": {
+        "title": "Sociedad y Cultura de los Elfos Altos",
+        "hierarchy": {
+          "title": "Jerarquía Social",
+          "description": "La sociedad de elfos altos está estructurada alrededor de líneas familiares ancestrales, logros mágicos y contribuciones culturales, todo lo cual se refleja en sus nombres complejos."
+        },
+        "education": {
+          "title": "Tradición Académica",
+          "description": "Los elfos altos valoran enormemente el aprendizaje y la erudición, con nombres que a menudo honran a grandes académicos, filósofos y maestros de las artes arcanas."
+        },
+        "arts": {
+          "title": "Patronazgo Artístico",
+          "description": "Como patrocinadores de las artes, los elfos altos a menudo llevan nombres que conectan con tradiciones artísticas, formas musicales específicas, o estilos arquitectónicos distintivos."
+        }
+      }
+    }
+  },
+  "dndElf": {
+    "metadata": {
+      "title": "Nombres de Elfos D&D - Generador de Nombres Élficos para Dungeons & Dragons",
+      "description": "Genera nombres auténticos de elfos D&D siguiendo la tradición oficial. Perfecto para personajes jugadores, NPCs y todas las subespecies élficas de Dungeons & Dragons.",
+      "keywords": "nombres de elfos dnd, generador de nombres élficos dnd, nombres élficos dungeons and dragons, generador de elfos dnd, nombres elvish dnd",
+      "openGraphTitle": "Nombres de Elfos D&D - Auténticos para Dungeons & Dragons",
+      "openGraphDescription": "Crea nombres de elfos perfectos para tus campañas de D&D con nuestro generador especializado en tradiciones élficas oficiales.",
+      "twitterTitle": "Generador de Nombres Élficos D&D - Tradición Oficial",
+      "twitterDescription": "Nombres auténticos de elfos siguiendo las convenciones oficiales de Dungeons & Dragons para tus aventuras épicas."
+    },
+    "header": {
+      "title": "Nombres de Elfos D&D | Generador Oficial para Dungeons & Dragons",
+      "description": "Crea nombres auténticos de elfos siguiendo las tradiciones oficiales de Dungeons & Dragons. Compatible con todas las subespecies élficas del Player's Handbook y fuentes expandidas."
+    },
+    "seo": {
+      "introduction": {
+        "title": "Nombres de Elfos D&D - Auténticos para Dungeons & Dragons",
+        "paragraph1": "En el vasto multiverso de Dungeons & Dragons, los elfos representan una de las razas más icónicas y versátiles. Nuestro generador especializado de nombres de elfos D&D crea nombres que siguen fielmente las tradiciones establecidas en el Player's Handbook y otras fuentes oficiales.",
+        "paragraph2": "Ya sea que estés creando un mago elfo alto erudito, un explorador elfo del bosque, o un misterioso drow de las profundidades, nuestro generador proporciona nombres que se integran perfectamente con la rica tradición de D&D."
+      },
+      "subraces": {
+        "title": "Subespecies Élficas en D&D",
+        "highElves": {
+          "title": "Elfos Altos",
+          "description": "Los elfos altos de D&D son conocidos por su inteligencia superior y afinidad natural con la magia. Sus nombres reflejan siglos de refinamiento cultural y tradición arcana, a menudo incorporando elementos que denotan sabiduría y poder mágico."
+        },
+        "woodElves": {
+          "title": "Elfos del Bosque",
+          "description": "Los elfos del bosque mantienen una conexión profunda con la naturaleza salvaje. Sus nombres típicamente incorporan elementos naturales, animales del bosque y fenómenos estacionales que reflejan su estilo de vida armonioso con el entorno natural."
+        },
+        "darkElves": {
+          "title": "Elfos Oscuros (Drow)",
+          "description": "Los drow han desarrollado una cultura única en el Underdark, con nombres que reflejan su sociedad matriarcal, devoción a Lolth y adaptación a la vida subterránea. Sus nombres a menudo suenan más duros y misteriosos."
+        }
+      },
+      "creation": {
+        "title": "Creando Personajes Élficos en D&D",
+        "background": {
+          "title": "Trasfondo Cultural",
+          "description": "Los nombres élficos en D&D no son solo etiquetas, sino que llevan historias de linaje familiar, logros personales y conexiones culturales que pueden enriquecer enormemente el trasfondo de tu personaje."
+        },
+        "class": {
+          "title": "Nombres por Clase",
+          "description": "Diferentes clases de personajes pueden influir en los tipos de nombres élficos apropiados, desde nombres arcanos para magos hasta nombres conectados con la naturaleza para druidas."
+        },
+        "campaign": {
+          "title": "Integración de Campaña",
+          "description": "Los nombres élficos pueden conectar con la historia específica de tu campaña, reflejando eventos históricos, ubicaciones importantes, o NPCs significativos en tu mundo de juego."
+        }
+      },
+      "mechanics": {
+        "title": "Mecánicas de Juego y Nombres Élficos",
+        "roleplay": {
+          "title": "Oportunidades de Roleplay",
+          "description": "Un nombre bien elegido puede proporcionar ganchos naturales para el roleplay, sugiriendo relaciones familiares, rivalidades históricas, o expectativas culturales que pueden enriquecer las interacciones del personaje."
+        },
+        "npc": {
+          "title": "NPCs Élficos",
+          "description": "Los DMs encontrarán invaluable nuestro generador para crear NPCs élficos memorables, desde nobles de la corte élfica hasta comerciantes errantes, cada uno con nombres que sugieren su rol y trasfondo."
+        },
+        "worldbuilding": {
+          "title": "Construcción de Mundo",
+          "description": "Los nombres élficos consistentes ayudan a establecer la autenticidad cultural en tu mundo de campaña, creando una sensación de historia y tradición que mejora la inmersión del jugador."
+        }
+      }
+    }
+  },
+  "darkElf": {
+    "metadata": {
+      "title": "Generador de Nombres de Elfo Oscuro - Nombres Auténticos Drow y Elfos Sombríos",
+      "description": "Genera nombres misteriosos de elfos oscuros y drow con nuestro generador especializado. Perfecto para personajes del Underdark, cultistas y aventureros sombríos en D&D y fantasía.",
+      "keywords": "generador de nombres de elfo oscuro, nombres drow, generador de nombres drow, nombres de elfos sombríos, generador de elfos oscuros dnd",
+      "openGraphTitle": "Generador de Nombres de Elfo Oscuro - Misterio del Underdark",
+      "openGraphDescription": "Sumérgete en las sombras con nombres auténticos de elfos oscuros y drow para tus aventuras en las profundidades.",
+      "twitterTitle": "Generador de Nombres de Elfo Oscuro - Poder Sombrio",
+      "twitterDescription": "Crea nombres poderosos y misteriosos de elfos oscuros para personajes del Underdark y criaturas sombrias."
+    },
+    "header": {
+      "title": "Generador de Nombres de Elfo Oscuro | Misterio y Poder del Underdark",
+      "description": "Explora las profundidades del Underdark con nombres auténticos de elfos oscuros y drow. Perfecto para personajes misteriosos, cultistas sombríos y habitantes de las profundidades en tus aventuras de fantasía."
+    },
+    "seo": {
+      "introduction": {
+        "title": "Generador de Nombres de Elfo Oscuro - Poder de las Sombras",
+        "paragraph1": "Los elfos oscuros, conocidos comúnmente como drow, representan una de las razas más fascinantes y complejas en el mundo de la fantasía. Exiliados a las profundidades del Underdark, han desarrollado una cultura única que se refleja en sus nombres distintivos y poderosos.",
+        "paragraph2": "Nuestro generador especializado de nombres de elfos oscuros captura la esencia sombría, la complejidad cultural y el poder inherente de estos seres misteriosos, proporcionando nombres que resuenan con autoridad y misterio ancestral."
+      },
+      "culture": {
+        "title": "Cultura y Sociedad de los Elfos Oscuros",
+        "society": {
+          "title": "Estructura Social",
+          "description": "La sociedad drow está dominada por casas nobles matriarcales, cada una compitiendo por poder e influencia. Los nombres reflejan esta jerarquía compleja, con diferentes patrones para nobles, soldados, sacerdotisas y plebeyos."
+        },
+        "religion": {
+          "title": "Influencias Religiosas",
+          "description": "La devoción a Lolth, la Reina Araña, permea la cultura drow. Muchos nombres incorporan elementos que honran a esta deidad siniestra o reflejan conceptos de traición, poder y supervivencia."
+        },
+        "magic": {
+          "title": "Tradiciones Mágicas",
+          "description": "Los drow son maestros de la magia sombría, y sus nombres a menudo reflejan esta afinidad con hechizos de oscuridad, ilusión y encantamiento que han perfeccionado a través de milenios subterráneos."
+        }
+      },
+      "naming": {
+        "title": "Patrones de Nomenclatura Drow",
+        "phonetics": {
+          "title": "Características Fonéticas",
+          "description": "Los nombres drow tienden a ser más duros y sibilantes que otros nombres élficos, con consonantes marcadas y combinaciones de sonidos que reflejan su adaptación a la vida en las cavernas resonantes."
+        },
+        "meaning": {
+          "title": "Significados Ocultos",
+          "description": "Los nombres drow a menudo llevan significados dobles o ocultos, reflejando la naturaleza intrincada y a menudo traicionera de su sociedad, donde las palabras pueden tener múltiples interpretaciones."
+        },
+        "titles": {
+          "title": "Títulos y Rangos",
+          "description": "El sistema de títulos drow es complejo, con nombres que pueden cambiar según el estatus social, logros militares, o favor divino, reflejando la naturaleza fluida del poder en su sociedad."
+        }
+      },
+      "types": {
+        "title": "Tipos de Elfos Oscuros",
+        "nobility": {
+          "title": "Nobles Drow",
+          "description": "Los nombres de la nobleza drow son elaborados y cargados de significado, a menudo incorporando referencias a las casas ancestrales, logros familiares y conexiones divinas con Lolth."
+        },
+        "warriors": {
+          "title": "Guerreros y Soldados",
+          "description": "Los nombres de guerreros drow enfatizan fuerza, ferocidad y habilidad en combate, a menudo incorporando elementos relacionados con armas, tácticas de batalla, y victorias militares."
+        },
+        "outcasts": {
+          "title": "Exiliados y Renegados",
+          "description": "Los drow que han abandonado su sociedad tradicional a menudo adoptan nuevos nombres que reflejan su nuevo camino, rechazando las convenciones de nomenclatura de su cultura natal."
+        }
+      }
+    }
+  },
+  "bloodElf": {
+    "metadata": {
+      "title": "Generador de Nombres de Elfo de Sangre - Nombres Arcanos y Majestuosos",
+      "description": "Genera nombres poderosos de elfos de sangre con nuestro generador especializado. Perfecto para magos arcanos, personajes de alta fantasía y seres imbuidos de poder mágico.",
+      "keywords": "generador de nombres de elfo de sangre, nombres de elfos de sangre, generador de elfos de sangre, nombres arcanos élficos, elfos de sangre fantasía",
+      "openGraphTitle": "Generador de Nombres de Elfo de Sangre - Poder Arcano Élfico",
+      "openGraphDescription": "Descubre nombres majestuosos de elfos de sangre que reflejan poder arcano, linaje noble y magia ancestral.",
+      "twitterTitle": "Generador de Nombres de Elfo de Sangre - Magia y Nobleza",
+      "twitterDescription": "Crea nombres elegantes y poderosos de elfos de sangre para personajes arcanos y nobles de alta fantasía."
+    },
+    "header": {
+      "title": "Generador de Nombres de Elfo de Sangre | Poder Arcano y Linaje Noble",
+      "description": "Crea nombres majestuosos de elfos de sangre que reflejan siglos de refinamiento mágico, poder arcano hereditario y la elegancia inherente de una raza tocada por la magia pura."
+    },
+    "seo": {
+      "introduction": {
+        "title": "Generador de Nombres de Elfo de Sangre - Magia en la Sangre",
+        "paragraph1": "Los elfos de sangre representan la culminación del refinamiento élfico y el poder arcano, una raza cuya misma esencia está imbuida con corrientes mágicas que fluyen como sangre por sus venas. Sus nombres reflejan esta conexión íntima con las fuerzas arcanas del universo.",
+        "paragraph2": "Nacidos de tradiciones que combinan la elegancia élfica tradicional con una adicción ancestral a la magia, los elfos de sangre han desarrollado una nomenclatura única que celebra tanto su herencia élfica como su transformación mágica."
+      },
+      "origins": {
+        "title": "Orígenes y Historia de los Elfos de Sangre",
+        "transformation": {
+          "title": "La Gran Transformación",
+          "description": "Los elfos de sangre surgieron como resultado de una profunda conexión con fuentes de poder arcano. Esta transformación se refleja en nombres que incorporan elementos de cambio, renovación y poder mágico intensificado."
+        },
+        "heritage": {
+          "title": "Herencia Élfica",
+          "description": "A pesar de su transformación, los elfos de sangre mantienen vínculos profundos con sus raíces élficas, conservando elementos de nomenclatura tradicional mientras abrazan nuevas influencias arcanas."
+        },
+        "adaptation": {
+          "title": "Adaptación Arcana",
+          "description": "La exposición constante a energías mágicas ha influenciado no solo su fisiología, sino también sus tradiciones culturales y patrones de nomenclatura, creando un híbrido único de tradición y innovación."
+        }
+      },
+      "characteristics": {
+        "title": "Características Distintivas de los Elfos de Sangre",
+        "magic": {
+          "title": "Afinidad Arcana",
+          "description": "Los elfos de sangre poseen una conexión natural con la magia que va más allá de la simple práctica, es parte de su ser fundamental. Sus nombres a menudo reflejan esta integración profunda con fuerzas arcanas."
+        },
+        "elegance": {
+          "title": "Elegancia Refinada",
+          "description": "Mantienen la gracia natural élfica pero refinada por siglos de inmersión en energías mágicas, resultando en una elegancia que trasciende lo meramente físico y se extiende a todos los aspectos de su cultura."
+        },
+        "ambition": {
+          "title": "Ambición Arcana",
+          "description": "Impulsados por una sed insaciable de conocimiento mágico y poder, los elfos de sangre a menudo llevan nombres que reflejan aspiraciones grandiosas y búsquedas de dominación arcana."
+        }
+      },
+      "society": {
+        "title": "Sociedad y Cultura de los Elfos de Sangre",
+        "hierarchy": {
+          "title": "Jerarquía Mágica",
+          "description": "Su sociedad se estructura alrededor del poder mágico y la competencia arcana, con nombres que reflejan niveles de habilidad mágica, logros arcanos y posición en la jerarquía de su civilización."
+        },
+        "scholarship": {
+          "title": "Tradición Académica",
+          "description": "Como estudiosos obsesivos de las artes arcanas, los elfos de sangre valoran el conocimiento mágico por encima de todo, con nombres que a menudo honran grandes descubrimientos arcanos o teorías mágicas revolucionarias."
+        },
+        "aesthetics": {
+          "title": "Estética Arcana",
+          "description": "Su apreciación por la belleza se ha fusionado con su amor por la magia, creando una estética única que se refleja en nombres que combinan elegancia visual con poder arcano."
+        }
+      }
+    }
+  },
+  "tolkienElf": {
+    "metadata": {
+      "title": "Generador de Nombres de Elfos Tolkien - Nombres Sindarin y Quenya Auténticos",
+      "description": "Genera nombres auténticos de elfos inspirados en Tolkien con nuestro generador especializado. Basado en idiomas Sindarin y Quenya para máxima autenticidad élfica.",
+      "keywords": "generador de nombres de elfos tolkien, nombres elficos tolkien, nombres sindarin, nombres quenya, generador elfos señor de los anillos",
+      "openGraphTitle": "Generador de Nombres de Elfos Tolkien - Autenticidad Linguística",
+      "openGraphDescription": "Sumérgete en la tradición linguística de Tolkien con nombres élficos auténticos basados en Sindarin y Quenya.",
+      "twitterTitle": "Nombres de Elfos Tolkien - Tradición Sindarin y Quenya",
+      "twitterDescription": "Crea nombres élficos auténticos inspirados en los idiomas creados por J.R.R. Tolkien para máxima inmersión."
+    },
+    "header": {
+      "title": "Generador de Nombres de Elfos Tolkien | Tradición Sindarin y Quenya Auténtica",
+      "description": "Honra la tradición lingüística de J.R.R. Tolkien con nombres élficos auténticos basados en los idiomas Sindarin y Quenya. Perfecto para aventuras en la Tierra Media y fantasía inspirada en Tolkien."
+    },
+    "seo": {
+      "introduction": {
+        "title": "Nombres de Elfos Tolkien - La Fuente de Toda Fantasía Élfica",
+        "paragraph1": "J.R.R. Tolkien no solo creó la fantasía moderna; revolucionó para siempre cómo concebimos a los elfos y sus nombres. Como filólogo y profesor de idiomas, Tolkien construyó idiomas élficos completos con gramática, vocabulario y patrones fonéticos consistentes que han influenciado toda la fantasía posterior.",
+        "paragraph2": "Nuestro generador de nombres de elfos Tolkien se basa directamente en los principios lingüísticos que Tolkien estableció para el Sindarin y Quenya, asegurando que cada nombre generado mantenga la autenticidad y belleza que caracterizan a la nomenclatura élfica de la Tierra Media."
+      },
+      "languages": {
+        "title": "Los Idiomas Élficos de Tolkien",
+        "sindarin": {
+          "title": "Sindarin - Élfico Gris",
+          "description": "El Sindarin, conocido como Élfico Gris, era el idioma élfico más comúnmente hablado en la Tierra Media durante la Tercera Edad. Caracterizado por sonidos suaves y estructuras gramaticales complejas, el Sindarin produce nombres con una calidad musical distintiva."
+        },
+        "quenya": {
+          "title": "Quenya - Alto Élfico",
+          "description": "El Quenya, o Alto Élfico, era el idioma ceremonial y literario de los elfos, usado principalmente por los Noldor y en contextos formales. Sus nombres tienden a ser más elaborados y formales, reflejando su estatus como idioma de alta cultura."
+        },
+        "evolution": {
+          "title": "Evolución Lingüística",
+          "description": "Tolkien diseñó estos idiomas para que evolucionaran a lo largo del tiempo, igual que los idiomas reales. Esta evolución se refleja en variaciones de nombres que muestran diferentes períodos históricos de la Tierra Media."
+        }
+      },
+      "elements": {
+        "title": "Elementos de los Nombres Élficos Tolkien",
+        "nature": {
+          "title": "Elementos Naturales",
+          "description": "Los nombres élficos de Tolkien frecuentemente incorporan referencias a elementos naturales como estrellas (gil), árboles (galad), agua (nen), y luz (cal), reflejando la profunda conexión élfica con el mundo natural."
+        },
+        "meaning": {
+          "title": "Significado Profundo",
+          "description": "Cada elemento en un nombre élfico de Tolkien lleva significado específico. Por ejemplo, 'Elrond' significa 'Abovedado de Estrella', mientras que 'Galadriel' se traduce como 'Doncella Coronada de Luz Radiante'."
+        },
+        "phonetics": {
+          "title": "Belleza Fonética",
+          "description": "Tolkien diseñó los sonidos élficos para ser inherentemente hermosos y musicales, evitando combinaciones consonánticas duras y privilegiando flujos vocálicos melodiosos."
+        }
+      },
+      "categories": {
+        "title": "Categorías de Nombres Tolkien",
+        "noldor": {
+          "title": "Nombres Noldorin",
+          "description": "Los Noldor, elfos de gran sabiduría y habilidad artística, a menudo llevaban nombres que reflejaban sus logros, sabiduría, o conexiones familiares con los Valar y Maiar."
+        },
+        "sindar": {
+          "title": "Nombres Sindar",
+          "description": "Los elfos Sindar, nativos de Beleriand, desarrollaron patrones de nomenclatura que reflejaban su vida forestal y su conexión con las tierras de la Tierra Media occidental."
+        },
+        "silvan": {
+          "title": "Nombres Silvanos",
+          "description": "Los elfos silvanos, los más conectados con los bosques y la naturaleza salvaje, usaban nombres que frecuentemente incorporaban elementos de flora, fauna y fenómenos naturales."
+        }
+      }
+    }
+  },
+  "femaleElf": {
+    "metadata": {
+      "title": "Generador de Nombres de Elfa - Nombres Femeninos Élficos Elegantes",
+      "description": "Genera nombres elegantes de elfas con nuestro generador especializado. Perfecto para personajes femeninos élficos, princesas, magas y guerreras de fantasía.",
+      "keywords": "generador de nombres de elfa, nombres elficos femeninos, nombres de elfas, generador de elfas, nombres femeninos élficos",
+      "openGraphTitle": "Generador de Nombres de Elfa - Elegancia Femenina Élfica",
+      "openGraphDescription": "Descubre nombres hermosos y elegantes de elfas para personajes femeninos de fantasía con gracia y poder élficos.",
+      "twitterTitle": "Nombres de Elfas - Gracia y Elegancia Femenina",
+      "twitterDescription": "Crea nombres encantadores de elfas que capturan la esencia de la feminidad élfica en toda su gloria."
+    },
+    "header": {
+      "title": "Generador de Nombres de Elfa | Elegancia y Gracia Femenina Élfica",
+      "description": "Celebra la gracia, sabiduría y poder únicos de las elfas con nombres que capturan la esencia de la feminidad élfica. Perfecto para reinas, guerreras, magas y toda clase de personajes femeninos élficos."
+    },
+    "seo": {
+      "introduction": {
+        "title": "Nombres de Elfas - Celebrando la Feminidad Élfica",
+        "paragraph1": "Las elfas representan una combinación única de gracia, fuerza, sabiduría ancestral y poder natural que ha cautivado la imaginación humana durante generaciones. Sus nombres reflejan esta complejidad, combinando delicadeza melodiosa con undertones de gran poder y determinación.",
+        "paragraph2": "Nuestro generador especializado de nombres de elfas honra tanto la tradición como la innovación, creando nombres que celebran los aspectos únicos de la experiencia femenina élfica mientras mantienen la autenticidad cultural que define a estas criaturas extraordinarias."
+      },
+      "characteristics": {
+        "title": "Características de las Elfas",
+        "wisdom": {
+          "title": "Sabiduría Ancestral",
+          "description": "Las elfas a menudo son portadoras de conocimiento ancestral, con nombres que reflejan su rol como guardianas de tradiciones, historias y secretos mágicos que han perdurado a través de milenios de historia élfica."
+        },
+        "grace": {
+          "title": "Gracia Natural",
+          "description": "La gracia élfica se manifiesta de manera única en las elfas, combinando elegancia física con una presencia que puede ser tanto gentil como formidablemente poderosa, cualidades reflejadas en sus nombres melodiosos pero fuertes."
+        },
+        "power": {
+          "title": "Poder Femenino",
+          "description": "Las elfas poseen formas únicas de poder que pueden manifestarse como magia maternal, furia protectora, o liderazgo inspirador, elementos que se incorporan sutilmente en sus patrones de nomenclatura tradicionales."
+        }
+      },
+      "roles": {
+        "title": "Roles de las Elfas en la Sociedad Élfica",
+        "leaders": {
+          "title": "Líderes y Reinas",
+          "description": "Muchas sociedades élficas reconocen el liderazgo femenino, con reinas y matriarcas que llevan nombres que reflejan tanto su autoridad como su conexión con las fuerzas que gobiernan el mundo natural y supernatural."
+        },
+        "guardians": {
+          "title": "Guardianas y Protectoras",
+          "description": "Las elfas a menudo sirven como guardianas de lugares sagrados, conocimiento ancestral, y las fuerzas naturales, roles que se reflejan en nombres que combinan elementos protectores con referencias a lo sagrado."
+        },
+        "scholars": {
+          "title": "Eruditas y Magas",
+          "description": "La tradición élfica de erudición femenina produce nombres que honran el aprendizaje, la magia, y la búsqueda de conocimiento, especialmente en áreas como la sanación, la profecía, y las artes arcanas."
+        }
+      },
+      "naming": {
+        "title": "Tradiciones de Nomenclatura Femenina Élfica",
+        "melody": {
+          "title": "Calidad Melodiosa",
+          "description": "Los nombres de elfas típicamente enfatizan sonidos fluidos y combinaciones vocálicas que crean una calidad inherentemente musical, reflejando la conexión élfica con la armonía natural."
+        },
+        "meaning": {
+          "title": "Significados Empoderados",
+          "description": "Los nombres femeninos élficos a menudo incorporan significados relacionados con la luz, la sabiduría, la protección, y fuerzas naturales, celebrando aspectos poderosos de la experiencia femenina."
+        },
+        "heritage": {
+          "title": "Conexiones Familiares",
+          "description": "Muchos nombres de elfas incluyen elementos que honran líneas matriarcales, logros de ancestras femeninas, o conexiones especiales con figuras femeninas divinas o legendarias."
+        }
+      },
+      "inspiration": {
+        "title": "Fuentes de Inspiración para Nombres de Elfas",
+        "nature": {
+          "title": "Inspiración Natural",
+          "description": "Los nombres de elfas frecuentemente se inspiran en aspectos femeninos de la naturaleza como la luna, flores, estaciones, y elementos naturales que simbolizan fertilidad, crecimiento, y renovación."
+        },
+        "mythology": {
+          "title": "Referencias Mitológicas",
+          "description": "Muchos nombres femeninos élficos hacen referencia a diosas, espíritus femeninos, y figuras míticas que representan diferentes aspectos del poder femenino y la sabiduría ancestral."
+        },
+        "virtues": {
+          "title": "Virtudes Celebradas",
+          "description": "Los nombres pueden reflejar virtudes particularmente valoradas en la cultura élfica, como la compasión, la sabiduría, el coraje, la creatividad, y la conexión espiritual."
+        }
+      }
+    }
+  },
+  "elvenSeo": {
+    "introduction": {
+      "title": "Generador de Nombres Élficos - Crear Nombres Élvicos Auténticos",
+      "paragraph1": "Nuestro generador de nombres élficos integral crea nombres élvicos auténticos que capturan la belleza etérea y la sabiduría ancestral de las culturas élficas a través de todas las tradiciones fantásticas. Ya sea que necesites un generador de nombres élficos para altos elfos clásicos, elfos oscuros misteriosos, o elfos del bosque amantes de la naturaleza, este generador de nombres élvicos proporciona nombres que resuenan con la elegancia atemporal y el patrimonio mágico de las civilizaciones élficas.",
+      "paragraph2": "El generador de nombres élficos se basa en extensas tradiciones lingüísticas élvicas, incorporando las sílabas fluidas, consonantes melódicas y elementos basados en la naturaleza que definen las convenciones auténticas de nomenclatura élvica. Cada nombre generado por nuestro generador de nombres élvicos refleja la conexión profunda que los elfos tienen con la magia, la naturaleza y el flujo eterno del tiempo a través de sus culturas ancestrales."
+    },
+    "whatIs": {
+      "title": "¿Qué Hace Especiales a los Nombres Élvicos?",
+      "paragraph1": "Los nombres élvicos generados por nuestro generador de nombres élficos típicamente presentan vocales fluidas, consonantes suaves y elementos significativos que reflejan los valores y la cultura élfica. El generador de nombres élficos asegura que cada nombre élvico lleve la calidad musical que caracteriza el habla élfica, creando nombres que suenan tanto antiguos como atemporales.",
+      "paragraph2": "Las convenciones tradicionales de nomenclatura élvica incluyen referencias a elementos naturales (estrellas, luna, árboles), conceptos mágicos (luz, sombra, encantamiento) y cualidades nobles (sabiduría, gracia, belleza). Nuestro generador de nombres élficos combina estos patrones lingüísticos para crear nombres élvicos que se sienten auténticos e inmersivos para cualquier entorno o campaña fantástica."
+    },
+    "types": {
+      "title": "Tipos de Nombres Élficos",
+      "description": "Nuestro generador de nombres élficos ofrece varias categorías de nombres élvicos, cada una reflejando diferentes aspectos de la cultura élfica y sus diversas subespecies.",
+      "classic": {
+        "title": "Nombres Élficos Clásicos",
+        "description": "Nombres élvicos tradicionales que siguen las antiguas tradiciones de nomenclatura élfica con conexiones profundas a la magia y la naturaleza."
+      },
+      "halfElf": {
+        "title": "Nombres de Semielfos",
+        "description": "Nombres que mezclan herencia élvica con influencias humanas, perfectos para personajes de ascendencia mixta."
+      },
+      "woodElf": {
+        "title": "Nombres Élficos Silvanos",
+        "description": "Nombres élvicos con temas naturales, perfectos para elfos del bosque y comunidades élficas forestales."
+      },
+      "darkElf": {
+        "title": "Nombres de Elfos Oscuros",
+        "description": "Nombres élvicos misteriosos con matices sombríos, adecuados para drows y culturas élficas subterráneas."
+      },
+      "dnd": {
+        "title": "Nombres Élficos D&D",
+        "description": "Nombres élvicos diseñados específicamente para campañas D&D, siguiendo la tradición oficial y las convenciones del Manual del Jugador."
+      },
+      "gender": {
+        "title": "Nombres Élficos Específicos de Género",
+        "description": "Nombres élvicos masculinos y femeninos que siguen las convenciones de género élficas tradicionales y patrones lingüísticos."
+      }
+    },
+    "howToUse": {
+      "title": "Cómo Usar el Generador de Nombres Élficos",
+      "description": "Usar nuestro generador de nombres élficos es simple y está diseñado para ayudarte a crear el nombre élvico perfecto para cualquier personaje o historia.",
+      "step1": {
+        "title": "Selecciona Tus Preferencias",
+        "description": "Elige género, subespecie élfica y preferencias de estilo de nombre. El generador de nombres élficos permite personalización para diferentes tipos de culturas élficas."
+      },
+      "step2": {
+        "title": "Generar Nombres Élvicos",
+        "description": "Haz clic en generar para crear una lista de nombres élficos auténticos. El generador de nombres élvicos proporcionará múltiples opciones con diferentes enfoques estilísticos."
+      },
+      "step3": {
+        "title": "Personalizar y Refinar",
+        "description": "Navega por los nombres élvicos generados y selecciona los favoritos. Puedes personalizar aún más cualquier nombre élvico para que coincida mejor con tu concepto de personaje."
+      }
+    },
+    "whyEssential": {
+      "title": "¿Por Qué Usar un Generador de Nombres Élficos?",
+      "saveTime": {
+        "title": "Creación Instantánea de Nombres",
+        "description": "Nuestro generador de nombres élficos proporciona instantáneamente docenas de nombres élvicos auténticos, eliminando horas de investigación sobre lingüística élvica y convenciones de nomenclatura."
+      },
+      "creativity": {
+        "title": "Inspirar Creatividad",
+        "description": "El generador de nombres élficos ofrece combinaciones inesperadas y elementos élvicos que pueden desencadenar nuevos conceptos de personajes e ideas de historias para tus proyectos fantásticos."
+      },
+      "consistency": {
+        "title": "Sensación Élvica Auténtica",
+        "description": "Cada nombre de nuestro generador de nombres élficos sigue patrones lingüísticos élficos establecidos, asegurando que tus personajes se sientan auténticos en cualquier entorno fantástico."
+      },
+      "accessible": {
+        "title": "Gratis y Fácil",
+        "description": "Nuestro generador de nombres élficos es completamente gratuito sin registro requerido. Genera nombres élvicos ilimitados para todos tus proyectos creativos."
+      }
+    },
+    "topFeatures": {
+      "title": "Características Avanzadas del Generador de Nombres Élficos",
+      "description": "Nuestro generador de nombres élficos incluye características sofisticadas que aseguran nombres élvicos auténticos y diversos para cada tipo de personaje.",
+      "diverse": {
+        "title": "Variedad Élvica Integral",
+        "description": "El generador de nombres élficos incluye nombres de todas las culturas élficas principales, desde altos elfos hasta elfos del bosque, asegurando patrones de nomenclatura élvica diversos pero auténticos."
+      },
+      "gender": {
+        "title": "Opciones Apropiadas de Género",
+        "description": "Genera nombres élvicos masculinos o femeninos, cada uno siguiendo patrones de género élficos tradicionales mientras mantiene la calidad musical de los idiomas élficos."
+      },
+      "customizable": {
+        "title": "Parámetros Flexibles",
+        "description": "Ajusta la configuración del generador de nombres élficos para enfocarte en culturas élficas específicas, temas mágicos o preferencias lingüísticas para tu mundo de campaña."
+      },
+      "free": {
+        "title": "Siempre Gratis",
+        "description": "Usa nuestro generador de nombres élficos sin costo, registro o limitaciones. Crea nombres élvicos ilimitados para personajes, lugares e historias."
+      }
+    },
+    "popularUses": {
+      "title": "Usos Populares para Nombres Élficos",
+      "description": "Nuestro generador de nombres élficos sirve a creadores en muchas plataformas y proyectos, proporcionando nombres élvicos auténticos para necesidades creativas diversas.",
+      "tabletop": {
+        "title": "Personajes RPG y D&D",
+        "description": "Crea personajes élficos memorables para D&D, Pathfinder y otros RPGs con nuestro generador de nombres élvicos especializado adaptado para juegos de mesa."
+      },
+      "novels": {
+        "title": "Escritura Fantástica",
+        "description": "Los autores usan nuestro generador de nombres élficos para desarrollar personajes élvicos cautivadores para novelas fantásticas, creando nombres que mejoran la construcción del mundo y la profundidad del personaje."
+      },
+      "onlineGames": {
+        "title": "Personajes de Videojuegos",
+        "description": "Los jugadores confían en nuestro generador de nombres élficos para MMORPGs, juegos fantásticos de un solo jugador y cualquier juego que presente razas y culturas élficas."
+      },
+      "creativeWriting": {
+        "title": "Proyectos Creativos",
+        "description": "Escritores, creadores de contenido y constructores de mundos usan el generador de nombres élficos para guiones, ficción interactiva, cómics y otros emprendimientos creativos."
+      }
+    },
+    "supportedTypes": {
+      "title": "Tipos de Personajes Élficos Soportados",
+      "woodElf": {
+        "title": "Altos Elfos",
+        "description": "Nombres élvicos nobles para personajes de altos elfos que encarnan la maestría mágica, sabiduría ancestral y cultura élfica aristocrática."
+      },
+      "darkElf": {
+        "title": "Elfos Oscuros",
+        "description": "Nombres élvicos misteriosos para drows y otras culturas de elfos oscuros, incorporando temas de sombra y elementos de civilización subterránea."
+      },
+      "halfElf": {
+        "title": "Semielfos",
+        "description": "Nombres élvicos equilibrados adecuados para personajes con herencia tanto élfica como humana, mezclando belleza élfica con adaptabilidad humana."
+      },
+      "highElf": {
+        "title": "Elfos Lunares",
+        "description": "Nombres élvicos etéreos para elfos lunares y otras subespecies élficas de tema celestial, enfatizando conexiones lunares y estelares."
+      },
+      "moonElf": {
+        "title": "Elfos Solares",
+        "description": "Nombres élvicos radiantes para elfos solares y culturas élficas asociadas con la luz, incorporando temas de amanecer, luz del día y magia solar."
+      },
+      "sunElf": {
+        "title": "Elfos Salvajes",
+        "description": "Nombres élvicos primitivos para elfos salvajes que viven en armonía con la naturaleza indómita, enfatizando la libertad y conexiones naturales."
+      },
+      "wildElf": {
+        "title": "Elfos Marinos",
+        "description": "Nombres élvicos fluidos para culturas élficas acuáticas, incorporando temas oceánicos y tradiciones élficas marítimas."
+      },
+      "seaElf": {
+        "title": "Elfos del Bosque",
+        "description": "Nombres élvicos con tema natural para elfos que habitan bosques, enfatizando su conexión profunda con ambientes boscosos y magia natural."
+      },
+      "snowElf": {
+        "title": "Elfos Árticos",
+        "description": "Nombres élvicos con tema frío para elfos adaptados a climas invernales, incorporando elementos de hielo, nieve y auroras boreales en la nomenclatura élfica."
+      }
+    },
+    "gallery": {
+      "title": "Galería de Personajes Élficos",
+      "description": "Explora inspiración visual para personajes élficos creados usando nuestro generador de nombres élficos, mostrando la diversidad de las culturas élficas.",
+      "woodElf": {
+        "alt": "Arte de personaje Mago Alto Elfo",
+        "title": "Mago Alto Elfo",
+        "description": "Un lanzador de hechizos alto elfo elegante que encarna la cúspide de la maestría mágica élfica y conocimiento arcano ancestral."
+      },
+      "darkElf": {
+        "alt": "Arte de personaje Pícaro Elfo Oscuro",
+        "title": "Asesino Drow",
+        "description": "Un elfo oscuro misterioso moviéndose entre las sombras, representando la belleza peligrosa y gracia letal de la cultura drow."
+      },
+      "highElf": {
+        "alt": "Arte de personaje Explorador Elfo Lunar",
+        "title": "Guardián Elfo Lunar",
+        "description": "Un protector elfo lunar grácil que combina destreza marcial con la belleza etérea característica de los linajes élficos lunares."
+      }
+    },
+    "categories": {
+      "title": "Categorías de Nombres Élficos",
+      "natureInspired": {
+        "title": "Nombres Élficos Celestiales",
+        "description": "Nombres élvicos inspirados por estrellas, lunas y fenómenos celestiales que los elfos veneran en su cultura.",
+        "examples": {
+          "silverleaf": {
+            "name": "Astraleth",
+            "meaning": "Canción Estelar"
+          },
+          "moonwhisper": {
+            "name": "Lunarias",
+            "meaning": "Bendecido por la Luna"
+          },
+          "starweaver": {
+            "name": "Stellanis",
+            "meaning": "Tejedor de Estrellas"
+          },
+          "windrunner": {
+            "name": "Aethermist",
+            "meaning": "Caminante del Cielo"
+          }
+        }
+      },
+      "nobleTitles": {
+        "title": "Nombres Élficos Nobles",
+        "description": "Nombres élvicos aristocráticos que reflejan la cultura refinada y nobleza ancestral de la sociedad élfica.",
+        "examples": {
+          "goldenbrow": {
+            "name": "Aurathiel",
+            "meaning": "Luz Dorada"
+          },
+          "crystalborn": {
+            "name": "Mithrendel",
+            "meaning": "Corona de Plata"
+          },
+          "thornheart": {
+            "name": "Valandria",
+            "meaning": "Corazón Noble"
+          },
+          "stormcrown": {
+            "name": "Celebrian",
+            "meaning": "Reina de Plata"
+          }
+        }
+      },
+      "magicalNames": {
+        "title": "Nombres Élficos Místicos",
+        "description": "Nombres élvicos que incorporan elementos mágicos y temas arcanos centrales a la civilización élfica.",
+        "examples": {
+          "spellsong": {
+            "name": "Melodreth",
+            "meaning": "Canción Mágica"
+          },
+          "runekeeper": {
+            "name": "Inscriptis",
+            "meaning": "Maestro de Runas"
+          },
+          "dreamweaver": {
+            "name": "Oneireth",
+            "meaning": "Moldeador de Sueños"
+          },
+          "lightbringer": {
+            "name": "Luminaris",
+            "meaning": "Portador de Luz"
+          }
+        }
+      }
+    },
+    "linguisticFeatures": {
+      "title": "Patrones del Idioma Élfico",
+      "elvishLanguagePatterns": {
+        "title": "Lingüística Élvica Auténtica",
+        "description": "Nuestro generador de nombres élficos usa patrones de idioma élvico auténticos derivados de varias tradiciones fantásticas e investigación lingüística.",
+        "sindarin": {
+          "title": "Patrones Sindarin",
+          "description": "Nombres élvicos usando patrones inspirados en Sindarin con vocales fluidas y consonantes suaves.",
+          "feature1": "Secuencias vocálicas melódicas",
+          "feature2": "Combinaciones de consonantes suaves",
+          "feature3": "Palabras raíz basadas en la naturaleza"
+        },
+        "quenya": {
+          "title": "Patrones Quenya",
+          "description": "Nombres élficos nobles usando patrones de estilo Quenya para personajes élficos nobles y ancestrales.",
+          "feature1": "Estructura lingüística formal",
+          "feature2": "Elementos élficos ancestrales",
+          "feature3": "Integración de terminología mágica"
+        },
+        "dndElvish": {
+          "title": "Convenciones Élvicas D&D",
+          "description": "Nombres élvicos siguiendo las convenciones oficiales de nomenclatura D&D para integración auténtica de juego.",
+          "feature1": "Cumplimiento del Manual del Jugador",
+          "feature2": "Apropiado para el entorno de campaña",
+          "feature3": "Compatibilidad multi-subespecie"
+        }
+      },
+      "pronunciationGuide": {
+        "title": "Guía de Pronunciación Élvica",
+        "description": "Aprende a pronunciar nombres élvicos generados por nuestro generador de nombres élficos con esta guía completa.",
+        "vowelSounds": {
+          "title": "Vocales Élvicas",
+          "sounds": {
+            "a": "como en 'padre' (claro y largo)",
+            "e": "como en 'rey' (brillante y claro)",
+            "i": "como en 'máquina' (puro y nítido)",
+            "o": "como en 'oro' (redondo y abierto)",
+            "u": "como en 'luna' (profundo y misterioso)"
+          }
+        },
+        "consonantCombinations": {
+          "title": "Consonantes Élvicas",
+          "combinations": {
+            "th": "'th' suave como en 'think'",
+            "dh": "'th' suave como en 'that'",
+            "ng": "como en 'ring' (a menudo final)",
+            "ch": "sonido 'k' suave",
+            "r": "'r' ligeramente rodada o líquida"
+          }
+        }
+      }
+    },
+    "collection": {
+      "title": "Colección Completa de Nombres Élficos",
+      "woodElfGenerator": {
+        "title": "Nombres Élficos Clásicos",
+        "description": "Nombres élficos tradicionales siguiendo patrones de nomenclatura élvica clásicos con énfasis en elegancia y herencia mágica.",
+        "feature1": "Lingüística élvica tradicional",
+        "feature2": "Elementos fantásticos clásicos",
+        "feature3": "Belleza élvica atemporal"
+      },
+      "darkElfGenerator": {
+        "title": "Nombres Élficos Oscuros",
+        "description": "Nombres élficos misteriosos con temas más oscuros, perfectos para personajes drow y culturas élficas subterráneas.",
+        "feature1": "Temas de sombra y misterio",
+        "feature2": "Elementos de cultura subterránea",
+        "feature3": "Convenciones de nomenclatura drow"
+      },
+      "halfElfGenerator": {
+        "title": "Nombres de Semielfos",
+        "description": "Nombres élvicos equilibrados adecuados para personajes con herencia élfica y humana mixta.",
+        "feature1": "Patrones de fusión cultural",
+        "feature2": "Estilos de nomenclatura versátiles",
+        "feature3": "Integración intercultural"
+      },
+      "bloodElfGenerator": {
+        "title": "Nombres Élficos Arcanos",
+        "description": "Nombres élficos mágicos que enfatizan el poder arcano y conexiones místicas en la cultura élfica.",
+        "feature1": "Integración de magia arcana",
+        "feature2": "Temas élficos místicos",
+        "feature3": "Nomenclatura enfocada en el poder"
+      },
+      "elfNamesGenerator": {
+        "title": "Nombres Élficos Universales",
+        "description": "Nombres élficos integrales adecuados para todos los tipos de personajes élficos y entornos fantásticos.",
+        "feature1": "Patrones élficos multiculturales",
+        "feature2": "Compatibilidad fantástica universal",
+        "feature3": "Cobertura amplia de tipos de personajes"
+      },
+      "elfNameGeneratorDnd": {
+        "title": "Nombres Élficos D&D",
+        "description": "Nombres élficos especializados siguiendo las convenciones oficiales de nomenclatura élvica D&D y tradición para juego auténtico.",
+        "feature1": "Cumplimiento oficial D&D",
+        "feature2": "Nomenclatura precisa del libro de reglas",
+        "feature3": "Listo para integración de campaña"
+      }
+    },
+    "relatedSites": {
+      "title": "Más Herramientas Creativas",
+      "description": "Explora nuestra colección de herramientas creativas impulsadas por IA para creación de personajes, transformación de estilo e inspiración de diseño.",
+      "chineseNameGenerator": {
+        "title": "Generador de Nombres Chinos",
+        "description": "Crea nombres chinos auténticos",
+        "url": "https://chinesenamegenerate.com"
+      },
+      "dressMeAI": {
+        "title": "DressMeAI",
+        "description": "Estilismo de moda IA",
+        "url": "https://dressmeai.com"
+      },
+      "dreamfinityX": {
+        "title": "DreamfinityX",
+        "description": "Plataforma IA creativa",
+        "url": "https://dreamfinityx.com"
+      },
+      "aiNailsPro": {
+        "title": "AI Nails Pro",
+        "description": "Diseños de arte de uñas IA",
+        "url": "https://ainails.pro"
+      },
+      "characterReadCanon": {
+        "title": "Character Read Canon",
+        "description": "Herramienta de análisis de personajes",
+        "url": "https://charactereadcanon.pro"
+      }
+    },
+    "structuredData": {
+      "appName": "Generador de Nombres Élficos",
+      "appDescription": "Genera nombres élficos y élvicos auténticos para personajes fantásticos, juegos RPG y escritura creativa. Crea nombres élvicos con trasfondos culturales y autenticidad lingüística.",
+      "keywords": "generador de nombres élficos, generador de nombres élvicos, nombres élvicos, nombres élficos, generador de nombres de elfos, generador de nombres fantásticos, nombres de personajes élficos, nombres de culturas élvicas",
+      "audienceType1": "Escritores Fantásticos",
+      "audienceType2": "Jugadores RPG",
+      "audienceType3": "Jugadores D&D",
+      "audienceType4": "Escritores Creativos",
+      "feature1": "Generación de Nombres Élvicos Auténticos",
+      "feature2": "Soporte de Múltiples Culturas Élficas",
+      "feature3": "Nombres Compatibles con D&D",
+      "feature4": "Opciones Específicas de Género",
+      "feature5": "Autenticidad Lingüística",
+      "feature6": "Información de Trasfondo Cultural",
+      "feature7": "Gratis para Usar",
+      "feature8": "Compatibilidad Multi-Entorno",
+      "faq1Question": "¿Cómo crea el generador de nombres élficos nombres élvicos auténticos?",
+      "faq1Answer": "Nuestro generador de nombres élficos usa patrones lingüísticos élvicos auténticos, combinando vocales fluidas, consonantes suaves y elementos significativos que reflejan la cultura y valores élficos para crear nombres élvicos creíbles.",
+      "faq2Question": "¿Puedo usar nombres élficos para personajes D&D?",
+      "faq2Answer": "¡Absolutamente! Nuestro generador de nombres élficos crea nombres que son completamente compatibles con la tradición D&D y convenciones de nomenclatura élvica, perfectos para todas las subespecies élficas en el Manual del Jugador.",
+      "faq3Question": "¿Cuál es la diferencia entre nombres élficos y élvicos?",
+      "faq3Answer": "Los nombres élficos y élvicos son esencialmente lo mismo - ambos términos se refieren a nombres pertenecientes a personajes elfos. Nuestro generador de nombres élficos crea nombres auténticos para todos los tipos de elfos y culturas élvicas.",
+      "faq4Question": "¿Hay diferentes estilos de nombres élvicos?",
+      "faq4Answer": "¡Sí! Nuestro generador de nombres élficos incluye varios estilos de nomenclatura élvica para diferentes subespecies de elfos incluyendo altos elfos, elfos del bosque, elfos oscuros y semielfos, cada una con patrones culturales distintos."
+    },
+    "conclusion": {
+      "title": "Crea Tu Personaje Élfico Perfecto Hoy",
+      "paragraph1": "Ya sea que estés creando un sabio mago alto elfo, un grácil explorador elfo lunar, o un misterioso pícaro elfo oscuro, nuestro generador de nombres élficos integral proporciona la base perfecta para dar vida a tus personajes élvicos con nombres auténticos y culturalmente ricos.",
+      "paragraph2": "Únete a miles de creadores fantásticos que confían en nuestro generador de nombres élficos para sus campañas RPG, novelas fantásticas y proyectos creativos. Deja que la magia ancestral de la cultura élvica fluya a través de tus personajes con nombres que verdaderamente capturan la belleza atemporal y el patrimonio místico de las civilizaciones élficas.",
+      "generateButton": "Generar Nombres Élficos",
+      "exploreButton": "Explorar Culturas Élvicas"
+    }
+  },
+  "darkElfSeo": {
+    "introduction": {
+      "title": "Generador de Nombres de Elfos Oscuros - Crea Nombres Drow Auténticos",
+      "paragraph1": "Nuestro generador especializado de nombres de elfos oscuros crea nombres auténticos para la más misteriosa y temida de todas las razas élficas. Los elfos oscuros, también conocidos como drow, habitan las profundidades sombrías del Submundo, manejando tanto la magia arcana como las intrigas políticas con precisión letal. Este generador de nombres de elfos oscuros se basa en las ricas tradiciones de la sociedad élfica subterránea, creando nombres que reflejan su cultura compleja de supervivencia, ambición y la lucha constante por el poder en las profundidades bajo la superficie.",
+      "paragraph2": "El generador de nombres de elfos oscuros incorpora las consonantes duras, sílabas fluidas y elementos temáticos de sombra característicos de las convenciones de nomenclatura drow. Cada nombre producido por nuestro generador de nombres drow lleva el peso de la política del Submundo, reflejando la elegancia peligrosa y la brutalidad sofisticada que define la civilización de elfos oscuros bajo la superficie terrestre."
+    },
+    "whatIs": {
+      "title": "¿Qué hace especiales los nombres de elfos oscuros?",
+      "paragraph1": "Los nombres de elfos oscuros generados por nuestro generador especializado típicamente presentan consonantes agudas, tonos siniestros y referencias a sombra, oscuridad y elementos subterráneos que definen la cultura drow. Estos nombres a menudo incorporan temas relacionados con arañas, oscuridad, magia, intrigas políticas y las duras realidades de supervivencia en el ambiente despiadado del Submundo.",
+      "paragraph2": "Las convenciones tradicionales de nomenclatura de elfos oscuros incluyen referencias a elementos de sombra (oscuridad, noche, sombra), temas arácnidos (araña, telaraña, veneno), conceptos mágicos (encantamiento, ilusión, nigromancia) y terminología política (casa, noble, traición). Nuestro generador de nombres de elfos oscuros combina estos elementos para crear nombres que encarnan la amenaza sofisticada y la belleza peligrosa característica de la sociedad drow."
+    },
+    "types": {
+      "title": "Categorías de Nombres de Elfos Oscuros",
+      "description": "Nuestro generador de nombres de elfos oscuros ofrece varias categorías de nombres, cada una reflejando diferentes aspectos de la sociedad drow y su cultura subterránea.",
+      "classic": {
+        "title": "Nombres Drow Clásicos",
+        "description": "Nombres tradicionales de elfos oscuros siguiendo antiguas tradiciones de nomenclatura del Submundo con énfasis en magia de sombra e intrigas políticas."
+      },
+      "halfElf": {
+        "title": "Nombres de Casas Nobles",
+        "description": "Nombres aristocráticos de elfos oscuros adecuados para nobleza drow, matriarcas de casas y miembros de poderosas familias del Submundo."
+      },
+      "woodElf": {
+        "title": "Nombres de Sacerdotisas",
+        "description": "Nombres de elfos oscuros que reflejan la jerarquía religiosa y la adoración de la diosa araña central a la cultura espiritual drow."
+      },
+      "darkElf": {
+        "title": "Nombres de Magia de Sombra",
+        "description": "Nombres místicos de elfos oscuros que enfatizan las artes arcanas, magia de sombra y encantamientos favorecidos por los hechiceros drow."
+      },
+      "dnd": {
+        "title": "Nombres D&D Drow",
+        "description": "Nombres específicamente creados para personajes de elfos oscuros de D&D, siguiendo la tradición oficial del Submundo y convenciones de la sociedad drow."
+      },
+      "gender": {
+        "title": "Nombres Drow Específicos por Género",
+        "description": "Nombres masculinos y femeninos de elfos oscuros que reflejan la estructura matriarcal y dinámicas de género de la sociedad drow tradicional."
+      }
+    },
+    "howToUse": {
+      "title": "Cómo Usar el Generador de Nombres de Elfos Oscuros",
+      "description": "Usar nuestro generador de nombres de elfos oscuros está diseñado para ayudarte a crear el nombre siniestro perfecto para cualquier personaje del Submundo o historia temática de sombras.",
+      "step1": {
+        "title": "Seleccionar Preferencias Oscuras",
+        "description": "Elige género, especifica nivel de afiliación de casa e indica si quieres estilos de nomenclatura de elfos oscuros religiosos, mágicos o políticos."
+      },
+      "step2": {
+        "title": "Generar Nombres de Elfos Oscuros",
+        "description": "Haz clic en generar para crear una lista de nombres drow auténticos. El generador de nombres de elfos oscuros proporcionará múltiples opciones siniestras con diferentes énfasis culturales."
+      },
+      "step3": {
+        "title": "Refinar y Personalizar",
+        "description": "Explora los nombres de elfos oscuros generados y selecciona aquellos que mejor se adapten a tu personaje, ya sea para intrigas políticas o habilidades mágicas."
+      }
+    },
+    "whyEssential": {
+      "title": "¿Por qué usar un Generador de Nombres de Elfos Oscuros?",
+      "saveTime": {
+        "title": "Nombres Siniestros Instantáneos",
+        "description": "Nuestro generador de nombres de elfos oscuros proporciona instantáneamente docenas de nombres siniestros, ahorrando investigación extensa sobre convenciones de nomenclatura drow y política del Submundo."
+      },
+      "creativity": {
+        "title": "Inspirar Personajes Siniestros",
+        "description": "El generador de nombres de elfos oscuros ofrece combinaciones sofisticadas que pueden inspirar nuevos conceptos de personajes siniestros e historias de intrigas políticas."
+      },
+      "consistency": {
+        "title": "Sensación Drow Auténtica",
+        "description": "Cada nombre de nuestro generador de nombres de elfos oscuros sigue patrones de nomenclatura drow establecidos, asegurando autenticidad en cualquier entorno fantástico."
+      },
+      "accessible": {
+        "title": "Nombres Siniestros Gratuitos",
+        "description": "Nuestro generador de nombres de elfos oscuros es completamente gratuito con uso ilimitado, perfecto para crear familias nobles drow enteras y cortes subterráneas."
+      }
+    }
+  },
+  "bloodElfSeo": {
+    "introduction": {
+      "title": "Generador de Nombres de Elfos de Sangre - Crea Nombres Arcanos Místicos",
+      "paragraph1": "Nuestro generador especializado de nombres de elfos de sangre crea nombres auténticos para la más dotada mágicamente y enfocada en lo arcano de todas las razas élficas. Los elfos de sangre son reconocidos por su maestría en las artes mágicas, su sofisticación elegante y su relación compleja con el poder arcano. Este generador de nombres de elfos de sangre se basa en las ricas tradiciones de la sociedad élfica mágica, creando nombres que reflejan su búsqueda de conocimiento místico, su cultura refinada y su búsqueda eterna de perfección mágica.",
+      "paragraph2": "El generador de nombres de elfos de sangre incorpora los patrones lingüísticos fluidos y temas arcanos característicos de la civilización de elfos de sangre, enfatizando las cualidades melódicas y elementos místicos que definen su herencia mágica. Cada nombre producido por nuestro generador de nombres de elfos de sangre lleva la esencia de la maestría arcana, reflejando la conexión profunda que los elfos de sangre mantienen con energías mágicas, búsquedas académicas y la persecución sofisticada de artes místicas a través de generaciones de tradición mágica."
+    },
+    "whatIs": {
+      "title": "¿Qué hace especiales los nombres de elfos de sangre?",
+      "paragraph1": "Los nombres de elfos de sangre generados por nuestro generador especializado típicamente presentan sílabas elegantes, referencias arcanas y terminología mágica que define la cultura de elfos de sangre. Estos nombres a menudo incorporan elementos relacionados con escuelas mágicas, fenómenos místicos, investigación arcana y las artes mágicas sofisticadas que los elfos de sangre han desarrollado a través de siglos de estudio dedicado e innovación mágica.",
+      "paragraph2": "Las convenciones tradicionales de nomenclatura de elfos de sangre incluyen referencias a conceptos mágicos (arcano, encantamiento, transmutación), búsquedas académicas (investigación, estudio, maestría), elementos místicos (cristal, llama, energía) y refinamiento elegante (gracia, belleza, perfección). Nuestro generador de nombres de elfos de sangre combina estos elementos sofisticados para crear nombres que encarnan la destreza mágica y elegancia refinada característica de la sociedad arcana de elfos de sangre."
+    }
+  },
+  "highElfSeo": {
+    "introduction": {
+      "title": "Generador de Nombres de Altos Elfos - Crea Nombres Élficos Nobles",
+      "paragraph1": "Nuestro generador especializado de nombres de altos elfos crea nombres auténticos para la más noble y refinada de todas las razas élficas. Los altos elfos representan el pináculo de la civilización élfica, combinando conocimiento mágico ancestral con elegancia aristocrática y sabiduría atemporal. Este generador de nombres de altos elfos se basa en las ricas tradiciones de la cultura élfica superior, creando nombres que reflejan su estatus como la más dotada mágicamente y culturalmente sofisticada de todas las subespecies élficas.",
+      "paragraph2": "El generador de nombres de altos elfos incorpora los patrones lingüísticos fluidos característicos de la sociedad élfica superior, enfatizando las cualidades melódicas y sílabas refinadas que marcan su herencia noble. Cada nombre producido por nuestro generador de nombres de altos elfos lleva el peso de linajes mágicos ancestrales, reflejando la conexión profunda que los altos elfos mantienen con artes arcanas, búsquedas académicas y la preservación de la civilización élfica a través de las edades."
+    },
+    "whatIs": {
+      "title": "¿Qué hace especiales los nombres de altos elfos?",
+      "paragraph1": "Los nombres de altos elfos generados por nuestro generador de altos elfos típicamente presentan sílabas elegantes, elementos clásicos y referencias a búsquedas mágicas y académicas que definen la cultura élfica superior. Estos nombres a menudo incorporan elementos relacionados con magia arcana, conocimiento ancestral, fenómenos celestiales y las artes refinadas que los altos elfos han dominado durante milenios de civilización.",
+      "paragraph2": "Las convenciones tradicionales de nomenclatura de altos elfos incluyen referencias a conceptos mágicos (arcano, encantamiento, adivinación), búsquedas académicas (conocimiento, sabiduría, erudición), títulos nobles (señor, dama, maestro) y elementos celestiales (estrella, luna, luz). Nuestro generador de nombres de altos elfos combina estos elementos sofisticados para crear nombres que encarnan la dignidad aristocrática y destreza mágica característica de la nobleza élfica superior."
+    }
+  },
+  "femaleElfSeo": {
+    "introduction": {
+      "title": "Generador de Nombres de Elfas - Hermosos Nombres Élficos Femeninos",
+      "paragraph1": "Nuestro generador especializado de nombres de elfas crea nombres hermosos que capturan la gracia, sabiduría y fuerza de personajes élficos femeninos en todas las tradiciones fantásticas. Las elfas encarnan el equilibrio perfecto de belleza etérea y fuerza interior, combinando elegancia gentil con determinación poderosa. Este generador de nombres de elfas se basa en las ricas tradiciones de la nomenclatura élfica femenina, creando nombres que honran las cualidades únicas y contribuciones culturales de las elfas en literatura fantástica y gaming.",
+      "paragraph2": "El generador de nombres de elfas incorpora los patrones lingüísticos fluidos y elementos gráciles característicos de las convenciones de nomenclatura élfica femenina. Cada nombre refleja las cualidades distintivas que hacen especiales los nombres élficos femeninos: sílabas melódicas, significados basados en la naturaleza y elementos culturales que celebran la sabiduría, liderazgo y habilidades místicas que las elfas aportan a sus comunidades y aventuras."
+    },
+    "whatIs": {
+      "title": "¿Qué hace especiales los nombres de elfas?",
+      "paragraph1": "Los nombres de elfas generados por nuestro generador especializado típicamente presentan sílabas elegantes, sonidos gráciles y elementos significativos que reflejan los roles únicos y cualidades de las elfas en culturas fantásticas. Estos nombres a menudo incorporan referencias a belleza natural (flores, estrellas, luz de luna), sabiduría y liderazgo (consejo, guía, conocimiento), habilidades mágicas (encantamiento, curación, adivinación) y la fuerza nutritiva que caracteriza el liderazgo élfico femenino y roles comunitarios.",
+      "paragraph2": "Las convenciones tradicionales de nomenclatura de elfas incluyen elementos que celebran virtudes femeninas (gracia, sabiduría, compasión), belleza natural (rosa, lirio, luz estelar), cualidades de liderazgo (reina, dama, protectora) y dones mágicos (vidente, sanadora, encantadora). Nuestro generador de nombres de elfas combina estos elementos auténticos para crear nombres que encarnan la elegancia distintiva y poder que definen los personajes élficos femeninos en todas las tradiciones fantásticas."
+    }
+  },
+  "tolkienElfSeo": {
+    "introduction": {
+      "title": "Generador de Nombres de Elfos Tolkien - Nombres Auténticos de la Tierra Media",
+      "paragraph1": "Nuestro generador especializado de nombres de elfos Tolkien crea nombres auténticos usando los idiomas Sindarin y Quenya reales desarrollados por J.R.R. Tolkien para la Tierra Media. Basándose directamente en la obra maestra lingüística de Tolkien, este generador produce nombres que honran la construcción detallada de idiomas del Profesor, asegurando que cada nombre generado mantenga la belleza fonética, precisión gramatical y autenticidad cultural encontrada en El Señor de los Anillos, El Hobbit y El Silmarillion.",
+      "paragraph2": "El generador de nombres de elfos Tolkien incorpora patrones lingüísticos genuinos tanto del Sindarin (élfico gris) como del Quenya (élfico alto), los dos idiomas élficos primarios de la Tierra Media. Cada nombre refleja la atención cuidadosa de Tolkien a la armonía fonética, estructura morfológica y profundidad semántica, creando nombres que suenan como si emergieran directamente de Rivendel, Lothlórien o las Tierras Imperecederas mismas."
+    },
+    "whatIs": {
+      "title": "¿Qué hace auténticos los nombres de elfos Tolkien?",
+      "paragraph1": "Los nombres de elfos Tolkien generados por nuestro generador auténtico siguen las reglas lingüísticas precisas y patrones fonéticos establecidos por J.R.R. Tolkien en su vida de creación de idiomas. Estos nombres incorporan morfemas genuinos de Sindarin y Quenya, mantienen armonía vocálica apropiada y respetan las estructuras gramaticales que Tolkien desarrolló meticulosamente para sus idiomas élficos durante décadas de trabajo lingüístico académico.",
+      "paragraph2": "Las convenciones tradicionales de nomenclatura élfica de Tolkien incluyen elementos significativos que referencian la naturaleza (galadh 'árbol', ithil 'luna'), cualidades nobles (thranduil 'primavera vigorosa', elrond 'cúpula estelar'), características geográficas (imladris 'valle profundo') y conceptos espirituales (mithrellas 'doncella gris'). Nuestro generador de nombres de elfos Tolkien combina estos elementos auténticos siguiendo los principios lingüísticos propios de Tolkien para crear nombres dignos de los habitantes más nobles de la Tierra Media."
+    }
+  },
+  "randomizer": {
+    "header": {
+      "title": "Aleatorizador de Nombres Élficos",
+      "description": "Genera diversos nombres élficos aleatoriamente de todos los tipos y culturas"
+    },
+    "metadata": {
+      "title": "Aleatorizador de Nombres Élficos - Generador de Nombres Fantásticos Aleatorios",
+      "description": "Genera nombres élficos aleatorios al instante con nuestro aleatorizador de nombres élficos. Perfecto para creación rápida de personajes, encuentros aleatorios y campañas de RPG fantástico. Generador gratuito de nombres élficos aleatorios.",
+      "keywords": "aleatorizador de nombres élficos, nombres élficos aleatorios, generador de nombres élficos aleatorio, aleatorizador de nombres fantásticos, nombres fantásticos aleatorios, generador aleatorio de nombres élficos, nombres élficos al azar",
+      "openGraphTitle": "Aleatorizador de Nombres Élficos - Generador de Nombres Fantásticos Aleatorios",
+      "openGraphDescription": "Genera nombres élficos aleatorios al instante con nuestro aleatorizador de nombres élficos. Perfecto para creación rápida de personajes, encuentros aleatorios y campañas de RPG fantástico.",
+      "twitterTitle": "Aleatorizador de Nombres Élficos - Generador de Nombres Fantásticos Aleatorios",
+      "twitterDescription": "Genera nombres élficos aleatorios al instante con nuestro aleatorizador de nombres élficos. Perfecto para creación rápida de personajes, encuentros aleatorios y campañas de RPG fantástico."
+    },
+    "seo": {
+      "structuredDataName": "Aleatorizador de Nombres Élficos",
+      "structuredDataDescription": "Genera nombres élficos aleatorios para personajes fantásticos, campañas de RPG y escritura creativa. Herramienta integral de aleatorizador de nombres élficos para crear nombres élficos diversos.",
+      "breadcrumbGenerator": "Aleatorizador de Nombres Élficos",
+      "noScriptTitle": "Aleatorizador de Nombres Élficos - Generador de Nombres Élficos Aleatorios",
+      "noScriptDescription": "Genera nombres élficos aleatorios al instante con nuestro aleatorizador de nombres élficos. Perfecto para crear personajes élficos diversos y encuentros fantásticos aleatorios.",
+      "toolLabel": "Herramienta de Aleatorización de Nombres Élficos",
+      "infoLabel": "Información y Guía del Aleatorizador de Nombres Élficos"
+    }
+  },
+  "randomizerSeo": {
+    "introduction": {
+      "title": "Aleatorizador de Nombres Élficos - Generador de Nombres Fantásticos Aleatorios",
+      "paragraph1": "Nuestro aleatorizador de nombres élficos integral proporciona acceso instantáneo a miles de nombres élficos diversos de todas las culturas y tradiciones fantásticas. Ya sea que necesites inspiración rápida para un nuevo personaje, NPCs aleatorios para tu campaña, o simplemente quieras explorar la vasta diversidad de las convenciones de nombres élficos, este aleatorizador de nombres élficos entrega resultados auténticos con un clic.",
+      "paragraph2": "El aleatorizador de nombres élficos combina patrones lingüísticos élficos tradicionales con convenciones fantásticas modernas para crear nombres que se sienten tanto auténticos como frescos."
+    },
+    "whatIs": {
+      "title": "¿Qué es un Aleatorizador de Nombres Élficos?",
+      "paragraph1": "Un aleatorizador de nombres élficos es una herramienta especializada que genera nombres élficos aleatorios de una base de datos integral de patrones de nombres fantásticos auténticos.",
+      "paragraph2": "Los aleatorizadores de nombres élficos tradicionales simplemente combinan sílabas aleatoriamente, pero nuestro sistema avanzado considera la autenticidad lingüística, la apropiación cultural y la armonía fonética."
+    },
+    "types": {
+      "title": "Categorías de Nombres Élficos Aleatorios",
+      "description": "Nuestro aleatorizador de nombres élficos cubre todas las culturas élficas principales y tradiciones de nombres, asegurando resultados aleatorios diversos y auténticos.",
+      "classic": {
+        "title": "Nombres Élficos Clásicos Aleatorios",
+        "description": "Nombres élficos tradicionales seleccionados aleatoriamente de tradiciones de nomenclatura antiguas que abarcan todas las culturas élficas principales."
+      },
+      "halfElf": {
+        "title": "Nombres Aleatorios de Herencia Mixta",
+        "description": "Nombres aleatorios que mezclan diferentes tradiciones élficas con influencias humanas ocasionales para personajes con antecedentes diversos."
+      },
+      "woodElf": {
+        "title": "Nombres Élficos de Naturaleza Aleatorios",
+        "description": "Nombres aleatorios con temática de bosque y naturaleza perfectos para personajes conectados con ambientes boscosos y magia natural."
+      },
+      "darkElf": {
+        "title": "Nombres Élficos de Sombra Aleatorios",
+        "description": "Nombres aleatorios misteriosos y oscuros adecuados para culturas subterráneas, usuarios de magia sombría y conceptos de personajes siniestros."
+      },
+      "dnd": {
+        "title": "Nombres Élficos D&D Aleatorios",
+        "description": "Nombres aleatorios específicamente adaptados para campañas de Dungeons & Dragons, cubriendo todas las subrazas élficas oficiales."
+      },
+      "gender": {
+        "title": "Nombres Aleatorios Diversos por Género",
+        "description": "Nombres élficos aleatorios que abarcan convenciones de nomenclatura masculinas, femeninas y no binarias a través de todas las tradiciones culturales élficas."
+      }
+    },
+    "howToUse": {
+      "title": "",
+      "description": "",
+      "step1": {
+        "title": "",
+        "description": ""
+      },
+      "step2": {
+        "title": "",
+        "description": ""
+      },
+      "step3": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "whyEssential": {
+      "title": "",
+      "saveTime": {
+        "title": "",
+        "description": ""
+      },
+      "creativity": {
+        "title": "",
+        "description": ""
+      },
+      "consistency": {
+        "title": "",
+        "description": ""
+      },
+      "accessible": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "topFeatures": {
+      "title": "",
+      "description": "",
+      "diverse": {
+        "title": "",
+        "description": ""
+      },
+      "gender": {
+        "title": "",
+        "description": ""
+      },
+      "customizable": {
+        "title": "",
+        "description": ""
+      },
+      "free": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "popularUses": {
+      "title": "",
+      "description": "",
+      "tabletop": {
+        "title": "",
+        "description": ""
+      },
+      "novels": {
+        "title": "",
+        "description": ""
+      },
+      "onlineGames": {
+        "title": "",
+        "description": ""
+      },
+      "creativeWriting": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "supportedTypes": {
+      "title": "",
+      "woodElf": {
+        "title": "",
+        "description": ""
+      },
+      "darkElf": {
+        "title": "",
+        "description": ""
+      },
+      "halfElf": {
+        "title": "",
+        "description": ""
+      },
+      "highElf": {
+        "title": "",
+        "description": ""
+      },
+      "moonElf": {
+        "title": "",
+        "description": ""
+      },
+      "sunElf": {
+        "title": "",
+        "description": ""
+      },
+      "wildElf": {
+        "title": "",
+        "description": ""
+      },
+      "seaElf": {
+        "title": "",
+        "description": ""
+      },
+      "snowElf": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "gallery": {
+      "title": "",
+      "description": "",
+      "woodElf": {
+        "alt": "",
+        "title": "",
+        "description": ""
+      },
+      "darkElf": {
+        "alt": "",
+        "title": "",
+        "description": ""
+      },
+      "highElf": {
+        "alt": "",
+        "title": "",
+        "description": ""
+      }
+    },
+    "categories": {
+      "title": "",
+      "natureInspired": {
+        "title": "",
+        "description": "",
+        "examples": {
+          "silverleaf": {
+            "name": "",
+            "meaning": ""
+          },
+          "moonwhisper": {
+            "name": "",
+            "meaning": ""
+          },
+          "starweaver": {
+            "name": "",
+            "meaning": ""
+          },
+          "windrunner": {
+            "name": "",
+            "meaning": ""
+          }
+        }
+      },
+      "nobleTitles": {
+        "title": "",
+        "description": "",
+        "examples": {
+          "goldenbrow": {
+            "name": "",
+            "meaning": ""
+          },
+          "crystalborn": {
+            "name": "",
+            "meaning": ""
+          },
+          "thornheart": {
+            "name": "",
+            "meaning": ""
+          },
+          "stormcrown": {
+            "name": "",
+            "meaning": ""
+          }
+        }
+      },
+      "magicalNames": {
+        "title": "",
+        "description": "",
+        "examples": {
+          "spellsong": {
+            "name": "",
+            "meaning": ""
+          },
+          "runekeeper": {
+            "name": "",
+            "meaning": ""
+          },
+          "dreamweaver": {
+            "name": "",
+            "meaning": ""
+          },
+          "lightbringer": {
+            "name": "",
+            "meaning": ""
+          }
+        }
+      }
+    },
+    "linguisticFeatures": {
+      "title": "",
+      "elvishLanguagePatterns": {
+        "title": "",
+        "description": "",
+        "sindarin": {
+          "title": "",
+          "description": "",
+          "feature1": "",
+          "feature2": "",
+          "feature3": ""
+        },
+        "quenya": {
+          "title": "",
+          "description": "",
+          "feature1": "",
+          "feature2": "",
+          "feature3": ""
+        },
+        "dndElvish": {
+          "title": "",
+          "description": "",
+          "feature1": "",
+          "feature2": "",
+          "feature3": ""
+        }
+      },
+      "pronunciationGuide": {
+        "title": "",
+        "description": "",
+        "vowelSounds": {
+          "title": "",
+          "sounds": {
+            "a": "",
+            "e": "",
+            "i": "",
+            "o": "",
+            "u": ""
+          }
+        },
+        "consonantCombinations": {
+          "title": "",
+          "combinations": {
+            "th": "",
+            "dh": "",
+            "ng": "",
+            "ch": "",
+            "ph": "",
+            "r": "slightly rolled 'r' sound"
+          }
+        }
+      }
+    },
+    "cta": {
+      "title": "",
+      "description": "",
+      "primaryButton": "",
+      "secondaryButton": "",
+      "exploreButton": ""
+    },
+    "collection": {
+      "title": "Elf Name Generator Collection",
+      "woodElfGenerator": {
+        "title": "Wood Elf Names",
+        "description": "Generate wood elf names with nature themes.",
+        "feature1": "Forest-themed generation",
+        "feature2": "Nature-based patterns",
+        "feature3": "Woodland integration"
+      },
+      "darkElfGenerator": {
+        "title": "Dark Elf Names",
+        "description": "Create dark elf names with mysterious themes.",
+        "feature1": "Underground patterns",
+        "feature2": "Shadow-themed names",
+        "feature3": "Drow integration"
+      },
+      "halfElfGenerator": {
+        "title": "Half-Elf Names",
+        "description": "Generate half-elf names with mixed heritage.",
+        "feature1": "Mixed heritage patterns",
+        "feature2": "Cultural fusion",
+        "feature3": "Versatile options"
+      },
+      "bloodElfGenerator": {
+        "title": "Blood Elf Names",
+        "description": "Create blood elf names with arcane themes.",
+        "feature1": "Arcane patterns",
+        "feature2": "Magical themes",
+        "feature3": "High fantasy"
+      },
+      "elfNamesGenerator": {
+        "title": "General Elf Names",
+        "description": "Generate elf names for all cultures.",
+        "feature1": "Universal patterns",
+        "feature2": "Multi-cultural",
+        "feature3": "Broad compatibility"
+      },
+      "elfNameGeneratorDnd": {
+        "title": "D&D Elf Names",
+        "description": "Create D&D elf names following official lore.",
+        "feature1": "D&D compliance",
+        "feature2": "Official patterns",
+        "feature3": "Campaign ready"
+      }
+    },
+    "conclusion": {
+      "title": "Start Your Elf Name Adventure",
+      "paragraph1": "Create amazing elf characters with our name generator.",
+      "paragraph2": "Join thousands of creators using our elf name tools.",
+      "generateButton": "Generate Elf Names",
+      "exploreButton": "Explore Options"
     }
   }
 }

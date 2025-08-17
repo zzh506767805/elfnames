@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useTranslations } from 'next-intl';
+import { useTranslationWithFallback } from '@/hooks/useTranslationWithFallback';
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Label } from "@/components/ui/label";
@@ -20,8 +21,19 @@ interface ElfName {
   elfType: string;
 }
 
-export default function ElfNameGenerator() {
+interface ElfNameGeneratorProps {
+  titleKey?: string;
+  descriptionKey?: string;
+  pageType?: 'home' | 'randomizer' | 'specialized';
+}
+
+export default function ElfNameGenerator({ 
+  titleKey = 'header.title',
+  descriptionKey = 'header.description',
+  pageType = 'home'
+}: ElfNameGeneratorProps = {}) {
   const t = useTranslations();
+  const tWithFallback = useTranslationWithFallback();
   const [isGenerating, setIsGenerating] = useState(false);
   const [generatedNames, setGeneratedNames] = useState<ElfName[]>([]);
   const [formData, setFormData] = useState({
@@ -34,24 +46,24 @@ export default function ElfNameGenerator() {
   });
 
   const elfTypes = [
-    { value: "any", label: t('elfTypes.any') },
-    { value: "wood-elf", label: t('elfTypes.woodElf') },
-    { value: "dark-elf", label: t('elfTypes.darkElf') },
-    { value: "half-elf", label: t('elfTypes.halfElf') },
-    { value: "high-elf", label: t('elfTypes.highElf') },
-    { value: "moon-elf", label: t('elfTypes.moonElf') },
-    { value: "sun-elf", label: t('elfTypes.sunElf') },
-    { value: "wild-elf", label: t('elfTypes.wildElf') },
-    { value: "sea-elf", label: t('elfTypes.seaElf') },
-    { value: "snow-elf", label: t('elfTypes.snowElf') },
-    { value: "shadow-elf", label: t('elfTypes.shadowElf') },
+    { value: "any", label: tWithFallback('elfTypes.any') },
+    { value: "wood-elf", label: tWithFallback('elfTypes.woodElf') },
+    { value: "dark-elf", label: tWithFallback('elfTypes.darkElf') },
+    { value: "half-elf", label: tWithFallback('elfTypes.halfElf') },
+    { value: "high-elf", label: tWithFallback('elfTypes.highElf') },
+    { value: "moon-elf", label: tWithFallback('elfTypes.moonElf') },
+    { value: "sun-elf", label: tWithFallback('elfTypes.sunElf') },
+    { value: "wild-elf", label: tWithFallback('elfTypes.wildElf') },
+    { value: "sea-elf", label: tWithFallback('elfTypes.seaElf') },
+    { value: "snow-elf", label: tWithFallback('elfTypes.snowElf') },
+    { value: "shadow-elf", label: tWithFallback('elfTypes.shadowElf') },
   ];
 
   const genders = [
-    { value: "any", label: t('genders.any') },
-    { value: "male", label: t('genders.male') },
-    { value: "female", label: t('genders.female') },
-    { value: "non-binary", label: t('genders.nonBinary') },
+    { value: "any", label: tWithFallback('genders.any') },
+    { value: "male", label: tWithFallback('genders.male') },
+    { value: "female", label: tWithFallback('genders.female') },
+    { value: "non-binary", label: tWithFallback('genders.nonBinary') },
   ];
 
   const nameStyles = [
@@ -125,10 +137,10 @@ export default function ElfNameGenerator() {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-12">
             <h1 className="text-4xl font-bold text-gray-900 mb-4">
-              {t('header.title')}
+              {tWithFallback(titleKey)}
             </h1>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              {t('header.description')}
+              {tWithFallback(descriptionKey)}
             </p>
           </div>
 
