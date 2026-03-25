@@ -1,10 +1,19 @@
 import { NextRequest, NextResponse } from "next/server";
+import { useCredit } from "@/lib/credits";
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY
 const OPENAI_PROXY_URL = process.env.OPENAI_PROXY_URL
 
 export async function POST(request: NextRequest) {
   try {
+    // Check and deduct credit
+    const { success: hasCredit, remaining } = await useCredit();
+    if (!hasCredit) {
+      return NextResponse.json(
+        { error: "No credits remaining. Please purchase more to continue.", needsPayment: true },
+        { status: 402 }
+      );
+    }
     // 检查必要的环境变量
     if (!OPENAI_API_KEY) {
       console.error('Missing OPENAI_API_KEY environment variable')
@@ -166,7 +175,8 @@ Example format:
     return NextResponse.json({
       success: true,
       data: parsedResponse,
-      usage: data.usage
+      usage: data.usage,
+      remainingCredits: remaining
     });
 
   } catch (error) {

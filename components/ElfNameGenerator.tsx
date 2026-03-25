@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect, useCallback } from "react";
 import { useTranslations } from 'next-intl';
 import { useTranslationWithFallback } from '@/hooks/useTranslationWithFallback';
 import { Button } from "@/components/ui/button";
@@ -36,6 +36,26 @@ export default function ElfNameGenerator({
   const tWithFallback = useTranslationWithFallback();
   const [isGenerating, setIsGenerating] = useState(false);
   const [generatedNames, setGeneratedNames] = useState<ElfName[]>([]);
+  const [credits, setCredits] = useState<number | null>(null);
+  const [paymentLoading, setPaymentLoading] = useState(false);
+
+  useEffect(() => {
+    fetch("/api/credits").then(r => r.json()).then(d => setCredits(d.credits)).catch(() => {});
+  }, []);
+
+  const handleBuyCredits = useCallback(async () => {
+    setPaymentLoading(true);
+    try {
+      const res = await fetch("/api/create-payment", { method: "POST" });
+      const data = await res.json();
+      if (data.url) window.location.href = data.url;
+      else toast.error("Failed to create payment session");
+    } catch {
+      toast.error("Something went wrong");
+    } finally {
+      setPaymentLoading(false);
+    }
+  }, []);
   const [formData, setFormData] = useState({
     elfType: "",
     gender: "",
@@ -96,8 +116,16 @@ export default function ElfNameGenerator({
       });
 
       const result = await response.json();
-      
+
+      if (response.status === 402 || result.needsPayment) {
+        // No credits - prompt payment
+        setCredits(0);
+        toast.error("No credits remaining. Purchase more to continue!");
+        return;
+      }
+
       if (result.success) {
+        if (result.remainingCredits !== undefined) setCredits(result.remainingCredits);
         if (Array.isArray(result.data)) {
           setGeneratedNames(result.data);
         } else if (result.data.rawText) {
@@ -258,23 +286,39 @@ export default function ElfNameGenerator({
                     />
                   </div>
 
-                  <Button
-                    type="submit"
-                    disabled={isGenerating}
-                    className="w-full bg-blue-600 hover:bg-blue-700"
-                  >
-                    {isGenerating ? (
-                      <>
-                        <Shuffle className="mr-2 h-4 w-4 animate-spin" />
-                        {t('common.generating')}
-                      </>
-                    ) : (
-                      <>
-                        <Sparkles className="mr-2 h-4 w-4" />
-                        {t('common.generateButton')}
-                      </>
-                    )}
-                  </Button>
+                  {credits !== null && credits <= 0 ? (
+                    <Button
+                      type="button"
+                      onClick={handleBuyCredits}
+                      disabled={paymentLoading}
+                      className="w-full bg-indigo-600 hover:bg-indigo-700"
+                    >
+                      {paymentLoading ? "Processing..." : "Buy 10 Credits - $1"}
+                    </Button>
+                  ) : (
+                    <Button
+                      type="submit"
+                      disabled={isGenerating}
+                      className="w-full bg-blue-600 hover:bg-blue-700"
+                    >
+                      {isGenerating ? (
+                        <>
+                          <Shuffle className="mr-2 h-4 w-4 animate-spin" />
+                          {t('common.generating')}
+                        </>
+                      ) : (
+                        <>
+                          <Sparkles className="mr-2 h-4 w-4" />
+                          {t('common.generateButton')}
+                        </>
+                      )}
+                    </Button>
+                  )}
+                  {credits !== null && (
+                    <p className="text-center text-sm text-gray-500 mt-2">
+                      {credits > 0 ? `${credits} credits remaining` : "No credits remaining"}
+                    </p>
+                  )}
                 </form>
               </CardContent>
             </Card>
