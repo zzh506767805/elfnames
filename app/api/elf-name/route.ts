@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { useCredit } from "@/lib/credits";
+import { consumeCredit } from "@/lib/credits";
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY
 const OPENAI_PROXY_URL = process.env.OPENAI_PROXY_URL
@@ -7,7 +7,7 @@ const OPENAI_PROXY_URL = process.env.OPENAI_PROXY_URL
 export async function POST(request: NextRequest) {
   try {
     // Check and deduct credit
-    const { success: hasCredit, remaining } = await useCredit();
+    const { success: hasCredit, remaining } = await consumeCredit();
     if (!hasCredit) {
       return NextResponse.json(
         { error: "No credits remaining. Please purchase more to continue.", needsPayment: true },

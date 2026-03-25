@@ -42,7 +42,7 @@ export async function setCredits(credits: number): Promise<string> {
   return token;
 }
 
-export async function useCredit(): Promise<{ success: boolean; remaining: number }> {
+export async function consumeCredit(): Promise<{ success: boolean; remaining: number }> {
   const current = await getCredits();
   if (current <= 0) {
     return { success: false, remaining: 0 };
