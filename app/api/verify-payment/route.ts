@@ -2,10 +2,12 @@ import { NextRequest, NextResponse } from "next/server";
 import Stripe from "stripe";
 import { addCredits } from "@/lib/credits";
 
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
-});
+export const dynamic = "force-dynamic";
 
-// Track verified sessions to prevent double-crediting (in-memory, resets on deploy)
+function getStripe() {
+  return new Stripe(process.env.STRIPE_SECRET_KEY!);
+}
+
 const verifiedSessions = new Set<string>();
 
 export async function GET(request: NextRequest) {
@@ -14,12 +16,12 @@ export async function GET(request: NextRequest) {
     return NextResponse.json({ error: "Missing session_id" }, { status: 400 });
   }
 
-  // Prevent double-crediting
   if (verifiedSessions.has(sessionId)) {
     return NextResponse.json({ success: true, already_processed: true });
   }
 
   try {
+    const stripe = getStripe();
     const session = await stripe.checkout.sessions.retrieve(sessionId);
 
     if (session.payment_status !== "paid") {
